@@ -1,0 +1,52 @@
+# Node dependencies
+node_modules/
+
+# Production build output
+dist/
+
+# Local configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Antigravity/Gemini system files
+.agents/
+.system_generated/
+browser/
+scratch/
+mytickets_sample.json
+oneticket_sample.json
+resolved_tm_events.json
+tm_api_response.json
+ticketsministry_homepage.html
+ticketsministry_full.html
+flight_data_combined.txt
+tm_events_extracted.json
+check_nulls.js
+check_uid.js
+probe_gcs.js
+probe_ot_images.js
+test_fetch.js
+test_tm_api.js
+resolve_refs.js
+resolve_full.js
+check_tm.js
+get_ot_domains.js
+get_ot_images.js
+log_one_tm_api_event.js
+inspect_tm_fields.js
+inspect_tm_api.js
