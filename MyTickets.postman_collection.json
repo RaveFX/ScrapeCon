@@ -1,0 +1,198 @@
+{
+  "info": {
+    "_postman_id": "81c87af2-a72b-4dad-859f-c7fb778257eb",
+    "name": "MyTickets",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "29430189"
+  },
+  "item": [
+    {
+      "name": "Get Concerts - MyTickets",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "accept",
+            "value": "application/json, text/plain, */*"
+          },
+          {
+            "key": "origin",
+            "value": "https://mytickets.lk"
+          },
+          {
+            "key": "x-correlation-id",
+            "value": "770ae55a-e380-494f-85c0-42f762caa012"
+          }
+        ],
+        "url": {
+          "raw": "https://api.mytickets.lk/event-svc/v1/events",
+          "protocol": "https",
+          "host": [
+            "api",
+            "mytickets",
+            "lk"
+          ],
+          "path": [
+            "event-svc",
+            "v1",
+            "events"
+          ],
+          "query": [
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "12"
+            },
+            {
+              "key": "sort[repeatable.start_time]",
+              "value": "1"
+            },
+            {
+              "key": "filter[category]",
+              "value": "Prime"
+            },
+            {
+              "key": "filter[repeatable.end_time]",
+              "value": "gte(2026-07-10)"
+            },
+            {
+              "key": "filter[_filterActiveDealsOnly]",
+              "value": "true"
+            },
+            {
+              "key": "include",
+              "value": "repeatable.location,repeatable.deals"
+            },
+            {
+              "key": "filter[subcategory]",
+              "value": "Concert"
+            },
+            {
+              "key": "sort%5Brepeatable.start_time%5D",
+              "value": "1",
+              "disabled": true
+            },
+            {
+              "key": "filter%5Bcategory%5D",
+              "value": "Prime",
+              "disabled": true
+            },
+            {
+              "key": "filter%5Brepeatable.end_time%5D",
+              "value": "gte(2026-07-10)",
+              "disabled": true
+            },
+            {
+              "key": "filter%5B_filterActiveDealsOnly%5D",
+              "value": "true",
+              "disabled": true
+            },
+            {
+              "key": "filter%5Bsubcategory%5D",
+              "value": "Concert"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Get Concerts - TIcketMinistry",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Get Concerts - OneTicket",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "accept",
+            "value": "*/*"
+          },
+          {
+            "key": "content-type",
+            "value": "application/json"
+          },
+          {
+            "key": "origin",
+            "value": "https://oneticket.lk"
+          }
+        ],
+        "url": {
+          "raw": "https://oneticket-live.onepayapi.lk/api/v3/oneticket/user/event/get/?page=1&limit=200&category_id=1",
+          "protocol": "https",
+          "host": [
+            "oneticket-live",
+            "onepayapi",
+            "lk"
+          ],
+          "path": [
+            "api",
+            "v3",
+            "oneticket",
+            "user",
+            "event",
+            "get",
+            ""
+          ],
+          "query": [
+            {
+              "key": "page",
+              "value": "1"
+            },
+            {
+              "key": "limit",
+              "value": "200"
+            },
+            {
+              "key": "category_id",
+              "value": "1"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ],
+  "event": [
+    {
+      "listen": "prerequest",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    },
+    {
+      "listen": "test",
+      "script": {
+        "type": "text/javascript",
+        "packages": {},
+        "requests": {},
+        "exec": [
+          ""
+        ]
+      }
+    }
+  ],
+  "variable": [
+    {
+      "key": "baseURL",
+      "value": ""
+    },
+    {
+      "key": "eventType",
+      "value": ""
+    }
+  ]
+}

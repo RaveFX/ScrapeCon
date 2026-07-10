@@ -1,0 +1,43 @@
+name: Sync Concert Schedules
+
+on:
+  schedule:
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+    # Allow manual triggering from GitHub Action tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci || npm install
+
+      - name: Run Aggregator Scraper
+        run: node scripts/scrape.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add public/data/concerts.json
+          # Commit only if files have changed
+          if git diff --cached --quiet; then
+            echo "No changes in concert schedules, skipping sync commit."
+          else
+            git commit -m "auto: Sync live concert schedules [skip ci]"
+            git push
+          fi
