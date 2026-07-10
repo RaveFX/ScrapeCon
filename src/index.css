@@ -307,6 +307,17 @@ body::after {
   transition: var(--transition-smooth);
 }
 
+.select-filter {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%20fill='none'%20stroke='%2394a3b8'%20stroke-width='2'%20stroke-linecap='round'%20stroke-linejoin='round'%3E%3Cpolyline%20points='6%209%2012%2015%2018%209'%3E%3C/polyline%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 1rem center;
+  background-size: 1em;
+  padding-right: 2.5rem;
+}
+
 .input-search:focus, .select-filter:focus {
   outline: none;
   border-color: var(--accent-purple);
@@ -745,7 +756,25 @@ body::after {
   }
   .sync-bar {
     flex-direction: column;
+    align-items: stretch;
+    gap: 1.25rem;
+    padding: 1.25rem;
+  }
+  .sync-info {
+    flex-direction: column;
     align-items: flex-start;
+    gap: 0.85rem;
+    width: 100%;
+  }
+  .sync-counts {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    width: 100%;
+  }
+  .count-badge {
+    flex-grow: 1;
+    text-align: center;
+    font-size: 0.8rem;
   }
   .modal-body {
     padding: 1.5rem;
