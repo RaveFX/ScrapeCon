@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-07-11T02:29:37.461Z",
+  "lastSyncTime": "2026-07-11T06:11:39.761Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 13,
-    "TicketsMinistry": 37,
-    "Total": 73
+    "TicketsMinistry": 35,
+    "Total": 71
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1075",
-      "source": "TicketsMinistry",
-      "name": "MIHIRAVIYE LANTERN CONCERT FESTIVAL",
-      "description": "<h6>Mihiraviye Lantern Concert Festival is a spectacular open-air musical celebration where music meets light in an unforgettable night of entertainment and atmosphere.</h6><h6></h6><h6>Experience the magic of thousands of glowing lanterns lighting up the sky while enjoying live performances from some of Sri Lanka’s most loved artists, including Shihan Mihiranga, Raveen Tharuka, Dilu Beats, Tehan Perera, and Dasun Madushan, backed by the dynamic sounds of Hot Chocolate.</h6><h6></h6><h6>Location: Mahinda Wijesekara Ground, Matara</h6><h6>Date: 10th July 2026</h6><h6>Time: 6.30 p.m.</h6><h6></h6><h6>More Info:</h6><h6>Rishitha - 0768101177</h6><h6>Shihan - 0761399296</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Zehf92lV28r4Xb8A5eMYXGztGPzwk5x30nRb8cYu.png",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/iqffmZRcMqVk9jpdznPgxHVNqKUA93wTMB0XhB0x.png",
-      "venue": "Mahinda Wijesekara Ground Matara",
-      "city": "Matara",
-      "dateTime": "2026-07-10T18:30:00.000Z",
-      "originalDateStr": "Sat, Jul 11, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mihiraviye-lantern-concert-festival/699d599f2de5f",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.944425394040031,
-      "longitude": 80.54486457417919
-    },
-    {
-      "id": "ticketsministry-1192",
-      "source": "TicketsMinistry",
-      "name": "TIKI NIGHT",
-      "description": "<p>PROGRESSIVE Event </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/GOr7H2zj6cNPfo619JCegHTl4EGtZHEdoZdzFZx0.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/MXg6xM6pXbqkGY8xbjOVaxvSqlnzhQx3uw8RHmA0.jpg",
-      "venue": "Tiki Bar Weligama",
-      "city": "Weligama",
-      "dateTime": "2026-07-10T19:00:00.000Z",
-      "originalDateStr": "Sat, Jul 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/tiki-night/6a45eb8af0edb",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.994347299999999,
-      "longitude": 79.88568169999999
-    },
     {
       "id": "mytickets-6a27fc7c3cca28fe0ab83e1e",
       "source": "MyTickets",
@@ -403,10 +357,10 @@
       "id": "ticketsministry-1146",
       "source": "TicketsMinistry",
       "name": "PUB LONDON PRISON BREAK KANDY 24TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Prison, Kandy</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
+      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
       "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/oMKKXaAwHzi9mkr4vwNLmBgxqlvqPmOUwvDK3v5S.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/QaZAB7qqhJwOGMoEjBUhcW4dHRwN3ztUxLz5GN2M.jpg",
-      "venue": "Bogambara Prison Park Kandy",
+      "venue": "Bogambara Stadium Car Park",
       "city": "Kandy",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
@@ -420,8 +374,8 @@
         "Outdoor Musical Concert",
         "Featured"
       ],
-      "latitude": 7.29090319271658,
-      "longitude": 80.63228107419327
+      "latitude": 7.289871297714379,
+      "longitude": 80.62983017026534
     },
     {
       "id": "ticketsministry-1141",
@@ -610,10 +564,10 @@
       "id": "ticketsministry-1147",
       "source": "TicketsMinistry",
       "name": "PUB LONDON PRISION BREAK KANDY 25TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Prison, Kandy</h6><h6>📅 24th & 25th July 2026</h6><p></p><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer. </h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><p></p><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶 </h6>",
+      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><p></p><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer. </h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><p></p><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶 </h6>",
       "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/WxvbWnILcBui7ueWWnWcxRjmmqx7aQKNpIkFU1tJ.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/DHwQfh3lujpmnclLzh75ZeVIU7imqsMb8lXnV6od.jpg",
-      "venue": "Bogambara Prison Park Kandy",
+      "venue": "Bogambara Stadium Car Park",
       "city": "Kandy",
       "dateTime": "2026-07-25T19:00:00.000Z",
       "originalDateStr": "Sun, Jul 26, 2026, 12:30 AM",
@@ -627,8 +581,8 @@
         "Outdoor Musical Concert",
         "Featured"
       ],
-      "latitude": 7.29090319271658,
-      "longitude": 80.63228107419327
+      "latitude": 7.289871297714379,
+      "longitude": 80.62983017026534
     },
     {
       "id": "ticketsministry-1191",
