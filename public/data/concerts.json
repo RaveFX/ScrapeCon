@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-11T14:51:27.149Z",
+  "lastSyncTime": "2026-07-11T16:56:10.305Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 13,
@@ -1238,8 +1238,8 @@
       "description": "<p>Gypsies Meets Avatar</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202606260914-gypsies-meets-avatar-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/BCVbrNFw8BfOJTRsCMSxn5hzTSdO5xpQymqLUgN2.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
+      "venue": "Wave n' Lake Navy Banquet Hall",
+      "city": "Colombo",
       "dateTime": "2026-08-21T19:30:00.000Z",
       "originalDateStr": "Sat, Aug 22, 2026, 01:00 AM",
       "priceCurrency": "LKR",
@@ -1251,8 +1251,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
+      "latitude": 6.9191,
+      "longitude": 79.87296470588235
     },
     {
       "id": "mytickets-6a3e56b1483edf4978b3aca6",
