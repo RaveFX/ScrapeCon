@@ -1,79 +1,12 @@
 {
-  "lastSyncTime": "2026-07-11T22:45:38.689Z",
+  "lastSyncTime": "2026-07-12T02:35:10.062Z",
   "counts": {
-    "MyTickets": 24,
+    "MyTickets": 20,
     "OneTicket": 13,
     "TicketsMinistry": 35,
-    "Total": 71
+    "Total": 68
   },
   "concerts": [
-    {
-      "id": "mytickets-6a27fc7c3cca28fe0ab83e1e",
-      "source": "MyTickets",
-      "name": "Pun Saden Reas - පුන් සදෙන් රැස්",
-      "description": "<h2><strong>Pun Saden Reas - පුන් සදෙන් රැස්</strong></h2>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Pun%20Saden%20Reas%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%20%E0%B7%83%E0%B6%AF%E0%B7%99%E0%B6%B1%E0%B7%8A%20%E0%B6%BB%E0%B7%90%E0%B7%83%E0%B7%8A/web%20banner-01.jpg-1781005091288.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Pun%20Saden%20Reas%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%20%E0%B7%83%E0%B6%AF%E0%B7%99%E0%B6%B1%E0%B7%8A%20%E0%B6%BB%E0%B7%90%E0%B7%83%E0%B7%8A/web%20banner-01.jpg-1781005091288.jpg",
-      "venue": "Anura Bandaranayeka Auditorium",
-      "city": "666548e1a03df8fc2ac5a511",
-      "dateTime": "2026-07-11T13:30:00.000Z",
-      "originalDateStr": "Sat, Jul 11, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/pun-saden-reas/6a27fc7c3cca28fe0ab83e1e",
-      "status": "cancelled",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 7.1593,
-      "longitude": 80.0242
-    },
-    {
-      "id": "mytickets-69ef3594b5c1773113e8f310",
-      "source": "MyTickets",
-      "name": "Miyasi Ima - මියැසි ඉම",
-      "description": "<p>Miyasi Ima - මියැසි ඉම</p><p><br></p><p>සීමා මායිම් නැති සප්ත ස්වරයක චමත්කාරය ඔබට ගෙනෙන මියැසි අරුමය&nbsp;</p><p><br></p><p>මියැසි ඉම ..</p><p><br></p><p>හැඩකරන තරු වියමන&nbsp;</p><p><br></p><p>පරපුරක උරුමය රැගත් විශ්මිත හඩ පෞරුෂය</p><p><br></p><p>&nbsp;අමල් පෙරෙරා . .</p><p><br></p><p><br></p><p>ශ්‍රී ලාංකීය සංගීතයේ වෙනස් නොවන ජනප්‍රියත්යේ නිසංසල සද&nbsp;</p><p><br></p><p>&nbsp;ශශිකා නිසංසලා&nbsp;</p><p><br></p><p>යුග යුග රනින් බැදුන සද තරු මල් මත ලියැවුන ලයාන්විත රම්‍ය ස්වරය&nbsp;</p><p><br></p><p>&nbsp;සමිතා මුදුන්කොටුව&nbsp;</p><p><br></p><p>තාරුණ්‍යය&nbsp;ප්‍රතිභාවෙන් පිරවූ අසීමිත ආකර්ශණයක විශිෂ්ටත්වයේ මුද්‍රාව&nbsp;</p><p><br></p><p>&nbsp;සුනීර සුමංග&nbsp;</p><p><br></p><p>පිය උරුමයෙන් ලද හඩ මධුර්‍ය තම නිර්මාණශිලීත්වයෙන් හැඩ ගැන්වූ තාරුණයේ&nbsp;නැවුම් සුගායනය&nbsp;</p><p><br></p><p>&nbsp;යසස් මැදගෙදර&nbsp;</p><p><br></p><p>මියැසි වියමනක සොදුරු නැවතුම&nbsp;</p><p><br></p><p>&nbsp;මියැසි ඉම</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Miyasi%20Ima%20-%20%E0%B6%B8%E0%B7%92%E0%B6%BA%E0%B7%90%E0%B7%83%E0%B7%92%20%E0%B6%89%E0%B6%B8/BOC-Miyesi-Ima-myt.jpg-1777284348159.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Miyasi%20Ima%20-%20%E0%B6%B8%E0%B7%92%E0%B6%BA%E0%B7%90%E0%B7%83%E0%B7%92%20%E0%B6%89%E0%B6%B8/BOC-Miyesi-Ima-myt.jpg-1777284348159.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-07-11T13:30:00.000Z",
-      "originalDateStr": "Sat, Jul 11, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/miyasi-ima/69ef3594b5c1773113e8f310",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
-      "id": "mytickets-69fdc82e194f0f3f1b9909a0",
-      "source": "MyTickets",
-      "name": "HER Concert by Umaria",
-      "description": "<p><strong>'HER' Concert by Umaria</strong></p><p><br></p><p><strong>Date - Jul 11 ,2026</strong></p><p><strong>Event start time - 7.30 PM</strong></p><p><strong>Venue&nbsp;- </strong><strong style=\"color: rgb(31, 31, 31);\">Havelock Grounds</strong></p><p><strong>Gates open time - 6.30 PM</strong></p><p><br></p><p><br></p><p>Witness a historic masterpiece as global icon Umaria presents ‘HER’—a first-of-its-kind, multi-sensory journey marking two decades of vocal excellence!</p><p><br></p><p>Feel the power of an immersive blend of storytelling and a grand live orchestra led by musical genius, Eshan Denipitiya! This isn't just a concert; it’s a premium, industry-first cultural milestone for Sri Lankan music. Get ready for an unparalleled musical experience on 11th July 2026 at Havelock Grounds!</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/HER%20Concert%20by%20Umaria/Web%20(Square)%20I-1778824900668.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/HER%20Concert%20by%20Umaria/Web%20(Square)%20I-1778824900668.jpg",
-      "venue": "Havelock Grounds",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-07-11T14:00:00.000Z",
-      "originalDateStr": "Sat, Jul 11, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 20000,
-      "ticketLink": "https://mytickets.lk/event/her-concert-by-umaria/69fdc82e194f0f3f1b9909a0",
-      "status": "sold-out",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.8833,
-      "longitude": 79.8667
-    },
     {
       "id": "ticketsministry-1170",
       "source": "TicketsMinistry",
