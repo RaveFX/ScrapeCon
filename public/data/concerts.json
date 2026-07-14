@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-14T06:09:26.624Z",
+  "lastSyncTime": "2026-07-14T09:56:37.642Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
@@ -427,7 +427,7 @@
       "id": "oneticket-392",
       "source": "OneTicket",
       "name": "Zone 360",
-      "description": "Zone 360 happening at Café Brit, Ward Place. Date & Time: Sat, Jul 25, 2026, 10:00 PM. Tickets start from 100 LKR.",
+      "description": "Zone 360 happening at Café Brit, Ward Place. Date & Time: Sat, Jul 25, 2026, 10:00 PM. Tickets start from 2000 LKR.",
       "bannerUrl": "https://storage.googleapis.com/oneticket/98599846-952eb5f4-fcaf-44a8-92b0-1c45859e488e.jpg",
       "posterUrl": "https://storage.googleapis.com/oneticket/76783628-dfb9969a-e1f3-4148-a46c-24f68d71f0ff.jpg",
       "venue": "Café Brit, Ward Place",
@@ -435,8 +435,8 @@
       "dateTime": "2026-07-25T16:30:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 10:00 PM",
       "priceCurrency": "LKR",
-      "minPrice": 100,
-      "maxPrice": 100,
+      "minPrice": 2000,
+      "maxPrice": 2000,
       "ticketLink": "https://oneticket.lk/event/zone-360",
       "status": "active",
       "tags": [
@@ -1305,8 +1305,8 @@
       "source": "TicketsMinistry",
       "name": "NONIMI PANHIDA",
       "description": "<p>ගීතයේ ආත්මීය  ඉමිහිර නොනිම් පන්හිඳ</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607131724-nonimi-panhida-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607131724-nonimi-panhida-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/cIpbU1LVsJGv45ZeOTwsnF9n6POg3brckpInw6Ri.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/sMku3Zp3utmAyln4Yyfp1lFEoA0dBBvvflkk1IJG.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
       "dateTime": "2026-08-29T19:30:00.000Z",
