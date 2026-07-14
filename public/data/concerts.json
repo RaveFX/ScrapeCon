@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-14T17:12:46.448Z",
+  "lastSyncTime": "2026-07-14T19:16:50.235Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
-    "TicketsMinistry": 38,
-    "Total": 72
+    "TicketsMinistry": 39,
+    "Total": 73
   },
   "concerts": [
     {
@@ -240,28 +240,28 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1141",
+      "id": "ticketsministry-1175",
       "source": "TicketsMinistry",
-      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
-      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
+      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
+      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
+      "venue": "Full Moon Garden - Katunayake",
+      "city": "Katunayake",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert",
+        "Dinner Dance",
         "Featured"
       ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
+      "latitude": 6.90874705882353,
+      "longitude": 79.87296470588235
     },
     {
       "id": "ticketsministry-1146",
@@ -288,28 +288,28 @@
       "longitude": 80.62983017026534
     },
     {
-      "id": "ticketsministry-1175",
+      "id": "ticketsministry-1141",
       "source": "TicketsMinistry",
-      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
-      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
-      "venue": "Full Moon Garden - Katunayake",
-      "city": "Katunayake",
+      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
+      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
       "status": "active",
       "tags": [
         "Concert",
-        "Dinner Dance",
+        "Indoor Musical Concert",
         "Featured"
       ],
-      "latitude": 6.90874705882353,
-      "longitude": 79.87296470588235
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -912,29 +912,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1156",
-      "source": "TicketsMinistry",
-      "name": "API NODANNA LIVE ON STAGE",
-      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Comedy Show"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
-    },
-    {
       "id": "ticketsministry-1203",
       "source": "TicketsMinistry",
       "name": "SATHKORALA SWAPTHA SWARA",
@@ -956,6 +933,29 @@
       ],
       "latitude": 7.01700065,
       "longitude": 79.9528444
+    },
+    {
+      "id": "ticketsministry-1156",
+      "source": "TicketsMinistry",
+      "name": "API NODANNA LIVE ON STAGE",
+      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
+      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
+      "city": "Colombo 10",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Comedy Show"
+      ],
+      "latitude": 6.924842302416159,
+      "longitude": 79.86836773637283
     },
     {
       "id": "oneticket-325",
@@ -1345,6 +1345,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.909688235294118,
+      "longitude": 79.87390588235294
     },
     {
       "id": "mytickets-6a4de3887db51a0f260212fd",
