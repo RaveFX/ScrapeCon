@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-14T02:21:30.062Z",
+  "lastSyncTime": "2026-07-14T06:09:26.624Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
@@ -174,7 +174,7 @@
       "id": "ticketsministry-1165",
       "source": "TicketsMinistry",
       "name": "QUANTUM RUSH",
-      "description": "{\"blocks\":[{\"key\":\"dujq4\",\"text\":\"🔥 INFINITY BEATS is coming to Wariyapola! 🔥\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":43,\"style\":\"fontsize-14\"},{\"offset\":0,\"length\":43,\"style\":\"fontfamily-Verdana\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"f8a0k\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"c5df3\",\"text\":\"Get ready for an electrifying night filled with powerful beats, immersive lights, and unforgettable energy. On July 24, music lovers from across the region will come together for a high-voltage EDM experience featuring explosive drops, vibrant visuals, and non-stop entertainment.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":280,\"style\":\"fontsize-14\"},{\"offset\":0,\"length\":280,\"style\":\"fontfamily-Verdana\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "description": "<h6>🔥 INFINITY BEATS is coming to Wariyapola! 🔥</h6><h6></h6><h6>Get ready for an electrifying night filled with powerful beats, immersive lights, and unforgettable energy. On July 24, music lovers from across the region will come together for a high-voltage EDM experience featuring explosive drops, vibrant visuals, and non-stop entertainment.</h6>",
       "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606050929-quantum-rush-banner.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606050929-quantum-rush-thumbnail.jpg",
       "venue": "Royal Galaxy Hotel Wariypola",
@@ -1009,8 +1009,8 @@
       "source": "TicketsMinistry",
       "name": "ETERNALS - BELONGS TO SOUL",
       "description": "<p>ETERNALS – Belongs to Soul. An unforgettable evening where timeless melodies meet the deepest emotions of the heart. Experience the magic of legendary voices and beloved artists as T.M. Jayaratne, Keerthi Pasquel, Kasun Kalhara, and Suneera Sumanga come together on one stage to create a musical journey that transcends generations. Set within the elegant atmosphere of Ave Maria Auditorium - Negombo on 9th August 2026 from 7.00 PM.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/AoyPT3WUbObCvWziE8p8ZW6lZXCoNnbqW4KKkulI.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HsdlWgTUAPPC2CkxH6OzFyIeNnq5G5dfqFQp722Q.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/lSmX3GJzQkwCiaI5QojCtitLZ7sxRPDMCG0dYy8T.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/M4sw53OaP0wCM2B0oo8FiBKZj3nt2rA7JlDYrpPL.jpg",
       "venue": "Ave Maria Convent Auditorium Negombo",
       "city": "Colombo",
       "dateTime": "2026-08-09T19:00:00.000Z",
