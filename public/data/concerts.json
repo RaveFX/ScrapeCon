@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-15T02:14:02.993Z",
+  "lastSyncTime": "2026-07-15T06:12:38.116Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
-    "TicketsMinistry": 39,
-    "Total": 73
+    "TicketsMinistry": 40,
+    "Total": 74
   },
   "concerts": [
     {
@@ -240,28 +240,28 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1175",
+      "id": "ticketsministry-1141",
       "source": "TicketsMinistry",
-      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
-      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
-      "venue": "Full Moon Garden - Katunayake",
-      "city": "Katunayake",
+      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
+      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
       "status": "active",
       "tags": [
         "Concert",
-        "Dinner Dance",
+        "Indoor Musical Concert",
         "Featured"
       ],
-      "latitude": 6.90874705882353,
-      "longitude": 79.87296470588235
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1146",
@@ -288,28 +288,28 @@
       "longitude": 80.62983017026534
     },
     {
-      "id": "ticketsministry-1141",
+      "id": "ticketsministry-1175",
       "source": "TicketsMinistry",
-      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
-      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
+      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
+      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
+      "venue": "Full Moon Garden - Katunayake",
+      "city": "Katunayake",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert",
+        "Dinner Dance",
         "Featured"
       ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
+      "latitude": 6.90874705882353,
+      "longitude": 79.87296470588235
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -569,8 +569,8 @@
       "source": "OneTicket",
       "name": "CHAKRA - Live in 360°",
       "description": "CHAKRA - Live in 360° happening at Colombo. Date & Time: Wed, Jul 29, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/88311980-8efdf208-c74d-4e21-9206-fac25feb1a37.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/59023934-a21fb189-d6bf-4dd8-ae34-933dd30f616f.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/60886935-78f83549-2ff8-4032-9129-cfd8fd97af4a.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/46208224-af7ea1d2-a17a-4daf-a397-e61711a748f4.jpg",
       "venue": "Colombo",
       "city": "Colombo",
       "dateTime": "2026-07-28T19:00:00.000Z",
@@ -912,29 +912,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1203",
-      "source": "TicketsMinistry",
-      "name": "SATHKORALA SWAPTHA SWARA",
-      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
-      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.01700065,
-      "longitude": 79.9528444
-    },
-    {
       "id": "ticketsministry-1156",
       "source": "TicketsMinistry",
       "name": "API NODANNA LIVE ON STAGE",
@@ -956,6 +933,29 @@
       ],
       "latitude": 6.924842302416159,
       "longitude": 79.86836773637283
+    },
+    {
+      "id": "ticketsministry-1203",
+      "source": "TicketsMinistry",
+      "name": "SATHKORALA SWAPTHA SWARA",
+      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
+      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.01700065,
+      "longitude": 79.9528444
     },
     {
       "id": "oneticket-325",
@@ -1324,9 +1324,32 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
+    },
+    {
       "id": "ticketsministry-1212",
       "source": "TicketsMinistry",
-      "name": "PULZE-X",
+      "name": "PULZE X",
       "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202607142119-pulze-x-banner.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/202607142119-pulze-x-thumbnail.png",
@@ -1347,27 +1370,27 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1211",
+      "id": "ticketsministry-1213",
       "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "name": "HELLO KURUNEGALA",
+      "description": "<p>Astral Force is a progressive house music event featuring live DJ performances in a safe and professional entertainment environment</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wDa2MQcaPvmr6MydJybKiMtGEyq4VT1NHmJ4qKjD.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/1SMZyGVthJS9ttBT7LHdlKtG4GlbBSyc8c5DFDqe.jpg",
+      "venue": "Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-09-05T11:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 04:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/hello-kurunegala/6a5718eac7fbd",
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert"
+        "EDM"
       ],
-      "latitude": 6.909688235294118,
-      "longitude": 79.87390588235294
+      "latitude": 7.480618437897388,
+      "longitude": 80.31658034784374
     },
     {
       "id": "mytickets-6a4de3887db51a0f260212fd",
