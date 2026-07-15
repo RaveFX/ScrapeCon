@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-15T06:12:38.116Z",
+  "lastSyncTime": "2026-07-15T10:01:12.620Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
@@ -240,28 +240,28 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1141",
+      "id": "ticketsministry-1175",
       "source": "TicketsMinistry",
-      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
-      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
+      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
+      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
+      "venue": "Full Moon Garden - Katunayake",
+      "city": "Katunayake",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert",
+        "Dinner Dance",
         "Featured"
       ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
+      "latitude": 6.90874705882353,
+      "longitude": 79.87296470588235
     },
     {
       "id": "ticketsministry-1146",
@@ -288,28 +288,28 @@
       "longitude": 80.62983017026534
     },
     {
-      "id": "ticketsministry-1175",
+      "id": "ticketsministry-1141",
       "source": "TicketsMinistry",
-      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
-      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
-      "venue": "Full Moon Garden - Katunayake",
-      "city": "Katunayake",
+      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
+      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
       "dateTime": "2026-07-24T19:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
       "status": "active",
       "tags": [
         "Concert",
-        "Dinner Dance",
+        "Indoor Musical Concert",
         "Featured"
       ],
-      "latitude": 6.90874705882353,
-      "longitude": 79.87296470588235
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -376,29 +376,6 @@
       ],
       "latitude": 6.908119607843138,
       "longitude": 79.87641568627451
-    },
-    {
-      "id": "ticketsministry-1181",
-      "source": "TicketsMinistry",
-      "name": "DOPERMEAN",
-      "description": "<p>DOPERMEAN Season 1 is a one-night music experience on the shores of Arugambay, Sri Lanka—bringing together the energy of the 80s, the anthems of the 90s, and the pulse of house music in a breathtaking tropical setting.</p><p>Family-friendly, inclusive, and built on good vibes, this event is more than just a party. A portion of every ticket supports elephant-human conflict awareness and conservation in the region.</p><p>Seamless entry via Tickets Ministry. All ages welcome. Good people. Great music. A cause that matters.</p><p>📅 July 25th | 📍 Arugambay, Sri Lanka</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/uat/events/MvKTcCUE8nOdIIM8gLUVp6VbXzB3Vd4PsexZk82K.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/uat/events/lDm8iY8NZAmPhPpBnrihyThVsjAJPb3rgcAGT5Yf.jpg",
-      "venue": "Shell Resort - Arugambay",
-      "city": "Pottuvil",
-      "dateTime": "2026-07-25T15:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 08:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/dopermean/6a37a4df724dd",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.8369705000000005,
-      "longitude": 81.8288252
     },
     {
       "id": "ticketsministry-1113",
@@ -526,7 +503,7 @@
       "bannerUrl": "https://cdn.ticketsministry.com/events/202606302308-a-love-song-across-the-seas-banner.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/202606302308-a-love-song-across-the-seas-thumbnail.png",
       "venue": "The Lionel Wendt",
-      "city": "null",
+      "city": "Colombo 07",
       "dateTime": "2026-07-25T19:00:00.000Z",
       "originalDateStr": "Sun, Jul 26, 2026, 12:30 AM",
       "priceCurrency": "LKR",
@@ -549,7 +526,7 @@
       "bannerUrl": "https://cdn.ticketsministry.com/events/202607132124-the-distance-(-duskline-)-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202607132124-the-distance-(-duskline-)-thumbnail.jpg",
       "venue": "Lotus Tower Colombo",
-      "city": "null",
+      "city": "Colombo 01",
       "dateTime": "2026-07-26T07:00:00.000Z",
       "originalDateStr": "Sun, Jul 26, 2026, 12:30 PM",
       "priceCurrency": "LKR",
@@ -1278,6 +1255,29 @@
       "longitude": 79.88927843137255
     },
     {
+      "id": "ticketsministry-1181",
+      "source": "TicketsMinistry",
+      "name": "DOPERMEAN",
+      "description": "<p>DOPERMEAN Season 1 is a one-night music experience on the shores of Arugambay, Sri Lanka—bringing together the energy of the 80s, the anthems of the 90s, and the pulse of house music in a breathtaking tropical setting.</p><p>Family-friendly, inclusive, and built on good vibes, this event is more than just a party. A portion of every ticket supports elephant-human conflict awareness and conservation in the region.</p><p>Seamless entry via Tickets Ministry. All ages welcome. Good people. Great music. A cause that matters.</p><p>📅 July 28th | 📍 Arugambay, Sri Lanka</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/uat/events/MvKTcCUE8nOdIIM8gLUVp6VbXzB3Vd4PsexZk82K.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/uat/events/lDm8iY8NZAmPhPpBnrihyThVsjAJPb3rgcAGT5Yf.jpg",
+      "venue": "Shell Resort - Arugambay",
+      "city": "Pottuvil",
+      "dateTime": "2026-08-28T15:00:00.000Z",
+      "originalDateStr": "Fri, Aug 28, 2026, 08:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/dopermean/6a37a4df724dd",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.8369705000000005,
+      "longitude": 81.8288252
+    },
+    {
       "id": "ticketsministry-1144",
       "source": "TicketsMinistry",
       "name": "PREMAYE HORAWA",
@@ -1512,7 +1512,7 @@
       "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/arhczjgXs858WX79Prq69n0sSbTsBsdYNhG1XJjZ.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/ebtKVfojtoECuthv7GVJzg6LuVv3RxYb2kh3qJtc.jpg",
       "venue": "The Lionel Wendt",
-      "city": "null",
+      "city": "Colombo 07",
       "dateTime": "2026-09-12T18:30:00.000Z",
       "originalDateStr": "Sun, Sep 13, 2026, 12:00 AM",
       "priceCurrency": "LKR",
