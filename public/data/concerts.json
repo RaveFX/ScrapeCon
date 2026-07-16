@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-16T13:46:26.788Z",
+  "lastSyncTime": "2026-07-16T15:37:53.888Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
-    "TicketsMinistry": 41,
-    "Total": 75
+    "TicketsMinistry": 40,
+    "Total": 74
   },
   "concerts": [
     {
@@ -124,29 +124,6 @@
       "longitude": 80.5973
     },
     {
-      "id": "ticketsministry-1165",
-      "source": "TicketsMinistry",
-      "name": "QUANTUM RUSH",
-      "description": "<h6>🔥 INFINITY BEATS is coming to Wariyapola! 🔥</h6><h6></h6><h6>Get ready for an electrifying night filled with powerful beats, immersive lights, and unforgettable energy. On July 24, music lovers from across the region will come together for a high-voltage EDM experience featuring explosive drops, vibrant visuals, and non-stop entertainment.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606050929-quantum-rush-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606050929-quantum-rush-thumbnail.jpg",
-      "venue": "Royal Galaxy Hotel Wariypola",
-      "city": "Chilaw",
-      "dateTime": "2026-07-24T12:00:00.000Z",
-      "originalDateStr": "Fri, Jul 24, 2026, 05:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 4000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/quantum-rush/6a2249bf5253a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.899021568627451,
-      "longitude": 79.87296470588235
-    },
-    {
       "id": "mytickets-6a1d5e7af0c765f67214dcc1",
       "source": "MyTickets",
       "name": "Prema Haadu - ප්‍රේම හාදු  ",
@@ -191,30 +168,6 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
-    },
-    {
-      "id": "ticketsministry-1175",
-      "source": "TicketsMinistry",
-      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
-      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
-      "venue": "Full Moon Garden - Katunayake",
-      "city": "Katunayake",
-      "dateTime": "2026-07-24T19:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Dinner Dance",
-        "Featured"
-      ],
-      "latitude": 6.90874705882353,
-      "longitude": 79.87296470588235
     },
     {
       "id": "ticketsministry-1141",
@@ -263,6 +216,30 @@
       ],
       "latitude": 7.289871297714379,
       "longitude": 80.62983017026534
+    },
+    {
+      "id": "ticketsministry-1175",
+      "source": "TicketsMinistry",
+      "name": "SIHINAYA GROOVE & GLAM DINNER DANCE",
+      "description": "<p>This is a Dinner dance event organized by St. Anthony's church senior youth society, pubudugama as a fun fundraising program to construct Sunday School building. The event is cover by C plus band with backing performance of B&S, Dilmi Fernando, Anesly Malewana.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mPUFAMeKOQFFuO0GDnshWWvW4xOfhK8BZBJJGLJ4.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/2hvkIm549FhlIoTSKtxGvCefYDq2n9mU1vr99MFX.jpg",
+      "venue": "Full Moon Garden - Katunayake",
+      "city": "Katunayake",
+      "dateTime": "2026-07-24T19:00:00.000Z",
+      "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Dinner Dance",
+        "Featured"
+      ],
+      "latitude": 6.90874705882353,
+      "longitude": 79.87296470588235
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -522,7 +499,7 @@
       "id": "ticketsministry-1214",
       "source": "TicketsMinistry",
       "name": "EPILOGUE’26",
-      "description": "<p>Event Overview:Featured Band: DaddyArtist Lineup: B&S and UmariyaVenue: University of Moratuwa PremisesDate: July 28th, 2026Time: 7:00 PM onwardsExpected Audience: 3,000+ University StudentsTicket Categories & Pricing:Standard: LKR 1400Premium: LKR 1800Alumni: LKR 2500</p>",
+      "description": "<p>Event Overview:Featured Band: DaddyArtist Lineup: B&S and Surprise ArtistVenue: University of Moratuwa PremisesDate: July 28th, 2026Time: 7:00 PM onwardsExpected Audience: 3,000+ University StudentsTicket Categories & Pricing:Standard: LKR 1400Premium: LKR 1800Alumni: LKR 2500</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202607161541-epilogue’26-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202607161541-epilogue’26-thumbnail.jpg",
       "venue": "University Of Moratuwa",
@@ -981,29 +958,6 @@
       "longitude": 79.87296470588235
     },
     {
-      "id": "ticketsministry-1172",
-      "source": "TicketsMinistry",
-      "name": "SOUNDSCAPE",
-      "description": "{\"blocks\":[{\"key\":\"55ag\",\"text\":\"SOUNDSCAPE with 2FORTY2 is a premium live music experience that blends world-class entertainment, immersive production, and an elegant atmosphere into one unforgettable night. More than just a concert, SOUNDSCAPE is designed to create a journey where every beat, every performance, and every moment connects the audience through the power of music.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":348,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"198j0\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1plmb\",\"text\":\"Set within the luxurious Indoor Air-Conditioned Marquee at Taj Samudra Colombo, this exclusive event brings together music lovers, friends, and trendsetters for a night filled with energy, excitement, and lasting memories. From captivating live performances to a vibrant crowd atmosphere, SOUNDSCAPE is where music becomes an experience rather than just a performance.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":368,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"6c8hh\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"blj7e\",\"text\":\"Step into a world of rhythm, emotion, and celebration. Feel the energy, embrace the moment, and become part of a night that will be remembered long after the music fades.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":170,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"a6eq9\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"7qed5\",\"text\":\"SOUNDSCAPE with 2FORTY2 — Where Music Meets Experience.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":55,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/RgRN73oMP8V94AW2a5hVkxkbi2LUj6J78YqYpwPI.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/wAwPlZgDahAt2pAGKDSyrxKBOiU1mUB26IQeKhKF.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-08-14T19:30:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/soundscape/6a2bedf64d99e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.923766218384468,
-      "longitude": 79.84344037406605
-    },
-    {
       "id": "ticketsministry-1182",
       "source": "TicketsMinistry",
       "name": "YAATHRA",
@@ -1025,6 +979,29 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1172",
+      "source": "TicketsMinistry",
+      "name": "SOUNDSCAPE",
+      "description": "{\"blocks\":[{\"key\":\"55ag\",\"text\":\"SOUNDSCAPE with 2FORTY2 is a premium live music experience that blends world-class entertainment, immersive production, and an elegant atmosphere into one unforgettable night. More than just a concert, SOUNDSCAPE is designed to create a journey where every beat, every performance, and every moment connects the audience through the power of music.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":348,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"198j0\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1plmb\",\"text\":\"Set within the luxurious Indoor Air-Conditioned Marquee at Taj Samudra Colombo, this exclusive event brings together music lovers, friends, and trendsetters for a night filled with energy, excitement, and lasting memories. From captivating live performances to a vibrant crowd atmosphere, SOUNDSCAPE is where music becomes an experience rather than just a performance.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":368,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"6c8hh\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"blj7e\",\"text\":\"Step into a world of rhythm, emotion, and celebration. Feel the energy, embrace the moment, and become part of a night that will be remembered long after the music fades.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":170,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"a6eq9\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"7qed5\",\"text\":\"SOUNDSCAPE with 2FORTY2 — Where Music Meets Experience.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":55,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/RgRN73oMP8V94AW2a5hVkxkbi2LUj6J78YqYpwPI.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/wAwPlZgDahAt2pAGKDSyrxKBOiU1mUB26IQeKhKF.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-08-14T19:30:00.000Z",
+      "originalDateStr": "Sat, Aug 15, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/soundscape/6a2bedf64d99e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.923766218384468,
+      "longitude": 79.84344037406605
     },
     {
       "id": "mytickets-6a3bbcf7e1f1dd21df5d7760",
@@ -1235,8 +1212,8 @@
       "source": "TicketsMinistry",
       "name": "ANURAGA",
       "description": "<p>An evening of Music, Meaning & Emotion </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607161602-anuraga-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607161602-anuraga-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/niEgkQGG3cV6rIxJU15dALeWgmYymvndWPph6qcr.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/WWvaeBBGmi5WlLvBASVvEJ9ahvmdRLqcVeOsXiqz.jpg",
       "venue": "Holy Cross College Auditorium  Gampaha",
       "city": "null",
       "dateTime": "2026-08-22T18:30:00.000Z",
@@ -1323,29 +1300,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1212",
       "source": "TicketsMinistry",
       "name": "PULZE X",
@@ -1367,6 +1321,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1213",
