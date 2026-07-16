@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-16T02:26:45.829Z",
+  "lastSyncTime": "2026-07-16T06:16:14.739Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
@@ -276,7 +276,7 @@
       "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 2000,
-      "maxPrice": 2000,
+      "maxPrice": 30000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prison-break-kandy-24th-july/6a0571c6a986e",
       "status": "active",
       "tags": [
@@ -484,7 +484,7 @@
       "originalDateStr": "Sun, Jul 26, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 2000,
-      "maxPrice": 2000,
+      "maxPrice": 30000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prision-break-kandy-25th-july/6a0572c95856e",
       "status": "active",
       "tags": [
