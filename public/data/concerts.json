@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-07-16T10:06:48.795Z",
+  "lastSyncTime": "2026-07-16T13:46:26.788Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
-    "TicketsMinistry": 40,
-    "Total": 74
+    "TicketsMinistry": 41,
+    "Total": 75
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1166",
-      "source": "TicketsMinistry",
-      "name": "THE SPIRIT 7.0 DUBAI",
-      "description": "<p>THE SPIRIT 7.0 – FEATURING THILON JAY</p><p>Get ready for one of the most anticipated electronic music experiences of the year as Thilon Jay takes over The Spirit 7.0 with an exclusive 3-hour extended set, delivering an unforgettable journey through powerful beats, immersive sounds, and high-energy vibes.</p><p>Join music lovers from across the UAE for two epic nights of non-stop entertainment, stunning production, and an electrifying atmosphere.</p><p>Day 01</p><p>11 July 2026 | 9:00 PM – 4:00 AM</p><p>Reflection Hotel, 1st Floor, Hollywood 9</p><p>Al Jaddaf, Dubai</p><p></p><p>Tickets</p><p>•⁠ ⁠Pre-Sale: AED 10</p><p>•⁠ ⁠At the Gate: AED 15</p><p></p><p>Expect:</p><p>✨ Extended 3-hour headline performance by Thilon Jay</p><p>✨ Immersive visual and lighting experience</p><p>✨ Powerful electronic and progressive sounds</p><p>✨ Energetic crowd and unforgettable nightlife atmosphere</p><p>Secure your tickets early and be part of a night where music, energy, and passion come together to create an unforgettable experience.</p><p>📞 More Information: +971 55 680 7314</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Oga3WjJ9rMxtOpz69KdwipnKlkzOshUr9JxZxqcT.png",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606062322-the-spirit-7.0---dubai-thumbnail.jpg",
-      "venue": "Reflection Hotel",
-      "city": "Colombo 01",
-      "dateTime": "2026-07-11T21:00:00.000Z",
-      "originalDateStr": "Sun, Jul 12, 2026, 02:30 AM",
-      "priceCurrency": "AED",
-      "minPrice": 100,
-      "maxPrice": 100,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-spirit-70-dubai/6a245e42002fb",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 25.21988607769637,
-      "longitude": 55.32121697464676
-    },
-    {
-      "id": "ticketsministry-1167",
-      "source": "TicketsMinistry",
-      "name": "THE SPIRIT 7.0 - AJMAN",
-      "description": "<p>THE SPIRIT 7.0 – FEATURING THILON JAY</p><p>Get ready for one of the most anticipated electronic music experiences of the year as Thilon Jay takes over The Spirit 7.0 with an exclusive 3-hour extended set, delivering an unforgettable journey through powerful beats, immersive sounds, and high-energy vibes.</p><p>Join music lovers from across the UAE for two epic nights of non-stop entertainment, stunning production, and an electrifying atmosphere.</p><p></p><p>Day 02</p><p>12 July 2026 | 9:00 PM – 4:00 AM</p><p>Crown Palace Hotel & Suites</p><p>Ajman</p><p></p><p>Tickets</p><p>•⁠ ⁠Pre-Sale: AED 100</p><p>•⁠ ⁠At the Gate: AED 150</p><p></p><p>Expect:</p><p>✨ Extended 3-hour headline performance by Thilon Jay</p><p>✨ Immersive visual and lighting experience</p><p>✨ Powerful electronic and progressive sounds</p><p>✨ Energetic crowd and unforgettable nightlife atmosphere</p><p>Secure your tickets early and be part of a night where music, energy, and passion come together to create an unforgettable experience.</p><p>📞 More Information: +971 55 680 7314</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Dit8rvzDzeRjm61lSOqdK1i1lgxEO460wn8C0ObE.png",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606062327-the-spirit-7.0---ajman-thumbnail.jpg",
-      "venue": "Crown Palace Hotel & Suites",
-      "city": "Colombo 01",
-      "dateTime": "2026-07-12T21:00:00.000Z",
-      "originalDateStr": "Mon, Jul 13, 2026, 02:30 AM",
-      "priceCurrency": "AED",
-      "minPrice": 100,
-      "maxPrice": 100,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-spirit-70-ajman/6a245f9247def",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 25.389809177587427,
-      "longitude": 55.45879337465339
-    },
     {
       "id": "ticketsministry-1131",
       "source": "TicketsMinistry",
@@ -71,8 +25,7 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert",
-        "Featured"
+        "Indoor Musical Concert"
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
@@ -264,30 +217,6 @@
       "longitude": 79.87296470588235
     },
     {
-      "id": "ticketsministry-1146",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON PRISON BREAK KANDY 24TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/oMKKXaAwHzi9mkr4vwNLmBgxqlvqPmOUwvDK3v5S.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/QaZAB7qqhJwOGMoEjBUhcW4dHRwN3ztUxLz5GN2M.jpg",
-      "venue": "Bogambara Stadium Car Park",
-      "city": "Kandy",
-      "dateTime": "2026-07-24T19:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prison-break-kandy-24th-july/6a0571c6a986e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 7.289871297714379,
-      "longitude": 80.62983017026534
-    },
-    {
       "id": "ticketsministry-1141",
       "source": "TicketsMinistry",
       "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
@@ -310,6 +239,30 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1146",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON PRISON BREAK KANDY 24TH JULY",
+      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/oMKKXaAwHzi9mkr4vwNLmBgxqlvqPmOUwvDK3v5S.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/QaZAB7qqhJwOGMoEjBUhcW4dHRwN3ztUxLz5GN2M.jpg",
+      "venue": "Bogambara Stadium Car Park",
+      "city": "Kandy",
+      "dateTime": "2026-07-24T19:00:00.000Z",
+      "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 30000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prison-break-kandy-24th-july/6a0571c6a986e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 7.289871297714379,
+      "longitude": 80.62983017026534
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -564,6 +517,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1214",
+      "source": "TicketsMinistry",
+      "name": "EPILOGUE’26",
+      "description": "<p>Event Overview:Featured Band: DaddyArtist Lineup: B&S and UmariyaVenue: University of Moratuwa PremisesDate: July 28th, 2026Time: 7:00 PM onwardsExpected Audience: 3,000+ University StudentsTicket Categories & Pricing:Standard: LKR 1400Premium: LKR 1800Alumni: LKR 2500</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607161541-epilogue’26-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607161541-epilogue’26-thumbnail.jpg",
+      "venue": "University Of Moratuwa",
+      "city": "Moratuwa",
+      "dateTime": "2026-07-28T19:00:00.000Z",
+      "originalDateStr": "Wed, Jul 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1400,
+      "maxPrice": 2500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/epilogue26/6a58ae6f4e923",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.79513290494915,
+      "longitude": 79.89625357023675
     },
     {
       "id": "mytickets-6a3e430800542010113694ec",
@@ -889,29 +865,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1156",
-      "source": "TicketsMinistry",
-      "name": "API NODANNA LIVE ON STAGE",
-      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Comedy Show"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
-    },
-    {
       "id": "ticketsministry-1203",
       "source": "TicketsMinistry",
       "name": "SATHKORALA SWAPTHA SWARA",
@@ -933,6 +886,29 @@
       ],
       "latitude": 7.01700065,
       "longitude": 79.9528444
+    },
+    {
+      "id": "ticketsministry-1156",
+      "source": "TicketsMinistry",
+      "name": "API NODANNA LIVE ON STAGE",
+      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
+      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
+      "city": "Colombo 10",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Comedy Show"
+      ],
+      "latitude": 6.924842302416159,
+      "longitude": 79.86836773637283
     },
     {
       "id": "oneticket-325",
@@ -1255,6 +1231,29 @@
       "longitude": 79.88927843137255
     },
     {
+      "id": "ticketsministry-1215",
+      "source": "TicketsMinistry",
+      "name": "ANURAGA",
+      "description": "<p>An evening of Music, Meaning & Emotion </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607161602-anuraga-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607161602-anuraga-thumbnail.jpg",
+      "venue": "Holy Cross College Auditorium  Gampaha",
+      "city": "null",
+      "dateTime": "2026-08-22T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 23, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/anuraga/6a58b327590b9",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.088022577256503,
+      "longitude": 80.0026606708474
+    },
+    {
       "id": "ticketsministry-1181",
       "source": "TicketsMinistry",
       "name": "DOPERMEAN",
@@ -1480,6 +1479,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1216",
+      "source": "TicketsMinistry",
+      "name": "SUN DRIFT SESSIONS",
+      "description": "<p>The Sun Drift Session is positioned as a premium beachfront music experience bringing together international artists, respected Sri Lankan talent, lifestyle audiences, travelers, and party-goers at Avani Kalutara Resort. The event is designed to transition from a sunset coastal atmosphere into an elevated late night music experience, combining music, hospitality, brand activations, and destination entertainment.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607161656-sun-drift-sessions-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607161656-sun-drift-sessions-thumbnail.jpg",
+      "venue": "Avani Kalutara Resort",
+      "city": "Kalutara",
+      "dateTime": "2026-09-12T15:00:00.000Z",
+      "originalDateStr": "Sat, Sep 12, 2026, 08:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 7000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sun-drift-sessions/6a58bfee5cceb",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.8696150000000005,
+      "longitude": 79.99759089999999
     },
     {
       "id": "ticketsministry-1190",
