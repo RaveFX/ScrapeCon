@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-17T02:29:22.947Z",
+  "lastSyncTime": "2026-07-17T06:13:36.277Z",
   "counts": {
-    "MyTickets": 20,
+    "MyTickets": 19,
     "OneTicket": 14,
     "TicketsMinistry": 40,
-    "Total": 74
+    "Total": 73
   },
   "concerts": [
     {
@@ -284,28 +284,6 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
-    },
-    {
-      "id": "mytickets-69c23de4f489b1204f0af6a1",
-      "source": "MyTickets",
-      "name": "G C W Prathiharathmaka ( ප්‍රාතිහාරාත්මක) Live In Concert Night",
-      "description": "<p><strong>G C W Prathiharathmaka ( ප්‍රාතිහාරාත්මක) Live In Concert Night</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/G%20C%20W%20Prathiharathmaka%20(%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%AD%E0%B7%92%E0%B7%84%E0%B7%8F%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B7%8A%E0%B6%B8%E0%B6%9A)%20Live%20In%20Concert%20Night/MY%20TICKETS%20WEB%20POST.jpg-1774337066010.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/G%20C%20W%20Prathiharathmaka%20(%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B6%AD%E0%B7%92%E0%B7%84%E0%B7%8F%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B7%8A%E0%B6%B8%E0%B6%9A)%20Live%20In%20Concert%20Night/MY%20TICKETS%20WEB%20POST.jpg-1774337066010.jpeg",
-      "venue": "Bingiriya Public Playground-බිංගිරිය මහජන ක්‍රීඩාංගණය",
-      "city": "666548e1a03df8fc2ac5a0fe",
-      "dateTime": "2026-07-25T14:30:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 08:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 800,
-      "maxPrice": 800,
-      "ticketLink": "https://mytickets.lk/event/g-c-w-prathiharathmaka-live-in-concert-night/69c23de4f489b1204f0af6a1",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.908119607843138,
-      "longitude": 79.87641568627451
     },
     {
       "id": "ticketsministry-1113",
