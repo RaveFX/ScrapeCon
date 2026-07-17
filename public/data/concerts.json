@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-17T13:23:53.055Z",
+  "lastSyncTime": "2026-07-17T15:11:49.331Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 14,
@@ -238,8 +238,8 @@
         "Dinner Dance",
         "Featured"
       ],
-      "latitude": 6.90874705882353,
-      "longitude": 79.87296470588235
+      "latitude": 7.154204099999999,
+      "longitude": 79.8745393
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -792,8 +792,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.900276470588236,
-      "longitude": 79.87296470588235
+      "latitude": 7.4873765,
+      "longitude": 80.35952259999999
     },
     {
       "id": "oneticket-359",
@@ -932,8 +932,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.909374509803921,
-      "longitude": 79.87296470588235
+      "latitude": 7.213192899999999,
+      "longitude": 79.8413666
     },
     {
       "id": "ticketsministry-1182",
