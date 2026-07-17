@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-17T06:13:36.277Z",
+  "lastSyncTime": "2026-07-17T09:55:20.269Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 14,
-    "TicketsMinistry": 40,
-    "Total": 73
+    "TicketsMinistry": 41,
+    "Total": 74
   },
   "concerts": [
     {
@@ -661,8 +661,8 @@
       "source": "TicketsMinistry",
       "name": "ROMANTHIKA HANDEWA – CHAPTER 2",
       "description": "<h6>UCSC Alumni Association proudly presents “ ROMANTHIKA HANDEWA – CHAPTER 2 ”</h6><h6></h6><h6>Returning on August 01st, 2026, at the Musaeus College Auditorium, this unforgettable evening follows the sold-out success of the 2025 edition. Promising an even more magical and captivating musical experience.</h6><h6></h6><h6>✨ Featured Artists :</h6><h6></h6><h6>* Amarasiri Peiris</h6><h6></h6><h6>* Kasun Kalhara</h6><h6></h6><h6>* Shirley Waijayantha</h6><h6></h6><h6>* Sashika Nisansala</h6><h6></h6><h6>🎶 Musical Direction : Sugath Hettiarachchi</h6><h6></h6><h6>🎤 Host : Kelum Srimal</h6><h6></h6><h6>☎️ Booking Inquiries : 070 751 9709 | 076 451 8709</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202603172207-romanthika-handewa-%E2%80%93-chapter-2-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202603172207-romanthika-handewa-%E2%80%93-chapter-2-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/8lPVFtg8UvxuIwu3ke8DYRnSCghL8hqfSCDzgbuW.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SVYsjfMdEgTVS4k2bCHsY2g19ZdgfvJwsVwFsUX9.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
       "dateTime": "2026-08-01T19:00:00.000Z",
@@ -1235,8 +1235,8 @@
       "id": "ticketsministry-1144",
       "source": "TicketsMinistry",
       "name": "PREMAYE HORAWA",
-      "description": "{\"blocks\":[{\"key\":\"a95sv\",\"text\":\"Aknara \\\"ප්‍රේමයේ හෝරාව\\\" Live in Concert.\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-banner.jpg",
+      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
       "venue": "Hotel Aknara Water Front Panadura",
       "city": "Panadura",
@@ -1278,29 +1278,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1212",
-      "source": "TicketsMinistry",
-      "name": "PULZE X",
-      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
-      "venue": "BMICH Outdoor Premises",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
@@ -1322,6 +1299,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1212",
+      "source": "TicketsMinistry",
+      "name": "PULZE X",
+      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
+      "venue": "BMICH Outdoor Premises",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1213",
@@ -1641,6 +1641,29 @@
       ],
       "latitude": 7.480618437897388,
       "longitude": 80.31658034784374
+    },
+    {
+      "id": "ticketsministry-1217",
+      "source": "TicketsMinistry",
+      "name": "ERA OF MARIANS",
+      "description": "<p>Era Of Marians is a premier outdoor musical event happening on October 03rd, 2026 at Waters Edge, featuring the legendary Marians led by Nalin Perera, alongside powerhouse performers Rookantha Goonatillake, Kasun Kalhara, Chamara Weerasinghe, Jayasri. Organized by YO Entertainment, this one-night-only experience promises a vibrant celebration of Sri Lankan music, culture, and unforgettable live performances in a stunning open-air setting.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607171232-era-of-marians-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607171232-era-of-marians-thumbnail.jpg",
+      "venue": "Waters Edge Outdoor",
+      "city": "Battaramulla",
+      "dateTime": "2026-10-03T19:30:00.000Z",
+      "originalDateStr": "Sun, Oct 4, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/era-of-marians/6a59d37f0b424",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.905563358876491,
+      "longitude": 79.91147419910696
     },
     {
       "id": "mytickets-6a1952370caee981ed82a24d",
