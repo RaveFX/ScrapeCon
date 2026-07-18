@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-18T16:56:51.584Z",
+  "lastSyncTime": "2026-07-18T19:01:28.525Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 15,
-    "TicketsMinistry": 40,
-    "Total": 74
+    "TicketsMinistry": 39,
+    "Total": 73
   },
   "concerts": [
     {
@@ -28,29 +28,6 @@
       ],
       "latitude": 7.1524,
       "longitude": 80.0534
-    },
-    {
-      "id": "ticketsministry-1150",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTHRA THE VALLEY OF LIGHT",
-      "description": "<p>AKASA SUTHRA THE VALLEY OF LIGHT</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605182016-akasa-suthra-the-valley-of-light-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605182016-akasa-suthra-the-valley-of-light-thumbnail.jpg",
-      "venue": "Temple Trees",
-      "city": "Colombo 01",
-      "dateTime": "2026-07-18T18:00:00.000Z",
-      "originalDateStr": "Sat, Jul 18, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-suthra-the-valley-of-light/6a0b264169117",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914857893084688,
-      "longitude": 79.84689337418902
     },
     {
       "id": "oneticket-365",
@@ -1232,29 +1209,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1212",
-      "source": "TicketsMinistry",
-      "name": "PULZE X",
-      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
-      "venue": "BMICH Outdoor Premises",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
@@ -1276,6 +1230,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1212",
+      "source": "TicketsMinistry",
+      "name": "PULZE X",
+      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
+      "venue": "BMICH Outdoor Premises",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1213",
