@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-18T02:16:15.128Z",
+  "lastSyncTime": "2026-07-18T06:03:24.009Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 14,
@@ -44,7 +44,7 @@
       "minPrice": 3500,
       "maxPrice": 7500,
       "ticketLink": "https://www.ticketsministry.com/concerts/akasa-suthra-the-valley-of-light/6a0b264169117",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -245,7 +245,7 @@
       "description": "<p>it’s about time.</p>",
       "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/TntgGgGqIcTY0n8Q5whS79SccVsa3CFDHFc2VXrU.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/vG9fUlNbBcKRJjZGTobs9B0k8OF45IwSC2GchRtf.jpg",
-      "venue": "Colombo",
+      "venue": "Port City Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-07-25T16:00:00.000Z",
       "originalDateStr": "Sat, Jul 25, 2026, 09:30 PM",
@@ -258,8 +258,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.921836877837569,
-      "longitude": 79.81500565289788
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
     },
     {
       "id": "oneticket-392",
@@ -466,7 +466,8 @@
       "ticketLink": "https://mytickets.lk/event/live-loud-concert/6a3e430800542010113694ec",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.951727450980393,
       "longitude": 79.86512156862744
@@ -889,29 +890,6 @@
       "longitude": 79.8413666
     },
     {
-      "id": "ticketsministry-1182",
-      "source": "TicketsMinistry",
-      "name": "YAATHRA",
-      "description": "<p>Yaathra brings together artists from two generations on one stage, for an unforgettable evening of music set against the picturesque backdrop of Waters Edge. This carefully curated concert celebrates the soul of Sri Lankan cinema music alongside a vibrant selection of other much-loved songs.Spanning generations and styles, Baachi Susan, Amal Perera, Nirosha Virajini, Nuwandhika Senarathne, Ridma Weerawardena, and Yasas Medagedara come together on one stage, each bringing their own distinctive artistry to timeless classics and beloved favourites.From the golden era of Sri Lankan film music to contemporary hits, Yaathra promises an evening woven with emotion, nostalgia, and celebration, a true musical pilgrimage for music lovers of all generations.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/uat/events/202606222024-yaathra-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/uat/events/202606222024-yaathra-thumbnail.jpg",
-      "venue": "Waters Edge Outdoor",
-      "city": "Battaramulla",
-      "dateTime": "2026-08-14T19:30:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/yaathra/6a394cbe0ad06",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.905563358876491,
-      "longitude": 79.91147419910696
-    },
-    {
       "id": "ticketsministry-1172",
       "source": "TicketsMinistry",
       "name": "SOUNDSCAPE",
@@ -933,6 +911,29 @@
       ],
       "latitude": 6.923766218384468,
       "longitude": 79.84344037406605
+    },
+    {
+      "id": "ticketsministry-1182",
+      "source": "TicketsMinistry",
+      "name": "YAATHRA",
+      "description": "<p>Yaathra brings together artists from two generations on one stage, for an unforgettable evening of music set against the picturesque backdrop of Waters Edge. This carefully curated concert celebrates the soul of Sri Lankan cinema music alongside a vibrant selection of other much-loved songs.Spanning generations and styles, Baachi Susan, Amal Perera, Nirosha Virajini, Nuwandhika Senarathne, Ridma Weerawardena, and Yasas Medagedara come together on one stage, each bringing their own distinctive artistry to timeless classics and beloved favourites.From the golden era of Sri Lankan film music to contemporary hits, Yaathra promises an evening woven with emotion, nostalgia, and celebration, a true musical pilgrimage for music lovers of all generations.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/uat/events/202606222024-yaathra-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/uat/events/202606222024-yaathra-thumbnail.jpg",
+      "venue": "Waters Edge Outdoor",
+      "city": "Battaramulla",
+      "dateTime": "2026-08-14T19:30:00.000Z",
+      "originalDateStr": "Sat, Aug 15, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/yaathra/6a394cbe0ad06",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.905563358876491,
+      "longitude": 79.91147419910696
     },
     {
       "id": "mytickets-6a3bbcf7e1f1dd21df5d7760",
@@ -1231,29 +1232,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1212",
-      "source": "TicketsMinistry",
-      "name": "PULZE X",
-      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
-      "venue": "BMICH Outdoor Premises",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
@@ -1275,6 +1253,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1212",
+      "source": "TicketsMinistry",
+      "name": "PULZE X",
+      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
+      "venue": "BMICH Outdoor Premises",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1213",
