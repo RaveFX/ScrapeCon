@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-18T11:01:48.404Z",
+  "lastSyncTime": "2026-07-18T13:10:10.399Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 14,
@@ -38,8 +38,8 @@
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605182016-akasa-suthra-the-valley-of-light-thumbnail.jpg",
       "venue": "Temple Trees",
       "city": "Colombo 01",
-      "dateTime": "2026-07-18T19:00:00.000Z",
-      "originalDateStr": "Sun, Jul 19, 2026, 12:30 AM",
+      "dateTime": "2026-07-18T18:00:00.000Z",
+      "originalDateStr": "Sat, Jul 18, 2026, 11:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 3500,
       "maxPrice": 7500,
