@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-19T13:13:44.676Z",
+  "lastSyncTime": "2026-07-19T14:53:55.990Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 15,
-    "TicketsMinistry": 39,
-    "Total": 72
+    "TicketsMinistry": 40,
+    "Total": 73
   },
   "concerts": [
     {
@@ -729,29 +729,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1203",
-      "source": "TicketsMinistry",
-      "name": "SATHKORALA SWAPTHA SWARA",
-      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
-      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.01700065,
-      "longitude": 79.9528444
-    },
-    {
       "id": "ticketsministry-1156",
       "source": "TicketsMinistry",
       "name": "API NODANNA LIVE ON STAGE",
@@ -773,6 +750,29 @@
       ],
       "latitude": 6.924842302416159,
       "longitude": 79.86836773637283
+    },
+    {
+      "id": "ticketsministry-1203",
+      "source": "TicketsMinistry",
+      "name": "SATHKORALA SWAPTHA SWARA",
+      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
+      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.01700065,
+      "longitude": 79.9528444
     },
     {
       "id": "oneticket-325",
@@ -804,7 +804,7 @@
       "name": "PLUSMINUS",
       "description": "<p>An electronic dance music brunch experience where people come together for a journey of uplifting energy between plus and minus.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202607061338-plusminus-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607061338-plusminus-thumbnail.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/nH4gh6QBzbLMTJCaVanZLKU7noDnhKRY07YEmasY.jpg",
       "venue": "Canapé Bistro",
       "city": "Pita Kotte",
       "dateTime": "2026-08-09T11:00:00.000Z",
@@ -1208,6 +1208,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1220",
+      "source": "TicketsMinistry",
+      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
+      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
+      "venue": "KDU Football Grounds Rathmalana",
+      "city": "Colombo",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 32000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.818360999999999,
+      "longitude": 79.8889762
     },
     {
       "id": "ticketsministry-1212",
