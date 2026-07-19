@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-07-18T22:46:44.926Z",
+  "lastSyncTime": "2026-07-19T02:32:08.734Z",
   "counts": {
-    "MyTickets": 19,
+    "MyTickets": 18,
     "OneTicket": 15,
     "TicketsMinistry": 39,
-    "Total": 73
+    "Total": 72
   },
   "concerts": [
-    {
-      "id": "mytickets-6a13c833f92fab3eb196ca4d",
-      "source": "MyTickets",
-      "name": "Soduru Sihinayaki Raa - සොඳුරු සිහිනයකි රෑ",
-      "description": "<p>✨ සොඳුරු සිහිනයකි රෑ ✨</p><p><br></p><p>වේයන්ගොඩ බණ්ඩාරනායක මධ්‍ය විද්‍යාලීය ආදි ශිෂ්‍ය සංගමය සංවිධානය කරන සිත නිවන සංගීතමය සැඳෑව! 🎶</p><p>රවීන් කනිෂ්ක, පියුමි පතිරජ, ඉනෝකා අහංගම සමඟින් මහේෂ් නිශ්ශංක සහ මහින්ද ප්‍රසාද් මස්ඉඹුල එකතු වන සුවිශේෂී ප්‍රසංගය.</p><p><br></p><p>🎯 <strong>අරමුණ: පාසලේ යෝජිත පිහිනුම් තටාකය ඇතුළු ක්‍රීඩා සංකීර්ණය ඉදිකිරීම සඳහා අරමුදල් රැස්කිරීම.</strong></p><p><br></p><p>📅 ජූලි 18 (සෙනසුරාදා) | ප.ව. 6.30 සිට</p><p><br></p><p>📍 වේයන්ගොඩ බණ්ඩාරනායක එළිමහන් රංග පීඨය</p><p><br></p><p>🎟️ ප්‍රවේශ පත්‍ර: LKR 3000/=</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B7%83%E0%B7%9C%E0%B6%B3%E0%B7%94%E0%B6%BB%E0%B7%94%20%E0%B7%83%E0%B7%92%E0%B7%84%E0%B7%92%E0%B6%B1%E0%B6%BA%E0%B6%9A%E0%B7%92%20%E0%B6%BB%E0%B7%91/With%20My%20tickets%20logo%201080%20x%201080%20(1)-1779681242717.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B7%83%E0%B7%9C%E0%B6%B3%E0%B7%94%E0%B6%BB%E0%B7%94%20%E0%B7%83%E0%B7%92%E0%B7%84%E0%B7%92%E0%B6%B1%E0%B6%BA%E0%B6%9A%E0%B7%92%20%E0%B6%BB%E0%B7%91/With%20My%20tickets%20logo%201080%20x%201080%20(1)-1779681242717.png",
-      "venue": "Bandaranayake Central College",
-      "city": "666548e1a03df8fc2ac5a6e9",
-      "dateTime": "2026-07-18T13:00:00.000Z",
-      "originalDateStr": "Sat, Jul 18, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://mytickets.lk/event/soduru-sihinayaki-raa/6a13c833f92fab3eb196ca4d",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 7.1524,
-      "longitude": 80.0534
-    },
     {
       "id": "oneticket-365",
       "source": "OneTicket",
