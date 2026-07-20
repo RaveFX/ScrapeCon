@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-20T02:46:48.372Z",
+  "lastSyncTime": "2026-07-20T06:43:58.906Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 15,
@@ -1187,29 +1187,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
       "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
@@ -1231,6 +1208,29 @@
       ],
       "latitude": 6.818360999999999,
       "longitude": 79.8889762
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1212",
@@ -1579,8 +1579,8 @@
       "source": "TicketsMinistry",
       "name": "ERA OF MARIANS",
       "description": "<p>Era Of Marians is a premier outdoor musical event happening on October 02nd, 2026 at Waters Edge, featuring the legendary Marians led by Nalin Perera, alongside powerhouse performers Rookantha Goonatillake, Kasun Kalhara, Chamara Weerasinghe, Jayasri. Organized by YO Entertainment, this one-night-only experience promises a vibrant celebration of Sri Lankan music, culture, and unforgettable live performances in a stunning open-air setting.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607171232-era-of-marians-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607171232-era-of-marians-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Pr3QFcqNnaIufyQoJ3sVo9c23iNSohAuaTYs6zQi.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/iGG2uKCXG6JN19rEMOjrVmZyi5a4aXUU0lyiFBV5.jpg",
       "venue": "Waters Edge Outdoor",
       "city": "Battaramulla",
       "dateTime": "2026-10-02T19:30:00.000Z",
