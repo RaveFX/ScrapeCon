@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-20T10:50:13.887Z",
+  "lastSyncTime": "2026-07-20T14:01:55.889Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 15,
@@ -1245,7 +1245,7 @@
       "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 4000,
+      "maxPrice": 35000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
       "status": "active",
       "tags": [
