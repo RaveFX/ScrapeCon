@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-21T06:26:42.352Z",
+  "lastSyncTime": "2026-07-21T10:23:52.380Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 15,
@@ -1593,7 +1593,8 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Outdoor Musical Concert",
+        "Featured"
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
