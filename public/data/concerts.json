@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-21T10:23:52.380Z",
+  "lastSyncTime": "2026-07-21T13:45:10.792Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 15,
@@ -1656,8 +1656,8 @@
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
+      "minPrice": 1000,
+      "maxPrice": 4500,
       "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
       "status": "active",
       "tags": [
