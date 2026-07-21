@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-21T02:30:27.401Z",
+  "lastSyncTime": "2026-07-21T06:26:42.352Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 15,
-    "TicketsMinistry": 40,
-    "Total": 73
+    "TicketsMinistry": 41,
+    "Total": 74
   },
   "concerts": [
     {
@@ -264,30 +264,6 @@
       "longitude": 79.86836773637283
     },
     {
-      "id": "oneticket-317",
-      "source": "OneTicket",
-      "name": "සඳකඩපහණ - Colombo",
-      "description": "සඳකඩපහණ - Colombo happening at Colombo. Date & Time: Sun, Jul 26, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/95898331-ef85f1b3-c54f-4844-ba1d-67239761d64d.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/95898331-ef85f1b3-c54f-4844-ba1d-67239761d64d.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
-      "dateTime": "2026-07-25T19:00:00.000Z",
-      "originalDateStr": "Sun, Jul 26, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/sandakadapahana",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
       "id": "ticketsministry-1147",
       "source": "TicketsMinistry",
       "name": "PUB LONDON PRISION BREAK KANDY 25TH JULY",
@@ -356,6 +332,30 @@
       ],
       "latitude": 6.927035493072726,
       "longitude": 79.8557598741892
+    },
+    {
+      "id": "oneticket-317",
+      "source": "OneTicket",
+      "name": "සඳකඩපහණ - Colombo",
+      "description": "සඳකඩපහණ - Colombo happening at Colombo. Date & Time: Mon, Jul 27, 2026, 12:30 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/26146118-40146211-14a3-4c99-887e-9d1a4887e54e.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/83351388-b46113e5-cbbe-4e99-abbe-da87cc1e2cb0.jpg",
+      "venue": "Colombo",
+      "city": "Colombo",
+      "dateTime": "2026-07-26T19:00:00.000Z",
+      "originalDateStr": "Mon, Jul 27, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/sandakadapahana",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
     },
     {
       "id": "oneticket-334",
@@ -1187,27 +1187,28 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1220",
+      "id": "ticketsministry-1212",
       "source": "TicketsMinistry",
-      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
-      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
-      "venue": "KDU Football Grounds Rathmalana",
-      "city": "Colombo",
+      "name": "PULZE X",
+      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EFvc4f2hLzm0XPyE6ndTRvoP5xGKETy8KmY83Gp7.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/iibRW1HTXyhTt6hVz49Ge7TB6mH2QhiEERN32SOS.png",
+      "venue": "BMICH Outdoor Premises",
+      "city": "Colombo 07",
       "dateTime": "2026-09-04T19:00:00.000Z",
       "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 32000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
+      "minPrice": 1000,
+      "maxPrice": 35000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Outdoor Musical Concert",
+        "Featured"
       ],
-      "latitude": 6.818360999999999,
-      "longitude": 79.8889762
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1211",
@@ -1233,27 +1234,27 @@
       "longitude": 79.8547222
     },
     {
-      "id": "ticketsministry-1212",
+      "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
-      "name": "PULZE X",
-      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/p2OWs8ND2ZWHS5c8eIFMtU6ZjIi2DtVqWksHxpDA.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/N30rcLwNqEnnYoj9MwmKmAPtiR8MOvSqJOWHb283.png",
-      "venue": "BMICH Outdoor Premises",
-      "city": "Colombo 07",
+      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
+      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
+      "venue": "KDU Football Grounds Rathmalana",
+      "city": "Colombo",
       "dateTime": "2026-09-04T19:00:00.000Z",
       "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 35000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
+      "minPrice": 1500,
+      "maxPrice": 32000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
       "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
+      "latitude": 6.818360999999999,
+      "longitude": 79.8889762
     },
     {
       "id": "ticketsministry-1213",
@@ -1641,6 +1642,29 @@
       ],
       "latitude": 6.938550980392157,
       "longitude": 79.89084705882352
+    },
+    {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "oneticket-396",
