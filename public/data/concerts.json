@@ -1,36 +1,12 @@
 {
-  "lastSyncTime": "2026-07-22T10:23:31.772Z",
+  "lastSyncTime": "2026-07-22T13:48:12.131Z",
   "counts": {
-    "MyTickets": 18,
-    "OneTicket": 15,
+    "MyTickets": 19,
+    "OneTicket": 14,
     "TicketsMinistry": 41,
     "Total": 74
   },
   "concerts": [
-    {
-      "id": "oneticket-365",
-      "source": "OneTicket",
-      "name": "AWARJANA Live in concert 2026",
-      "description": "AWARJANA Live in concert 2026 happening at Peradeniya. Date & Time: Wed, Jul 22, 2026, 12:30 AM. Tickets start from 2000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/80823996-74d47ce9-a2bb-4da3-bc9d-e9b5bef6652e.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/91067014-a567bdb3-3be6-4628-ba56-a7e10a75d4b1.jpg",
-      "venue": "Peradeniya",
-      "city": "Peradeniya",
-      "dateTime": "2026-07-21T19:00:00.000Z",
-      "originalDateStr": "Wed, Jul 22, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 2000,
-      "ticketLink": "https://oneticket.lk/event/awarjana-live-in-concert-2026",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 7.2713,
-      "longitude": 80.5973
-    },
     {
       "id": "mytickets-6a1d5e7af0c765f67214dcc1",
       "source": "MyTickets",
@@ -1368,6 +1344,28 @@
       ],
       "latitude": 6.7135906,
       "longitude": 80.0624692
+    },
+    {
+      "id": "mytickets-6a57140eaa5331ca7ddc7b43",
+      "source": "MyTickets",
+      "name": "Marians Unplugged 20th Anniversary ",
+      "description": "<p>Marians Unplugged 20th Anniversary&nbsp;- Matara</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/MARIANS-UNPLUGGED-MATARA-MT-02.jpg%20(1)-1784705667386.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/MARIANS-UNPLUGGED-MATARA-MT-02.jpg%20(1)-1784705667386.jpeg",
+      "venue": "Rabindranath Tagore Memorial Auditorium",
+      "city": "666548e1a03df8fc2ac5a453",
+      "dateTime": "2026-09-11T13:30:00.000Z",
+      "originalDateStr": "Fri, Sep 11, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/marians-unplugged-20th-anniversary/6a57140eaa5331ca7ddc7b43",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9495313725490195,
+      "longitude": 79.85665098039216
     },
     {
       "id": "mytickets-6a4ded82783f6c01e4fcaf17",
