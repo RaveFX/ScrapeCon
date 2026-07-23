@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-23T02:33:54.633Z",
+  "lastSyncTime": "2026-07-23T06:29:14.933Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 14,
+    "OneTicket": 13,
     "TicketsMinistry": 41,
-    "Total": 74
+    "Total": 73
   },
   "concerts": [
     {
@@ -28,30 +28,6 @@
       ],
       "latitude": 6.9197,
       "longitude": 79.8519
-    },
-    {
-      "id": "oneticket-338",
-      "source": "OneTicket",
-      "name": "TAKEOVER '26",
-      "description": "TAKEOVER '26 happening at BMICH Outdoor. Date & Time: Fri, Jul 24, 2026, 11:00 PM. Tickets start from 1800 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/10926039-b529fdd2-766f-409e-826d-b39a9f51b6be.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/92084121-e33b764c-6de3-4e86-9809-a7df0bee40c8.jpg",
-      "venue": "BMICH Outdoor",
-      "city": "BMICH Outdoor",
-      "dateTime": "2026-07-24T17:30:00.000Z",
-      "originalDateStr": "Fri, Jul 24, 2026, 11:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1800,
-      "maxPrice": 1800,
-      "ticketLink": "https://oneticket.lk/event/takeover26",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1141",
@@ -164,7 +140,8 @@
       "ticketLink": "https://mytickets.lk/event/tour-of-legends/6a4629f81fd97fcfd228f8fe",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
