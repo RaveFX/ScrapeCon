@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-24T02:31:06.199Z",
+  "lastSyncTime": "2026-07-24T06:24:05.906Z",
   "counts": {
-    "MyTickets": 19,
+    "MyTickets": 20,
     "OneTicket": 14,
     "TicketsMinistry": 41,
-    "Total": 74
+    "Total": 75
   },
   "concerts": [
     {
@@ -100,6 +100,28 @@
       ],
       "latitude": 7.154204099999999,
       "longitude": 79.8745393
+    },
+    {
+      "id": "mytickets-6a4b863277de880ed1ad4d2f",
+      "source": "MyTickets",
+      "name": "Sankalana - සංකලන ",
+      "description": "<p>Sankalana - සංකලන&nbsp;</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Sankalana%20-%20%E0%B7%83%E0%B6%82%E0%B6%9A%E0%B6%BD%E0%B6%B1%20/Gemini_Generated_Image_7v8hbe7v8hbe7v8h%20(1)-1783331173392.png",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Sankalana%20-%20%E0%B7%83%E0%B6%82%E0%B6%9A%E0%B6%BD%E0%B6%B1%20/Gemini_Generated_Image_7v8hbe7v8hbe7v8h%20(1)-1783331173392.png",
+      "venue": "Polgolla Mahinda Rajapakshe Theater Kandy",
+      "city": "666548e1a03df8fc2ac5a2fe",
+      "dateTime": "2026-07-25T13:00:00.000Z",
+      "originalDateStr": "Sat, Jul 25, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/sankalana/6a4b863277de880ed1ad4d2f",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.922864705882353,
+      "longitude": 79.82684705882353
     },
     {
       "id": "mytickets-6a3b6d529f9244ec97d56008",
@@ -1192,8 +1214,8 @@
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
       "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9mlCufjYH8Da8Vm7G8GJZfRqaTP5F7c9UCvCocQi.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9ZhwH2Cr58CILjJy18VfGWQz8SxX6XxoBFvkg0iU.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
       "venue": "Bishop’s College Auditorium",
       "city": "Colombo 07",
       "dateTime": "2026-09-04T19:00:00.000Z",
