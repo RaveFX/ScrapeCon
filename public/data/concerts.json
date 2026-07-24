@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-23T22:54:23.512Z",
+  "lastSyncTime": "2026-07-24T02:31:06.199Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 14,
@@ -1008,7 +1008,7 @@
     {
       "id": "mytickets-6a3e56b1483edf4978b3aca6",
       "source": "MyTickets",
-      "name": "Tunsara Sisila - තුන්සර සිසිල ",
+      "name": "Thunsara Sisila - තුන්සර සිසිල ",
       "description": "<h2><strong>Tunsara Sisila - තුන්සර සිසිල&nbsp;</strong></h2>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Tunsara%20Sisila%20-%20%E0%B6%AD%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%BB%20%E0%B7%83%E0%B7%92%E0%B7%83%E0%B7%92%E0%B6%BD%20/WhatsApp%20Image%202026-06-22%20at%2019.59.33-1782469979746.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Tunsara%20Sisila%20-%20%E0%B6%AD%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%BB%20%E0%B7%83%E0%B7%92%E0%B7%83%E0%B7%92%E0%B6%BD%20/WhatsApp%20Image%202026-06-22%20at%2019.59.33-1782469979746.jpeg",
@@ -1019,7 +1019,7 @@
       "priceCurrency": "LKR",
       "minPrice": 3000,
       "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/tunsara-sisila/6a3e56b1483edf4978b3aca6",
+      "ticketLink": "https://mytickets.lk/event/thunsara-sisila/6a3e56b1483edf4978b3aca6",
       "status": "active",
       "tags": [
         "Concert"
