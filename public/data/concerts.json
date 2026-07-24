@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-24T13:40:35.271Z",
+  "lastSyncTime": "2026-07-24T15:24:29.744Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
@@ -68,7 +68,7 @@
       "minPrice": 4000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert",
@@ -92,7 +92,7 @@
       "minPrice": 5000,
       "maxPrice": 10000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sihinaya-groove-glam-dinner-dance/6a33f4ce57953",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Dinner Dance",
@@ -704,29 +704,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1156",
-      "source": "TicketsMinistry",
-      "name": "API NODANNA LIVE ON STAGE",
-      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Comedy Show"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
-    },
-    {
       "id": "ticketsministry-1203",
       "source": "TicketsMinistry",
       "name": "SATHKORALA SWAPTHA SWARA",
@@ -748,6 +725,29 @@
       ],
       "latitude": 7.01700065,
       "longitude": 79.9528444
+    },
+    {
+      "id": "ticketsministry-1156",
+      "source": "TicketsMinistry",
+      "name": "API NODANNA LIVE ON STAGE",
+      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
+      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
+      "city": "Colombo 10",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Comedy Show"
+      ],
+      "latitude": 6.924842302416159,
+      "longitude": 79.86836773637283
     },
     {
       "id": "oneticket-325",
@@ -1210,29 +1210,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
       "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
@@ -1254,6 +1231,29 @@
       ],
       "latitude": 6.818360999999999,
       "longitude": 79.8889762
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1213",
