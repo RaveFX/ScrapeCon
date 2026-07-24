@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-24T06:24:05.906Z",
+  "lastSyncTime": "2026-07-24T10:14:54.164Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 14,
@@ -30,6 +30,30 @@
       "longitude": 79.8519
     },
     {
+      "id": "ticketsministry-1146",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON PRISON BREAK KANDY 24TH JULY",
+      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/oMKKXaAwHzi9mkr4vwNLmBgxqlvqPmOUwvDK3v5S.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/QaZAB7qqhJwOGMoEjBUhcW4dHRwN3ztUxLz5GN2M.jpg",
+      "venue": "Bogambara Stadium Car Park",
+      "city": "Kandy",
+      "dateTime": "2026-07-24T16:00:00.000Z",
+      "originalDateStr": "Fri, Jul 24, 2026, 09:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 30000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prison-break-kandy-24th-july/6a0571c6a986e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 7.289871297714379,
+      "longitude": 80.62983017026534
+    },
+    {
       "id": "ticketsministry-1141",
       "source": "TicketsMinistry",
       "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
@@ -52,30 +76,6 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
-    },
-    {
-      "id": "ticketsministry-1146",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON PRISON BREAK KANDY 24TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/oMKKXaAwHzi9mkr4vwNLmBgxqlvqPmOUwvDK3v5S.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/QaZAB7qqhJwOGMoEjBUhcW4dHRwN3ztUxLz5GN2M.jpg",
-      "venue": "Bogambara Stadium Car Park",
-      "city": "Kandy",
-      "dateTime": "2026-07-24T19:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prison-break-kandy-24th-july/6a0571c6a986e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 7.289871297714379,
-      "longitude": 80.62983017026534
     },
     {
       "id": "ticketsministry-1175",
@@ -169,6 +169,30 @@
       "longitude": 79.8656
     },
     {
+      "id": "ticketsministry-1147",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON PRISION BREAK KANDY 25TH JULY",
+      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><p></p><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer. </h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><p></p><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶 </h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/WxvbWnILcBui7ueWWnWcxRjmmqx7aQKNpIkFU1tJ.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/DHwQfh3lujpmnclLzh75ZeVIU7imqsMb8lXnV6od.jpg",
+      "venue": "Bogambara Stadium Car Park",
+      "city": "Kandy",
+      "dateTime": "2026-07-25T16:00:00.000Z",
+      "originalDateStr": "Sat, Jul 25, 2026, 09:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 30000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prision-break-kandy-25th-july/6a0572c95856e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 7.289871297714379,
+      "longitude": 80.62983017026534
+    },
+    {
       "id": "ticketsministry-1113",
       "source": "TicketsMinistry",
       "name": "KYOTTO FROM DUSK TILL DAWN OPEN 12 CLOSE",
@@ -237,30 +261,6 @@
       ],
       "latitude": 6.924842302416159,
       "longitude": 79.86836773637283
-    },
-    {
-      "id": "ticketsministry-1147",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON PRISION BREAK KANDY 25TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><p></p><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer. </h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><p></p><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶 </h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/WxvbWnILcBui7ueWWnWcxRjmmqx7aQKNpIkFU1tJ.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/DHwQfh3lujpmnclLzh75ZeVIU7imqsMb8lXnV6od.jpg",
-      "venue": "Bogambara Stadium Car Park",
-      "city": "Kandy",
-      "dateTime": "2026-07-25T19:00:00.000Z",
-      "originalDateStr": "Sun, Jul 26, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prision-break-kandy-25th-july/6a0572c95856e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 7.289871297714379,
-      "longitude": 80.62983017026534
     },
     {
       "id": "ticketsministry-1191",
