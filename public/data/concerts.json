@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-25T06:16:08.398Z",
+  "lastSyncTime": "2026-07-25T09:44:47.755Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 13,
@@ -136,7 +136,7 @@
       "minPrice": 2000,
       "maxPrice": 6000,
       "ticketLink": "https://www.ticketsministry.com/concerts/mai-mara-sancharani/6a3675bfa65ec",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
