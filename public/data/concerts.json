@@ -1,60 +1,12 @@
 {
-  "lastSyncTime": "2026-07-25T02:29:14.169Z",
+  "lastSyncTime": "2026-07-25T06:16:08.398Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 14,
-    "TicketsMinistry": 40,
-    "Total": 73
+    "OneTicket": 13,
+    "TicketsMinistry": 38,
+    "Total": 70
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1146",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON PRISON BREAK KANDY 24TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><h6></h6><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer.</h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><h6></h6><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/oMKKXaAwHzi9mkr4vwNLmBgxqlvqPmOUwvDK3v5S.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/QaZAB7qqhJwOGMoEjBUhcW4dHRwN3ztUxLz5GN2M.jpg",
-      "venue": "Bogambara Stadium Car Park",
-      "city": "Kandy",
-      "dateTime": "2026-07-24T16:00:00.000Z",
-      "originalDateStr": "Fri, Jul 24, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prison-break-kandy-24th-july/6a0571c6a986e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 7.289871297714379,
-      "longitude": 80.62983017026534
-    },
-    {
-      "id": "ticketsministry-1141",
-      "source": "TicketsMinistry",
-      "name": "SUMIHIRI MATHAKAYAN : ULTIMATE UNPLUGGED",
-      "description": "<p>SUMIHIRI MATHAKAYAN - ULTIMATE UNPLUGGED </p><p> On The 24th of July 2026 At The Musaeus College Auditorium - Colombo, 7:00 PM onwards .Grab Your Tickets Now!!</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/H4PfrWlq9qgkQ3QzAejPFEUzokHGwHZz1JJWFccV.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/Ed1lt4nJfzfSzdDbHKxvZsjvJcFmGVVaWvcj2xFJ.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-07-24T17:00:00.000Z",
-      "originalDateStr": "Fri, Jul 24, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-ultimate-unplugged/69fd7d8aa6da6",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
     {
       "id": "mytickets-6a4b863277de880ed1ad4d2f",
       "source": "MyTickets",
@@ -168,30 +120,6 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
-    },
-    {
-      "id": "oneticket-392",
-      "source": "OneTicket",
-      "name": "Zone 360",
-      "description": "Zone 360 happening at Café Brit, Ward Place. Date & Time: Sat, Jul 25, 2026, 10:00 PM. Tickets start from 2000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/98599846-952eb5f4-fcaf-44a8-92b0-1c45859e488e.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/76783628-dfb9969a-e1f3-4148-a46c-24f68d71f0ff.jpg",
-      "venue": "Café Brit, Ward Place",
-      "city": "Café Brit, Ward Place",
-      "dateTime": "2026-07-25T16:30:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 10:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 2000,
-      "ticketLink": "https://oneticket.lk/event/zone-360",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Event",
-        "Indoor"
-      ],
-      "latitude": 6.902472549019608,
-      "longitude": 79.87359215686274
     },
     {
       "id": "ticketsministry-1179",
@@ -658,29 +586,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1203",
-      "source": "TicketsMinistry",
-      "name": "SATHKORALA SWAPTHA SWARA",
-      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
-      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.01700065,
-      "longitude": 79.9528444
-    },
-    {
       "id": "ticketsministry-1156",
       "source": "TicketsMinistry",
       "name": "API NODANNA LIVE ON STAGE",
@@ -702,6 +607,29 @@
       ],
       "latitude": 6.924842302416159,
       "longitude": 79.86836773637283
+    },
+    {
+      "id": "ticketsministry-1203",
+      "source": "TicketsMinistry",
+      "name": "SATHKORALA SWAPTHA SWARA",
+      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
+      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.01700065,
+      "longitude": 79.9528444
     },
     {
       "id": "oneticket-325",
@@ -1164,29 +1092,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
       "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
@@ -1208,6 +1113,29 @@
       ],
       "latitude": 6.818360999999999,
       "longitude": 79.8889762
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1213",
