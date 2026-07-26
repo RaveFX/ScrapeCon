@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-26T15:03:10.178Z",
+  "lastSyncTime": "2026-07-26T16:58:01.022Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 13,
@@ -45,7 +45,7 @@
       "minPrice": 2500,
       "maxPrice": 2500,
       "ticketLink": "https://oneticket.lk/event/sandakadapahana",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Event",
