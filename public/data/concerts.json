@@ -1,59 +1,12 @@
 {
-  "lastSyncTime": "2026-07-26T02:36:19.735Z",
+  "lastSyncTime": "2026-07-26T06:34:43.647Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 13,
-    "TicketsMinistry": 39,
-    "Total": 68
+    "TicketsMinistry": 35,
+    "Total": 64
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1147",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON PRISION BREAK KANDY 25TH JULY",
-      "description": "<h6>🚨 PUB LONDON : PRISON BREAK 🚨</h6><h6></h6><h6>They locked the gates.</h6><h6>But they can’t lock the vibe.</h6><h6></h6><h6>📍 Bogambara Stadium Car Park</h6><h6>📅 24th & 25th July 2026</h6><p></p><h6>For the first time ever, Pub London Prison Break takes over the legendary prison grounds of Kandy, every ticket purchased online gets a free beer. </h6><h6></h6><h6>Escape the pressure | Break the routine.</h6><h6>Serve your sentence on the dancefloor. 🔥</h6><p></p><h6>This July …</h6><h6>Kandy goes under lockdown. 🔐🎶 </h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/WxvbWnILcBui7ueWWnWcxRjmmqx7aQKNpIkFU1tJ.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/DHwQfh3lujpmnclLzh75ZeVIU7imqsMb8lXnV6od.jpg",
-      "venue": "Bogambara Stadium Car Park",
-      "city": "Kandy",
-      "dateTime": "2026-07-25T16:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-prision-break-kandy-25th-july/6a0572c95856e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 7.289871297714379,
-      "longitude": 80.62983017026534
-    },
-    {
-      "id": "ticketsministry-1113",
-      "source": "TicketsMinistry",
-      "name": "KYOTTO FROM DUSK TILL DAWN OPEN 12 CLOSE",
-      "description": "<p>it’s about time.</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/TntgGgGqIcTY0n8Q5whS79SccVsa3CFDHFc2VXrU.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/vG9fUlNbBcKRJjZGTobs9B0k8OF45IwSC2GchRtf.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-07-25T16:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kyotto-from-dusk-till-dawn-open-12-close/69d323c2b21a6",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
     {
       "id": "ticketsministry-926",
       "source": "TicketsMinistry",
@@ -63,8 +16,8 @@
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/l1edKfhJamRbTbFfwNDVqxbKF8N3DMMHMU5QeXcL.jpg",
       "venue": "Port City Colombo",
       "city": "Colombo 01",
-      "dateTime": "2026-07-25T16:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 09:30 PM",
+      "dateTime": "2026-02-21T16:00:00.000Z",
+      "originalDateStr": "Sat, Feb 21, 2026, 09:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 50000,
@@ -76,52 +29,6 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
-    },
-    {
-      "id": "ticketsministry-1179",
-      "source": "TicketsMinistry",
-      "name": "MAI MARA SANCHARANI",
-      "description": "<p>musical event with six artists on 25th July as indoor concert.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/ui31Ql9eDRgSjBneJyr9QMxMXK1MQVsU96Iegzn0.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/wWU0SvJn7ZleFdhRkp0ctLkONhru4J1XSUwGcPRL.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-07-25T17:00:00.000Z",
-      "originalDateStr": "Sat, Jul 25, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mai-mara-sancharani/6a3675bfa65ec",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
-    },
-    {
-      "id": "ticketsministry-1191",
-      "source": "TicketsMinistry",
-      "name": "A LOVE SONG ACROSS THE SEAS",
-      "description": "<p>A Love Song Across SeasFrom Berlin to Sri Lanka, a midsummer conjuring: the Chamber Music Society of Colombo announcestwo vocal recitals this July, in Colombo and Jaffna, that feel less like performances than acts of return. Theprincipal figures are themselves the product of small, porous worlds: the Sri Lankan‑German tenor ThaisenRusch and the German‑Estonian mezzo‑soprano Ireene Ollino, both members of the esteemed chorus at theDeutsche Oper Berlin. They arrive not as imported curiosities but as colleagues of a profession whose linesof travel and longing now thread Europe and the Indian Ocean.Rusch, whose recent recording of Schubert’s Winterreise testifies to a lyricism that favors inwardness overshow, has held stage with the Munich Philharmonic and the Berlin Radio Choir and serves asartist‑in‑residence with the Sinfonisches Kammerorchester Berlin.Ollino, a laureate of the Triomphe de l’Art competition, brings the polish of engagements under Sir SimonRattle and Thomas Guggeis at the Staatsoper Unter den Linden. Both singers carry that peculiarcombination of European conservatory discipline and the lived, improvisatory grace that travel and hybrididentity foster.</p><p>They will be supported by principal players of the Chamber Music Society of Colombo, led by ArtisticDirector Lakshman Joseph‑de Saram, along with pianist Johann Peiris. The program resists tidyperiodization: Händel’s baroque clarity is set against Mahler’s late‑Romantic whisper in “Urlicht,” whilearias by Bizet, Mozart and Verdi remind listeners that theater and confession are two sides of the samecoin. The evening’s logic is not historical survey but intimacy - an economy of means that exposes whatthe music is made to do: witness, confess, persuade.</p><p>“This concert hopes to strip these pieces back to their bones so the music and the singer can speak plainly,”Joseph‑de Saram said. “In an intimate setting, you hear every breath and every shift in color. Ireene andThaisen bring a rare depth and honesty to the stage; they don’t just sing the notes, they tell the story. Wewant listeners to encounter these works anew - not as two‑dimensional museum pieces, but as living,breathing music.”</p><p>Founded in 2007, the CMSC has spent nearly two decades cultivating programming that is at once rigorousand rooted, pairing high‑concept projects with an active education arm. The society’s international advisoryboard - whose names include the virtuoso Midori and Leslie Suganandarajah, music director of theSalzburg Landestheater - signals a global conversation; its Education Fund, which circulates thousands offree tickets to students from marginalized communities, insists on a local accountability. The result is akind of cultural diplomacy: music as exchange, and as a small, stubborn insistence that art should openrather than sequester.</p><p>Performance & Ticket InformationThe series opens in Colombo at the Lionel Wendt Theatre on Thursday, July 25 at 7:00 PM, supported bythe Rukmini Tissanayagam Trust, A. Baur & Co., and the Goethe‑Institut as venue partner. The ensemblewill then travel north for a historic performance in Jaffna at Kälam on Sunday, July 28 at 6:30 PM. TheJaffna concert is funded through the generosity of the Samuel Gnanam IT Center, with the Goethe‑Institutcontinuing as venue partner.</p><p>Seating is strictly reserved for both venues.These midsummer concerts, arriving at a moment when travel and belonging have become complicatedcurrencies, feel like a parable of belonging itself - of artists who move through the world and bring back, intheir breath and timbre, the places they have been. For audiences in Colombo and Jaffna, the performancespromise the unusual intimacy of hearing familiar scores reanimated by voices that have learned, elsewhere,to listen.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202606302308-a-love-song-across-the-seas-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202606302308-a-love-song-across-the-seas-thumbnail.png",
-      "venue": "The Lionel Wendt",
-      "city": "Colombo 07",
-      "dateTime": "2026-07-25T19:00:00.000Z",
-      "originalDateStr": "Sun, Jul 26, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/a-love-song-across-the-seas/6a44009eb1720",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.906927065169236,
-      "longitude": 79.86040848895234
     },
     {
       "id": "ticketsministry-1208",
