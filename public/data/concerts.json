@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-07-26T06:34:43.647Z",
+  "lastSyncTime": "2026-07-26T09:57:29.766Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 13,
-    "TicketsMinistry": 35,
-    "Total": 64
+    "TicketsMinistry": 34,
+    "Total": 63
   },
   "concerts": [
-    {
-      "id": "ticketsministry-926",
-      "source": "TicketsMinistry",
-      "name": "DIMUTH K ALL NIGHT LONG",
-      "description": "<p>DIMUTH K - FROM DUSK TILL DAWN ALL-NIGHT-LONG</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/1QIOQMAs2EMYthDZ9i9xVAfloo6Q09Pw06tAnSLy.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/l1edKfhJamRbTbFfwNDVqxbKF8N3DMMHMU5QeXcL.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-02-21T16:00:00.000Z",
-      "originalDateStr": "Sat, Feb 21, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 50000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/dimuth-k-all-night-long/6a5efeafb20cb",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
     {
       "id": "ticketsministry-1208",
       "source": "TicketsMinistry",
@@ -955,29 +932,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1220",
-      "source": "TicketsMinistry",
-      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
-      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
-      "venue": "KDU Football Grounds Rathmalana",
-      "city": "Colombo",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 32000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.818360999999999,
-      "longitude": 79.8889762
-    },
-    {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
@@ -999,6 +953,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1220",
+      "source": "TicketsMinistry",
+      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
+      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
+      "venue": "KDU Football Grounds Rathmalana",
+      "city": "Colombo",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 32000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.818360999999999,
+      "longitude": 79.8889762
     },
     {
       "id": "ticketsministry-1213",
