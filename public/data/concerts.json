@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-26T22:57:40.219Z",
+  "lastSyncTime": "2026-07-27T02:44:21.464Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 13,
+    "OneTicket": 12,
     "TicketsMinistry": 34,
-    "Total": 63
+    "Total": 62
   },
   "concerts": [
     {
@@ -29,30 +29,6 @@
       ],
       "latitude": 6.927035493072726,
       "longitude": 79.8557598741892
-    },
-    {
-      "id": "oneticket-317",
-      "source": "OneTicket",
-      "name": "සඳකඩපහණ - Colombo",
-      "description": "සඳකඩපහණ - Colombo happening at Colombo. Date & Time: Mon, Jul 27, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/26146118-40146211-14a3-4c99-887e-9d1a4887e54e.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/83351388-b46113e5-cbbe-4e99-abbe-da87cc1e2cb0.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
-      "dateTime": "2026-07-26T19:00:00.000Z",
-      "originalDateStr": "Mon, Jul 27, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/sandakadapahana",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "oneticket-334",
