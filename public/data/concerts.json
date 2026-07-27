@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-07-27T02:44:21.464Z",
+  "lastSyncTime": "2026-07-27T07:28:53.501Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 12,
-    "TicketsMinistry": 34,
-    "Total": 62
+    "TicketsMinistry": 33,
+    "Total": 61
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1208",
-      "source": "TicketsMinistry",
-      "name": "THE DISTANCE ( DUSKLINE )",
-      "description": "<p>THE DISTANCE ( DUSKLINE )</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607132124-the-distance-(-duskline-)-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607132124-the-distance-(-duskline-)-thumbnail.jpg",
-      "venue": "Lotus Tower Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-07-26T07:00:00.000Z",
-      "originalDateStr": "Sun, Jul 26, 2026, 12:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-distance-duskline/6a550a3eced08",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "After Party"
-      ],
-      "latitude": 6.927035493072726,
-      "longitude": 79.8557598741892
-    },
     {
       "id": "oneticket-334",
       "source": "OneTicket",
