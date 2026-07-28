@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-28T10:32:48.559Z",
+  "lastSyncTime": "2026-07-28T14:02:10.255Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 12,
@@ -521,7 +521,7 @@
       "id": "ticketsministry-1172",
       "source": "TicketsMinistry",
       "name": "SOUNDSCAPE",
-      "description": "{\"blocks\":[{\"key\":\"55ag\",\"text\":\"SOUNDSCAPE with 2FORTY2 is a premium live music experience that blends world-class entertainment, immersive production, and an elegant atmosphere into one unforgettable night. More than just a concert, SOUNDSCAPE is designed to create a journey where every beat, every performance, and every moment connects the audience through the power of music.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":348,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"198j0\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1plmb\",\"text\":\"Set within the luxurious Indoor Air-Conditioned Marquee at Taj Samudra Colombo, this exclusive event brings together music lovers, friends, and trendsetters for a night filled with energy, excitement, and lasting memories. From captivating live performances to a vibrant crowd atmosphere, SOUNDSCAPE is where music becomes an experience rather than just a performance.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":368,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"6c8hh\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"blj7e\",\"text\":\"Step into a world of rhythm, emotion, and celebration. Feel the energy, embrace the moment, and become part of a night that will be remembered long after the music fades.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":170,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}},{\"key\":\"a6eq9\",\"text\":\"\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"7qed5\",\"text\":\"SOUNDSCAPE with 2FORTY2 — Where Music Meets Experience.\",\"type\":\"header-six\",\"depth\":0,\"inlineStyleRanges\":[{\"offset\":0,\"length\":55,\"style\":\"fontsize-14\"}],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+      "description": "<h6>SOUNDSCAPE with 2FORTY2 is a premium live music experience that blends world-class entertainment, immersive production, and an elegant atmosphere into one unforgettable night. More than just a concert, SOUNDSCAPE is designed to create a journey where every beat, every performance, and every moment connects the audience through the power of music.</h6><h6></h6><h6>Set within the luxurious Indoor Air-Conditioned Marquee at Taj Samudra Colombo, this exclusive event brings together music lovers, friends, and trendsetters for a night filled with energy, excitement, and lasting memories. From captivating live performances to a vibrant crowd atmosphere, SOUNDSCAPE is where music becomes an experience rather than just a performance.</h6><h6></h6><h6>Step into a world of rhythm, emotion, and celebration. Feel the energy, embrace the moment, and become part of a night that will be remembered long after the music fades.</h6><h6></h6><h6>SOUNDSCAPE with 2FORTY2 — Where Music Meets Experience.</h6>",
       "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/RgRN73oMP8V94AW2a5hVkxkbi2LUj6J78YqYpwPI.jpg",
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/wAwPlZgDahAt2pAGKDSyrxKBOiU1mUB26IQeKhKF.jpg",
       "venue": "Taj Samudra Colombo",
@@ -537,8 +537,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.923766218384468,
-      "longitude": 79.84344037406605
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1182",
@@ -1016,8 +1016,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.923766218384468,
-      "longitude": 79.84344037406605
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1218",
