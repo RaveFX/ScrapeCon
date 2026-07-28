@@ -1,12 +1,35 @@
 {
-  "lastSyncTime": "2026-07-28T02:23:42.189Z",
+  "lastSyncTime": "2026-07-28T06:25:14.098Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 12,
-    "TicketsMinistry": 33,
-    "Total": 61
+    "TicketsMinistry": 34,
+    "Total": 62
   },
   "concerts": [
+    {
+      "id": "ticketsministry-1214",
+      "source": "TicketsMinistry",
+      "name": "EPILOGUE’26",
+      "description": "<p>Event Overview:Featured Band: DaddyArtist Lineup: B&S and Surprise ArtistVenue: University of Moratuwa PremisesDate: July 28th, 2026Time: 7:00 PM onwardsExpected Audience: 3,000+ University StudentsTicket Categories & Pricing:Standard: LKR 1400Premium: LKR 1800Alumni: LKR 2500</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/SRng6s5UP4Vi1l1w7GtQwo4t7xioGr7Y6uHjCGYr.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DQzi4tsKPT4JFw6J5D6ualgNEIo87qGaCYD1A0yX.png",
+      "venue": "University Of Moratuwa",
+      "city": "Moratuwa",
+      "dateTime": "2026-07-28T07:00:00.000Z",
+      "originalDateStr": "Tue, Jul 28, 2026, 12:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1400,
+      "maxPrice": 2500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/epilogue26/6a58ae6f4e923",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.79513290494915,
+      "longitude": 79.89625357023675
+    },
     {
       "id": "oneticket-334",
       "source": "OneTicket",
@@ -30,29 +53,6 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
-    },
-    {
-      "id": "ticketsministry-1214",
-      "source": "TicketsMinistry",
-      "name": "EPILOGUE’26",
-      "description": "<p>Event Overview:Featured Band: DaddyArtist Lineup: B&S and Surprise ArtistVenue: University of Moratuwa PremisesDate: July 28th, 2026Time: 7:00 PM onwardsExpected Audience: 3,000+ University StudentsTicket Categories & Pricing:Standard: LKR 1400Premium: LKR 1800Alumni: LKR 2500</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/SRng6s5UP4Vi1l1w7GtQwo4t7xioGr7Y6uHjCGYr.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DQzi4tsKPT4JFw6J5D6ualgNEIo87qGaCYD1A0yX.png",
-      "venue": "University Of Moratuwa",
-      "city": "Moratuwa",
-      "dateTime": "2026-07-28T19:00:00.000Z",
-      "originalDateStr": "Wed, Jul 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1400,
-      "maxPrice": 2500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/epilogue26/6a58ae6f4e923",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.79513290494915,
-      "longitude": 79.89625357023675
     },
     {
       "id": "mytickets-6a3e430800542010113694ec",
@@ -772,8 +772,8 @@
       "source": "TicketsMinistry",
       "name": "ANURAGA",
       "description": "<p>An evening of Music, Meaning & Emotion </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/niEgkQGG3cV6rIxJU15dALeWgmYymvndWPph6qcr.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/WWvaeBBGmi5WlLvBASVvEJ9ahvmdRLqcVeOsXiqz.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/R5azMcgPEEnnOqmYPnQMI6eO34moUY4dpYysJzC0.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/bG5vfu2ygripeooCwFe9RLSAGjsAz25ea9Bi3jDI.jpg",
       "venue": "Holy Cross College Auditorium  Gampaha",
       "city": "null",
       "dateTime": "2026-08-22T18:30:00.000Z",
@@ -956,7 +956,7 @@
       "id": "mytickets-6a4de3887db51a0f260212fd",
       "source": "MyTickets",
       "name": "WAYO YAMAYA (වායෝ යාමය)",
-      "description": "<p>WAYO YAMAYA (වායෝ යාමය)</p><p><br></p><p>Enjoy an unforgettable evening with WAYO, featuring Sashika Nisansala and Chandana Liyanarachchi.</p><p>Date: Saturday, 5th September 2026 Time: 6.30 PM Venue: Musaeus College Auditorium</p><p>A fundraising concert by the Kingswood Union – Colombo Branch in support of the Kingswood College Sports and Education Development Fund.</p><p>Ticket Prices: LKR 12,000 | LKR 10,000 | LKR 7,500 | LKR 5,000 | LKR 3,000 | LKR 2,000 (Balcony)</p><p><br></p>",
+      "description": "<p>WAYO YAMAYA (වායෝ යාමය)</p><p><br></p><p>Enjoy an unforgettable evening with WAYO, featuring Sashika Nisansala and Chandana Liyanarachchi.</p><p>Date: Saturday, 5th September 2026 Time: 6.30 PM Venue: Musaeus College Auditorium</p><p>A fundraising concert by the Kingswood Union – Colombo Branch in support of the Kingswood College Sports and Education Development Fund.</p><p>Ticket Prices: LKR 12,000 | LKR 10,000 | LKR 7,500 | LKR 5,000 | LKR 3,000 | LKR 2,000 (Balcony)</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20YAMAYA%20(%E0%B7%80%E0%B7%8F%E0%B6%BA%E0%B7%9D%20%E0%B6%BA%E0%B7%8F%E0%B6%B8%E0%B6%BA)/1080%20x%201080-1783489198407.jpg",
       "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20YAMAYA%20(%E0%B7%80%E0%B7%8F%E0%B6%BA%E0%B7%9D%20%E0%B6%BA%E0%B7%8F%E0%B6%B8%E0%B6%BA)/1080%20x%201080-1783489198407.jpg",
       "venue": "Musaeus College",
@@ -1316,6 +1316,29 @@
       ],
       "latitude": 7.480618437897388,
       "longitude": 80.31658034784374
+    },
+    {
+      "id": "ticketsministry-1228",
+      "source": "TicketsMinistry",
+      "name": "LOST IN SRI LANKA",
+      "description": "<p>Electronic music lovers, progressive house & melodic techno community, international standard event experience.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/ga2JasiOCesoDewQfcOuq5TJXnrOWkES39qjw9CP.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/NO7fkWHzUlK2f1I4ZVxy6P3dit2f81nCkVl3RNqs.jpg",
+      "venue": "The Other Room",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-09T18:00:00.000Z",
+      "originalDateStr": "Fri, Oct 9, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/lost-in-sri-lanka/b03cfd60-9af9-40a6-8082-1b4abbfbbf46",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.908647493090775,
+      "longitude": 79.86327027499637
     },
     {
       "id": "mytickets-6a1952370caee981ed82a24d",
