@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-28T22:56:04.368Z",
+  "lastSyncTime": "2026-07-29T02:27:46.047Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 12,
+    "OneTicket": 11,
     "TicketsMinistry": 34,
-    "Total": 62
+    "Total": 61
   },
   "concerts": [
     {
@@ -29,30 +29,6 @@
       ],
       "latitude": 6.79513290494915,
       "longitude": 79.89625357023675
-    },
-    {
-      "id": "oneticket-334",
-      "source": "OneTicket",
-      "name": "CHAKRA - Live in 360°",
-      "description": "CHAKRA - Live in 360° happening at Colombo. Date & Time: Wed, Jul 29, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/94158910-1f89bc53-fb1c-48da-9888-21f6547837be.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/67264994-ff42bd35-7512-4c8d-a717-dd2e48b0c7ae.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
-      "dateTime": "2026-07-28T19:00:00.000Z",
-      "originalDateStr": "Wed, Jul 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/chakra-live-in-360",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "mytickets-6a3e430800542010113694ec",
