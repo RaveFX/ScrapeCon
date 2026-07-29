@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-07-29T02:27:46.047Z",
+  "lastSyncTime": "2026-07-29T06:29:13.805Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 11,
-    "TicketsMinistry": 34,
-    "Total": 61
+    "TicketsMinistry": 33,
+    "Total": 60
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1214",
-      "source": "TicketsMinistry",
-      "name": "EPILOGUE’26",
-      "description": "<p>Event Overview:Featured Band: DaddyArtist Lineup: B&S and Surprise ArtistVenue: University of Moratuwa PremisesDate: July 28th, 2026Time: 7:00 PM onwardsExpected Audience: 3,000+ University StudentsTicket Categories & Pricing:Standard: LKR 1400Premium: LKR 1800Alumni: LKR 2500</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/SRng6s5UP4Vi1l1w7GtQwo4t7xioGr7Y6uHjCGYr.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DQzi4tsKPT4JFw6J5D6ualgNEIo87qGaCYD1A0yX.png",
-      "venue": "University Of Moratuwa",
-      "city": "Moratuwa",
-      "dateTime": "2026-07-28T07:00:00.000Z",
-      "originalDateStr": "Tue, Jul 28, 2026, 12:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1400,
-      "maxPrice": 2500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/epilogue26/6a58ae6f4e923",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.79513290494915,
-      "longitude": 79.89625357023675
-    },
     {
       "id": "mytickets-6a3e430800542010113694ec",
       "source": "MyTickets",
@@ -860,29 +837,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
       "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
@@ -904,6 +858,29 @@
       ],
       "latitude": 6.818360999999999,
       "longitude": 79.8889762
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1213",
