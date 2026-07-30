@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-30T10:23:02.474Z",
+  "lastSyncTime": "2026-07-30T13:55:09.380Z",
   "counts": {
-    "MyTickets": 16,
+    "MyTickets": 17,
     "OneTicket": 11,
     "TicketsMinistry": 33,
-    "Total": 60
+    "Total": 61
   },
   "concerts": [
     {
@@ -792,6 +792,28 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "mytickets-6a6b23175c3d99574989d78a",
+      "source": "MyTickets",
+      "name": "Oba Ayemath Avidin - ඔබ අයෙමත් ඇවිදින් ",
+      "description": "<p>Oba Ayemath Avidin - ඔබ අයෙමත් ඇවිදින්&nbsp;</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Oba%20Ayemath%20Avidin%20-%20%E0%B6%94%E0%B6%B6%20%E0%B6%85%E0%B6%BA%E0%B7%99%E0%B6%B8%E0%B6%AD%E0%B7%8A%20%E0%B6%87%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B7%8A%20/WhatsApp%20Image%202026-07-30%20at%209.24.20%20AM-1785406104617.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Oba%20Ayemath%20Avidin%20-%20%E0%B6%94%E0%B6%B6%20%E0%B6%85%E0%B6%BA%E0%B7%99%E0%B6%B8%E0%B6%AD%E0%B7%8A%20%E0%B6%87%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B7%8A%20/WhatsApp%20Image%202026-07-30%20at%209.24.20%20AM-1785406104617.jpeg",
+      "venue": "Kularathna Auditorium - Ananda College",
+      "city": "666548e1a03df8fc2ac5a04a",
+      "dateTime": "2026-09-04T13:00:00.000Z",
+      "originalDateStr": "Fri, Sep 4, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/oba-ayemath-avidin/6a6b23175c3d99574989d78a",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.943256862745098,
+      "longitude": 79.85382745098039
+    },
+    {
       "id": "ticketsministry-1212",
       "source": "TicketsMinistry",
       "name": "PULZE X",
@@ -1344,8 +1366,8 @@
       "source": "OneTicket",
       "name": "හැන්දෑවක පුරාගමනය Anuradhapura",
       "description": "හැන්දෑවක පුරාගමනය Anuradhapura happening at Anuradhapura. Date & Time: Sun, Oct 18, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/40151639-2948e7eb-5ca6-4936-80a8-c374861c9628.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/17412682-36f5c098-50ed-4b51-9c4d-645347df1e9c.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/56390066-dd38404c-6eea-430f-b6b0-8e67b9df9369.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/99965006-e4c64197-c7d0-4bd0-9ac5-ffcad9721627.jpg",
       "venue": "Anuradhapura",
       "city": "Anuradhapura",
       "dateTime": "2026-10-17T19:00:00.000Z",
@@ -1354,7 +1376,7 @@
       "minPrice": 2500,
       "maxPrice": 2500,
       "ticketLink": "https://oneticket.lk/event/හනදවක-පරගමනය-anuradhapura",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Event",
