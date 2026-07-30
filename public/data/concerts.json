@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-30T02:10:03.365Z",
+  "lastSyncTime": "2026-07-30T06:25:57.233Z",
   "counts": {
-    "MyTickets": 16,
+    "MyTickets": 17,
     "OneTicket": 11,
     "TicketsMinistry": 33,
-    "Total": 60
+    "Total": 61
   },
   "concerts": [
     {
@@ -24,8 +24,7 @@
       "ticketLink": "https://mytickets.lk/event/live-loud-concert/6a3e430800542010113694ec",
       "status": "active",
       "tags": [
-        "Concert",
-        "Hot Deal"
+        "Concert"
       ],
       "latitude": 6.951727450980393,
       "longitude": 79.86512156862744
@@ -92,7 +91,8 @@
       "ticketLink": "https://mytickets.lk/event/echoes-of-unity/6a449f9fa6499b0cce6b117d",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.949845098039216,
       "longitude": 79.89084705882352
@@ -207,7 +207,8 @@
       "ticketLink": "https://mytickets.lk/event/yugma-rawa/6a34fde38e2e9b2d7928a6b8",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
@@ -994,6 +995,28 @@
       ],
       "latitude": 6.7135906,
       "longitude": 80.0624692
+    },
+    {
+      "id": "mytickets-6a6875e1305266ba58245e6e",
+      "source": "MyTickets",
+      "name": "Sinaha Thotak - සිනා තොටක් ",
+      "description": "<p>Sinaha Thotak - සිනා තොටක්&nbsp;</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Sinaha%20Thotak%20-%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8F%20%E0%B6%AD%E0%B7%9C%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-07-28%20at%202.44.14%20PM-1785230562176.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Sinaha%20Thotak%20-%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8F%20%E0%B6%AD%E0%B7%9C%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-07-28%20at%202.44.14%20PM-1785230562176.jpeg",
+      "venue": "St. Joseph's Balika Vidyalaya, Kegalle",
+      "city": "666548e1a03df8fc2ac5a331",
+      "dateTime": "2026-09-11T13:00:00.000Z",
+      "originalDateStr": "Fri, Sep 11, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/sinaha-thotak/6a6875e1305266ba58245e6e",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.899021568627451,
+      "longitude": 79.9008862745098
     },
     {
       "id": "mytickets-6a57140eaa5331ca7ddc7b43",
