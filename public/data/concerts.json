@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-07-30T06:25:57.233Z",
+  "lastSyncTime": "2026-07-30T10:23:02.474Z",
   "counts": {
-    "MyTickets": 17,
+    "MyTickets": 16,
     "OneTicket": 11,
     "TicketsMinistry": 33,
-    "Total": 61
+    "Total": 60
   },
   "concerts": [
     {
@@ -698,28 +698,6 @@
       ],
       "latitude": 6.9089,
       "longitude": 79.8676
-    },
-    {
-      "id": "mytickets-6a1d621a4a83bca74b1dd879",
-      "source": "MyTickets",
-      "name": "Karaoke Show Live With DKM",
-      "description": "<p><strong>Karaoke Show Live With DKM</strong></p><p><br></p><p><em>After months of unforgettable karaoke nights and viral moments across Southern Sri Lanka, DKM is finally bringing the experience to Colombo!</em></p><p><br></p><p><em>Join one of Sri Lanka's fastest-growing R&amp;B, Hip Hop, and Pop performers for a night filled with music, energy, and unforgettable memories. This isn't just a concert—it's a chance for fans to sing along, take the spotlight, and be part of the show.</em></p><p><em>Expect live performances of your favorite hits, crowd sing-alongs, special guest appearances, and the unique karaoke atmosphere that has made DKM a social media sensation.</em></p><p><br></p><p><em>Whether you've been following the viral videos online or you've experienced the magic in person, this is your chance to be part of the biggest DKM karaoke night yet.</em></p><p><br></p><p>﻿Location - Taphouse by RnR Colombo</p><p>Date - August 22nd</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Karaoke%20Show%20Live%20With%20DKM/WhatsApp%20Image%202026-06-01%20at%2011.40.10%20AM-1780310357107.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Karaoke%20Show%20Live%20With%20DKM/WhatsApp%20Image%202026-06-01%20at%2011.40.10%20AM-1780310357107.jpeg",
-      "venue": "Taphouse by RnR Colombo - Dutch Hospital Complex",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-08-22T14:00:00.000Z",
-      "originalDateStr": "Sat, Aug 22, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/karaoke-show-live-with-dkm/6a1d621a4a83bca74b1dd879",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.963021568627451,
-      "longitude": 79.88927843137255
     },
     {
       "id": "ticketsministry-1215",
