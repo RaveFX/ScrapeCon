@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-31T10:37:04.655Z",
+  "lastSyncTime": "2026-07-31T14:01:10.815Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 11,
@@ -38,8 +38,8 @@
       "posterUrl": "https://cdn.ticketsministry.com/events/dQLsuKs7HlkOzloL6HqoXhGgvUV7Psw9UK1F3BMr.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
-      "dateTime": "2026-07-31T19:30:00.000Z",
-      "originalDateStr": "Sat, Aug 1, 2026, 01:00 AM",
+      "dateTime": "2026-07-31T18:00:00.000Z",
+      "originalDateStr": "Fri, Jul 31, 2026, 11:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
       "maxPrice": 15000,
@@ -534,7 +534,8 @@
       "ticketLink": "https://mytickets.lk/event/rookantha/6a3bbcf7e1f1dd21df5d7760",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.906864705882353,
       "longitude": 79.89618039215686
