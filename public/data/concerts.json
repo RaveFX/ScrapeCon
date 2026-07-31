@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-07-31T17:27:19.661Z",
+  "lastSyncTime": "2026-07-31T19:21:27.932Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 11,
@@ -91,8 +91,7 @@
       "ticketLink": "https://mytickets.lk/event/echoes-of-unity/6a449f9fa6499b0cce6b117d",
       "status": "active",
       "tags": [
-        "Concert",
-        "Hot Deal"
+        "Concert"
       ],
       "latitude": 6.949845098039216,
       "longitude": 79.89084705882352
