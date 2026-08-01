@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-08-01T16:57:31.382Z",
+  "lastSyncTime": "2026-08-01T19:05:12.711Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 10,
-    "TicketsMinistry": 33,
-    "Total": 59
+    "TicketsMinistry": 31,
+    "Total": 57
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1107",
-      "source": "TicketsMinistry",
-      "name": "ROMANTHIKA HANDEWA – CHAPTER 2",
-      "description": "<h6>UCSC Alumni Association proudly presents “ ROMANTHIKA HANDEWA – CHAPTER 2 ”</h6><h6></h6><h6>Returning on August 01st, 2026, at the Musaeus College Auditorium, this unforgettable evening follows the sold-out success of the 2025 edition. Promising an even more magical and captivating musical experience.</h6><h6></h6><h6>✨ Featured Artists :</h6><h6></h6><h6>* Amarasiri Peiris</h6><h6></h6><h6>* Kasun Kalhara</h6><h6></h6><h6>* Shirley Waijayantha</h6><h6></h6><h6>* Sashika Nisansala</h6><h6></h6><h6>🎶 Musical Direction : Sugath Hettiarachchi</h6><h6></h6><h6>🎤 Host : Kelum Srimal</h6><h6></h6><h6>☎️ Booking Inquiries : 070 751 9709 | 076 451 8709</h6>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/8lPVFtg8UvxuIwu3ke8DYRnSCghL8hqfSCDzgbuW.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SVYsjfMdEgTVS4k2bCHsY2g19ZdgfvJwsVwFsUX9.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-08-01T07:00:00.000Z",
-      "originalDateStr": "Sat, Aug 1, 2026, 12:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/romanthika-handewa-chapter-2/69b9833b5ddfd",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
     {
       "id": "mytickets-69ef04a07feeb30e31f67127",
       "source": "MyTickets",
@@ -98,29 +75,6 @@
       "longitude": 79.84221960784313
     },
     {
-      "id": "ticketsministry-1184",
-      "source": "TicketsMinistry",
-      "name": "HIMA RENU",
-      "description": "<p>හිම රේණු -ආදරයේ සුන්දරම අනන්තය- මතක මන්දිර දොර ඇරෙන</p><p>සිනමා ගී සැදෑව</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202606231700-hima-renu-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202606231700-hima-renu-thumbnail.jpg",
-      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-08-01T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 2, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/hima-renu/6a3a6f4fda904",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.01700065,
-      "longitude": 79.9528444
-    },
-    {
       "id": "mytickets-6a34fde38e2e9b2d7928a6b8",
       "source": "MyTickets",
       "name": "Yugma Rawa - යුග්ම රාව ",
@@ -137,8 +91,7 @@
       "ticketLink": "https://mytickets.lk/event/yugma-rawa/6a34fde38e2e9b2d7928a6b8",
       "status": "active",
       "tags": [
-        "Concert",
-        "Hot Deal"
+        "Concert"
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
@@ -792,29 +745,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
       "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
@@ -836,6 +766,29 @@
       ],
       "latitude": 6.81836630204379,
       "longitude": 79.88409991965251
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1213",
