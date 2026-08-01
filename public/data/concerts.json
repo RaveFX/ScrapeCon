@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-07-31T22:58:12.196Z",
+  "lastSyncTime": "2026-08-01T02:36:39.360Z",
   "counts": {
-    "MyTickets": 17,
+    "MyTickets": 16,
     "OneTicket": 11,
     "TicketsMinistry": 33,
-    "Total": 61
+    "Total": 60
   },
   "concerts": [
-    {
-      "id": "mytickets-6a3e430800542010113694ec",
-      "source": "MyTickets",
-      "name": "Live & loud concert",
-      "description": "<p>Live &amp; loud concert</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Live%20&%20loud%20concert/WhatsApp%20Image%202026-06-26%20at%2011.46.54%20AM-1782465106963.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Live%20&%20loud%20concert/WhatsApp%20Image%202026-06-26%20at%2011.46.54%20AM-1782465106963.jpeg",
-      "venue": "CINNAMON LAKE SIDE GRAND",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-07-31T14:00:00.000Z",
-      "originalDateStr": "Fri, Jul 31, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/live-loud-concert/6a3e430800542010113694ec",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.951727450980393,
-      "longitude": 79.86512156862744
-    },
     {
       "id": "ticketsministry-1153",
       "source": "TicketsMinistry",
