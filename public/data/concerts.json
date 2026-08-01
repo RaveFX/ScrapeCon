@@ -1,9 +1,9 @@
 {
-  "lastSyncTime": "2026-08-01T06:27:25.169Z",
+  "lastSyncTime": "2026-08-01T09:56:38.721Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 11,
-    "TicketsMinistry": 32,
+    "OneTicket": 10,
+    "TicketsMinistry": 33,
     "Total": 59
   },
   "concerts": [
@@ -73,30 +73,6 @@
       ],
       "latitude": 6.94074705882353,
       "longitude": 79.84221960784313
-    },
-    {
-      "id": "oneticket-331",
-      "source": "OneTicket",
-      "name": "ප්‍රාර්ථනාවක් live in Concert",
-      "description": "ප්‍රාර්ථනාවක් live in Concert happening at Maliyadeva Boys College Auditorium. Date & Time: Sun, Aug 2, 2026, 12:00 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/76353557-5a89c640-399b-4026-a5bc-9de19973d439.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/88724759-93e476a5-2184-44fa-ae13-87c5e0270a86.jpg",
-      "venue": "Maliyadeva Boys College Auditorium",
-      "city": "Maliyadeva Boys College Auditorium",
-      "dateTime": "2026-08-01T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 2, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/prarthnawak",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 7.4818,
-      "longitude": 80.3609
     },
     {
       "id": "ticketsministry-1184",
@@ -539,6 +515,29 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "ticketsministry-1223",
+      "source": "TicketsMinistry",
+      "name": "LOCO MOTIF THE ENCORE",
+      "description": "<p>Some songs never really leave you. They simply wait for the right moment to be heard again. </p><p>LOCO MOTIF: The Encore welcomes Jukebox, The Rebels, and The Funk Bots for an evening shaped by nostalgia, timeless sounds, and the kind of atmosphere that keeps you around long after the final song. </p><p>Familiar melodies, new memories, and a crowd that feels like it has always belonged.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/ZHap4O2fYrbIZWX6VOVKMl2cd24BIBRgqp92mi7U.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/lCze5loMgEOzLjUFBUD1qNZGcZQZNcpesFAXBy80.png",
+      "venue": "The Doctors House Matara",
+      "city": "Colombo",
+      "dateTime": "2026-08-15T19:30:00.000Z",
+      "originalDateStr": "Sun, Aug 16, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/loco-motif-the-encore/39dd3e11-e129-4730-924e-930da9eebe7f",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.9369125,
+      "longitude": 80.5155029
     },
     {
       "id": "ticketsministry-1178",
