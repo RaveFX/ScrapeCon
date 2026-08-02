@@ -1,79 +1,12 @@
 {
-  "lastSyncTime": "2026-08-01T22:53:22.120Z",
+  "lastSyncTime": "2026-08-02T02:35:33.912Z",
   "counts": {
-    "MyTickets": 16,
+    "MyTickets": 13,
     "OneTicket": 10,
     "TicketsMinistry": 31,
-    "Total": 57
+    "Total": 54
   },
   "concerts": [
-    {
-      "id": "mytickets-69ef04a07feeb30e31f67127",
-      "source": "MyTickets",
-      "name": "සුසර ගී රාවේ 16 - Susara Ge Rawe",
-      "description": "<p>සුසර ගී රාවේ 16</p><p>The Fondest Melodies of</p><p>Dr. Rohana Weerasinghe</p><p>රෝහණ රන්සර</p><p><br></p><p>සමනළ රෑනයි - රෑ හඳ පානයි</p><p>තාරුණ්‍යයේ නැවුම් ස්පර්ශයෙන්</p><p>From Dream to Reality</p><p><br></p><p>The Maestro Leads - The Next Generation</p><p>Featuring Raveen, Nuwandika, Falan, Amandya, Thanura &amp; Himasha</p><p><br></p><p>🗓️ Saturday, 1st August 2026</p><p>⏰ 6.30 PM</p><p>📍 BMICH</p><p><br></p><p>Organized by Araliya Group, Past Pupils Association of Dharmapala Vidyalaya, Pannipitiya</p><p>In support of the IT Skill Lab - Dharmapala Vidyalaya</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B7%83%E0%B7%94%E0%B7%83%E0%B6%BB%20%E0%B6%9C%E0%B7%93%20%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%9A%2016%20-%20Susara%20Ge%20Rawe/Web%20Banner.jpg-1777347424284.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B7%83%E0%B7%94%E0%B7%83%E0%B6%BB%20%E0%B6%9C%E0%B7%93%20%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%9A%2016%20-%20Susara%20Ge%20Rawe/Web%20Banner.jpg-1777347424284.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-08-01T13:00:00.000Z",
-      "originalDateStr": "Sat, Aug 1, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/16-susara-ge-rawe/69ef04a07feeb30e31f67127",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
-      "id": "mytickets-6a449f9fa6499b0cce6b117d",
-      "source": "MyTickets",
-      "name": "ECHOES OF UNITY",
-      "description": "<p><strong>ECHOES OF UNITY</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/ECHOES%20OF%20UNITY/Unity_20260630_221612_0000.jpg-1782882122635.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/ECHOES%20OF%20UNITY/Unity_20260630_221612_0000.jpg-1782882122635.jpeg",
-      "venue": "CINNAMON LAKE SIDE GRAND MARQUEE",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-08-01T13:30:00.000Z",
-      "originalDateStr": "Sat, Aug 1, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/echoes-of-unity/6a449f9fa6499b0cce6b117d",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.949845098039216,
-      "longitude": 79.89084705882352
-    },
-    {
-      "id": "mytickets-6a224f23d40eeaaa80896ab8",
-      "source": "MyTickets",
-      "name": "ආල හැන්දෑව - Aala Hendawa",
-      "description": "<p><strong>ආල හැන්දෑව - Aala Hendawa</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B6%86%E0%B6%BD%20%E0%B7%84%E0%B7%90%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B7%91%E0%B7%80%20-%20Aala%20Hendawa/Aala%20handawa%201x1.jpg-1780633063586.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B6%86%E0%B6%BD%20%E0%B7%84%E0%B7%90%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B7%91%E0%B7%80%20-%20Aala%20Hendawa/Aala%20handawa%201x1.jpg-1780633063586.jpeg",
-      "venue": "Jie Jie Beach Jetwing Panadura",
-      "city": "666548e1a03df8fc2ac5a55a",
-      "dateTime": "2026-08-01T14:30:00.000Z",
-      "originalDateStr": "Sat, Aug 1, 2026, 08:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/aala-hendawa/6a224f23d40eeaaa80896ab8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.94074705882353,
-      "longitude": 79.84221960784313
-    },
     {
       "id": "mytickets-6a34fde38e2e9b2d7928a6b8",
       "source": "MyTickets",
@@ -417,8 +350,7 @@
       "ticketLink": "https://mytickets.lk/event/rookantha/6a3bbcf7e1f1dd21df5d7760",
       "status": "active",
       "tags": [
-        "Concert",
-        "Hot Deal"
+        "Concert"
       ],
       "latitude": 6.906864705882353,
       "longitude": 79.89618039215686
