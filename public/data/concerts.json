@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-08-02T22:54:47.900Z",
+  "lastSyncTime": "2026-08-03T02:37:18.580Z",
   "counts": {
-    "MyTickets": 14,
+    "MyTickets": 13,
     "OneTicket": 10,
     "TicketsMinistry": 31,
-    "Total": 55
+    "Total": 54
   },
   "concerts": [
-    {
-      "id": "mytickets-6a34fde38e2e9b2d7928a6b8",
-      "source": "MyTickets",
-      "name": "Yugma Rawa - යුග්ම රාව ",
-      "description": "<p>Yugma Rawa - යුග්ම රාව&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Yugma%20Rawa%20-%20%E0%B6%BA%E0%B7%94%E0%B6%9C%E0%B7%8A%E0%B6%B8%20%E0%B6%BB%E0%B7%8F%E0%B7%80%20/1x1%20non.jpg%20(1)-1781857638756.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Yugma%20Rawa%20-%20%E0%B6%BA%E0%B7%94%E0%B6%9C%E0%B7%8A%E0%B6%B8%20%E0%B6%BB%E0%B7%8F%E0%B7%80%20/1x1%20non.jpg%20(1)-1781857638756.jpeg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-08-02T14:00:00.000Z",
-      "originalDateStr": "Sun, Aug 2, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 12500,
-      "ticketLink": "https://mytickets.lk/event/yugma-rawa/6a34fde38e2e9b2d7928a6b8",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
     {
       "id": "ticketsministry-1198",
       "source": "TicketsMinistry",
