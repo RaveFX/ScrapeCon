@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-04T02:21:56.045Z",
+  "lastSyncTime": "2026-08-04T06:25:50.504Z",
   "counts": {
     "MyTickets": 13,
     "OneTicket": 10,
@@ -388,7 +388,7 @@
       "bannerUrl": "https://cdn.ticketsministry.com/events/ZHap4O2fYrbIZWX6VOVKMl2cd24BIBRgqp92mi7U.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/lCze5loMgEOzLjUFBUD1qNZGcZQZNcpesFAXBy80.png",
       "venue": "The Doctors House Matara",
-      "city": "Colombo",
+      "city": "Matara",
       "dateTime": "2026-08-15T19:30:00.000Z",
       "originalDateStr": "Sun, Aug 16, 2026, 01:00 AM",
       "priceCurrency": "LKR",
@@ -400,7 +400,7 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 5.9369125,
+      "latitude": 5.936912499999999,
       "longitude": 80.5155029
     },
     {
