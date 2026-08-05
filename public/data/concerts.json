@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-08-05T10:32:17.823Z",
+  "lastSyncTime": "2026-08-05T14:04:32.524Z",
   "counts": {
     "MyTickets": 15,
     "OneTicket": 10,
-    "TicketsMinistry": 32,
-    "Total": 57
+    "TicketsMinistry": 31,
+    "Total": 56
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1198",
-      "source": "TicketsMinistry",
-      "name": "RIDHMATHRAA",
-      "description": "<p>RIDHMATHRAA '26 is the inaugural musical entertainment event organized by the FacilitiesManagement Students’ Society (FMSS), the official student body of the Department ofFacilities Management, Faculty of Architecture, University of Moratuwa.Lock The Date For A Night Filled With Music And Unforgettable Memories With:Piyath | Kanchana | Centigradz | Wasthi with PYRAMIDZ</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/51URvHVhiRfVK9pMmkdH4zCVsN9Qfj8TYJ9H6QbB.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/b51Mluwd66rr4iaG4oxcTrc1FgUlcBao38OfGHnA.jpg",
-      "venue": "University Of Moratuwa",
-      "city": "Moratuwa",
-      "dateTime": "2026-08-04T18:00:00.000Z",
-      "originalDateStr": "Tue, Aug 4, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 2000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/ridhmathraa/6a4899d7764b8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.79513290494915,
-      "longitude": 79.89625357023675
-    },
     {
       "id": "oneticket-347",
       "source": "OneTicket",
@@ -126,29 +103,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1156",
-      "source": "TicketsMinistry",
-      "name": "API NODANNA LIVE ON STAGE",
-      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Comedy Show"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
-    },
-    {
       "id": "ticketsministry-1203",
       "source": "TicketsMinistry",
       "name": "SATHKORALA SWAPTHA SWARA",
@@ -170,6 +124,29 @@
       ],
       "latitude": 7.01700065,
       "longitude": 79.9528444
+    },
+    {
+      "id": "ticketsministry-1156",
+      "source": "TicketsMinistry",
+      "name": "API NODANNA LIVE ON STAGE",
+      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
+      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
+      "city": "Colombo 10",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Comedy Show"
+      ],
+      "latitude": 6.924842302416159,
+      "longitude": 79.86836773637283
     },
     {
       "id": "oneticket-325",
@@ -385,8 +362,8 @@
       "source": "TicketsMinistry",
       "name": "LOCO MOTIF THE ENCORE",
       "description": "<p>Some songs never really leave you. They simply wait for the right moment to be heard again. </p><p>LOCO MOTIF: The Encore welcomes Jukebox, The Rebels, and The Funk Bots for an evening shaped by nostalgia, timeless sounds, and the kind of atmosphere that keeps you around long after the final song. </p><p>Familiar melodies, new memories, and a crowd that feels like it has always belonged.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/ZHap4O2fYrbIZWX6VOVKMl2cd24BIBRgqp92mi7U.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/lCze5loMgEOzLjUFBUD1qNZGcZQZNcpesFAXBy80.png",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/G6kVA32eM8QPVrt5RqNStW0DblauWwXmWRZCAbw8.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qQy8Ha9Xv9kbUipDrAbWNxdJ6nlF96mRUieUmD09.png",
       "venue": "The Doctors House Matara",
       "city": "Matara",
       "dateTime": "2026-08-15T19:30:00.000Z",
