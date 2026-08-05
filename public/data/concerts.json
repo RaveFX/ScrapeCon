@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-05T14:04:32.524Z",
+  "lastSyncTime": "2026-08-05T17:26:52.064Z",
   "counts": {
     "MyTickets": 15,
     "OneTicket": 10,
@@ -369,8 +369,8 @@
       "dateTime": "2026-08-15T19:30:00.000Z",
       "originalDateStr": "Sun, Aug 16, 2026, 01:00 AM",
       "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
+      "minPrice": 3500,
+      "maxPrice": 3500,
       "ticketLink": "https://www.ticketsministry.com/concerts/loco-motif-the-encore/39dd3e11-e129-4730-924e-930da9eebe7f",
       "status": "active",
       "tags": [
