@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-06T06:28:03.122Z",
+  "lastSyncTime": "2026-08-06T10:36:26.527Z",
   "counts": {
     "MyTickets": 15,
     "OneTicket": 11,
-    "TicketsMinistry": 31,
-    "Total": 57
+    "TicketsMinistry": 34,
+    "Total": 60
   },
   "concerts": [
     {
@@ -103,29 +103,6 @@
       "longitude": 80.5762
     },
     {
-      "id": "ticketsministry-1203",
-      "source": "TicketsMinistry",
-      "name": "SATHKORALA SWAPTHA SWARA",
-      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
-      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.01700065,
-      "longitude": 79.9528444
-    },
-    {
       "id": "ticketsministry-1156",
       "source": "TicketsMinistry",
       "name": "API NODANNA LIVE ON STAGE",
@@ -147,6 +124,29 @@
       ],
       "latitude": 6.924842302416159,
       "longitude": 79.86836773637283
+    },
+    {
+      "id": "ticketsministry-1203",
+      "source": "TicketsMinistry",
+      "name": "SATHKORALA SWAPTHA SWARA",
+      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
+      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-08-08T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.01700065,
+      "longitude": 79.9528444
     },
     {
       "id": "oneticket-325",
@@ -257,7 +257,7 @@
       "minPrice": 6000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/soundscape/6a2bedf64d99e",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -385,9 +385,9 @@
       "source": "TicketsMinistry",
       "name": "SPACE LOVE",
       "description": "<p>Where Hearts Meet The Beat</p><p></p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606201146-space-love-banner.png",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606201146-space-love-thumbnail.png",
-      "venue": "Kurunegala",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/AMrmeCNhePVLqTfPSm3EFqqL31bfcDhKvXURRMex.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/mEe1tEwOS3m0tccGZqk34GczQW0CnMHoyGoffHvA.jpg",
+      "venue": "Invite Hotel Kurunegala",
       "city": "Kurunegala",
       "dateTime": "2026-08-16T11:00:00.000Z",
       "originalDateStr": "Sun, Aug 16, 2026, 04:30 PM",
@@ -400,8 +400,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 7.480618437897388,
-      "longitude": 80.31658034784374
+      "latitude": 7.420170512061967,
+      "longitude": 80.35387481130022
     },
     {
       "id": "oneticket-337",
@@ -587,6 +587,52 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "ticketsministry-1238",
+      "source": "TicketsMinistry",
+      "name": "THE VOICE IN THE ROOM",
+      "description": "<p>The Chamber Music Society of Colombo announced that it will present “The Voice in the Room,” a recital featuring the tenor Amar Muchhala and the pianist Johann Peiris, on Aug. 29 and 30 at the Goethe-Institut Hall.The program offers an ambitious, cross-genre journey through French art song, Hungarian Romanticism, and 19th-century opera, designed specifically for the tight acoustics of a chamber setting.The first half begins with four mélodies by Henri Duparc, setting poetry by Charles Baudelaire (“L’invitation au voyage,”“La vie antérieure”), Jean Lahor (“Chanson triste”), and Leconte de Lisle (“Phidylé”). The duo will then navigate Franz Liszt’s turbulent Tre Sonetti di Petrarca (Sonetti 104, 47, and 123), a cycle that translates Petrarch’s torment and devotion into virtuosic keyboard writing and expansive vocal lines.After intermission, the performance turns toward the dramatic stage with three staple tenor showpieces: Giacomo Puccini’s mournful “E lucevan le stelle” from Tosca; Amilcare Ponchielli’s soaring “Cielo e mar!” from La Gioconda; and Georges Bizet’s desperate “La fleur que tu m’avais jetée” from Carmen.“Bringing art song and operatic literature out of the massive opera house and placing them into an intimate, transparent chamber setting is central to the philosophical spirit of ‘The Voice in the Room,’” said Lakshman Joseph-de Saram, the artistic director of the Chamber Music Society of Colombo. “In a room of this scale, there is nowhere for a performer tohide, nor is there any distance for the listener to escape into comfortable detachment. Every nuance of tone, every breath, and every inflection of poetic text becomes an immediate, unmediated encounter. In Amar, we have a singer whose dramatic range and international pedigree are matched by extraordinary vocal nuance, and in Johann, a partnercapable of executing Liszt’s scale and Duparc’s subtle colors with immense clarity. Together, they strip these monumental works down to their barest, most compelling emotional core.”Born in Bombay and resident in London, Mr. Muchhala read French literature at Franklin & Marshall College in the United States before studying on the prestigious opera course at the Guildhall School of Music and Drama. He made his Royal Opera House, Covent Garden, debut in the world premiere of David Bruce’s The Firework-Maker’s Daughter, subsequently originating the role of Alex in Søren Nils Eichberg’s Glare and covering Jonas Kaufmann inthe title role of Massenet’s Werther.His wide-ranging international career encompasses European stages - including title roles at Theater Regensburg, Staatsoper Hannover, and Dorset Opera - alongside appearances with major UK ensembles such as the London Philharmonic Orchestra, the Bournemouth Symphony Orchestra, and the Hallé.Johann Peiris appears as the holder of the Malinee Jayasinghe-Peris Chair of the CMSC. The concerts are supported inpart by A. Baur & Co., the Tokyo Cement Group, and the Goethe-Institut.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TeN6Gu0uE8pYaAF8y8840kMo63TKNEQOwUYEGJT1.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/knPitbDcvHs3tP5iHehuKK9pZubIUZ8DolHTECGM.png",
+      "venue": "The Goethe Institute Colombo",
+      "city": "Colombo 07",
+      "dateTime": "2026-08-29T19:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-voice-in-the-room/6a743d70e95f0",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.9098561,
+      "longitude": 79.87089619999999
+    },
+    {
+      "id": "ticketsministry-1239",
+      "source": "TicketsMinistry",
+      "name": "THE VOICE IN THE ROOM",
+      "description": "<p>The Chamber Music Society of Colombo announced that it will present “The Voice in the Room,” a recital featuring the tenor Amar Muchhala and the pianist Johann Peiris, on Aug. 29 and 30 at the Goethe-Institut Hall.The program offers an ambitious, cross-genre journey through French art song, Hungarian Romanticism, and 19th-century opera, designed specifically for the tight acoustics of a chamber setting.The first half begins with four mélodies by Henri Duparc, setting poetry by Charles Baudelaire (“L’invitation au voyage,”“La vie antérieure”), Jean Lahor (“Chanson triste”), and Leconte de Lisle (“Phidylé”). The duo will then navigate Franz Liszt’s turbulent Tre Sonetti di Petrarca (Sonetti 104, 47, and 123), a cycle that translates Petrarch’s torment and devotion into virtuosic keyboard writing and expansive vocal lines.After intermission, the performance turns toward the dramatic stage with three staple tenor showpieces: Giacomo Puccini’s mournful “E lucevan le stelle” from Tosca; Amilcare Ponchielli’s soaring “Cielo e mar!” from La Gioconda; and Georges Bizet’s desperate “La fleur que tu m’avais jetée” from Carmen.“Bringing art song and operatic literature out of the massive opera house and placing them into an intimate, transparent chamber setting is central to the philosophical spirit of ‘The Voice in the Room,’” said Lakshman Joseph-de Saram, the artistic director of the Chamber Music Society of Colombo. “In a room of this scale, there is nowhere for a performer tohide, nor is there any distance for the listener to escape into comfortable detachment. Every nuance of tone, every breath, and every inflection of poetic text becomes an immediate, unmediated encounter. In Amar, we have a singer whose dramatic range and international pedigree are matched by extraordinary vocal nuance, and in Johann, a partnercapable of executing Liszt’s scale and Duparc’s subtle colors with immense clarity. Together, they strip these monumental works down to their barest, most compelling emotional core.”Born in Bombay and resident in London, Mr. Muchhala read French literature at Franklin & Marshall College in the United States before studying on the prestigious opera course at the Guildhall School of Music and Drama. He made his Royal Opera House, Covent Garden, debut in the world premiere of David Bruce’s The Firework-Maker’s Daughter, subsequently originating the role of Alex in Søren Nils Eichberg’s Glare and covering Jonas Kaufmann inthe title role of Massenet’s Werther.His wide-ranging international career encompasses European stages - including title roles at Theater Regensburg, Staatsoper Hannover, and Dorset Opera - alongside appearances with major UK ensembles such as the London Philharmonic Orchestra, the Bournemouth Symphony Orchestra, and the Hallé.Johann Peiris appears as the holder of the Malinee Jayasinghe-Peris Chair of the CMSC. The concerts are supported inpart by A. Baur & Co., the Tokyo Cement Group, and the Goethe-Institut.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/GNuuJk2vT14b5C9Kw8WEHeHOCvgsfOyuL6H7V7xH.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/c5leTw166mlB78bERKrg1B0ZALZxIFq1f3Ayo4lR.png",
+      "venue": "The Goethe Institute Colombo",
+      "city": "Colombo 07",
+      "dateTime": "2026-08-30T19:30:00.000Z",
+      "originalDateStr": "Mon, Aug 31, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-voice-in-the-room/6a743e2707493",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.9098561,
+      "longitude": 79.87089619999999
+    },
+    {
       "id": "mytickets-6a6b23175c3d99574989d78a",
       "source": "MyTickets",
       "name": "Oba Ayemath Avidin - ඔබ අයෙමත් ඇවිදින් ",
@@ -633,29 +679,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1220",
-      "source": "TicketsMinistry",
-      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
-      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
-      "venue": "KDU Football Grounds Rathmalana",
-      "city": "Ratmalana",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 32000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.81836630204379,
-      "longitude": 79.88409991965251
-    },
-    {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
@@ -677,6 +700,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1220",
+      "source": "TicketsMinistry",
+      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
+      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
+      "venue": "KDU Football Grounds Rathmalana",
+      "city": "Ratmalana",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 32000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.81836630204379,
+      "longitude": 79.88409991965251
     },
     {
       "id": "ticketsministry-1213",
@@ -1045,8 +1091,8 @@
       "source": "OneTicket",
       "name": "මීගමු කලපුවේ අවාරෙක ආලේ",
       "description": "මීගමු කලපුවේ අවාරෙක ආලේ happening at Visual Village. Date & Time: Mon, Sep 28, 2026, 12:00 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/50992070-d6ce9d73-c1ce-430d-ba54-01fd3966aea1.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/12344339-cbd3e9c2-d162-4b1c-bd07-b979bf74148d.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/28461432-887584aa-3163-474c-899a-54e797ed1cb4.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/68967683-1ed80ecb-0ae6-487d-a49c-533c50c8a220.jpg",
       "venue": "Visual Village",
       "city": "Visual Village",
       "dateTime": "2026-09-27T18:30:00.000Z",
@@ -1249,6 +1295,29 @@
       ],
       "latitude": 6.904041176470589,
       "longitude": 79.87359215686274
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>𝐃𝐨 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐂𝐡𝐢𝐥𝐥 𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬 𝐂𝐨𝐦𝐞 𝐓𝐨 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐢𝐬 𝐍𝐢𝐠𝐡𝐭  𝐆𝐮𝐲𝐬 𝗪𝗶𝘁𝗵  Family's Friend's Squad  Fionce And Fioncee  All Are Guys 2026.10.17 At Avenra Gangaara Wennappuwa. Doors Open At 6.30 Onwards𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚𝐹𝑡. 𝐵𝑎𝑐ℎ𝑖 𝑆𝑢𝑠𝑎𝑛𝐶𝑒𝑛𝑡𝑖𝑔𝑟𝑎𝑑𝑒𝑧 𝐽𝑎𝑦𝑎 𝑆𝑟𝑖   𝑆𝑒𝑛𝑎𝑛𝑎𝑦𝑎𝑘𝑎 𝑊𝑒𝑟𝑎𝑙𝑖𝑦𝑎𝑑𝑑𝑒ᴛɪᴄᴋᴇᴛꜱ ᴄᴀᴛᴇɢᴏʀɪᴇꜱ ꜱɪʟᴠᴇʀ : ʀꜱ.4000.00   ꜱɪʟᴠᴇʀ : ʀꜱ.35000.00 (10 ᴘᴀx ᴛᴀʙʟᴇ)ɢᴏʟᴅ : ʀꜱ5000.00 (ᴏɴᴇ ʙᴇᴇʀ)   ɢᴏʟᴅ : ʀꜱ.45000.00 (10 ʙᴇᴇʀ ꜰᴏʀ 10 ᴘᴀx ᴛᴀʙʟᴇ)ᴘʟᴀᴛɪɴᴜᴍ : ʀꜱ.75000.00 (01 ᴡʜɪꜱᴋᴇʏ ʙᴏᴛᴛʟᴇ, 01 ᴄʜᴇᴀꜱᴇʀ ꜰᴏʀ 10 ᴘᴀx ᴛᴀʙʟᴇ)𝐒𝐞𝐚𝐭𝐢𝐧𝐠 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧1. ɢʀᴏᴜᴘѕ ᴏғ 10 ᴛɪᴄᴋᴇᴛѕ ʜᴏʟᴅᴇʀѕ ᴡɪʟʟ ʀᴇᴄɪᴇᴠᴇ ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴘʀɪᴠᴀᴛᴇ ᴛᴀʙʟᴇ2. ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴛɪᴄᴋᴇᴛ ʜᴏʟᴅᴇʀѕ ᴡɪʟʟ ʙᴇ ѕᴇᴀᴛᴇᴅ ᴏɴ ᴀ ѕʜᴀʀᴇᴅ ʙᴀѕɪѕ 𝗥𝗲𝘀𝗮𝗿𝘃𝗮𝘁𝗶𝗼𝗻𝘀 & 𝗜𝗻𝗾𝘂𝗶𝗿𝗶𝗲𝘀 𝗖𝗮𝗹𝗹 𝗢𝗿 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽  𝟬𝟳𝟭 𝟯𝟴𝟭 𝟯𝟴𝟭 𝟲</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608061521-chill-theory-at-gangaara-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608061521-chill-theory-at-gangaara-thumbnail.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "null",
+      "dateTime": "2026-10-17T19:30:00.000Z",
+      "originalDateStr": "Sun, Oct 18, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 50000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.3512177,
+      "longitude": 79.85068749999999
     },
     {
       "id": "oneticket-371",
