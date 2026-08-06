@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-06T14:03:18.491Z",
+  "lastSyncTime": "2026-08-06T23:56:32.772Z",
   "counts": {
     "MyTickets": 15,
-    "OneTicket": 11,
+    "OneTicket": 10,
     "TicketsMinistry": 34,
-    "Total": 60
+    "Total": 59
   },
   "concerts": [
     {
@@ -147,30 +147,6 @@
       ],
       "latitude": 7.01700065,
       "longitude": 79.9528444
-    },
-    {
-      "id": "oneticket-325",
-      "source": "OneTicket",
-      "name": "Mathaka Handiya",
-      "description": "Mathaka Handiya happening at Colombo. Date & Time: Sun, Aug 9, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/40858660-c9dbaf00-ec29-4dbf-a951-045d663ef5f6.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/15727083-383a8217-18a7-4f1d-80e4-cb9ed8f390df.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
-      "dateTime": "2026-08-08T19:00:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/mathaka-handiya",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1202",
@@ -1188,8 +1164,8 @@
       "description": "<p>Enter a world of deep sound, dark aesthetics, and timeless energy. A carefully curated experience for those who live beyond the ordinary.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/OsTrjQzdksx8WBMh4AcLmos8blrVUDgf9bejW6bM.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/NO7fkWHzUlK2f1I4ZVxy6P3dit2f81nCkVl3RNqs.jpg",
-      "venue": "The Other Room",
-      "city": "Colombo 07",
+      "venue": "TBA",
+      "city": "Colombo",
       "dateTime": "2026-10-09T18:00:00.000Z",
       "originalDateStr": "Fri, Oct 9, 2026, 11:30 PM",
       "priceCurrency": "LKR",
@@ -1201,8 +1177,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.908647493090775,
-      "longitude": 79.86327027499637
+      "latitude": 6.9216098039215685,
+      "longitude": 79.87390588235294
     },
     {
       "id": "mytickets-6a1952370caee981ed82a24d",
