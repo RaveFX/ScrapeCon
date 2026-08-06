@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-06T02:24:16.757Z",
+  "lastSyncTime": "2026-08-06T06:28:03.122Z",
   "counts": {
     "MyTickets": 15,
-    "OneTicket": 10,
+    "OneTicket": 11,
     "TicketsMinistry": 31,
-    "Total": 56
+    "Total": 57
   },
   "concerts": [
     {
@@ -502,7 +502,7 @@
       "bannerUrl": "https://cdn.ticketsministry.com/events/R5azMcgPEEnnOqmYPnQMI6eO34moUY4dpYysJzC0.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/bG5vfu2ygripeooCwFe9RLSAGjsAz25ea9Bi3jDI.jpg",
       "venue": "Holy Cross College Auditorium  Gampaha",
-      "city": "null",
+      "city": "Gampaha",
       "dateTime": "2026-08-22T18:30:00.000Z",
       "originalDateStr": "Sun, Aug 23, 2026, 12:00 AM",
       "priceCurrency": "LKR",
@@ -1041,6 +1041,30 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "oneticket-402",
+      "source": "OneTicket",
+      "name": "මීගමු කලපුවේ අවාරෙක ආලේ",
+      "description": "මීගමු කලපුවේ අවාරෙක ආලේ happening at Visual Village. Date & Time: Mon, Sep 28, 2026, 12:00 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/50992070-d6ce9d73-c1ce-430d-ba54-01fd3966aea1.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/12344339-cbd3e9c2-d162-4b1c-bd07-b979bf74148d.jpg",
+      "venue": "Visual Village",
+      "city": "Visual Village",
+      "dateTime": "2026-09-27T18:30:00.000Z",
+      "originalDateStr": "Mon, Sep 28, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/මගම-කලපව-අවරක-ආල",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.955805882352942,
+      "longitude": 79.87421960784313
+    },
+    {
       "id": "oneticket-342",
       "source": "OneTicket",
       "name": "නේත්‍රා(Nethraa) Live in Concert chapter 2",
@@ -1184,7 +1208,7 @@
       "source": "TicketsMinistry",
       "name": "ECHOES OF MELODIES",
       "description": "<p>Annesley with Indrani, Lankika, Chandral, Rukshan and Mangala presenting the golden era of Moonstones and Golden Chimes.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608050945-echoes-of-melodies-banner.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/sD1k3EO3GKem4uhDtCnQwMi1jDM4xDXLRy7DoeMA.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608050945-echoes-of-melodies-thumbnail.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
