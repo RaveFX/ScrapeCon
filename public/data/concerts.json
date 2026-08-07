@@ -1,36 +1,12 @@
 {
-  "lastSyncTime": "2026-08-07T10:50:47.882Z",
+  "lastSyncTime": "2026-08-07T12:58:16.440Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 10,
+    "OneTicket": 9,
     "TicketsMinistry": 34,
-    "Total": 60
+    "Total": 59
   },
   "concerts": [
-    {
-      "id": "oneticket-347",
-      "source": "OneTicket",
-      "name": "Sankalana",
-      "description": "Sankalana happening at Colombo. Date & Time: Sat, Aug 8, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/71316421-616fce36-3113-46fc-9aed-7697ab97662b.png",
-      "posterUrl": "https://storage.googleapis.com/oneticket/29518537-bc24caa3-9707-4013-94fd-857758b14a73.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
-      "dateTime": "2026-08-07T19:00:00.000Z",
-      "originalDateStr": "Sat, Aug 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/sankalana",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
     {
       "id": "ticketsministry-1169",
       "source": "TicketsMinistry",
