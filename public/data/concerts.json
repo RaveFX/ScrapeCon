@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-07T07:11:55.804Z",
+  "lastSyncTime": "2026-08-07T08:57:02.539Z",
   "counts": {
-    "MyTickets": 16,
+    "MyTickets": 15,
     "OneTicket": 11,
     "TicketsMinistry": 34,
-    "Total": 61
+    "Total": 60
   },
   "concerts": [
     {
@@ -309,28 +309,6 @@
       ],
       "latitude": 6.906864705882353,
       "longitude": 79.89618039215686
-    },
-    {
-      "id": "mytickets-6a277c5e2ed4eb576e143556",
-      "source": "MyTickets",
-      "name": "Mathaka Hathak Live In Concert -මතක හතක්",
-      "description": "<h2><strong>Mathaka Hathak Live In Concert -මතක හතක්</strong></h2>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Mathaka%20Hathak%20Live%20In%20Concert%20-%E0%B6%B8%E0%B6%AD%E0%B6%9A%20%E0%B7%84%E0%B6%AD%E0%B6%9A%E0%B7%8A/WhatsApp%20Image%202026-06-08%20at%2021.-1780971764710.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Mathaka%20Hathak%20Live%20In%20Concert%20-%E0%B6%B8%E0%B6%AD%E0%B6%9A%20%E0%B7%84%E0%B6%AD%E0%B6%9A%E0%B7%8A/WhatsApp%20Image%202026-06-08%20at%2021.-1780971764710.jpg",
-      "venue": "Polgahawela Nagara Shalawa-පොල්ගහවෙල නගර ශාලාව",
-      "city": "666548e1a03df8fc2ac5a5b5",
-      "dateTime": "2026-08-15T13:00:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 3000,
-      "ticketLink": "https://mytickets.lk/event/mathaka-hathak-live-in-concert/6a277c5e2ed4eb576e143556",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.923805882352942,
-      "longitude": 79.8770431372549
     },
     {
       "id": "oneticket-318",
@@ -1222,8 +1200,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.9216098039215685,
-      "longitude": 79.87390588235294
+      "latitude": 7.857684999999999,
+      "longitude": 80.70625
     },
     {
       "id": "mytickets-6a1952370caee981ed82a24d",
