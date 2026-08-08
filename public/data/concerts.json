@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-08T10:29:55.929Z",
+  "lastSyncTime": "2026-08-08T12:42:37.608Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 9,
@@ -7,6 +7,29 @@
     "Total": 60
   },
   "concerts": [
+    {
+      "id": "ticketsministry-1156",
+      "source": "TicketsMinistry",
+      "name": "API NODANNA LIVE ON STAGE",
+      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
+      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
+      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
+      "city": "Colombo 10",
+      "dateTime": "2026-08-08T06:30:00.000Z",
+      "originalDateStr": "Sat, Aug 8, 2026, 12:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
+      "status": "sold-out",
+      "tags": [
+        "Concert",
+        "Comedy Show"
+      ],
+      "latitude": 6.924842302416159,
+      "longitude": 79.86836773637283
+    },
     {
       "id": "ticketsministry-1169",
       "source": "TicketsMinistry",
@@ -29,29 +52,6 @@
       ],
       "latitude": 7.4873765,
       "longitude": 80.35952259999999
-    },
-    {
-      "id": "ticketsministry-1156",
-      "source": "TicketsMinistry",
-      "name": "API NODANNA LIVE ON STAGE",
-      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Comedy Show"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
     },
     {
       "id": "ticketsministry-1203",
@@ -468,29 +468,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1144",
-      "source": "TicketsMinistry",
-      "name": "PREMAYE HORAWA",
-      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
-      "venue": "Hotel Aknara Water Front Panadura",
-      "city": "Panadura",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.7359006932603265,
-      "longitude": 79.89916457418714
-    },
-    {
       "id": "ticketsministry-1243",
       "source": "TicketsMinistry",
       "name": "VACATION NIGHT WITH MAMA BAND",
@@ -512,6 +489,29 @@
       ],
       "latitude": 7.317621099999998,
       "longitude": 79.8488601
+    },
+    {
+      "id": "ticketsministry-1144",
+      "source": "TicketsMinistry",
+      "name": "PREMAYE HORAWA",
+      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
+      "venue": "Hotel Aknara Water Front Panadura",
+      "city": "Panadura",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.7359006932603265,
+      "longitude": 79.89916457418714
     },
     {
       "id": "ticketsministry-1205",
