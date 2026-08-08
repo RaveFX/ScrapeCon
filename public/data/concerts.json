@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-08T16:30:27.502Z",
+  "lastSyncTime": "2026-08-08T18:33:57.805Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 10,
+    "OneTicket": 9,
     "TicketsMinistry": 36,
-    "Total": 62
+    "Total": 61
   },
   "concerts": [
     {
@@ -52,30 +52,6 @@
       ],
       "latitude": 7.4873765,
       "longitude": 80.35952259999999
-    },
-    {
-      "id": "oneticket-359",
-      "source": "OneTicket",
-      "name": "ඉස්සර මතක",
-      "description": "ඉස්සර මතක happening at Rabindranath Tagore Auditorium,University of Ruhuna,Matara. Date & Time: Sun, Aug 9, 2026, 12:00 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/34956926-66443e87-6c53-4288-bebe-0b7447f6907d.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/80924874-245cf45f-8734-477c-85fb-07dcc5f8f00a.jpg",
-      "venue": "Rabindranath Tagore Auditorium,University of Ruhuna,Matara",
-      "city": "Rabindranath Tagore Auditorium,University of Ruhuna,Matara",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/ඉසසර-මතක",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 5.9381,
-      "longitude": 80.5762
     },
     {
       "id": "ticketsministry-1203",
