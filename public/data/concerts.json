@@ -1,36 +1,12 @@
 {
-  "lastSyncTime": "2026-08-08T04:54:42.449Z",
+  "lastSyncTime": "2026-08-08T06:48:48.858Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 10,
+    "OneTicket": 9,
     "TicketsMinistry": 34,
-    "Total": 60
+    "Total": 59
   },
   "concerts": [
-    {
-      "id": "oneticket-347",
-      "source": "OneTicket",
-      "name": "Sankalana",
-      "description": "Sankalana happening at Colombo. Date & Time: Sat, Aug 8, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/76308043-86c46a40-8277-4587-a191-c6f58523a27c.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/88406383-20946f43-78d1-47fa-9b0b-0d215fc7e455.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
-      "dateTime": "2026-08-07T19:00:00.000Z",
-      "originalDateStr": "Sat, Aug 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/sankalana",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
     {
       "id": "ticketsministry-1169",
       "source": "TicketsMinistry",
@@ -191,8 +167,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.8691458999999995,
-      "longitude": 79.9752205
+      "latitude": 7.213788892791915,
+      "longitude": 79.83978457419244
     },
     {
       "id": "oneticket-338",
@@ -712,7 +688,7 @@
       "originalDateStr": "Sat, Sep 5, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 5000,
+      "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/hello-kurunegala/6a5718eac7fbd",
       "status": "active",
       "tags": [
