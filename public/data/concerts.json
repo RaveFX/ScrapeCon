@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-08T06:48:48.858Z",
+  "lastSyncTime": "2026-08-08T08:38:13.382Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 9,
-    "TicketsMinistry": 34,
-    "Total": 59
+    "TicketsMinistry": 35,
+    "Total": 60
   },
   "concerts": [
     {
@@ -29,30 +29,6 @@
       ],
       "latitude": 7.4873765,
       "longitude": 80.35952259999999
-    },
-    {
-      "id": "oneticket-359",
-      "source": "OneTicket",
-      "name": "ඉස්සර මතක",
-      "description": "ඉස්සර මතක happening at Rabindranath Tagore Auditorium,University of Ruhuna,Matara. Date & Time: Sun, Aug 9, 2026, 12:00 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/34956926-66443e87-6c53-4288-bebe-0b7447f6907d.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/80924874-245cf45f-8734-477c-85fb-07dcc5f8f00a.jpg",
-      "venue": "Rabindranath Tagore Auditorium,University of Ruhuna,Matara",
-      "city": "Rabindranath Tagore Auditorium,University of Ruhuna,Matara",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/ඉසසර-මතක",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 5.9381,
-      "longitude": 80.5762
     },
     {
       "id": "ticketsministry-1156",
@@ -513,6 +489,29 @@
       ],
       "latitude": 6.7359006932603265,
       "longitude": 79.89916457418714
+    },
+    {
+      "id": "ticketsministry-1243",
+      "source": "TicketsMinistry",
+      "name": "VACATION NIGHT WITH MAMA BAND",
+      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
+      "venue": "Moon Light Orilla Hotel",
+      "city": "Nainamadama",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.317621099999998,
+      "longitude": 79.8488601
     },
     {
       "id": "ticketsministry-1205",
@@ -1315,6 +1314,30 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "oneticket-341",
+      "source": "OneTicket",
+      "name": "Pathuman Live in Concert",
+      "description": "Pathuman Live in Concert happening at BMICH - Outdoor. Date & Time: Fri, Oct 23, 2026, 11:30 PM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/36058189-e46ead13-7cb8-4862-a4d9-90fcdc14b23f.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/50548586-89c2b01e-5ef1-47fd-a022-215c564f2b34.jpg",
+      "venue": "BMICH - Outdoor",
+      "city": "BMICH - Outdoor",
+      "dateTime": "2026-10-23T18:00:00.000Z",
+      "originalDateStr": "Fri, Oct 23, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/pathuman",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
     },
     {
       "id": "mytickets-6a6cb88cc0bde00160fa0120",
