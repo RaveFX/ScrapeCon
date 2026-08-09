@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-09T14:32:01.330Z",
+  "lastSyncTime": "2026-08-09T16:31:54.726Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 8,
@@ -649,29 +649,6 @@
       "longitude": 79.8676
     },
     {
-      "id": "ticketsministry-1228",
-      "source": "TicketsMinistry",
-      "name": "LOST IN SRI LANKA",
-      "description": "<p>Enter a world of deep sound, dark aesthetics, and timeless energy. A carefully curated experience for those who live beyond the ordinary.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/NDeHCboYt0UDT2LtrlvLjealORKZofSP8ewAP9qy.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/NO7fkWHzUlK2f1I4ZVxy6P3dit2f81nCkVl3RNqs.jpg",
-      "venue": "TBA",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-05T18:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 4000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/lost-in-sri-lanka/b03cfd60-9af9-40a6-8082-1b4abbfbbf46",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 7.857684999999999,
-      "longitude": 80.70625
-    },
-    {
       "id": "ticketsministry-1204",
       "source": "TicketsMinistry",
       "name": "RHYTHM OF ECHOES",
@@ -1082,6 +1059,29 @@
       ],
       "latitude": 7.480618437897388,
       "longitude": 80.31658034784374
+    },
+    {
+      "id": "ticketsministry-1228",
+      "source": "TicketsMinistry",
+      "name": "LOST IN SRI LANKA",
+      "description": "<p>Enter a world of deep sound, dark aesthetics, and timeless energy. A carefully curated experience for those who live beyond the ordinary.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/NDeHCboYt0UDT2LtrlvLjealORKZofSP8ewAP9qy.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/NO7fkWHzUlK2f1I4ZVxy6P3dit2f81nCkVl3RNqs.jpg",
+      "venue": "TBA",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-09T18:00:00.000Z",
+      "originalDateStr": "Fri, Oct 9, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/lost-in-sri-lanka/b03cfd60-9af9-40a6-8082-1b4abbfbbf46",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 7.857684999999999,
+      "longitude": 80.70625
     },
     {
       "id": "mytickets-6a1952370caee981ed82a24d",
