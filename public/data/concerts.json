@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-09T16:31:54.726Z",
+  "lastSyncTime": "2026-08-09T18:37:20.328Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 8,
@@ -22,7 +22,7 @@
       "minPrice": 4500,
       "maxPrice": 6000,
       "ticketLink": "https://www.ticketsministry.com/concerts/plusminus/6a4b6270b4a69",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "EDM"
@@ -375,29 +375,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1144",
-      "source": "TicketsMinistry",
-      "name": "PREMAYE HORAWA",
-      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
-      "venue": "Hotel Aknara Water Front Panadura",
-      "city": "Panadura",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.7359006932603265,
-      "longitude": 79.89916457418714
-    },
-    {
       "id": "ticketsministry-1243",
       "source": "TicketsMinistry",
       "name": "VACATION NIGHT WITH MAMA BAND",
@@ -419,6 +396,29 @@
       ],
       "latitude": 7.317621099999998,
       "longitude": 79.8488601
+    },
+    {
+      "id": "ticketsministry-1144",
+      "source": "TicketsMinistry",
+      "name": "PREMAYE HORAWA",
+      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
+      "venue": "Hotel Aknara Water Front Panadura",
+      "city": "Panadura",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.7359006932603265,
+      "longitude": 79.89916457418714
     },
     {
       "id": "ticketsministry-1205",
@@ -536,29 +536,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1220",
-      "source": "TicketsMinistry",
-      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
-      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
-      "venue": "KDU Football Grounds Rathmalana",
-      "city": "Ratmalana",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 32000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.81836630204379,
-      "longitude": 79.88409991965251
-    },
-    {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
       "name": "KODIGAHA YATA LIVE IN CONCERT",
@@ -580,6 +557,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1220",
+      "source": "TicketsMinistry",
+      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
+      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
+      "venue": "KDU Football Grounds Rathmalana",
+      "city": "Ratmalana",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 32000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.81836630204379,
+      "longitude": 79.88409991965251
     },
     {
       "id": "ticketsministry-1213",
