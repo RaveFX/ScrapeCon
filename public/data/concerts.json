@@ -1,81 +1,12 @@
 {
-  "lastSyncTime": "2026-08-09T05:02:13.536Z",
+  "lastSyncTime": "2026-08-09T06:52:50.650Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 9,
-    "TicketsMinistry": 36,
-    "Total": 61
+    "TicketsMinistry": 33,
+    "Total": 58
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1156",
-      "source": "TicketsMinistry",
-      "name": "API NODANNA LIVE ON STAGE",
-      "description": "<h6>Get Ready for a Night of Laughter and Legends!</h6><h6></h6><h6>Join us on 8th August at Kularathne Auditorium, Ananda College for Api Nodanna Live Onstage — a side-splitting stand-up comedy show featuring the legendary duo Chuti Malli and Podi Malli.</h6><h6></h6><h6>The pioneers of Sri Lankan comedy are back, bringing you an unforgettable night filled with sharp wit, hilarious stories, and nonstop laughter.</h6><h6></h6><h6>One stage. Two icons. A thousand laughs. Don’t miss it!</h6><h6></h6><h6>Organized by the Ananda College 125th Anniversary Celebration Group.</h6>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-banner.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605260931-api-nodanna-live-on-stage-thumbnail.jpg",
-      "venue": "Ananda Kularathne Auditorium - Ananda College Colombo 10",
-      "city": "Colombo 10",
-      "dateTime": "2026-08-08T06:30:00.000Z",
-      "originalDateStr": "Sat, Aug 8, 2026, 12:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/api-nodanna-live-on-stage/6a151aff7bbfa",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Comedy Show"
-      ],
-      "latitude": 6.924842302416159,
-      "longitude": 79.86836773637283
-    },
-    {
-      "id": "ticketsministry-1169",
-      "source": "TicketsMinistry",
-      "name": "SISILASA",
-      "description": "<p>SISILASA</p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202606101023-sisilasa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/uat/events/dLdApnRnY8oPMQ1NVbzuCi7k2vQa9k9rYpEwJptA.jpg",
-      "venue": "U B Wanninayake Auditorium Maliyadeva College Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-08-08T18:00:00.000Z",
-      "originalDateStr": "Sat, Aug 8, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 7000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sisilasa/6a28edcece4fb",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.4873765,
-      "longitude": 80.35952259999999
-    },
-    {
-      "id": "ticketsministry-1203",
-      "source": "TicketsMinistry",
-      "name": "SATHKORALA SWAPTHA SWARA",
-      "description": "<p>\"SATHKORALA SWAPTHA SWARA\" an evening filled with beauitful muxic and great vocals of Thusith | Raveen | Chandana | Dileep on the 08th of August at the W D Pandith Amaradeva Auditorium Kuliyapitiya Wayamba University 06.30PM Onwards.Lock The Date & Grab Your Tickets Now!!!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/FFCs7ePI21iwGG39Mqk1Y9T1Pr9CXqSF087fqr6o.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607102002-sathkorala-swaptha-swara-thumbnail.jpg",
-      "venue": "W.D. Pandith Amaradeva Auditorium Wayamba University Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-08-08T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sathkorala-swaptha-swara/6a51026cdc3d7",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.01700065,
-      "longitude": 79.9528444
-    },
     {
       "id": "oneticket-325",
       "source": "OneTicket",
@@ -113,7 +44,7 @@
       "originalDateStr": "Sun, Aug 9, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 4500,
-      "maxPrice": 4500,
+      "maxPrice": 6000,
       "ticketLink": "https://www.ticketsministry.com/concerts/plusminus/6a4b6270b4a69",
       "status": "active",
       "tags": [
@@ -1381,8 +1312,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 7.471353699999999,
-      "longitude": 80.04128519999999
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "mytickets-6a72b00a3891a9c45bfe96d1",
