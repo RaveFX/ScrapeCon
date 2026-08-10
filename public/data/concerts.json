@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-08-10T03:52:06.246Z",
+  "lastSyncTime": "2026-08-10T05:24:47.913Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 8,
-    "TicketsMinistry": 33,
-    "Total": 57
+    "OneTicket": 9,
+    "TicketsMinistry": 31,
+    "Total": 56
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1202",
-      "source": "TicketsMinistry",
-      "name": "PLUSMINUS",
-      "description": "<p>An electronic dance music brunch experience where people come together for a journey of uplifting energy between plus and minus.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607061338-plusminus-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/nH4gh6QBzbLMTJCaVanZLKU7noDnhKRY07YEmasY.jpg",
-      "venue": "Canapé Bistro",
-      "city": "Pita Kotte",
-      "dateTime": "2026-08-09T11:00:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 04:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/plusminus/6a4b6270b4a69",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.869145949999999,
-      "longitude": 79.97522049999999
-    },
-    {
-      "id": "ticketsministry-1177",
-      "source": "TicketsMinistry",
-      "name": "ETERNALS - BELONGS TO SOUL",
-      "description": "<p>ETERNALS – Belongs to Soul. An unforgettable evening where timeless melodies meet the deepest emotions of the heart. Experience the magic of legendary voices and beloved artists as T.M. Jayaratne, Keerthi Pasquel, Kasun Kalhara, and Suneera Sumanga come together on one stage to create a musical journey that transcends generations. Set within the elegant atmosphere of Ave Maria Auditorium - Negombo on 9th August 2026 from 7.00 PM.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/lSmX3GJzQkwCiaI5QojCtitLZ7sxRPDMCG0dYy8T.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/M4sw53OaP0wCM2B0oo8FiBKZj3nt2rA7JlDYrpPL.jpg",
-      "venue": "Ave Maria Convent Auditorium Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-08-09T18:00:00.000Z",
-      "originalDateStr": "Sun, Aug 9, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/eternals-belongs-to-soul/6a3512a382a47",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.213788892791915,
-      "longitude": 79.83978457419244
-    },
     {
       "id": "oneticket-338",
       "source": "OneTicket",
@@ -375,29 +329,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1243",
-      "source": "TicketsMinistry",
-      "name": "VACATION NIGHT WITH MAMA BAND",
-      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
-      "venue": "Moon Light Orilla Hotel",
-      "city": "Nainamadama",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.317621099999998,
-      "longitude": 79.8488601
-    },
-    {
       "id": "ticketsministry-1144",
       "source": "TicketsMinistry",
       "name": "PREMAYE HORAWA",
@@ -419,6 +350,29 @@
       ],
       "latitude": 6.7359006932603265,
       "longitude": 79.89916457418714
+    },
+    {
+      "id": "ticketsministry-1243",
+      "source": "TicketsMinistry",
+      "name": "VACATION NIGHT WITH MAMA BAND",
+      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
+      "venue": "Moon Light Orilla Hotel",
+      "city": "Nainamadama",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.317621099999998,
+      "longitude": 79.8488601
     },
     {
       "id": "ticketsministry-1205",
@@ -1082,6 +1036,30 @@
       ],
       "latitude": 7.857684999999999,
       "longitude": 80.70625
+    },
+    {
+      "id": "oneticket-420",
+      "source": "OneTicket",
+      "name": "GENZ FEST 2026",
+      "description": "GENZ FEST 2026 happening at Nelum Pokuna Out Door. Date & Time: Sat, Oct 10, 2026, 12:30 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/66447301-cefed132-8cef-48f0-84bf-e472577ba807.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/78240429-44a25a3b-188a-425e-97cb-465434abbbd5.jpg",
+      "venue": "Nelum Pokuna Out Door",
+      "city": "Nelum Pokuna Out Door",
+      "dateTime": "2026-10-09T19:00:00.000Z",
+      "originalDateStr": "Sat, Oct 10, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/genz-fest-2026",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Event",
+        "Indoor"
+      ],
+      "latitude": 6.9089,
+      "longitude": 79.8676
     },
     {
       "id": "mytickets-6a1952370caee981ed82a24d",
