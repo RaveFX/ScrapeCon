@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-10T11:06:11.845Z",
+  "lastSyncTime": "2026-08-10T13:02:27.057Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 9,
-    "TicketsMinistry": 31,
-    "Total": 56
+    "OneTicket": 10,
+    "TicketsMinistry": 32,
+    "Total": 58
   },
   "concerts": [
     {
@@ -490,29 +490,6 @@
       "longitude": 79.86998932406588
     },
     {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
-    {
       "id": "ticketsministry-1220",
       "source": "TicketsMinistry",
       "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
@@ -534,6 +511,29 @@
       ],
       "latitude": 6.81836630204379,
       "longitude": 79.88409991965251
+    },
+    {
+      "id": "ticketsministry-1211",
+      "source": "TicketsMinistry",
+      "name": "KODIGAHA YATA LIVE IN CONCERT",
+      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "ticketsministry-1213",
@@ -759,6 +759,29 @@
       ],
       "latitude": 7.291580013729532,
       "longitude": 80.63412811129967
+    },
+    {
+      "id": "ticketsministry-1245",
+      "source": "TicketsMinistry",
+      "name": "DEAR SOUTH PRATHIHARA 2026",
+      "description": "<p>Dear South, දකුණේ ඉපදුනු දකුණේ හැදුනු වැඩුනු දකුණෙන් බැහැර ගොස් ජීවත් වුවත් තාමත් දකුණ අමතක නැති මිනිස්සුන්ගේ reunion එක. දකුණේ entertainment කලාවේ turning point එක. දකුණට මෙච්චර කල් miss වූ කොළඹ eventවල class එක. අද්විතීය කලාකරුවන්ගේ අපි අසා ඇති ගීත, වීරවිල වැව් ඉස්මත්තේදී මහේෂ් දෙනිපිටියගේ musical magic එකෙන් මින්පෙර අසා නැති රහකට අහන්න ලැබෙන event experience එක. සැප්තැම්බර් 12 වැනිදා හවස් යාමය වෙන්කරගන්න.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/djsPASjiRQr8gxfP0HZzRpa9ob670zID7ycw4Eyi.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/iV1q0qjhCk4QuW6e80A6nVSCynvknplkeH0uUhyN.jpg",
+      "venue": "NLDB Ground Weerawila Tissamaharama",
+      "city": "Tissamaharama",
+      "dateTime": "2026-09-12T18:00:00.000Z",
+      "originalDateStr": "Sat, Sep 12, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 4500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/dear-south-prathihara-2026/6a79b62b4c863",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.2723018999999995,
+      "longitude": 81.2452212
     },
     {
       "id": "ticketsministry-1163",
@@ -1290,6 +1313,30 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "oneticket-421",
+      "source": "OneTicket",
+      "name": "CHAKRA 360 UNIVERSE",
+      "description": "CHAKRA 360 UNIVERSE happening at Air Force Ground - Colombo. Date & Time: Sun, Jan 10, 2027, 12:30 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/21308662-b6c97db4-9390-425c-906a-007f66009502.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/75698059-ab45a259-3acf-438b-84f9-5515ce208037.jpg",
+      "venue": "Air Force Ground - Colombo",
+      "city": "Air Force Ground - Colombo",
+      "dateTime": "2027-01-09T19:00:00.000Z",
+      "originalDateStr": "Sun, Jan 10, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/chakra-360-universe",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9197,
+      "longitude": 79.8519
     }
   ]
 }
