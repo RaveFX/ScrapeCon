@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-11T20:40:52.942Z",
+  "lastSyncTime": "2026-08-11T22:39:06.325Z",
   "counts": {
-    "MyTickets": 18,
+    "MyTickets": 0,
     "OneTicket": 10,
     "TicketsMinistry": 34,
-    "Total": 62
+    "Total": 44
   },
   "concerts": [
     {
@@ -76,28 +76,6 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
-    },
-    {
-      "id": "mytickets-6a3bbcf7e1f1dd21df5d7760",
-      "source": "MyTickets",
-      "name": "ROOKANTHA ",
-      "description": "<p>🎙️ The Wait is Over!</p><p><br></p><p>Experience the timeless sound of Rookantha as he takes you on A Timeless Journey through the songs that have defined generations.</p><p><br></p><h2><strong>ROOKANTHA</strong> – Live in Concert</h2><p>Composer | Singer | Lyricist</p><p><br></p><p>📅 Date: 15th August 2026</p><p>📍 Location: Sugathadasa Indoor Stadium</p><p>🕡 Time: 6:30 P.M. Onwards</p><p><br></p><p>🎟️ Get ready to secure your seats.</p><p><br></p><p><strong>Rs 5,000 ticket allows the patron to either enjoy the event from the fan pit or go upstairs to the stadium-side Rs 5000 allocated seating area. It does not need any pre-booking or prior selection.&nbsp;</strong></p><p><br></p><p><strong>However, the seating allocation will be on a first-come, first-served basis on the event day &amp; strictly no reservations or holding seats for friends &amp; family.</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/ROOKANTHA%20/Screenshot_20260627-005358~2-1782502028495.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/ROOKANTHA%20/Screenshot_20260627-005358~2-1782502028495.jpg",
-      "venue": "Sugathadasa Indoor Stadium",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-08-15T13:00:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 25000,
-      "ticketLink": "https://mytickets.lk/event/rookantha/6a3bbcf7e1f1dd21df5d7760",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.906864705882353,
-      "longitude": 79.89618039215686
     },
     {
       "id": "oneticket-318",
@@ -217,50 +195,6 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "mytickets-6a3e56b1483edf4978b3aca6",
-      "source": "MyTickets",
-      "name": "Thunsara Sisilasa - තුන්සර සිසිලස",
-      "description": "<h2><strong>Thunsara Sisilasa - තුන්සර සිසිලස</strong></h2><p><br></p><p>“Thunsara Sisilasa”🎶</p><p>Prepare to be enthralled by a night of soulful melodies featuring the island's finest icons;</p><p><br></p><p>🎤𝗝𝗮𝗴𝗮𝘁𝗵 𝗪𝗶𝗰𝗸𝗿𝗮𝗺𝗮𝘀𝗶𝗻𝗴𝗵𝗲</p><p>🎤 𝗦𝗵𝗮𝘀𝗵𝗶𝗸𝗮 𝗡𝗶𝘀𝗮𝗻𝘀𝗮𝗹𝗮</p><p>🎤𝗠𝗶𝗵𝗶𝗻𝗱𝘂 𝗔𝗿𝗶𝘆𝗮𝗿𝗮𝘁𝗵𝗻𝗮</p><p><br></p><p>🎙️ Guided by the eloquent compering of 𝗞𝗲𝗹𝘂𝗺 𝗦𝗿𝗶𝗺𝗮𝗹</p><p>🎵 Powered by the sensational live orchestration of 𝗦𝗮𝗰𝗵𝗶 𝗠𝗮𝗱𝘂𝗿𝗮𝗻𝗴𝗮 &amp; 𝗕𝗮𝗻𝗱</p><p>Together with all, we are ready to create a serene, nostalgic musical environment that you will cherish forever. 🌅🎶</p><p><br></p><p>🗓️ Date: 𝟮𝟮𝗻𝗱 𝗼𝗳 𝗔𝘂𝗴𝘂𝘀𝘁, 𝟮𝟬𝟮𝟲</p><p>🏟️ Venue: 𝗠𝘂𝘀𝗮𝗲𝘂𝘀 𝗖𝗼𝗹𝗹𝗲𝗴𝗲 𝗔𝘂𝗱𝗶𝘁𝗼𝗿𝗶𝘂𝗺, 𝗖𝗼𝗹𝗼𝗺𝗯𝗼</p><p>🕖 Time: 𝟲.𝟯𝟬 𝗣𝗠 𝗼𝗻𝘄𝗮𝗿𝗱𝘀</p><p><br></p><p>🎟️ Tickets are selling fast! Secure your seats online now‼️</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Tunsara%20Sisila%20-%20%E0%B6%AD%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%BB%20%E0%B7%83%E0%B7%92%E0%B7%83%E0%B7%92%E0%B6%BD%20/WhatsApp%20Image%202026-06-22%20at%2019.59.33-1782469979746.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Tunsara%20Sisila%20-%20%E0%B6%AD%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%BB%20%E0%B7%83%E0%B7%92%E0%B7%83%E0%B7%92%E0%B6%BD%20/WhatsApp%20Image%202026-06-22%20at%2019.59.33-1782469979746.jpeg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-08-22T13:00:00.000Z",
-      "originalDateStr": "Sat, Aug 22, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/thunsara-sisilasa/6a3e56b1483edf4978b3aca6",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
-    {
-      "id": "mytickets-6a1e6e0c5ca178392e7cde93",
-      "source": "MyTickets",
-      "name": "Ahasin Eha - අහසින් එහා ",
-      "description": "<p>Ahasin Eha - අහසින් එහා&nbsp;</p><p><br></p><p>🎼 Ahasin Eha (අහසින් එහා) – මියැසි අවකාශය</p><p>✨ Ahasin Eha is a grand musical evening celebrating the timeless lyrical masterpieces of Sri Lanka's renowned and beloved composer, Nilar N. Kasim. Organized by the Alumni Association of the University of Sri Jayewardenepura, this spectacular concert promises an unforgettable night where poetry meets melody, taking you on an emotional journey through the skies of Sri Lankan music.</p><p><br></p><p>🎙️ The evening features an incredible lineup of Sri Lanka’s most celebrated voices bringing these beautiful compositions to life by BNS (Bathiya and Santhush) , Umaria Sinhavansha , Uresha Kavihari , Ruwan Hettiarachchi , Raween Kanishka , Thanura Madugeeth , Ashka Kulatunga&nbsp;</p><p><br></p><p>🎭 From soulful classics to modern hits, experience a premium live performance where every lyric tells a story and every melody touches the heart.</p><p><br></p><p>🌟 Join us for a magical night where passion meets performance, talent meets artistry, and Sri Lankan music takes center stage.</p><p><br></p><p>Event Details</p><p>📍 Venue: Nelum Pokuna Theatre (නෙළුම් පොකුණ රංගහල)</p><p>📅 Date: 22nd August 2026 (2026 අගෝස්තු 22)</p><p>⏰ Time: 6.30 PM (සවස 6.30 ට)</p><p><br></p><p>🎶 Experience the magic of a grand musical production unlike any other and be part of an unforgettable night of music, emotion, and artistry.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Ahasin%20Eha%20-%20%E0%B6%85%E0%B7%84%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8A%20%E0%B6%91%E0%B7%84%E0%B7%8F%20/WhatsApp%20Image%202026-06-01%20at%207.40.20%20AM-1780379025276.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Ahasin%20Eha%20-%20%E0%B6%85%E0%B7%84%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8A%20%E0%B6%91%E0%B7%84%E0%B7%8F%20/WhatsApp%20Image%202026-06-01%20at%207.40.20%20AM-1780379025276.jpeg",
-      "venue": "Nelum Pokuna Indoor Theater",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2026-08-22T13:00:00.000Z",
-      "originalDateStr": "Sat, Aug 22, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/ahasin-eha/6a1e6e0c5ca178392e7cde93",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9089,
-      "longitude": 79.8676
-    },
-    {
       "id": "ticketsministry-1215",
       "source": "TicketsMinistry",
       "name": "ANURAGA",
@@ -305,28 +239,6 @@
       ],
       "latitude": 6.8369705000000005,
       "longitude": 81.8288252
-    },
-    {
-      "id": "mytickets-6a756e9ddc850b810ccff8fa",
-      "source": "MyTickets",
-      "name": "Lions Sing Along & Party Night With Chandimal",
-      "description": "<p>Lions Sing-Along &amp; Party Night With Chandimal</p><p><br></p><p>🎁 FREE Refreshment Pack upon Entry</p><p>&nbsp;🍾 BYOB (Bring Your Own Bottle) and enjoy your favorite drinks your way</p><p>&nbsp;🍽️ Food, Tasty Bites &amp; Chasers available for purchase at the venue</p><p><br></p><p><br></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Lions%20Sing%20Along%20&%20Party%20Night%20With%20Chandimal/1080%20x%201080.jpg-1786080737774.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Lions%20Sing%20Along%20&%20Party%20Night%20With%20Chandimal/1080%20x%201080.jpg-1786080737774.jpeg",
-      "venue": "BMICH - SAPPHIRE BANQUET HALL ",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2026-08-29T13:30:00.000Z",
-      "originalDateStr": "Sat, Aug 29, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://mytickets.lk/event/lions-sing-along-party-night-with-chandimal/6a756e9ddc850b810ccff8fa",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1144",
@@ -444,28 +356,6 @@
       "longitude": 79.87089619999999
     },
     {
-      "id": "mytickets-6a6b23175c3d99574989d78a",
-      "source": "MyTickets",
-      "name": "Oba Ayemath Avidin - ඔබ අයෙමත් ඇවිදින් ",
-      "description": "<p><strong><u>Oba Ayemath Avidin - ඔබ අයෙමත් ඇවිදින්</u></strong></p><p><br></p><p>ප්‍රසංග සංකල්පය සහ පසුබිම</p><p><br></p><p>ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාවේ සිටි එෆ් එම් සේවයේ ශ්‍රාවක ආකර්ෂණය සහ සන්නාම ප්‍රතිරූපය ඉහළම මට්ටමක රඳවා තබා ගැනීමට සමත් වූ \" ඔබ ආයෙමත් ඇවිදින්\" මාසික සජීවී සංගීත ප්‍රසංගය මේ වන විට අති සාර්ථක පියවර 49 ක් පසු කර ඇත. මෙරට ප්‍රවීණ සහ ප්‍රකට සංගීතවේදීන් , ගායන ශිල්පීන් සහ ශ්‍රාවක ප්‍රජාව එකම සජීවී අවකාශයකට ගෙන එමින් උසස් රස වින්දනාත්මක අත්දැකීමක් ලබාදීම මෙම වැඩසටහන් මාලාවේ මූලික අරමුණයි.</p><p><br></p><p>එම සාර්ථක ගමනේ සුවිශේෂී සන්ධිස්ථානයක් සනිටුහන් කරමින් ඔබ ආයෙමත් ඇවිදින් 50 වන ප්‍රසංගය ශ්‍රී ලංකා ගුවන්විදුලි සංස්ථා පරිශ්‍රයෙන් බැහැරව වඩාත් පුළුල් ප්‍රේක්ෂක සහභාගිත්වයක් සහිතව දැවැන්ත සජීවී ප්‍රසංගයක් (Live Concert) ලෙස කොළඹ ආනන්ද විද්‍යාලීය කුලරත්න ශාලාවේදී&nbsp;පැවැත්වීමට සියලු කටයුතු සූදානම් කර ඇත.</p><p><br></p><p>ප්‍රසංගයේ නිල තොරතුරු</p><p><br></p><p>දිනය සහ වේලාව</p><p>2026 සැප්තැම්බර් මස 04 වනදා සිකුරාදා සවස 06.30 සිට රාත්‍රී 09.30 දක්වා.</p><p><br></p><p>ස්ථානය</p><p>කොළඹ ආනන්ද විද්‍යාලීය කුලරත්න ශාලාව</p><p><br></p><p>සංගීත දායකත්වය</p><p>ශ්‍රී ලංකා ගුවන් විදුලි සංස්ථාවේ ප්‍රමුඛතම නිල වාද්‍යවෘන්දය විසින් සපයනු ලබයි.</p><p><br></p><p>රසංගය සඳහා ගායක ගායිකාවන් දස දෙනෙකු සම්බන්ධ වේ</p><p><br></p><p>1. බණ්ඩාර අතාවුද මහතා</p><p>2. එඩ්වඩ් ජයකොඩි මහතා</p><p>3. ෂර්ලි වෛජයන්ත මහතා</p><p>4. කිත්සිරි ජයසේකර මහතා</p><p>5. චන්දන ලියනාරච්චි මහතා</p><p>6. ලක්ෂ්මන් හේවාවිතාරණ මහතා</p><p>7. රොඩ්නි වර්ණකුල මහතා</p><p>8. සුභාණී හර්ශනී මිය</p><p>9. චරිතා ප්‍රියදර්ශනී පීරිස් මිය</p><p>10. දීපිකා ප්‍රියදර්ශනී පීරිස් මිය</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Oba%20Ayemath%20Avidin%20-%20%E0%B6%94%E0%B6%B6%20%E0%B6%85%E0%B6%BA%E0%B7%99%E0%B6%B8%E0%B6%AD%E0%B7%8A%20%E0%B6%87%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B7%8A%20/WhatsApp%20Image%202026-07-30%20at%209.24.20%20AM-1785406104617.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Oba%20Ayemath%20Avidin%20-%20%E0%B6%94%E0%B6%B6%20%E0%B6%85%E0%B6%BA%E0%B7%99%E0%B6%B8%E0%B6%AD%E0%B7%8A%20%E0%B6%87%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%92%E0%B6%B1%E0%B7%8A%20/WhatsApp%20Image%202026-07-30%20at%209.24.20%20AM-1785406104617.jpeg",
-      "venue": "Kularathna Auditorium - Ananda College",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-09-04T13:00:00.000Z",
-      "originalDateStr": "Fri, Sep 4, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/oba-ayemath-avidin/6a6b23175c3d99574989d78a",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.943256862745098,
-      "longitude": 79.85382745098039
-    },
-    {
       "id": "ticketsministry-1212",
       "source": "TicketsMinistry",
       "name": "PULZE X",
@@ -559,50 +449,6 @@
       "longitude": 80.31658034784374
     },
     {
-      "id": "mytickets-6a4de3887db51a0f260212fd",
-      "source": "MyTickets",
-      "name": "WAYO YAMAYA (වායෝ යාමය)",
-      "description": "<p>WAYO YAMAYA (වායෝ යාමය)</p><p><br></p><p>Enjoy an unforgettable evening with WAYO, featuring Sashika Nisansala and Chandana Liyanarachchi.</p><p>Date: Saturday, 5th September 2026 Time: 6.30 PM Venue: Musaeus College Auditorium</p><p>A fundraising concert by the Kingswood Union – Colombo Branch in support of the Kingswood College Sports and Education Development Fund.</p><p>Ticket Prices: LKR 12,000 | LKR 10,000 | LKR 7,500 | LKR 5,000 | LKR 3,000 | LKR 2,000 (Balcony)</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20YAMAYA%20(%E0%B7%80%E0%B7%8F%E0%B6%BA%E0%B7%9D%20%E0%B6%BA%E0%B7%8F%E0%B6%B8%E0%B6%BA)/1080%20x%201080-1783489198407.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20YAMAYA%20(%E0%B7%80%E0%B7%8F%E0%B6%BA%E0%B7%9D%20%E0%B6%BA%E0%B7%8F%E0%B6%B8%E0%B6%BA)/1080%20x%201080-1783489198407.jpg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-09-05T13:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 12000,
-      "ticketLink": "https://mytickets.lk/event/wayo-yamaya/6a4de3887db51a0f260212fd",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
-    {
-      "id": "mytickets-6a2be5bf5e065e87cfd2cde6",
-      "source": "MyTickets",
-      "name": "Yugatra යුගාත්‍රා - Live in concert  2026",
-      "description": "<p>යුගාත්‍රා - Live in concert&nbsp;</p><p><br></p><p>සංගීතයෙන් යුග යුග යා කරන “යුගාත්‍රා” ශ්‍රී ලංකාවේ අංක 1 ප්‍රාසංගික නාලිකාව, TV දෙරණෙන් විකාශය වන සම්මානනීය සහ අතිශය ජනප්‍රිය සංගීත වැඩසටහනකි. එහි සජීව අත්දැකීමක් ලෙස සහෘද ප්‍රේක්ෂක ඔබ වෙත සමීප කරන “යුගාත්‍රා - Live in Concert” මනුසත් දෙරණට සවිබල පිණිස පැවැත්වේ.</p><p><br></p><p>ජනප්‍රිය ප්‍රවීණයින් සමග නව පරපුරේ විශිෂ්ටයින්&nbsp;එකම වේදිකාවක තම තමන්ගේ ගීත එක්ව ගායනා කිරීම මෙම ප්‍රසංගයේ ඇති සුවිශේෂීත්වයයි.</p><p><br></p><p>මෙම අති උත්කර්ෂවත් ප්‍රසංගය ජනප්‍රිය 'Shiksha' සංගීත කණ්ඩායම විසින් සංගීතවත් කරනු ලබන අතර, නිවේදන කටයුතු මෙහෙයවනු ලබන්නේ මනුරංග විජේසේකර විසිනි.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Yugatra%20%E0%B6%BA%E0%B7%94%E0%B6%9C%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%8F%20-%20Live%20in%20concert%20%202026/YUGATHRA%20MYTICKETS%20EVENT%20COVER.jpg-1781599980402.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Yugatra%20%E0%B6%BA%E0%B7%94%E0%B6%9C%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%8F%20-%20Live%20in%20concert%20%202026/YUGATHRA%20MYTICKETS%20EVENT%20COVER.jpg-1781599980402.jpeg",
-      "venue": "Nelum Pokuna Indoor Theater",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2026-09-05T13:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/yugatra-live-in-concert-2026/6a2be5bf5e065e87cfd2cde6",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9089,
-      "longitude": 79.8676
-    },
-    {
       "id": "ticketsministry-1204",
       "source": "TicketsMinistry",
       "name": "RHYTHM OF ECHOES",
@@ -647,72 +493,6 @@
       ],
       "latitude": 6.7135906,
       "longitude": 80.0624692
-    },
-    {
-      "id": "mytickets-6a6875e1305266ba58245e6e",
-      "source": "MyTickets",
-      "name": "Sinaha Thotak - සිනා තොටක් ",
-      "description": "<p>Sinaha Thotak - සිනා තොටක්&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Sinaha%20Thotak%20-%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8F%20%E0%B6%AD%E0%B7%9C%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-07-28%20at%202.44.14%20PM-1785230562176.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Sinaha%20Thotak%20-%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8F%20%E0%B6%AD%E0%B7%9C%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-07-28%20at%202.44.14%20PM-1785230562176.jpeg",
-      "venue": "St. Joseph's Balika Vidyalaya, Kegalle",
-      "city": "666548e1a03df8fc2ac5a331",
-      "dateTime": "2026-09-11T13:00:00.000Z",
-      "originalDateStr": "Fri, Sep 11, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/sinaha-thotak/6a6875e1305266ba58245e6e",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.899021568627451,
-      "longitude": 79.9008862745098
-    },
-    {
-      "id": "mytickets-6a57140eaa5331ca7ddc7b43",
-      "source": "MyTickets",
-      "name": "Marians Unplugged 20th Anniversary ",
-      "description": "<p>Marians Unplugged 20th Anniversary&nbsp;- Matara</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/MARIANS-UNPLUGGED-MATARA-MT-02.jpg%20(1)-1784705667386.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/MARIANS-UNPLUGGED-MATARA-MT-02.jpg%20(1)-1784705667386.jpeg",
-      "venue": "Rabindranath Tagore Memorial Auditorium",
-      "city": "666548e1a03df8fc2ac5a453",
-      "dateTime": "2026-09-11T13:30:00.000Z",
-      "originalDateStr": "Fri, Sep 11, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/marians-unplugged-20th-anniversary/6a57140eaa5331ca7ddc7b43",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9495313725490195,
-      "longitude": 79.85665098039216
-    },
-    {
-      "id": "mytickets-6a4ded82783f6c01e4fcaf17",
-      "source": "MyTickets",
-      "name": "Ridee Gee - රීදී ගී",
-      "description": "<p>Ridee Gee - රීදී ගී</p><p><br></p><p>රිදී ගී -2 \"ආදරේ හිතෙනවා දැක්කම\"</p><p><br></p><p>ආචාර්‍ය රෝහණ වීරසිංහ මහතා ගේ සංගීත අඩ්‍යක්ශනයෙන් , සමන් අතාවුදහෙට්ටි මහතාගේ කතනයෙන් සහ උරේශා රවිහාරි , සුරේන්ද්‍ර පෙරේරා , සුනෙත් උදයරත්න , තනුර මදුගීත් , උමාලි තිලකරත්න , නෙරංජා දේවි , ලිහිනි මිනෝදා, සමීර ලලිතාංග යන ප්‍රකටගායන ශිල්පීන් පිරිසක් සමඟ එක්ව, ශ්‍රී ලංකා සිනමාවේ රන් යුගය සමරන අමතක නොවන සංගීත සන්ධ්‍යාවකට ඔබට ආරාධනා කරමු.</p><p><br></p><p>මෙම ප්‍රසංගයේ ,ආචාර්‍ය් අමරදේව, ජෝතිපාල, වික්ටර් රත්නායක, විජය කුමාරතුංග , මිල්ටන් මල්ලවාරච්චි, ඇන්ජලීන් ගුණතිලක, ලතා වල්පොල, නන්දා මාලනී සහ සුජාතා ආත්තනායක ගායනා කල සුප්‍රසිද්ධ ගීත රාශියක් ඉදිරිපත් කෙරේ.&nbsp;&nbsp;</p><p>මෙම ගීත මාලිනී ෆොන්සේකා, ගාමිණී ෆොන්සේකා, විජය කුමාරණතුංග සහ තවත් ශ්‍රී ලාංකික කලාකරුවන් රඟපෑ සුප්‍රසිද්ධ චිත්‍රපට වලින් තෝරාගෙන ඇත.</p><p><br></p><p>සැප්තැම්බර් 12 වන දින&nbsp;BMICH හීදී.</p><p>ප්‍රවේශ පත්‍ර-mytickets.lk වෙබ් අඩවියෙන් ලබා ගත හැක&nbsp;&nbsp;</p><p>(රු. 15,000, 10,000, 7,500, 6000, 5,000, 3,000, 2,000)</p><p><br></p><p>මෙම අවස්ථාව කිසිසේත් මග හැර නොගන්න! ඔබට සිතට දිගු කලක් රැඳෙන අත්දැකීමක් ලබා දෙනු ඇත.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Ridee%20Gee%20-%20%E0%B6%BB%E0%B7%93%E0%B6%AF%E0%B7%93%20%E0%B6%9C%E0%B7%93/WhatsApp%20Image%202026-07-12%20at%201.29.21%20PM-1783937354893.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Ridee%20Gee%20-%20%E0%B6%BB%E0%B7%93%E0%B6%AF%E0%B7%93%20%E0%B6%9C%E0%B7%93/WhatsApp%20Image%202026-07-12%20at%201.29.21%20PM-1783937354893.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-09-12T13:00:00.000Z",
-      "originalDateStr": "Sat, Sep 12, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/ridee-gee/6a4ded82783f6c01e4fcaf17",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1216",
@@ -878,94 +658,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "mytickets-6a72b98f3891a9c45bfe982f",
-      "source": "MyTickets",
-      "name": "Mindada - මින්දද ",
-      "description": "<p>🎶 මින්දද Live in Concert 2.0</p><p><br></p><p>HUSMA සංගීත කණ්ඩායම සමඟින් නදීක ජයවර්ධන, සුනීර සුමංග, රවීන් තාරුක, සුපුන් පෙරේරා, ශෙරෝන් සිල්වා, කාවින්දි කුලසේන සහ නවීෂා සූරියආරච්චි එක්වන අමතක නොවන සජීවී Acoustic සංගීත රාත්‍රියකට ඔබත් එක්වන්න. වැඩසටහන මෙහෙයවීම මනුරංග විජේසේකර විසිනි.</p><p><br></p><p>📅 දිනය: 2026 සැප්තැම්බර් 19, සෙනසුරාදා</p><p>🕕 වේලාව: ප.ව. 6.00 සිට රාත්‍රී 11.00 දක්වා</p><p>📍 ස්ථානය: Grand Lawn, Waters Edge</p><p>🎤 සංවිධානය: Old Anandians Basketball Wing (OABW) සහ Hasthi Society</p><p><br></p><p>දියවන්නා වැව අසල සුන්දර පරිසරයක, උසස් තත්ත්වයේ සජීවී Acoustic සංගීතය, විශිෂ්ට ශබ්ද පද්ධතිය, රසවත් ආහාර හා පාන පහසුකම් සහ පවුලේ සැමට සුදුසු සුවිශේෂී සංගීත අත්දැකීමක් විඳින්න.</p><p><br></p><p>ඔබේ ප්‍රියතම ආසන වර්ගය තෝරා අදම ප්‍රවේශපත් වෙන්කරවා ගන්න. සීමිත ප්‍රවේශපත් සංඛ්‍යාවක් පමණි!</p><p><br></p><p><br></p><p>🎶 Mindada Live in Concert 2.0</p><p><br></p><p>Experience an unforgettable evening of live acoustic music featuring Nadeeka Jayawardana, Suneera Sumanga, Raveen Tharuka, Supun Perera, Sheron Silva, Kavindi Kulasena, Naveesha Sooriyaarachchi, accompanied by HUSMA as the official live band, with Manuranga Wijesekara as the compere.</p><p><br></p><p>📅 Date: Saturday, 19 September 2026</p><p>🕕 Time: 6.00 PM – 11.00 PM</p><p>📍 Venue: Grand Lawn, Waters Edge</p><p>🎤 Organized by: Old Anandians Basketball Wing (OABW) &amp; Hasthi Society</p><p><br></p><p>Enjoy a magical outdoor concert with breathtaking lakeside views, premium acoustic performances, exceptional sound, delicious food and beverage stalls, and a relaxed atmosphere designed for music lovers of all ages.</p><p><br></p><p>Reserve your tickets today and be part of one of Sri Lanka's most anticipated live acoustic music experiences. Limited tickets available!</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Mindada%20-%20%E0%B6%B8%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B6%AF%20/Flyer%20-%20MyTickets.jpg-1785903123013.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Mindada%20-%20%E0%B6%B8%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B6%AF%20/Flyer%20-%20MyTickets.jpg-1785903123013.jpeg",
-      "venue": "Watersedge - Battaramulla",
-      "city": "666548e1a03df8fc2ac5a0e5",
-      "dateTime": "2026-09-19T12:30:00.000Z",
-      "originalDateStr": "Sat, Sep 19, 2026, 06:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 40000,
-      "ticketLink": "https://mytickets.lk/event/mindada/6a72b98f3891a9c45bfe982f",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.917845098039216,
-      "longitude": 79.84849411764705
-    },
-    {
-      "id": "mytickets-6a3a1e87be3ca6d8118e17f1",
-      "source": "MyTickets",
-      "name": "Thaala Samaggraha - තාල සමග්‍රහ ",
-      "description": "<p>Thaala Samaggraha - තාල සමග්‍රහ&nbsp;</p><p><br></p><p>Thala Samagraha is a grand musical journey that celebrates the evolution of Sri Lankan music through time. More than a concert , it is an immersive experience that takes audiences on a chronological voyage across the difining eras that shaped the nation’s musical identity…</p><p><br></p><p>Date - 19th September 2026</p><p>Time -7.00 pm</p><p>Venue - Viharamadevi Park</p><p>Gates Open - 5.30 pm</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Thaala%20Samaggraha%20-%20%E0%B6%AD%E0%B7%8F%E0%B6%BD%20%E0%B7%83%E0%B6%B8%E0%B6%9C%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%84%20/WhatsApp%20Image%202026-06-23%20at%2011.24.40%20AM-1782194409349.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Thaala%20Samaggraha%20-%20%E0%B6%AD%E0%B7%8F%E0%B6%BD%20%E0%B7%83%E0%B6%B8%E0%B6%9C%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%84%20/WhatsApp%20Image%202026-06-23%20at%2011.24.40%20AM-1782194409349.jpeg",
-      "venue": "Viharamaha Devi Open Air Theater",
-      "city": "Colombo",
-      "dateTime": "2026-09-19T13:30:00.000Z",
-      "originalDateStr": "Sat, Sep 19, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/thaala-samaggraha/6a3a1e87be3ca6d8118e17f1",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.964903921568628,
-      "longitude": 79.89743529411764
-    },
-    {
-      "id": "mytickets-6a7a9822f6e32989e564e686",
-      "source": "MyTickets",
-      "name": "Sinaha Thotak - සිනා තොටක් ",
-      "description": "<p>Sinaha Thotak - සිනා තොටක්&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Sinaha%20Thotak%20-%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8F%20%E0%B6%AD%E0%B7%9C%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/Gemini_Generated_Image_f4jzvrf4jzvrf4jz%20(1)-1786418994673.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Sinaha%20Thotak%20-%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8F%20%E0%B6%AD%E0%B7%9C%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/Gemini_Generated_Image_f4jzvrf4jzvrf4jz%20(1)-1786418994673.png",
-      "venue": "NICD Mahinda Rajapaksa Theatre Polgolla",
-      "city": "666548e1a03df8fc2ac5a2fe",
-      "dateTime": "2026-09-20T13:00:00.000Z",
-      "originalDateStr": "Sun, Sep 20, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/sinaha-thotak/6a7a9822f6e32989e564e686",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.889923529411765,
-      "longitude": 79.82465098039215
-    },
-    {
-      "id": "mytickets-6a7416dc4e8a29ec83e1f6be",
-      "source": "MyTickets",
-      "name": " Adariye - ආදරියේ ",
-      "description": "<p>Adariye - ආදරියේ&nbsp;</p><p><br></p><p>🚨COLOMBO... THE GIRLS ARE TAKING OVER! 🚨</p><p><br></p><p>💥 ආදරියේ – Sri Lanka's Biggest Ladies' Night is about to set the city on fire!</p><p>📅 25th September</p><p>🕖 7.00 PM onwards</p><p>📍 Lake View Hall, Lotus Tower</p><p>Get ready for a night of explosive beats, electrifying energy, and unforgettable moments high above the Colombo skyline!</p><p>🎧 DJ Cash × DJ Yaka-Ri &amp; DJ Yaki</p><p>Three incredible DJs. One epic dance floor. Endless party vibes.</p><p>💃 Bring your squad.</p><p>✨ Dress to turn heads.</p><p>🔥 Own the dance floor.</p><p>🌃 Party above the city lights.</p><p>💖 Make memories you'll be talking about long after the music stops.</p><p>🥂 BYOB</p><p>🎟️ VVIP – Rs. 7,500/-</p><p>🎟️ VIP – Rs. 5,000/-</p><p>⚡ Ladies Only. Limited Tickets. No Second Chances.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%20Adariye%20-%20%E0%B6%86%E0%B6%AF%E0%B6%BB%E0%B7%92%E0%B6%BA%E0%B7%9A%20/WhatsApp%20Image%202026-08-06%20at%2010.19.36%20AM-1785992703410.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%20Adariye%20-%20%E0%B6%86%E0%B6%AF%E0%B6%BB%E0%B7%92%E0%B6%BA%E0%B7%9A%20/WhatsApp%20Image%202026-08-06%20at%2010.19.36%20AM-1785992703410.jpeg",
-      "venue": "Lotus Tower - Indoor",
-      "city": "666548e1a03df8fc2ac5a053",
-      "dateTime": "2026-09-25T13:30:00.000Z",
-      "originalDateStr": "Fri, Sep 25, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/adariye/6a7416dc4e8a29ec83e1f6be",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.964590196078432,
-      "longitude": 79.8770431372549
-    },
-    {
       "id": "ticketsministry-1155",
       "source": "TicketsMinistry",
       "name": "ATHITHAWALOKA",
@@ -1035,28 +727,6 @@
       ],
       "latitude": 6.934158823529412,
       "longitude": 79.87327843137254
-    },
-    {
-      "id": "mytickets-6a741e9389c76e443da48d5c",
-      "source": "MyTickets",
-      "name": "Bonna Hithena Ratak - බොන්න හිතෙන රටක් ",
-      "description": "<p>Bonna Hithena Ratak - බොන්න හිතෙන රටක්&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Bonna%20Hithena%20Ratak%20-%20%E0%B6%B6%E0%B7%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%20%E0%B7%84%E0%B7%92%E0%B6%AD%E0%B7%99%E0%B6%B1%20%E0%B6%BB%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-08-06%20at%207.53.35%20PM-1786423578369.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Bonna%20Hithena%20Ratak%20-%20%E0%B6%B6%E0%B7%9C%E0%B6%B1%E0%B7%8A%E0%B6%B1%20%E0%B7%84%E0%B7%92%E0%B6%AD%E0%B7%99%E0%B6%B1%20%E0%B6%BB%E0%B6%A7%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-08-06%20at%207.53.35%20PM-1786423578369.jpeg",
-      "venue": "Mount Lavinia Hotel - Dehiwala",
-      "city": "666548e1a03df8fc2ac5a14e",
-      "dateTime": "2026-10-02T13:30:00.000Z",
-      "originalDateStr": "Fri, Oct 2, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://mytickets.lk/event/bonna-hithena-ratak/6a741e9389c76e443da48d5c",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.940433333333334,
-      "longitude": 79.85445490196078
     },
     {
       "id": "ticketsministry-1217",
@@ -1151,28 +821,6 @@
       ],
       "latitude": 6.9089,
       "longitude": 79.8676
-    },
-    {
-      "id": "mytickets-6a1952370caee981ed82a24d",
-      "source": "MyTickets",
-      "name": "Prema Rathriya - ප්‍රේම රාත්‍රිය ",
-      "description": "<p><strong>Prema Rathriya - ප්‍රේම රාත්‍රිය&nbsp;</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Prema%20Rathriya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92%E0%B6%BA%20/1x1%20Mytickets.jpg%20(1)-1780044230450.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Prema%20Rathriya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92%E0%B6%BA%20/1x1%20Mytickets.jpg%20(1)-1780044230450.jpeg",
-      "venue": "Minuwangoda President College Ground",
-      "city": "666548e1a03df8fc2ac5a48f",
-      "dateTime": "2026-10-10T13:30:00.000Z",
-      "originalDateStr": "Sat, Oct 10, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 900,
-      "maxPrice": 900,
-      "ticketLink": "https://mytickets.lk/event/prema-rathriya/6a1952370caee981ed82a24d",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.938550980392157,
-      "longitude": 79.89084705882352
     },
     {
       "id": "ticketsministry-1221",
@@ -1316,28 +964,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "mytickets-6a6cb88cc0bde00160fa0120",
-      "source": "MyTickets",
-      "name": "Mathakaya Asurin - මතකය ඇසුරින්",
-      "description": "<h2><strong><em>\"Mathakaya Asurin\" with MARIANS</em></strong><em>&nbsp;</em></h2><p><br></p><p>A night filled with timeless retro hits from the 70s and 80s!</p><p><br></p><p>Enjoy the golden voices of legendary singers *Annesley Malewana* and *Indrani Perera*, along with the *Marians Music Band* performing the evergreen songs of *Clarence Wijewardena*.</p><p><br></p><p>*Date:* Saturday 24th October 2026&nbsp;&nbsp;</p><p>*Time:* 7.00 PM&nbsp;&nbsp;</p><p>*Venue:* BMICH, Colombo&nbsp;&nbsp;</p><p><br></p><p>A nostalgic musical evening for all generations to relive memories and create new ones with family.&nbsp;&nbsp;</p><p>Book your seats now!</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B6%AD%E0%B6%9A%E0%B6%BA%20%E0%B6%87%E0%B7%83%E0%B7%94%E0%B6%BB%E0%B7%92%E0%B6%B1%E0%B7%8A%20-%20Matakaya%20Aesurin/MATHAKAYA-ASURIN-MT-1x1-1785637710820.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B6%AD%E0%B6%9A%E0%B6%BA%20%E0%B6%87%E0%B7%83%E0%B7%94%E0%B6%BB%E0%B7%92%E0%B6%B1%E0%B7%8A%20-%20Matakaya%20Aesurin/MATHAKAYA-ASURIN-MT-1x1-1785637710820.jpg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-10-24T13:30:00.000Z",
-      "originalDateStr": "Sat, Oct 24, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/mathakaya-asurin/6a6cb88cc0bde00160fa0120",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -1359,28 +985,6 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
-    },
-    {
-      "id": "mytickets-6a72b00a3891a9c45bfe96d1",
-      "source": "MyTickets",
-      "name": "Rasogaya - රසෝඝය",
-      "description": "<p>✨ <strong>\"රසෝගය - RASOGAYA\"</strong> ✨ <em>(Golden Voices . Timeless Classics)</em></p><p><br></p><p>හෙළ සංගීත ක්ෂේත්‍රයේ අසහාය ගායන පෞරුෂයන් එක්වන, මධුර මනෝහර ගීත රාවයෙන් හදවත් ප්‍රබෝධමත් කරන සොඳුරු සංගීත සැඳෑව! 🎶❤️</p><p><br></p><ul><li>කරුණාරත්න දිවුල්ගනේ</li><li>චන්දන ලියනආරච්චි</li><li>සියුමිණි ඕපායංගී</li></ul><p><br></p><p><br></p><ul><li><strong>දිනය:</strong> නොවැම්බර් 21 වනදා</li><li><strong>වේලාව:</strong> පස්වරු 7.00 සිට</li><li><strong>ස්ථානය:</strong> කොළඹ මියුසියස් විද්‍යාලීය ශ්‍රවණාගාරය (Musaeus College Auditorium)</li><li><strong>සංවිධානය:</strong> AWAKASHA Entertainment</li></ul><p><br></p><p>නොමියෙන සුගන්ධවත් ගීත මතකයන් රැසක් සමඟින් අමතක නොවන රාත්‍රියක අත්දැකීම විඳගන්න ඔබත් අදම වේලාව වෙන් කරගන්න! 🎟️✨</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Rasogaya%20-%20%E0%B6%BB%E0%B7%83%E0%B7%9D%E0%B6%9D%E0%B6%BA/RASOGAYA%20WEB%20POST-1785900899157.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Rasogaya%20-%20%E0%B6%BB%E0%B7%83%E0%B7%9D%E0%B6%9D%E0%B6%BA/RASOGAYA%20WEB%20POST-1785900899157.png",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-11-21T13:30:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/rasogaya/6a72b00a3891a9c45bfe96d1",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
     },
     {
       "id": "ticketsministry-1247",
