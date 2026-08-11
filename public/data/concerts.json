@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-11T14:55:03.158Z",
+  "lastSyncTime": "2026-08-11T16:55:41.742Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 10,
-    "TicketsMinistry": 33,
-    "Total": 61
+    "TicketsMinistry": 34,
+    "Total": 62
   },
   "concerts": [
     {
@@ -1381,6 +1381,29 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "ticketsministry-1247",
+      "source": "TicketsMinistry",
+      "name": "FDY 0",
+      "description": "<p>Flying Dust Festival 2026 Year-0</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-thumbnail.jpg",
+      "venue": "Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-12-05T18:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/fdy-0/6a7ab6e294f3b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.921836877837569,
+      "longitude": 79.81500565289788
     },
     {
       "id": "oneticket-421",
