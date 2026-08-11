@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-11T05:05:29.032Z",
+  "lastSyncTime": "2026-08-11T07:03:26.039Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 10,
@@ -81,7 +81,7 @@
       "id": "mytickets-6a3bbcf7e1f1dd21df5d7760",
       "source": "MyTickets",
       "name": "ROOKANTHA ",
-      "description": "<p>🎙️ The Wait is Over!</p><p><br></p><p>Experience the timeless sound of Rookantha as he takes you on A Timeless Journey through the songs that have defined generations.</p><p><br></p><h2><strong>ROOKANTHA</strong> – Live in Concert</h2><p>Composer | Singer | Lyricist</p><p><br></p><p>📅 Date: 15th August 2026</p><p>📍 Location: Sugathadasa Indoor Stadium</p><p>🕡 Time: 6:30 P.M. Onwards</p><p><br></p><p>🎟️ Get ready to secure your seats.</p>",
+      "description": "<p>🎙️ The Wait is Over!</p><p><br></p><p>Experience the timeless sound of Rookantha as he takes you on A Timeless Journey through the songs that have defined generations.</p><p><br></p><h2><strong>ROOKANTHA</strong> – Live in Concert</h2><p>Composer | Singer | Lyricist</p><p><br></p><p>📅 Date: 15th August 2026</p><p>📍 Location: Sugathadasa Indoor Stadium</p><p>🕡 Time: 6:30 P.M. Onwards</p><p><br></p><p>🎟️ Get ready to secure your seats.</p><p><br></p><p><strong>Rs 5,000 ticket allows the patron to either enjoy the event from the fan pit or go upstairs to the stadium-side Rs 5000 allocated seating area. It does not need any pre-booking or prior selection.&nbsp;</strong></p><p><br></p><p><strong>However, the seating allocation will be on a first-come, first-served basis on the event day &amp; strictly no reservations or holding seats for friends &amp; family.</strong></p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/ROOKANTHA%20/Screenshot_20260627-005358~2-1782502028495.jpg",
       "posterUrl": "https://assets.mytickets.lk/images/events/ROOKANTHA%20/Screenshot_20260627-005358~2-1782502028495.jpg",
       "venue": "Sugathadasa Indoor Stadium",
@@ -734,8 +734,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.8696150000000005,
-      "longitude": 79.99759089999999
+      "latitude": 6.9091157,
+      "longitude": 79.8632827
     },
     {
       "id": "ticketsministry-1190",
@@ -1296,8 +1296,8 @@
       "source": "OneTicket",
       "name": "Pathuman Live in Concert",
       "description": "Pathuman Live in Concert happening at BMICH - Outdoor. Date & Time: Fri, Oct 23, 2026, 11:30 PM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/36058189-e46ead13-7cb8-4862-a4d9-90fcdc14b23f.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/50548586-89c2b01e-5ef1-47fd-a022-215c564f2b34.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/81297221-d6ba56b9-cea2-47ee-a5da-5b61627084e4.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/51332466-abad55eb-6933-40a0-947c-773482e4a48b.jpg",
       "venue": "BMICH - Outdoor",
       "city": "BMICH - Outdoor",
       "dateTime": "2026-10-23T18:00:00.000Z",
