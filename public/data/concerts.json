@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-12T04:05:42.696Z",
+  "lastSyncTime": "2026-08-12T07:21:39.352Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 10,
@@ -94,7 +94,8 @@
       "ticketLink": "https://mytickets.lk/event/rookantha/6a3bbcf7e1f1dd21df5d7760",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.906864705882353,
       "longitude": 79.89618039215686
