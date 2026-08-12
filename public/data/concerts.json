@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-12T09:09:13.156Z",
+  "lastSyncTime": "2026-08-12T10:58:38.827Z",
   "counts": {
-    "MyTickets": 18,
+    "MyTickets": 19,
     "OneTicket": 10,
     "TicketsMinistry": 34,
-    "Total": 62
+    "Total": 63
   },
   "concerts": [
     {
@@ -811,9 +811,9 @@
       "id": "ticketsministry-1246",
       "source": "TicketsMinistry",
       "name": "PUB LONDON BAND 2 BAND",
-      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, HANA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited TicketsGeneral – LKR 1,500</p><p>VIP Seated Early Bird – LKR 2,000 Limited TicketsVIP Seated – LKR 2,500</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited TicketsVVIP Table – LKR 25,000 (6 pax - Elevated View Experience)</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/muDwuHntZbQobr1bltigOzVFR0U9UeFOViU5Nw6R.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VdEop3D7BcN1oMXuBaS5STULqXROwRV8JsaQ8sO8.png",
+      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, UMARIA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited TicketsGeneral – LKR 1,500</p><p>VIP Seated Early Bird – LKR 2,000 Limited TicketsVIP Seated – LKR 2,500</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited TicketsVVIP Table – LKR 25,000 (6 pax - Elevated View Experience)</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Umx6c4HfQufyNNYMjD8MyohU1bxF6VVgY5r1d3jv.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DslfABsngFEPTD1aDvsuUCuUhVb4l2OlMmRoVN8U.jpg",
       "venue": "Samanala Ground Galle",
       "city": "Galle",
       "dateTime": "2026-09-12T19:00:00.000Z",
@@ -899,6 +899,28 @@
       ],
       "latitude": 6.917845098039216,
       "longitude": 79.84849411764705
+    },
+    {
+      "id": "mytickets-6a7ab0353a2541208a3af097",
+      "source": "MyTickets",
+      "name": "Moratu Somiya - මොරටු සොමිය ",
+      "description": "<p>Moratu Somiya</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Moratu%20Somiya/Gemini_Generated_Image_vky1ltvky1ltvky1%20(1)-1786522419603.png",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Moratu%20Somiya/Gemini_Generated_Image_vky1ltvky1ltvky1%20(1)-1786522419603.png",
+      "venue": "Ramadia Grand Moratuwa - Grand ballroom",
+      "city": "666548e1a03df8fc2ac5a4ac",
+      "dateTime": "2026-09-19T13:30:00.000Z",
+      "originalDateStr": "Sat, Sep 19, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://mytickets.lk/event/moratu-somiya/6a7ab0353a2541208a3af097",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.958001960784314,
+      "longitude": 79.88080784313725
     },
     {
       "id": "mytickets-6a3a1e87be3ca6d8118e17f1",
