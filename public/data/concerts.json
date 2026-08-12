@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-12T14:54:37.244Z",
+  "lastSyncTime": "2026-08-12T16:54:54.011Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 10,
@@ -1130,6 +1130,29 @@
       "longitude": 79.91147419910696
     },
     {
+      "id": "ticketsministry-1253",
+      "source": "TicketsMinistry",
+      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Draught + Bench Seating: 5000 LKR</p></li><li><p>Free Draught + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/5QgMZbfE1VH0EX0pHjjjpbLq9yVLTB3i9f3SXBHO.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/NyH2XhsnKh2g5sIi5syasq8PmS7eNYdZvhsCaHTD.jpg",
+      "venue": "Radisson Blu Resort Galle",
+      "city": "Galle",
+      "dateTime": "2026-10-03T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 3, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Oktoberfest"
+      ],
+      "latitude": 6.052549600000001,
+      "longitude": 80.1813931
+    },
+    {
       "id": "ticketsministry-1189",
       "source": "TicketsMinistry",
       "name": "SPICE ISLAND SESSIONS",
@@ -1406,29 +1429,6 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
-    },
-    {
-      "id": "ticketsministry-1253",
-      "source": "TicketsMinistry",
-      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Draught + Bench Seating: 5000 LKR</p></li><li><p>Free Draught + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/5QgMZbfE1VH0EX0pHjjjpbLq9yVLTB3i9f3SXBHO.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/NyH2XhsnKh2g5sIi5syasq8PmS7eNYdZvhsCaHTD.jpg",
-      "venue": "Radisson Blu Resort Galle",
-      "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 6.052549600000001,
-      "longitude": 80.1813931
     },
     {
       "id": "ticketsministry-1252",
