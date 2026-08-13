@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-13T10:59:26.574Z",
+  "lastSyncTime": "2026-08-13T13:05:13.830Z",
   "counts": {
-    "MyTickets": 19,
+    "MyTickets": 20,
     "OneTicket": 10,
     "TicketsMinistry": 37,
-    "Total": 66
+    "Total": 67
   },
   "concerts": [
     {
@@ -1011,6 +1011,28 @@
       ],
       "latitude": 6.964590196078432,
       "longitude": 79.8770431372549
+    },
+    {
+      "id": "mytickets-6a7daa07d556332fdf77addb",
+      "source": "MyTickets",
+      "name": "WAYO AT THE EDGE",
+      "description": "<p>WAYO AT THE EDGE</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/23042220-5858-4a71-9f2f-662d9ed2504f-1786620449467.jfif",
+      "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/23042220-5858-4a71-9f2f-662d9ed2504f-1786620449467.jfif",
+      "venue": "Waters Edge Outdoor Car Park - Battaramulla",
+      "city": "666548e1a03df8fc2ac5a0e5",
+      "dateTime": "2026-09-25T14:30:00.000Z",
+      "originalDateStr": "Fri, Sep 25, 2026, 08:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://mytickets.lk/event/wayo-at-the-edge/6a7daa07d556332fdf77addb",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9055,
+      "longitude": 79.9114
     },
     {
       "id": "ticketsministry-1155",
