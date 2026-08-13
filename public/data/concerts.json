@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-13T07:23:11.791Z",
+  "lastSyncTime": "2026-08-13T09:09:42.775Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 10,
@@ -811,9 +811,9 @@
       "id": "ticketsministry-1235",
       "source": "TicketsMinistry",
       "name": "SING ALONG WITH MARIANS",
-      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of whiskey, 1 bottle of vodka, 1 bottle of wine, juice, soda, and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/X8Mt1uisxOdc3bvW38qjUxZfl4TlJ4XDd4J4j7eE.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/XvCm3NDcW6moLNafRAshKlX8VZoBvNyi05ylJAM8.jpg",
+      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of liquor, 1 bottle of wine, juice and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/S48lz1TYMPRCa7GO1Z2FuCli2VMymCEy5ar5aD8c.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/6ABKhMwRYDh2mRYK9ua1ZAakeRyef4dHT3i3IKHj.jpg",
       "venue": "Cinnamon Lakeside Colombo",
       "city": "Colombo 02",
       "dateTime": "2026-09-12T19:00:00.000Z",
@@ -1448,7 +1448,8 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Outdoor Musical Concert",
+        "Featured"
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
