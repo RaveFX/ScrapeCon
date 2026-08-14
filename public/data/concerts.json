@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-14T14:48:23.897Z",
+  "lastSyncTime": "2026-08-14T16:49:16.688Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 10,
@@ -639,7 +639,7 @@
       "originalDateStr": "Sun, Sep 6, 2026, 02:00 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 2500,
+      "maxPrice": 3000,
       "ticketLink": "https://www.ticketsministry.com/concerts/nithambani/6a5b1866be736",
       "status": "active",
       "tags": [
