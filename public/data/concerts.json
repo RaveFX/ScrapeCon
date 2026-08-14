@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-14T16:49:16.688Z",
+  "lastSyncTime": "2026-08-14T18:50:45.453Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 10,
+    "OneTicket": 9,
     "TicketsMinistry": 37,
-    "Total": 66
+    "Total": 65
   },
   "concerts": [
     {
@@ -29,30 +29,6 @@
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
-    },
-    {
-      "id": "oneticket-338",
-      "source": "OneTicket",
-      "name": "TAKEOVER '26",
-      "description": "TAKEOVER '26 happening at BMICH Outdoor. Date & Time: Fri, Aug 14, 2026, 11:00 PM. Tickets start from 1800 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/30511351-935789d7-99fd-4ec3-ab70-833748a3c050.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/36499536-32887bc2-0177-4a00-8d77-51b6f9e7e0fd.jpg",
-      "venue": "BMICH Outdoor",
-      "city": "BMICH Outdoor",
-      "dateTime": "2026-08-14T17:30:00.000Z",
-      "originalDateStr": "Fri, Aug 14, 2026, 11:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1800,
-      "maxPrice": 1800,
-      "ticketLink": "https://oneticket.lk/event/takeover26",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1182",
@@ -94,8 +70,7 @@
       "ticketLink": "https://mytickets.lk/event/rookantha/6a3bbcf7e1f1dd21df5d7760",
       "status": "active",
       "tags": [
-        "Concert",
-        "Hot Deal"
+        "Concert"
       ],
       "latitude": 6.906864705882353,
       "longitude": 79.89618039215686
