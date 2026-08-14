@@ -1,12 +1,36 @@
 {
-  "lastSyncTime": "2026-08-14T07:21:09.357Z",
+  "lastSyncTime": "2026-08-14T09:04:46.274Z",
   "counts": {
-    "MyTickets": 19,
-    "OneTicket": 9,
+    "MyTickets": 18,
+    "OneTicket": 10,
     "TicketsMinistry": 37,
     "Total": 65
   },
   "concerts": [
+    {
+      "id": "oneticket-338",
+      "source": "OneTicket",
+      "name": "TAKEOVER '26",
+      "description": "TAKEOVER '26 happening at BMICH Outdoor. Date & Time: Fri, Aug 14, 2026, 11:00 PM. Tickets start from 1800 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/30511351-935789d7-99fd-4ec3-ab70-833748a3c050.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/36499536-32887bc2-0177-4a00-8d77-51b6f9e7e0fd.jpg",
+      "venue": "BMICH Outdoor",
+      "city": "BMICH Outdoor",
+      "dateTime": "2026-08-14T17:30:00.000Z",
+      "originalDateStr": "Fri, Aug 14, 2026, 11:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1800,
+      "maxPrice": 1800,
+      "ticketLink": "https://oneticket.lk/event/takeover26",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
+    },
     {
       "id": "ticketsministry-1172",
       "source": "TicketsMinistry",
@@ -899,28 +923,6 @@
       ],
       "latitude": 6.917845098039216,
       "longitude": 79.84849411764705
-    },
-    {
-      "id": "mytickets-6a7ab0353a2541208a3af097",
-      "source": "MyTickets",
-      "name": "Moratu Somiya - මොරටු සොමිය ",
-      "description": "<p>Moratu Somiya</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Moratu%20Somiya/Gemini_Generated_Image_vky1ltvky1ltvky1%20(1)-1786522419603.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Moratu%20Somiya/Gemini_Generated_Image_vky1ltvky1ltvky1%20(1)-1786522419603.png",
-      "venue": "Ramadia Grand Moratuwa - Grand ballroom",
-      "city": "666548e1a03df8fc2ac5a4ac",
-      "dateTime": "2026-09-19T13:30:00.000Z",
-      "originalDateStr": "Sat, Sep 19, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://mytickets.lk/event/moratu-somiya/6a7ab0353a2541208a3af097",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.958001960784314,
-      "longitude": 79.88080784313725
     },
     {
       "id": "mytickets-6a3a1e87be3ca6d8118e17f1",
