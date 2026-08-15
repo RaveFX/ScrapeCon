@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-08-15T10:20:33.459Z",
+  "lastSyncTime": "2026-08-15T12:33:12.478Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 9,
-    "TicketsMinistry": 36,
-    "Total": 64
+    "OneTicket": 8,
+    "TicketsMinistry": 35,
+    "Total": 62
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1182",
-      "source": "TicketsMinistry",
-      "name": "YAATHRA",
-      "description": "<p>Yaathra brings together artists from two generations on one stage, for an unforgettable evening of music set against the picturesque backdrop of Waters Edge. This carefully curated concert celebrates the soul of Sri Lankan cinema music alongside a vibrant selection of other much-loved songs.Spanning generations and styles, Baachi Susan, Amal Perera, Nirosha Virajini, Nuwandhika Senarathne, Ridma Weerawardena, and Yasas Medagedara come together on one stage, each bringing their own distinctive artistry to timeless classics and beloved favourites.From the golden era of Sri Lankan film music to contemporary hits, Yaathra promises an evening woven with emotion, nostalgia, and celebration, a true musical pilgrimage for music lovers of all generations.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/uat/events/202606222024-yaathra-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/uat/events/202606222024-yaathra-thumbnail.jpg",
-      "venue": "Waters Edge Outdoor",
-      "city": "Battaramulla",
-      "dateTime": "2026-08-14T19:30:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/yaathra/6a394cbe0ad06",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.905563358876491,
-      "longitude": 79.91147419910696
-    },
     {
       "id": "mytickets-6a3bbcf7e1f1dd21df5d7760",
       "source": "MyTickets",
@@ -53,30 +30,6 @@
       "longitude": 79.89618039215686
     },
     {
-      "id": "oneticket-318",
-      "source": "OneTicket",
-      "name": "Saptha Swara (සප්ත ස්වර)",
-      "description": "Saptha Swara (සප්ත ස්වර) happening at Musaeus College. Date & Time: Sun, Aug 16, 2026, 12:30 AM. Tickets start from 3500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/85782195-2b08822e-b534-41cf-abf3-370cb0393de2.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/34246243-75a8c3d9-2f8d-4eb6-a8ae-b6d8e800ab1f.jpg",
-      "venue": "Musaeus College",
-      "city": "Musaeus College",
-      "dateTime": "2026-08-15T19:00:00.000Z",
-      "originalDateStr": "Sun, Aug 16, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://oneticket.lk/event/saptha-swara",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
-    {
       "id": "ticketsministry-1223",
       "source": "TicketsMinistry",
       "name": "LOCO MOTIF THE ENCORE",
@@ -85,13 +38,13 @@
       "posterUrl": "https://cdn.ticketsministry.com/events/qQy8Ha9Xv9kbUipDrAbWNxdJ6nlF96mRUieUmD09.png",
       "venue": "The Doctors House Matara",
       "city": "Matara",
-      "dateTime": "2026-08-15T19:30:00.000Z",
-      "originalDateStr": "Sun, Aug 16, 2026, 01:00 AM",
+      "dateTime": "2026-08-15T17:00:00.000Z",
+      "originalDateStr": "Sat, Aug 15, 2026, 10:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 3500,
       "maxPrice": 3500,
       "ticketLink": "https://www.ticketsministry.com/concerts/loco-motif-the-encore/39dd3e11-e129-4730-924e-930da9eebe7f",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
@@ -782,30 +735,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1235",
-      "source": "TicketsMinistry",
-      "name": "SING ALONG WITH MARIANS",
-      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of liquor, 1 bottle of wine, juice and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/S48lz1TYMPRCa7GO1Z2FuCli2VMymCEy5ar5aD8c.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/6ABKhMwRYDh2mRYK9ua1ZAakeRyef4dHT3i3IKHj.jpg",
-      "venue": "Cinnamon Lakeside Colombo",
-      "city": "Colombo 02",
-      "dateTime": "2026-09-12T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 15000,
-      "maxPrice": 225000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sing-along-with-marians/7536344f-226d-45a0-9996-a1353032a48e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Featured"
-      ],
-      "latitude": 6.929170399999999,
-      "longitude": 79.8492962
-    },
-    {
       "id": "ticketsministry-1246",
       "source": "TicketsMinistry",
       "name": "PUB LONDON BAND 2 BAND",
@@ -828,6 +757,30 @@
       ],
       "latitude": 6.030886499999999,
       "longitude": 80.21436039999999
+    },
+    {
+      "id": "ticketsministry-1235",
+      "source": "TicketsMinistry",
+      "name": "SING ALONG WITH MARIANS",
+      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of liquor, 1 bottle of wine, juice and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/S48lz1TYMPRCa7GO1Z2FuCli2VMymCEy5ar5aD8c.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/6ABKhMwRYDh2mRYK9ua1ZAakeRyef4dHT3i3IKHj.jpg",
+      "venue": "Cinnamon Lakeside Colombo",
+      "city": "Colombo 02",
+      "dateTime": "2026-09-12T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 15000,
+      "maxPrice": 225000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sing-along-with-marians/7536344f-226d-45a0-9996-a1353032a48e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Featured"
+      ],
+      "latitude": 6.929170399999999,
+      "longitude": 79.8492962
     },
     {
       "id": "ticketsministry-1188",
