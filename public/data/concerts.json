@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-16T04:33:08.493Z",
+  "lastSyncTime": "2026-08-16T06:35:54.774Z",
   "counts": {
     "MyTickets": 18,
-    "OneTicket": 9,
+    "OneTicket": 8,
     "TicketsMinistry": 35,
-    "Total": 62
+    "Total": 61
   },
   "concerts": [
     {
@@ -31,30 +31,6 @@
       "longitude": 80.5155029
     },
     {
-      "id": "oneticket-318",
-      "source": "OneTicket",
-      "name": "Saptha Swara (සප්ත ස්වර)",
-      "description": "Saptha Swara (සප්ත ස්වර) happening at Musaeus College. Date & Time: Sun, Aug 16, 2026, 12:30 AM. Tickets start from 3500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/85782195-2b08822e-b534-41cf-abf3-370cb0393de2.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/34246243-75a8c3d9-2f8d-4eb6-a8ae-b6d8e800ab1f.jpg",
-      "venue": "Musaeus College",
-      "city": "Musaeus College",
-      "dateTime": "2026-08-15T19:00:00.000Z",
-      "originalDateStr": "Sun, Aug 16, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://oneticket.lk/event/saptha-swara",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
-    {
       "id": "ticketsministry-1178",
       "source": "TicketsMinistry",
       "name": "SPACE LOVE",
@@ -67,7 +43,7 @@
       "originalDateStr": "Sun, Aug 16, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
-      "maxPrice": 6000,
+      "maxPrice": 7000,
       "ticketLink": "https://www.ticketsministry.com/concerts/space-love/6a363021d8786",
       "status": "active",
       "tags": [
