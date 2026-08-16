@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-08-15T22:18:44.908Z",
+  "lastSyncTime": "2026-08-16T01:10:01.920Z",
   "counts": {
-    "MyTickets": 19,
+    "MyTickets": 18,
     "OneTicket": 9,
     "TicketsMinistry": 35,
-    "Total": 63
+    "Total": 62
   },
   "concerts": [
-    {
-      "id": "mytickets-6a3bbcf7e1f1dd21df5d7760",
-      "source": "MyTickets",
-      "name": "ROOKANTHA ",
-      "description": "<p>🎙️ The Wait is Over!</p><p><br></p><p>Experience the timeless sound of Rookantha as he takes you on A Timeless Journey through the songs that have defined generations.</p><p><br></p><h2><strong>ROOKANTHA</strong> – Live in Concert</h2><p>Composer | Singer | Lyricist</p><p><br></p><p>📅 Date: 15th August 2026</p><p>📍 Location: Sugathadasa Indoor Stadium</p><p>🕡 Time: 6:30 P.M. Onwards</p><p><br></p><p>🎟️ Get ready to secure your seats.</p><p><br></p><p><strong>Rs 5,000 ticket allows the patron to either enjoy the event from the fan pit or go upstairs to the stadium-side Rs 5000 allocated seating area. It does not need any pre-booking or prior selection.&nbsp;</strong></p><p><br></p><p><strong>However, the seating allocation will be on a first-come, first-served basis on the event day &amp; strictly no reservations or holding seats for friends &amp; family.</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/ROOKANTHA%20/Screenshot_20260627-005358~2-1782502028495.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/ROOKANTHA%20/Screenshot_20260627-005358~2-1782502028495.jpg",
-      "venue": "Sugathadasa Indoor Stadium",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-08-15T13:00:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 25000,
-      "ticketLink": "https://mytickets.lk/event/rookantha/6a3bbcf7e1f1dd21df5d7760",
-      "status": "sold-out",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.906864705882353,
-      "longitude": 79.89618039215686
-    },
     {
       "id": "ticketsministry-1223",
       "source": "TicketsMinistry",
