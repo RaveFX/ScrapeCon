@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-08-16T14:20:04.432Z",
+  "lastSyncTime": "2026-08-16T16:21:06.729Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 8,
-    "TicketsMinistry": 35,
-    "Total": 61
+    "TicketsMinistry": 34,
+    "Total": 60
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1223",
-      "source": "TicketsMinistry",
-      "name": "LOCO MOTIF THE ENCORE",
-      "description": "<p>Some songs never really leave you. They simply wait for the right moment to be heard again. </p><p>LOCO MOTIF: The Encore welcomes Jukebox, The Rebels, and The Funk Bots for an evening shaped by nostalgia, timeless sounds, and the kind of atmosphere that keeps you around long after the final song. </p><p>Familiar melodies, new memories, and a crowd that feels like it has always belonged.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/G6kVA32eM8QPVrt5RqNStW0DblauWwXmWRZCAbw8.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/qQy8Ha9Xv9kbUipDrAbWNxdJ6nlF96mRUieUmD09.png",
-      "venue": "The Doctors House Matara",
-      "city": "Matara",
-      "dateTime": "2026-08-15T17:00:00.000Z",
-      "originalDateStr": "Sat, Aug 15, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/loco-motif-the-encore/39dd3e11-e129-4730-924e-930da9eebe7f",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936912499999999,
-      "longitude": 80.5155029
-    },
     {
       "id": "ticketsministry-1178",
       "source": "TicketsMinistry",
