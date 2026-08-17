@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-17T08:40:14.922Z",
+  "lastSyncTime": "2026-08-17T10:29:37.350Z",
   "counts": {
     "MyTickets": 20,
-    "OneTicket": 8,
+    "OneTicket": 9,
     "TicketsMinistry": 34,
-    "Total": 62
+    "Total": 63
   },
   "concerts": [
     {
@@ -826,6 +826,30 @@
       ],
       "latitude": 6.964903921568628,
       "longitude": 79.89743529411764
+    },
+    {
+      "id": "oneticket-422",
+      "source": "OneTicket",
+      "name": "Kshithijaya(ක්ෂිතිජය)",
+      "description": "Kshithijaya(ක්ෂිතිජය) happening at Galle Face Green. Date & Time: Sun, Sep 20, 2026, 12:30 AM. Tickets start from 5000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/17482378-253cda94-9519-4b17-9664-03109b2cd3c9.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/37756750-dd13c547-53fa-4e56-bc09-ca954ef33b81.jpg",
+      "venue": "Galle Face Green",
+      "city": "Galle Face Green",
+      "dateTime": "2026-09-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://oneticket.lk/event/kshithijayaකෂතජය",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.894943137254902,
+      "longitude": 79.87453333333333
     },
     {
       "id": "mytickets-6a7a9822f6e32989e564e686",
