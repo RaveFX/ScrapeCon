@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-17T14:24:49.618Z",
+  "lastSyncTime": "2026-08-17T16:24:30.358Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 9,
-    "TicketsMinistry": 34,
-    "Total": 63
+    "TicketsMinistry": 35,
+    "Total": 64
   },
   "concerts": [
     {
@@ -1149,6 +1149,29 @@
       ],
       "latitude": 7.295998692711573,
       "longitude": 80.22938217500008
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for an unforgettable night of live music, entertainment, and celebration at The Grand Fest 2026!</p><p>Join us on 10th October 2026 at Grandezza Hotel, Negombo, 7 PM Onwards, featuring an exciting live performance by Daddy with Shihan Mihiranga.</p><p>The Best Part Is This Is A BYOB Event, So Bring Your Own BOOZE.</p><p>Come experience the music, energy, and grand celebration of the year!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202608172024-the-grand-fest-2026-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/YYt6GhlLlpkQVz2d2Dzxf0HrdYKefVTCsi6mwleK.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 90000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.185537,
+      "longitude": 79.8587927
     },
     {
       "id": "ticketsministry-1236",
