@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-17T06:50:37.086Z",
+  "lastSyncTime": "2026-08-17T08:40:14.922Z",
   "counts": {
-    "MyTickets": 19,
+    "MyTickets": 20,
     "OneTicket": 8,
-    "TicketsMinistry": 33,
-    "Total": 60
+    "TicketsMinistry": 34,
+    "Total": 62
   },
   "concerts": [
     {
@@ -1245,6 +1245,29 @@
       "longitude": 79.8736
     },
     {
+      "id": "ticketsministry-1257",
+      "source": "TicketsMinistry",
+      "name": "NEWSCHOOLCOMMUNITY",
+      "description": "<p>NEWSCHOOLCOMMUNITY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608162129-newschoolcommunity-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608162129-newschoolcommunity-thumbnail.jpg",
+      "venue": "Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-10-23T18:00:00.000Z",
+      "originalDateStr": "Fri, Oct 23, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.921836877837569,
+      "longitude": 79.81500565289788
+    },
+    {
       "id": "mytickets-6a6cb88cc0bde00160fa0120",
       "source": "MyTickets",
       "name": "Mathakaya Asurin - මතකය ඇසුරින්",
@@ -1312,6 +1335,28 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "mytickets-6a82b47f95bb41016919efb8",
+      "source": "MyTickets",
+      "name": "Prema Nagaraya - ප්‍රේම නගරය ",
+      "description": "<p>Prema Nagaraya - ප්‍රේම නගරය&nbsp;</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Prema%20Nagaraya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%B1%E0%B6%9C%E0%B6%BB%E0%B6%BA%20/akke-1786950494101.jfif",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Prema%20Nagaraya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%B1%E0%B6%9C%E0%B6%BB%E0%B6%BA%20/akke-1786950494101.jfif",
+      "venue": "District Secretariat Kandy Auditorium",
+      "city": "666548e1a03df8fc2ac5a2fe",
+      "dateTime": "2026-11-20T11:15:00.000Z",
+      "originalDateStr": "Fri, Nov 20, 2026, 04:45 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/prema-nagaraya/6a82b47f95bb41016919efb8",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.953609803921569,
+      "longitude": 79.88300392156863
     },
     {
       "id": "mytickets-6a72b00a3891a9c45bfe96d1",
