@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-08-17T02:57:38.877Z",
+  "lastSyncTime": "2026-08-17T04:39:07.663Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 8,
-    "TicketsMinistry": 34,
-    "Total": 60
+    "TicketsMinistry": 33,
+    "Total": 59
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1178",
-      "source": "TicketsMinistry",
-      "name": "SPACE LOVE",
-      "description": "<p>Where Hearts Meet The Beat</p><p></p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/AMrmeCNhePVLqTfPSm3EFqqL31bfcDhKvXURRMex.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/mEe1tEwOS3m0tccGZqk34GczQW0CnMHoyGoffHvA.jpg",
-      "venue": "Invite Hotel Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-08-16T11:00:00.000Z",
-      "originalDateStr": "Sun, Aug 16, 2026, 04:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 7000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/space-love/6a363021d8786",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 7.420170512061967,
-      "longitude": 80.35387481130022
-    },
     {
       "id": "oneticket-337",
       "source": "OneTicket",
@@ -690,30 +667,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1246",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON BAND 2 BAND",
-      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, UMARIA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited TicketsGeneral – LKR 1,500</p><p>VIP Seated Early Bird – LKR 2,000 Limited TicketsVIP Seated – LKR 2,500</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited TicketsVVIP Table – LKR 25,000 (6 pax - Elevated View Experience)</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Umx6c4HfQufyNNYMjD8MyohU1bxF6VVgY5r1d3jv.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DslfABsngFEPTD1aDvsuUCuUhVb4l2OlMmRoVN8U.jpg",
-      "venue": "Samanala Ground Galle",
-      "city": "Galle",
-      "dateTime": "2026-09-12T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 20000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-band-2-band/6a7a9ca3aa530",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.030886499999999,
-      "longitude": 80.21436039999999
-    },
-    {
       "id": "ticketsministry-1235",
       "source": "TicketsMinistry",
       "name": "SING ALONG WITH MARIANS",
@@ -736,6 +689,30 @@
       ],
       "latitude": 6.929170399999999,
       "longitude": 79.8492962
+    },
+    {
+      "id": "ticketsministry-1246",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON BAND 2 BAND",
+      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, UMARIA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited TicketsGeneral – LKR 1,500</p><p>VIP Seated Early Bird – LKR 2,000 Limited TicketsVIP Seated – LKR 2,500</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited TicketsVVIP Table – LKR 25,000 (6 pax - Elevated View Experience)</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Umx6c4HfQufyNNYMjD8MyohU1bxF6VVgY5r1d3jv.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DslfABsngFEPTD1aDvsuUCuUhVb4l2OlMmRoVN8U.jpg",
+      "venue": "Samanala Ground Galle",
+      "city": "Galle",
+      "dateTime": "2026-09-12T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 20000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-band-2-band/6a7a9ca3aa530",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.030886499999999,
+      "longitude": 80.21436039999999
     },
     {
       "id": "ticketsministry-1188",
