@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-18T10:25:05.223Z",
+  "lastSyncTime": "2026-08-18T12:40:21.596Z",
   "counts": {
-    "MyTickets": 20,
+    "MyTickets": 21,
     "OneTicket": 9,
     "TicketsMinistry": 37,
-    "Total": 66
+    "Total": 67
   },
   "concerts": [
     {
@@ -1218,6 +1218,28 @@
       ],
       "latitude": 7.182460707392528,
       "longitude": 79.86020890635984
+    },
+    {
+      "id": "mytickets-6a84384e8b28dae979bfe07d",
+      "source": "MyTickets",
+      "name": "මැයි මාර සංචරණිය -Maeyi Mara Sancaraṇiya",
+      "description": "<p>මැයි මාර සංචරණිය -Maeyi Mara Sancaraṇiya</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B7%90%E0%B6%BA%E0%B7%92%20%E0%B6%B8%E0%B7%8F%E0%B6%BB%20%E0%B7%83%E0%B6%82%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B7%92%E0%B6%BA%20-Maeyi%20Mara%20Sancara%E1%B9%87iya/WhatsApp%20Image%202026-08-18%20at%2015.%20(1)-1787049768731.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B7%90%E0%B6%BA%E0%B7%92%20%E0%B6%B8%E0%B7%8F%E0%B6%BB%20%E0%B7%83%E0%B6%82%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B7%92%E0%B6%BA%20-Maeyi%20Mara%20Sancara%E1%B9%87iya/WhatsApp%20Image%202026-08-18%20at%2015.%20(1)-1787049768731.jpg",
+      "venue": "Gampola Wickramabahu National College Auditorium",
+      "city": "666548e1a03df8fc2ac5a1f4",
+      "dateTime": "2026-10-11T09:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 02:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/maeyi-mara-sancaraiya/6a84384e8b28dae979bfe07d",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9115705882352945,
+      "longitude": 79.87359215686274
     },
     {
       "id": "ticketsministry-1236",
