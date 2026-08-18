@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-18T08:34:05.027Z",
+  "lastSyncTime": "2026-08-18T10:25:05.223Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 9,
@@ -754,7 +754,7 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Event",
+        "Indoor Musical Concert",
         "Featured"
       ],
       "latitude": 6.929170399999999,
@@ -1216,8 +1216,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 7.185537,
-      "longitude": 79.8587927
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "ticketsministry-1236",
