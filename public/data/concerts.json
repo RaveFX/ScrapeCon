@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-18T06:39:19.535Z",
+  "lastSyncTime": "2026-08-18T08:34:05.027Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 9,
@@ -633,7 +633,7 @@
       "originalDateStr": "Sat, Sep 12, 2026, 08:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 7000,
-      "maxPrice": 7000,
+      "maxPrice": 35000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sun-drift-sessions/6a58bfee5cceb",
       "status": "active",
       "tags": [
