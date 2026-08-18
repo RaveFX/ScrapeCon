@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-18T04:33:25.858Z",
+  "lastSyncTime": "2026-08-18T06:39:19.535Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 9,
@@ -1350,7 +1350,7 @@
       "originalDateStr": "Fri, Oct 23, 2026, 11:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 6000,
-      "maxPrice": 6000,
+      "maxPrice": 80000,
       "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
       "status": "active",
       "tags": [
