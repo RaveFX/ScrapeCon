@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-18T02:53:09.029Z",
+  "lastSyncTime": "2026-08-18T04:33:25.858Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 9,
-    "TicketsMinistry": 35,
-    "Total": 64
+    "TicketsMinistry": 37,
+    "Total": 66
   },
   "concerts": [
     {
@@ -99,6 +99,29 @@
       "longitude": 79.8676
     },
     {
+      "id": "ticketsministry-1258",
+      "source": "TicketsMinistry",
+      "name": "WORLD OF RAVAN UPGRADED",
+      "description": "<p>World of Ravan Upgraded brings an electrifying night of live rock music, high-energy vibes, and nonstop entertainment.Experience the perfect mix of music, drinks, and fun with exciting gifts and surprises. </p><p>Designed for true music and party lovers, this is your ultimate escape to unwind, connect, and celebrate in style.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7eCmQhxo40wTxdOBM2ItR7Gum3t4wzKNj1hwegFr.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/mKur02LEgCi225dCwoBjet4h1G2VGxcDXcGtGwb1.png",
+      "venue": "The Marquee Port City",
+      "city": "Colombo 01",
+      "dateTime": "2026-08-22T17:00:00.000Z",
+      "originalDateStr": "Sat, Aug 22, 2026, 10:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/world-of-ravan-upgraded/6a82b6baeb8f8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.927154900000001,
+      "longitude": 79.827272
+    },
+    {
       "id": "ticketsministry-1215",
       "source": "TicketsMinistry",
       "name": "ANURAGA",
@@ -167,29 +190,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1144",
-      "source": "TicketsMinistry",
-      "name": "PREMAYE HORAWA",
-      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
-      "venue": "Hotel Aknara Water Front Panadura",
-      "city": "Panadura",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.7359006932603265,
-      "longitude": 79.89916457418714
-    },
-    {
       "id": "ticketsministry-1243",
       "source": "TicketsMinistry",
       "name": "VACATION NIGHT WITH MAMA BAND",
@@ -211,6 +211,29 @@
       ],
       "latitude": 7.317621099999998,
       "longitude": 79.8488601
+    },
+    {
+      "id": "ticketsministry-1144",
+      "source": "TicketsMinistry",
+      "name": "PREMAYE HORAWA",
+      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
+      "venue": "Hotel Aknara Water Front Panadura",
+      "city": "Panadura",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.7359006932603265,
+      "longitude": 79.89916457418714
     },
     {
       "id": "ticketsministry-1205",
@@ -464,6 +487,29 @@
       "longitude": 79.84425677499648
     },
     {
+      "id": "ticketsministry-1261",
+      "source": "TicketsMinistry",
+      "name": "SARUWATH LIVE IN CONCERT",
+      "description": "<p>ඔන්න එහෙනම් සුපිරිම Live in Concert එකක් ගල්නෑවට...... 😍🎶 සරුවත් රහම ටික With Blueberry Music 🎶සුපිරිම Concert එක බලන්න Sep 05 ගල්නෑවට එන්න..Ready වෙන්න 😉🤟❤️🎶Artists Lineup🔹Chamara Weerasinghe🔹Sureni De Mel 🔹Viraj Perera🔹D-Tab🔹JNK Jana and MoniyoDancing 💃  Suba with CamelliaHost 🎤 Nalin Yatimangala🗓️ 2026/09/05🕗 රාත්‍රී 𝟴.𝟬𝟬 සිට📍 ගල්නෑව රථගාල ක්‍රීඩාංගණයTicket prices🎫 Rs.800🎫 Rs.1500 VIPBook your Tickets🔴 Online Tickets coming soon Official Ticketing partner Tickets ministryFor more Info📞 ‪+94 77 256 9040‬ (Nalin)Media Sponsored  Sha FM 📻</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608180947-saruwath-live-in-concert-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608180947-saruwath-live-in-concert-thumbnail.jpg",
+      "venue": "Galnewa Mahaweli Public Ground",
+      "city": "Galnewa",
+      "dateTime": "2026-09-05T20:00:00.000Z",
+      "originalDateStr": "Sun, Sep 6, 2026, 01:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 800,
+      "maxPrice": 1500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/saruwath-live-in-concert/6a83dccca1d61",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 8.098686483968136,
+      "longitude": 80.22807975727076
+    },
+    {
       "id": "ticketsministry-1218",
       "source": "TicketsMinistry",
       "name": "NITHAMBANI",
@@ -667,30 +713,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1235",
-      "source": "TicketsMinistry",
-      "name": "SING ALONG WITH MARIANS",
-      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of liquor, 1 bottle of wine, juice and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/S48lz1TYMPRCa7GO1Z2FuCli2VMymCEy5ar5aD8c.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/6ABKhMwRYDh2mRYK9ua1ZAakeRyef4dHT3i3IKHj.jpg",
-      "venue": "Cinnamon Lakeside Colombo",
-      "city": "Colombo 02",
-      "dateTime": "2026-09-12T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 15000,
-      "maxPrice": 225000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sing-along-with-marians/7536344f-226d-45a0-9996-a1353032a48e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Featured"
-      ],
-      "latitude": 6.929170399999999,
-      "longitude": 79.8492962
-    },
-    {
       "id": "ticketsministry-1246",
       "source": "TicketsMinistry",
       "name": "PUB LONDON BAND 2 BAND",
@@ -713,6 +735,30 @@
       ],
       "latitude": 6.030886499999999,
       "longitude": 80.21436039999999
+    },
+    {
+      "id": "ticketsministry-1235",
+      "source": "TicketsMinistry",
+      "name": "SING ALONG WITH MARIANS",
+      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of liquor, 1 bottle of wine, juice and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/S48lz1TYMPRCa7GO1Z2FuCli2VMymCEy5ar5aD8c.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/6ABKhMwRYDh2mRYK9ua1ZAakeRyef4dHT3i3IKHj.jpg",
+      "venue": "Cinnamon Lakeside Colombo",
+      "city": "Colombo 02",
+      "dateTime": "2026-09-12T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 15000,
+      "maxPrice": 225000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sing-along-with-marians/7536344f-226d-45a0-9996-a1353032a48e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Featured"
+      ],
+      "latitude": 6.929170399999999,
+      "longitude": 79.8492962
     },
     {
       "id": "ticketsministry-1188",
