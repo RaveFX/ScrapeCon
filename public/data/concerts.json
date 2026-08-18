@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-18T14:31:10.574Z",
+  "lastSyncTime": "2026-08-18T16:28:44.845Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 9,
-    "TicketsMinistry": 37,
-    "Total": 67
+    "TicketsMinistry": 38,
+    "Total": 68
   },
   "concerts": [
     {
@@ -1494,6 +1494,29 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "ticketsministry-1260",
+      "source": "TicketsMinistry",
+      "name": "WONDERLAND 2026",
+      "description": "<p>Get ready for one hell of a brunch! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM Brunch designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, and an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Q3phe1gW90bNMqFHaFpzUfFTs0eboZaTiMm9po41.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/MMBoRZncr47GoebbQOMty0H6t4ZfRIlcqtvz2ssY.jpg",
+      "venue": "Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-28T10:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/wonderland-2026/546633af-e2fe-4db6-bf39-fb47e5f297b3",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.921836877837569,
+      "longitude": 79.81500565289788
     },
     {
       "id": "ticketsministry-1247",
