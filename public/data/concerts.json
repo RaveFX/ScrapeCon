@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-19T06:39:56.227Z",
+  "lastSyncTime": "2026-08-19T08:34:18.557Z",
   "counts": {
     "MyTickets": 21,
-    "OneTicket": 9,
+    "OneTicket": 10,
     "TicketsMinistry": 39,
-    "Total": 69
+    "Total": 70
   },
   "concerts": [
     {
@@ -920,6 +920,30 @@
       "longitude": 79.82465098039215
     },
     {
+      "id": "oneticket-423",
+      "source": "OneTicket",
+      "name": "Dream Night with D-Major",
+      "description": "Dream Night with D-Major happening at Earl’s Regency Hotel. Date & Time: Sun, Sep 20, 2026, 11:30 PM. Tickets start from 6000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/32969843-a1eb9fe6-bee3-44d9-8138-d43c8ab6b8e1.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/73350565-afb777a0-fc11-42e5-847c-925f050fa01d.jpg",
+      "venue": "Earl’s Regency Hotel",
+      "city": "Earl’s Regency Hotel",
+      "dateTime": "2026-09-20T18:00:00.000Z",
+      "originalDateStr": "Sun, Sep 20, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://oneticket.lk/event/dream-night-with-d-major",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.895256862745098,
+      "longitude": 79.87453333333333
+    },
+    {
       "id": "mytickets-6a7416dc4e8a29ec83e1f6be",
       "source": "MyTickets",
       "name": " Adariye - ආදරියේ ",
@@ -1197,6 +1221,29 @@
       "longitude": 80.22938217500008
     },
     {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
+    },
+    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -1218,29 +1265,6 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
-    },
-    {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for an unforgettable night of live music, entertainment, and celebration at The Grand Fest 2026!</p><p>Join us on 10th October 2026 at Grandezza Hotel, Negombo, 7 PM Onwards, featuring an exciting live performance by Daddy with Shihan Mihiranga.</p><p>The Best Part Is This Is A BYOB Event, So Bring Your Own BOOZE.</p><p>Come experience the music, energy, and grand celebration of the year!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1522,9 +1546,9 @@
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
-      "description": "<p>Get ready for one hell of a brunch! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM Brunch designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, and an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Q3phe1gW90bNMqFHaFpzUfFTs0eboZaTiMm9po41.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/MMBoRZncr47GoebbQOMty0H6t4ZfRIlcqtvz2ssY.jpg",
+      "description": "<p>Get ready for one hell of a brunch! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM Brunch designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/VlyKYEmzKZEtfZ9ZuwZWbq1FQbhq7eAEDa9Xim4L.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/fbvkMgEyCbfKYRxTufuBo2fA8KF4T31dQMHz6cCX.png",
       "venue": "Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-11-28T10:00:00.000Z",
