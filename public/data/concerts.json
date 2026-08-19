@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-19T14:30:38.312Z",
+  "lastSyncTime": "2026-08-19T16:28:38.045Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 10,
-    "TicketsMinistry": 39,
-    "Total": 70
+    "TicketsMinistry": 40,
+    "Total": 71
   },
   "concerts": [
     {
@@ -190,29 +190,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1144",
-      "source": "TicketsMinistry",
-      "name": "PREMAYE HORAWA",
-      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
-      "venue": "Hotel Aknara Water Front Panadura",
-      "city": "Panadura",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.7359006932603265,
-      "longitude": 79.89916457418714
-    },
-    {
       "id": "ticketsministry-1243",
       "source": "TicketsMinistry",
       "name": "VACATION NIGHT WITH MAMA BAND",
@@ -234,6 +211,29 @@
       ],
       "latitude": 7.317621099999998,
       "longitude": 79.8488601
+    },
+    {
+      "id": "ticketsministry-1144",
+      "source": "TicketsMinistry",
+      "name": "PREMAYE HORAWA",
+      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
+      "venue": "Hotel Aknara Water Front Panadura",
+      "city": "Panadura",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.7359006932603265,
+      "longitude": 79.89916457418714
     },
     {
       "id": "ticketsministry-1205",
@@ -713,30 +713,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1246",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON BAND 2 BAND",
-      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, UMARIA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited Tickets (SOLD OUT)General Phase 01 – LKR 1,500 Limited Tickets</p><p>VIP Seated Early Bird – LKR 2,000 Limited Tickets (SOLD OUT)VIP Seated Phase 01 – LKR 2,500 Limited Tickets</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited Tickets (SOLD OUT)VVIP Table Phase 01 – LKR 25,000 (6 pax - Elevated View Experience) Limited Tickets</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Umx6c4HfQufyNNYMjD8MyohU1bxF6VVgY5r1d3jv.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DslfABsngFEPTD1aDvsuUCuUhVb4l2OlMmRoVN8U.jpg",
-      "venue": "Samanala Ground Galle",
-      "city": "Galle",
-      "dateTime": "2026-09-12T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 25000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-band-2-band/6a7a9ca3aa530",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.030886499999999,
-      "longitude": 80.21436039999999
-    },
-    {
       "id": "ticketsministry-1235",
       "source": "TicketsMinistry",
       "name": "SING ALONG WITH MARIANS",
@@ -759,6 +735,30 @@
       ],
       "latitude": 6.929170399999999,
       "longitude": 79.8492962
+    },
+    {
+      "id": "ticketsministry-1246",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON BAND 2 BAND",
+      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, UMARIA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited Tickets (SOLD OUT)General Phase 01 – LKR 1,500 Limited Tickets</p><p>VIP Seated Early Bird – LKR 2,000 Limited Tickets (SOLD OUT)VIP Seated Phase 01 – LKR 2,500 Limited Tickets</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited Tickets (SOLD OUT)VVIP Table Phase 01 – LKR 25,000 (6 pax - Elevated View Experience) Limited Tickets</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Umx6c4HfQufyNNYMjD8MyohU1bxF6VVgY5r1d3jv.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DslfABsngFEPTD1aDvsuUCuUhVb4l2OlMmRoVN8U.jpg",
+      "venue": "Samanala Ground Galle",
+      "city": "Galle",
+      "dateTime": "2026-09-12T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-band-2-band/6a7a9ca3aa530",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.030886499999999,
+      "longitude": 80.21436039999999
     },
     {
       "id": "ticketsministry-1188",
@@ -1059,6 +1059,29 @@
       "longitude": 79.87327843137254
     },
     {
+      "id": "ticketsministry-1263",
+      "source": "TicketsMinistry",
+      "name": "PREMA SAJJAYANAYA",
+      "description": "<p>Prema Sajjayanaya</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608192002-prema-sajjayanaya-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608192002-prema-sajjayanaya-thumbnail.jpg",
+      "venue": "Nelum Pokuna Rooftop Amphitheatre",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-02T19:00:00.000Z",
+      "originalDateStr": "Sat, Oct 3, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 0,
+      "maxPrice": 0,
+      "ticketLink": "https://www.ticketsministry.com/concerts/prema-sajjayanaya/6a85be7c24832",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.910803193088671,
+      "longitude": 79.8608717749964
+    },
+    {
       "id": "ticketsministry-1217",
       "source": "TicketsMinistry",
       "name": "ERA OF MARIANS",
@@ -1221,29 +1244,6 @@
       "longitude": 80.22938217500008
     },
     {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -1265,6 +1265,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
