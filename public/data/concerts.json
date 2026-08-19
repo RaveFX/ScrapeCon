@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-19T04:34:23.150Z",
+  "lastSyncTime": "2026-08-19T06:39:56.227Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 9,
-    "TicketsMinistry": 38,
-    "Total": 68
+    "TicketsMinistry": 39,
+    "Total": 69
   },
   "concerts": [
     {
@@ -190,29 +190,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1243",
-      "source": "TicketsMinistry",
-      "name": "VACATION NIGHT WITH MAMA BAND",
-      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
-      "venue": "Moon Light Orilla Hotel",
-      "city": "Nainamadama",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.317621099999998,
-      "longitude": 79.8488601
-    },
-    {
       "id": "ticketsministry-1144",
       "source": "TicketsMinistry",
       "name": "PREMAYE HORAWA",
@@ -234,6 +211,29 @@
       ],
       "latitude": 6.7359006932603265,
       "longitude": 79.89916457418714
+    },
+    {
+      "id": "ticketsministry-1243",
+      "source": "TicketsMinistry",
+      "name": "VACATION NIGHT WITH MAMA BAND",
+      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
+      "venue": "Moon Light Orilla Hotel",
+      "city": "Nainamadama",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.317621099999998,
+      "longitude": 79.8488601
     },
     {
       "id": "ticketsministry-1205",
@@ -498,8 +498,8 @@
       "dateTime": "2026-09-05T20:00:00.000Z",
       "originalDateStr": "Sun, Sep 6, 2026, 01:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 800,
-      "maxPrice": 1500,
+      "minPrice": 750,
+      "maxPrice": 3500,
       "ticketLink": "https://www.ticketsministry.com/concerts/saruwath-live-in-concert/6a83dccca1d61",
       "status": "active",
       "tags": [
@@ -1195,6 +1195,29 @@
       ],
       "latitude": 7.295998692711573,
       "longitude": 80.22938217500008
+    },
+    {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>Adareta mathakayak</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1259",
