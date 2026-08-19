@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-19T08:34:18.557Z",
+  "lastSyncTime": "2026-08-19T10:25:51.099Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 10,
@@ -1250,8 +1250,8 @@
       "description": "<p>Adareta mathakayak</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
@@ -1263,8 +1263,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1546,7 +1546,7 @@
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
-      "description": "<p>Get ready for one hell of a brunch! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM Brunch designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
+      "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚𝐧 𝐄𝐃𝐌! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/VlyKYEmzKZEtfZ9ZuwZWbq1FQbhq7eAEDa9Xim4L.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/fbvkMgEyCbfKYRxTufuBo2fA8KF4T31dQMHz6cCX.png",
       "venue": "Colombo",
