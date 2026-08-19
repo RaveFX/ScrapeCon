@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-19T10:25:51.099Z",
+  "lastSyncTime": "2026-08-19T12:41:10.735Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 10,
@@ -1487,7 +1487,7 @@
       "originalDateStr": "Sat, Nov 7, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 2000,
-      "maxPrice": 5000,
+      "maxPrice": 30000,
       "ticketLink": "https://www.ticketsministry.com/concerts/mandakini/6a7c5581aa046",
       "status": "active",
       "tags": [
@@ -1546,13 +1546,13 @@
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
-      "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚𝐧 𝐄𝐃𝐌! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
+      "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚 𝐉𝐎𝐔𝐑𝐍𝐄𝐘! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/VlyKYEmzKZEtfZ9ZuwZWbq1FQbhq7eAEDa9Xim4L.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/fbvkMgEyCbfKYRxTufuBo2fA8KF4T31dQMHz6cCX.png",
       "venue": "Colombo",
       "city": "Colombo 01",
-      "dateTime": "2026-11-28T10:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
+      "dateTime": "2026-11-28T11:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 5000,
