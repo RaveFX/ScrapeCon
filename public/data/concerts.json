@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-20T12:43:22.543Z",
+  "lastSyncTime": "2026-08-20T14:33:53.414Z",
   "counts": {
-    "MyTickets": 22,
+    "MyTickets": 23,
     "OneTicket": 11,
     "TicketsMinistry": 40,
-    "Total": 73
+    "Total": 74
   },
   "concerts": [
     {
@@ -1243,6 +1243,28 @@
       ],
       "latitude": 6.938550980392157,
       "longitude": 79.89084705882352
+    },
+    {
+      "id": "mytickets-6a801f23e51fdb905424af0c",
+      "source": "MyTickets",
+      "name": "BnS Hadagasma -The Unplugged  Concert ",
+      "description": "<p>𝐁𝐧𝐒 𝐇𝐚𝐝𝐚𝐠𝐚𝐬𝐦𝐚: 𝐓𝐡𝐞 𝐔𝐧𝐩𝐥𝐮𝐠𝐠𝐞𝐝 𝐂𝐨𝐧𝐜𝐞𝐫𝐭</p><p><br></p><p>We’re bringing back the magic of 𝐇𝐚𝐝𝐚𝐠𝐚𝐬𝐦𝐚 an unplugged evening with Bathiya &amp; Santhush.</p><p><br></p><p>📅 Date: 10th October 2026</p><p>📍 Venue: Musaeus College, Auditorium&nbsp;</p><p>🕢 Time: 7:30 PM onwards</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/%F0%9D%90%81%F0%9D%90%A7%F0%9D%90%92%20%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9A%20-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD/HADAGASMA%20NOVEMBER%202026%20mytickets.jpg-1786781134778.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/%F0%9D%90%81%F0%9D%90%A7%F0%9D%90%92%20%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9A%20-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD/HADAGASMA%20NOVEMBER%202026%20mytickets.jpg-1786781134778.jpeg",
+      "venue": "Musaeus College",
+      "city": "Colombo",
+      "dateTime": "2026-10-10T14:00:00.000Z",
+      "originalDateStr": "Sat, Oct 10, 2026, 07:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/bns-hadagasma-the-unplugged-concert/6a801f23e51fdb905424af0c",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
     },
     {
       "id": "ticketsministry-1221",
