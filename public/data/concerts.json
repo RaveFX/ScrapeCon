@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-20T02:54:25.867Z",
+  "lastSyncTime": "2026-08-20T04:34:30.714Z",
   "counts": {
-    "MyTickets": 21,
+    "MyTickets": 22,
     "OneTicket": 10,
     "TicketsMinistry": 40,
-    "Total": 71
+    "Total": 72
   },
   "concerts": [
     {
@@ -1310,6 +1310,28 @@
       ],
       "latitude": 6.9115705882352945,
       "longitude": 79.87359215686274
+    },
+    {
+      "id": "mytickets-6a8675efff03732bf0d8f971",
+      "source": "MyTickets",
+      "name": "The Golden Generations",
+      "description": "<p>The Golden Generations</p><p><br></p><p>Experience The Golden Generations - a spectacular night of timeless melodies, unforgettable hits, and live music featuring B&amp;S, Keerthi Pasquel, and Kanchana Anuradhi, with music by CPlus Band.</p><p><br></p><p>📅 11 October 2026 | 6.30 PM onwards</p><p>📍 Holy Cross College Auditorium, Gampaha</p><p><br></p><p>A special fundraising musical evening is presented by the St. Sebastian Society of St. Sebastian’s Church, Moragoda, as a fundraising initiative supporting the 200th Jubilee Church Renovation Project.</p><p><br></p><p>Come for the music. Be part of the cause. Create a golden memory.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/The%20Golden%20Generations/MyTickets%20Web-1787196660683.webp",
+      "posterUrl": "https://assets.mytickets.lk/images/events/The%20Golden%20Generations/MyTickets%20Web-1787196660683.webp",
+      "venue": "Holy Cross College Auditorium Gampaha",
+      "city": "666548e1a03df8fc2ac5a1f3",
+      "dateTime": "2026-10-11T13:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 7500,
+      "ticketLink": "https://mytickets.lk/event/the-golden-generations/6a8675efff03732bf0d8f971",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.893374509803921,
+      "longitude": 79.82214117647058
     },
     {
       "id": "ticketsministry-1236",
