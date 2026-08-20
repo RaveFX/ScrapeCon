@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-20T10:27:13.747Z",
+  "lastSyncTime": "2026-08-20T12:43:22.543Z",
   "counts": {
     "MyTickets": 22,
-    "OneTicket": 10,
+    "OneTicket": 11,
     "TicketsMinistry": 40,
-    "Total": 72
+    "Total": 73
   },
   "concerts": [
     {
@@ -986,6 +986,30 @@
       ],
       "latitude": 6.9055,
       "longitude": 79.9114
+    },
+    {
+      "id": "oneticket-424",
+      "source": "OneTicket",
+      "name": "රිදී නිම්නාද",
+      "description": "රිදී නිම්නාද happening at St.Joseph girls college Auditorium. Date & Time: Fri, Sep 25, 2026, 11:30 PM. Tickets start from 1000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/12281871-dacc6158-f9b0-4937-aad1-ee273f635251.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/70270778-b1ff3f37-edc1-424b-9fb2-fdc6a8db42a6.jpg",
+      "venue": "St.Joseph girls college Auditorium",
+      "city": "St.Joseph girls college Auditorium",
+      "dateTime": "2026-09-25T18:00:00.000Z",
+      "originalDateStr": "Fri, Sep 25, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 1000,
+      "ticketLink": "https://oneticket.lk/event/ridinimnadha",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.8955705882352945,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1155",
