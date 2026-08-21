@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-21T08:37:16.018Z",
+  "lastSyncTime": "2026-08-21T10:27:44.013Z",
   "counts": {
-    "MyTickets": 22,
+    "MyTickets": 23,
     "OneTicket": 11,
     "TicketsMinistry": 40,
-    "Total": 73
+    "Total": 74
   },
   "concerts": [
     {
@@ -531,6 +531,28 @@
       ],
       "latitude": 6.7135906,
       "longitude": 80.0624692
+    },
+    {
+      "id": "mytickets-6a7ed4084a3868dd0c591f00",
+      "source": "MyTickets",
+      "name": "Sinhala Gee Mansala - සිංහල ගී මංසල",
+      "description": "<p><strong><u>Sinhala Gee Mansala - සිංහල ගී මංසල</u></strong></p><p><br></p><p>Because we believe music brings people together and, together, we can make a difference.</p><p><br></p><p>The COYLE Ladies Chapter&nbsp;brings you an evening of music, memories and joy, with a purpose close to our hearts: Sip SHAKTHI.</p><p><br></p><p>Come for the songs.</p><p>Stay for the memories.</p><p>Give with a purpose.</p><p><br></p><p>Because when we come together, we can turn one beautiful evening into a brighter tomorrow.</p><p><br></p><p>Come, be the reason for a Sri Lankan child’s smile.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Sinhala%20Gee%20Mansala%20-%20%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD%20%E0%B6%9C%E0%B7%93%20%E0%B6%B8%E0%B6%82%E0%B7%83%E0%B6%BD/Web-with-logo.jpg-1786699759932.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Sinhala%20Gee%20Mansala%20-%20%E0%B7%83%E0%B7%92%E0%B6%82%E0%B7%84%E0%B6%BD%20%E0%B6%9C%E0%B7%93%20%E0%B6%B8%E0%B6%82%E0%B7%83%E0%B6%BD/Web-with-logo.jpg-1786699759932.jpeg",
+      "venue": "Musaeus College",
+      "city": "Colombo",
+      "dateTime": "2026-09-06T13:30:00.000Z",
+      "originalDateStr": "Sun, Sep 6, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 12000,
+      "ticketLink": "https://mytickets.lk/event/sinhala-gee-mansala/6a7ed4084a3868dd0c591f00",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
     },
     {
       "id": "mytickets-6a6875e1305266ba58245e6e",
