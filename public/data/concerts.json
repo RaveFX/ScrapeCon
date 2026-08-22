@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-22T06:35:49.303Z",
+  "lastSyncTime": "2026-08-22T08:26:42.515Z",
   "counts": {
-    "MyTickets": 23,
+    "MyTickets": 24,
     "OneTicket": 10,
     "TicketsMinistry": 40,
-    "Total": 73
+    "Total": 74
   },
   "concerts": [
     {
@@ -1104,6 +1104,28 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "mytickets-6a87deb9cee9886b6c5bebff",
+      "source": "MyTickets",
+      "name": "Cinema Live In Concert ",
+      "description": "<p>Cinema Live In Concert&nbsp;</p><p><br></p><p>සෑම ගීයකම කතාවක් ඇත</p><p><br></p><p>සංගීතය, මතකයන් සහ සිනමා මායාව එකට එක්වන Cinema Live in Concert සමඟ අමරණීය ගීතවල සුන්දර ලෝකයකට පියනගන්න.</p><p><br></p><p>හෙළවුඩ්, කොලිවුඩ් සහ බොලිවුඩ් සිනමාවෙන් අපගේ හදවත් තුළ සදා රැඳී ඇති ආදරණීය ගීත රැසක් සමඟින්, අතීතයේ සුන්දර මතකයන් සහ හැඟීම් නැවත අවදි කරන සුවිශේෂී සංගීතමය රාත්‍රියක් ඔබ වෙනුවෙන් නිර්මාණය කර ඇත.</p><p><br></p><p>දක්ෂ සැක්සෆෝන් වාදක හා ගායක Hector Dias, ජනප්‍රිය ගායිකා Nuwandhika සහ D MAJOR කණ්ඩායමේ විශිෂ්ට සංගීත ශිල්පීන් සමඟින්, සිනමා ගීතවල අමරණීය රසය සජීවීව අත්විඳින්න.</p><p><br></p><p>මෙම සුවිශේෂී සංගීතමය ගමන ඔබව මෙහෙයවන්නේ ජනප්‍රිය ගීත රචක හා නිර්මාණකරුවෙකු වන Dilshan Pathiratne විසිනි. ගීත පිටුපස සැඟවුණු කතා, මතකයන් සහ ඒවා අදටත් අපගේ හදවත් තුළ ඇති කරන හැඟීම් ඔහුගේ නිර්මාණාත්මක ඉදිරිපත් කිරීම තුළින් ඔබට අත්විඳිය හැකිය.</p><p><br></p><p>එක් එක් ගීතයක් මතකයක් නැවත අවදි කරන, සෑම තනුවක්ම කතාවක් කියන, සිනමාවේ මායාව සංගීතය තුළින් නැවත ජීවමාන වන අමතක නොවන රාත්‍රියකට අප හා එක්වන්න.</p><p><br></p><p>Cinema Live in Concert – සංගීතය, මතකයන් සහ සිනමාව එකට එක්වන අමරණීය රාත්‍රියක්.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Cinema%20Live%20In%20Concert%20/WhatsApp%20Image%202026-08-21%20at%209.34.53%20AM-1787289099508.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Cinema%20Live%20In%20Concert%20/WhatsApp%20Image%202026-08-21%20at%209.34.53%20AM-1787289099508.jpeg",
+      "venue": "Musaeus College",
+      "city": "Colombo",
+      "dateTime": "2026-10-03T13:30:00.000Z",
+      "originalDateStr": "Sat, Oct 3, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/cinema-live-in-concert/6a87deb9cee9886b6c5bebff",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
     },
     {
       "id": "ticketsministry-1253",
