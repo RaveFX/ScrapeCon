@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-23T18:25:42.609Z",
+  "lastSyncTime": "2026-08-23T20:19:31.429Z",
   "counts": {
     "MyTickets": 22,
     "OneTicket": 10,
-    "TicketsMinistry": 40,
-    "Total": 72
+    "TicketsMinistry": 41,
+    "Total": 73
   },
   "concerts": [
     {
@@ -394,6 +394,29 @@
       ],
       "latitude": 6.9089,
       "longitude": 79.8676
+    },
+    {
+      "id": "ticketsministry-1268",
+      "source": "TicketsMinistry",
+      "name": "The Maryites Grandiose Partya 5",
+      "description": "<p>Get ready for Maryites Grandiose පාටිය 5, an unforgettable night of live music, entertainment, dancing and exciting giveaways! Organised by the St. Mary’s College Sports & Education Development Association, the event brings together an incredible entertainment lineup featuring Centigradz, Doctor and C Plus, with Joy De Alwis as compere. Join us at Grandeeza Hotel, Negombo, on 5 September 2026 from 7:00 PM for a spectacular night packed with music, energy and prizes, including an air ticket, hotel package for two, Black Label bottle draws, and a special gift for the Best Dancing Couple. Organised by: St. Mary’s College Sports & Education Development Association.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202608231453-the-maryites-grandiose-පාටිය-5-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9vpWHaBMHUhQE2SPO4lt6Hob4ZrFLdnjeVmt7aX8.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-09-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-maryites-grandiose-partya-5/c7ebbce9-02f2-432f-a819-471fe475246f",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "ticketsministry-1204",
@@ -1221,29 +1244,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -1265,6 +1265,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 4500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "ticketsministry-1259",
