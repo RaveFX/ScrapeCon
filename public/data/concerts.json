@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-24T10:35:09.698Z",
+  "lastSyncTime": "2026-08-24T12:44:18.371Z",
   "counts": {
     "MyTickets": 22,
     "OneTicket": 10,
-    "TicketsMinistry": 41,
-    "Total": 73
+    "TicketsMinistry": 42,
+    "Total": 74
   },
   "concerts": [
     {
@@ -122,29 +122,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1243",
-      "source": "TicketsMinistry",
-      "name": "VACATION NIGHT WITH MAMA BAND",
-      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
-      "venue": "Moon Light Orilla Hotel",
-      "city": "Nainamadama",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.317621099999998,
-      "longitude": 79.8488601
-    },
-    {
       "id": "ticketsministry-1144",
       "source": "TicketsMinistry",
       "name": "PREMAYE HORAWA",
@@ -166,6 +143,29 @@
       ],
       "latitude": 6.7359006932603265,
       "longitude": 79.89916457418714
+    },
+    {
+      "id": "ticketsministry-1243",
+      "source": "TicketsMinistry",
+      "name": "VACATION NIGHT WITH MAMA BAND",
+      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
+      "venue": "Moon Light Orilla Hotel",
+      "city": "Nainamadama",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.317621099999998,
+      "longitude": 79.8488601
     },
     {
       "id": "ticketsministry-1205",
@@ -829,6 +829,29 @@
       "longitude": 79.89743529411764
     },
     {
+      "id": "ticketsministry-1265",
+      "source": "TicketsMinistry",
+      "name": "MIND YOUR MUSIC 2026 | ROMANTICS TO ROCK 'N' ROLL",
+      "description": "<p>The Trinity College Choir's Mind Your Music concert can be considered as a modest attempt to showcase the Choir's wide variety of repertoire, incorporating a broad array of music of different styles, genres and eras. </p><p>In 'Romantics to Rock 'n Roll', we celebrate the great Romantic works, that have earned lasting reverence since the time of their composition, and explore, across the decades, the music that came to define entire generations. Through this concert, Choristers receive a greater sense of appreciation towards all forms and styles of music, distinguishing and appreciating the nuances and styles of each.</p><p>The fact that almost all the music performed are specially arranged for the character of the Choir, save for those musical pieces composed by the Masters and recognized choral arrangements, helps the Choristers to absorb the experience fully.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202608211315-mind-your-music-2026-|-romantics-to-rock-'n'-roll-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/XIgMfB2abrUcI4uTwhYf2xkY5qYnOqToMEI7dPnW.jpg",
+      "venue": "Trinity College Main Hall",
+      "city": "Kandy",
+      "dateTime": "2026-09-19T17:30:00.000Z",
+      "originalDateStr": "Sat, Sep 19, 2026, 11:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 500,
+      "maxPrice": 1500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mind-your-music-2026-romantics-to-rock-n-roll/fb1728b7-2dce-4cfb-8be1-0a3f3a609dc2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.204734327238933,
+      "longitude": 80.55385661152789
+    },
+    {
       "id": "oneticket-422",
       "source": "OneTicket",
       "name": "Kshithijaya(ක්ෂිතිජය)",
@@ -1244,6 +1267,29 @@
       "longitude": 79.8656
     },
     {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
+    },
+    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -1288,29 +1334,6 @@
       ],
       "latitude": 7.295998692711573,
       "longitude": 80.22938217500008
-    },
-    {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
