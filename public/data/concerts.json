@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-08-25T08:39:11.892Z",
+  "lastSyncTime": "2026-08-25T10:30:23.799Z",
   "counts": {
     "MyTickets": 22,
     "OneTicket": 10,
-    "TicketsMinistry": 42,
-    "Total": 74
+    "TicketsMinistry": 40,
+    "Total": 72
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1258",
-      "source": "TicketsMinistry",
-      "name": "WORLD OF RAVAN UPGRADED",
-      "description": "<p>World of Ravan Upgraded brings an electrifying night of live rock music, high-energy vibes, and nonstop entertainment.Experience the perfect mix of music, drinks, and fun with exciting gifts and surprises. </p><p>Designed for true music and party lovers, this is your ultimate escape to unwind, connect, and celebrate in style.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7eCmQhxo40wTxdOBM2ItR7Gum3t4wzKNj1hwegFr.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/mKur02LEgCi225dCwoBjet4h1G2VGxcDXcGtGwb1.png",
-      "venue": "The Marquee Port City",
-      "city": "Colombo 01",
-      "dateTime": "2026-08-22T17:00:00.000Z",
-      "originalDateStr": "Sat, Aug 22, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/world-of-ravan-upgraded/6a82b6baeb8f8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.927154900000001,
-      "longitude": 79.827272
-    },
-    {
-      "id": "ticketsministry-1215",
-      "source": "TicketsMinistry",
-      "name": "ANURAGA",
-      "description": "<p>An evening of Music, Meaning & Emotion </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/R5azMcgPEEnnOqmYPnQMI6eO34moUY4dpYysJzC0.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/bG5vfu2ygripeooCwFe9RLSAGjsAz25ea9Bi3jDI.jpg",
-      "venue": "Holy Cross College Auditorium  Gampaha",
-      "city": "Gampaha",
-      "dateTime": "2026-08-22T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 23, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/anuraga/6a58b327590b9",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.088022577256503,
-      "longitude": 80.0026606708474
-    },
     {
       "id": "ticketsministry-1187",
       "source": "TicketsMinistry",
@@ -122,29 +76,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1144",
-      "source": "TicketsMinistry",
-      "name": "PREMAYE HORAWA",
-      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
-      "venue": "Hotel Aknara Water Front Panadura",
-      "city": "Panadura",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.7359006932603265,
-      "longitude": 79.89916457418714
-    },
-    {
       "id": "ticketsministry-1243",
       "source": "TicketsMinistry",
       "name": "VACATION NIGHT WITH MAMA BAND",
@@ -166,6 +97,29 @@
       ],
       "latitude": 7.317621099999998,
       "longitude": 79.8488601
+    },
+    {
+      "id": "ticketsministry-1144",
+      "source": "TicketsMinistry",
+      "name": "PREMAYE HORAWA",
+      "description": "<p>Aknara \"ප්‍රේමයේ හෝරාව\" Live in Concert.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TwnYjtLCfF9OpNpqDZhJidurwvtHzOAO1aW56V1L.jpg",
+      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605120936-premaye-horawa-thumbnail.jpg",
+      "venue": "Hotel Aknara Water Front Panadura",
+      "city": "Panadura",
+      "dateTime": "2026-08-29T18:30:00.000Z",
+      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaye-horawa/6a02a7306b1fc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.7359006932603265,
+      "longitude": 79.89916457418714
     },
     {
       "id": "ticketsministry-1205",
@@ -1267,27 +1221,27 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1259",
+      "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "minPrice": 1000,
+      "maxPrice": 4500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert"
+        "Outdoor Musical Concert"
       ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "ticketsministry-1262",
@@ -1313,27 +1267,27 @@
       "longitude": 80.36728060000002
     },
     {
-      "id": "ticketsministry-1221",
+      "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Indoor Musical Concert"
       ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
