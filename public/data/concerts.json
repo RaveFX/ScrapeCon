@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-25T12:42:20.691Z",
+  "lastSyncTime": "2026-08-25T14:42:12.256Z",
   "counts": {
     "MyTickets": 23,
-    "OneTicket": 10,
+    "OneTicket": 11,
     "TicketsMinistry": 40,
-    "Total": 73
+    "Total": 74
   },
   "concerts": [
     {
@@ -1040,7 +1040,7 @@
       "id": "ticketsministry-1263",
       "source": "TicketsMinistry",
       "name": "PREMA SAJJAYANAYA",
-      "description": "<p>Prema Sajjayanaya</p>",
+      "description": "<p>කහ පැහැති පහන් කනු යටින් තරුණ මී ගස් පෙළ පසුකර මා දැන් සිටින්නේ ඒවායේ තුරු හිස් යාන්තමින් පෙනෙන්නා වූ ඉහල අහසෙහි ය. මා ඉදිරියේ ඔබට වෙන් වූ ඉතා සීමිත අසුන් පෙළ ඇත. අවට බලන කල්හි මේ ගිනියම් නගරයේ සීතල රාත්‍රිය පහන් කරන්නට දැල් වූ අනේක වර්ණ පහන් එලි යායක් පෙනෙයි. අපි කොළඹ අහසේ ගොම්මනේ හමුවෙමු. </p><p>අසීමිත ආදරය අරන් කළු ඇදන් එන්න</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202608192002-prema-sajjayanaya-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608192002-prema-sajjayanaya-thumbnail.jpg",
       "venue": "Nelum Pokuna Rooftop Amphitheatre",
@@ -1631,6 +1631,30 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "oneticket-426",
+      "source": "OneTicket",
+      "name": "ස්වරානුරාව Live in Concert",
+      "description": "ස්වරානුරාව Live in Concert happening at Anuradhapura. Date & Time: Sun, Nov 29, 2026, 12:30 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/64427292-98ec8225-e7a4-41e8-866d-404e70cd6978.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/66644627-0069412d-d268-423f-9eaf-7d57b79bf68c.jpg",
+      "venue": "Anuradhapura",
+      "city": "Anuradhapura",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/සවරනරව-live-in-concert",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.896198039215687,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1247",
