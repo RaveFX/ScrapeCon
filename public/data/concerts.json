@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-27T07:19:43.146Z",
+  "lastSyncTime": "2026-08-27T18:50:01.550Z",
   "counts": {
     "MyTickets": 23,
-    "OneTicket": 11,
+    "OneTicket": 12,
     "TicketsMinistry": 40,
-    "Total": 74
+    "Total": 75
   },
   "concerts": [
     {
@@ -607,8 +607,8 @@
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/ebtKVfojtoECuthv7GVJzg6LuVv3RxYb2kh3qJtc.jpg",
       "venue": "The Lionel Wendt",
       "city": "Colombo 07",
-      "dateTime": "2026-09-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 12:00 AM",
+      "dateTime": "2026-09-12T18:45:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 12:15 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
       "maxPrice": 8000,
@@ -1678,6 +1678,30 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "oneticket-428",
+      "source": "OneTicket",
+      "name": "Annites Breeze - Live with Marians",
+      "description": "Annites Breeze - Live with Marians happening at The Epitome Hotel. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 6000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/83487948-f54e8b62-02e7-498d-92c4-b4a2d268f4a4.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/59140498-88fb0719-661e-4352-8715-30fcc4e12c84.jpg",
+      "venue": "The Epitome Hotel",
+      "city": "The Epitome Hotel",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://oneticket.lk/event/annites-breeze-live-with-marians",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.896825490196079,
+      "longitude": 79.87453333333333
     },
     {
       "id": "oneticket-421",
