@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-08-28T04:01:54.276Z",
+  "lastSyncTime": "2026-08-28T18:12:07.044Z",
   "counts": {
     "MyTickets": 23,
     "OneTicket": 12,
-    "TicketsMinistry": 40,
-    "Total": 75
+    "TicketsMinistry": 41,
+    "Total": 76
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1187",
-      "source": "TicketsMinistry",
-      "name": "GYPSIES MEETS AVATAR",
-      "description": "<p>Gypsies Meets Avatar......</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Fs55g54aezWDBWhNHgQIFwzsIrj41gchjYTBh0nB.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/qJrdDpnKWsSozNczQSrvtQH2bvl7c8aeHkKzN3LR.jpg",
-      "venue": "Wave n' Lake Navy Banquet Hall",
-      "city": "Ragama",
-      "dateTime": "2026-08-26T18:30:00.000Z",
-      "originalDateStr": "Thu, Aug 27, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/gypsies-meets-avatar/6a3df593c9d7f",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
     {
       "id": "ticketsministry-1181",
       "source": "TicketsMinistry",
@@ -322,7 +299,8 @@
       "ticketLink": "https://mytickets.lk/event/wayo-yamaya/6a4de3887db51a0f260212fd",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
@@ -993,8 +971,8 @@
       "source": "OneTicket",
       "name": "මීගමු කලපුවේ අවාරෙක ආලේ",
       "description": "මීගමු කලපුවේ අවාරෙක ආලේ happening at Regenta Arie Lagoon. Date & Time: Mon, Sep 28, 2026, 12:00 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/91563844-f2020462-5b53-4c15-b885-62972ff0c76c.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/23435160-463f8962-40c1-426f-9f6e-702216103d34.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/59503051-20a48c94-481b-4bd3-8ffb-aa52c8a51ab6.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/70122254-c6c798ce-611f-452b-9437-4bcf60385223.jpg",
       "venue": "Regenta Arie Lagoon",
       "city": "Regenta Arie Lagoon",
       "dateTime": "2026-09-27T18:30:00.000Z",
@@ -1243,29 +1221,6 @@
       "longitude": 80.22938217500008
     },
     {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>Adareta mathakayak</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
-    },
-    {
       "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
       "name": "THE GRAND FEST 2026",
@@ -1287,6 +1242,29 @@
       ],
       "latitude": 7.182460707392528,
       "longitude": 79.86020890635984
+    },
+    {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>Adareta mathakayak</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1354,6 +1332,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1273",
+      "source": "TicketsMinistry",
+      "name": "UNFOUND WAREHOUSE EDITION",
+      "description": "<p>An intimate, long-form progressive music experience built for those who come to truly listen. Inside Park Street Warehouse, A-JAY and Jayy Vibes lead an extended journey alongside Farshan, Zyklon and Samuel. From the opening movement to the final hours, the night will unfold through deep grooves, patient progression and carefully controlled energy. No oversized spectacle. No distractions. Just exceptional music, immersive sound and a raw warehouse atmosphere—shared by a limited crowd of 700. This is the first chapter of UNFOUND.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202608282142-unfound-warehouse-edition-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/listings/202608282204-unfound-warehouse-edition-listing-thumbnail.png",
+      "venue": "Park Street Warehouse - Restaurant & Pub",
+      "city": "Colombo 02",
+      "dateTime": "2026-10-16T18:00:00.000Z",
+      "originalDateStr": "Fri, Oct 16, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 6500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/unfound-warehouse-edition/20002f18-e9e1-4e74-9a2c-fcae8ddd57d3",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.869145949999999,
+      "longitude": 79.97522049999999
     },
     {
       "id": "oneticket-397",
@@ -1540,6 +1541,29 @@
       ],
       "latitude": 6.052549600000001,
       "longitude": 80.1813931
+    },
+    {
+      "id": "ticketsministry-1271",
+      "source": "TicketsMinistry",
+      "name": "NIGHT FOR SIGHT",
+      "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favourite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/xeoUNrSUuQkOQ5MtMst7pwbn3gleU9H1dpPyMMcn.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FtEvE1NVAWPLCxhGNQW3Sqn9WQHRqsHsMlHm1HlH.jpg",
+      "venue": "Cinnamon Lakeside Colombo",
+      "city": "Colombo 02",
+      "dateTime": "2026-10-31T19:30:00.000Z",
+      "originalDateStr": "Sun, Nov 1, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/night-for-sight/650d3de0-ed9c-435c-b2d7-eb8fdc3b87fc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170399999999,
+      "longitude": 79.8492962
     },
     {
       "id": "ticketsministry-1252",
