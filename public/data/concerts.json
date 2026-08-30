@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-29T23:52:48.059Z",
+  "lastSyncTime": "2026-08-30T03:40:11.055Z",
   "counts": {
-    "MyTickets": 24,
+    "MyTickets": 23,
     "OneTicket": 12,
     "TicketsMinistry": 42,
-    "Total": 78
+    "Total": 77
   },
   "concerts": [
     {
@@ -52,28 +52,6 @@
       ],
       "latitude": 6.7359006932603265,
       "longitude": 79.89916457418714
-    },
-    {
-      "id": "mytickets-6a756e9ddc850b810ccff8fa",
-      "source": "MyTickets",
-      "name": "Lions Sing Along & Party Night With Chandimal",
-      "description": "<p>Lions Sing-Along &amp; Party Night With Chandimal</p><p><br></p><p>🎁 FREE Refreshment Pack upon Entry</p><p>&nbsp;🍾 BYOB (Bring Your Own Bottle) and enjoy your favorite drinks your way</p><p>&nbsp;🍽️ Food, Tasty Bites &amp; Chasers available for purchase at the venue</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Lions%20Sing%20Along%20&%20Party%20Night%20With%20Chandimal/1080%20x%201080.jpg-1786080737774.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Lions%20Sing%20Along%20&%20Party%20Night%20With%20Chandimal/1080%20x%201080.jpg-1786080737774.jpeg",
-      "venue": "BMICH - SAPPHIRE BANQUET HALL ",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2026-08-29T13:30:00.000Z",
-      "originalDateStr": "Sat, Aug 29, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://mytickets.lk/event/lions-sing-along-party-night-with-chandimal/6a756e9ddc850b810ccff8fa",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1243",
