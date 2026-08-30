@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-08-30T09:44:09.531Z",
+  "lastSyncTime": "2026-08-30T14:40:42.321Z",
   "counts": {
     "MyTickets": 23,
-    "OneTicket": 12,
+    "OneTicket": 14,
     "TicketsMinistry": 42,
-    "Total": 77
+    "Total": 79
   },
   "concerts": [
     {
@@ -854,6 +854,30 @@
       "longitude": 79.87453333333333
     },
     {
+      "id": "oneticket-429",
+      "source": "OneTicket",
+      "name": "හැත්තෑවේ චමත්කාරය",
+      "description": "හැත්තෑවේ චමත්කාරය happening at Musaeus College Auditorium. Date & Time: Mon, Sep 21, 2026, 12:30 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/61689776-de0371ba-68b3-4a06-9615-1d839cc89bce.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/20479575-3ea84fcd-2a87-4cc2-acd4-0171a4392b5e.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Musaeus College Auditorium",
+      "dateTime": "2026-09-20T19:00:00.000Z",
+      "originalDateStr": "Mon, Sep 21, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/හතතව-චමතකරය",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
+    },
+    {
       "id": "mytickets-6a7416dc4e8a29ec83e1f6be",
       "source": "MyTickets",
       "name": " Adariye - ආදරියේ ",
@@ -959,7 +983,7 @@
       "minPrice": 3000,
       "maxPrice": 3000,
       "ticketLink": "https://oneticket.lk/event/මගම-කලපව-අවරක-ආල",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Event",
@@ -967,6 +991,30 @@
       ],
       "latitude": 6.955805882352942,
       "longitude": 79.87421960784313
+    },
+    {
+      "id": "oneticket-430",
+      "source": "OneTicket",
+      "name": "මීගමු කලපුවේ අවාරෙක ආලේ Day 2",
+      "description": "මීගමු කලපුවේ අවාරෙක ආලේ Day 2 happening at Regent Arie Lagoon. Date & Time: Tue, Sep 29, 2026, 12:30 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/91923278-9f52f068-729f-4beb-8793-9234f4685384.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/79468342-67a9c1cf-7e7f-4d23-942c-572370c6d298.jpg",
+      "venue": "Regent Arie Lagoon",
+      "city": "Regent Arie Lagoon",
+      "dateTime": "2026-09-28T19:00:00.000Z",
+      "originalDateStr": "Tue, Sep 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/මගම-කලපව-අවරක-ආල-day-2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.904041176470589,
+      "longitude": 79.87453333333333
     },
     {
       "id": "oneticket-342",
@@ -1547,8 +1595,8 @@
       "source": "TicketsMinistry",
       "name": "NIGHT FOR SIGHT",
       "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favourite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/xeoUNrSUuQkOQ5MtMst7pwbn3gleU9H1dpPyMMcn.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FtEvE1NVAWPLCxhGNQW3Sqn9WQHRqsHsMlHm1HlH.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/cvL1c97axF7nhVEWyhOITAc4wLBZCW3REpyk4tvf.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/A8bnq1HQUWMOgVafZVt9JKc6OOp8U9ocH8mop5FE.jpg",
       "venue": "Cinnamon Lakeside Colombo",
       "city": "Colombo 02",
       "dateTime": "2026-10-31T19:30:00.000Z",
