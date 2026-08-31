@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-08-31T10:32:04.292Z",
+  "lastSyncTime": "2026-08-31T18:46:17.758Z",
   "counts": {
     "MyTickets": 23,
     "OneTicket": 14,
@@ -7,29 +7,6 @@
     "Total": 74
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1205",
-      "source": "TicketsMinistry",
-      "name": "NONIMI PANHIDA",
-      "description": "<p>ගීතයේ ආත්මීය  ඉමිහිර නොනිම් පන්හිඳ</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/cIpbU1LVsJGv45ZeOTwsnF9n6POg3brckpInw6Ri.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/sMku3Zp3utmAyln4Yyfp1lFEoA0dBBvvflkk1IJG.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-08-29T19:00:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/nonimi-panhida/6a54d20da4e80",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
     {
       "id": "mytickets-6a6b23175c3d99574989d78a",
       "source": "MyTickets",
@@ -878,16 +855,39 @@
       "longitude": 79.87421960784313
     },
     {
+      "id": "ticketsministry-1205",
+      "source": "TicketsMinistry",
+      "name": "NONIMI PANHIDA",
+      "description": "<p>ගීතයේ ආත්මීය  ඉමිහිර නොනිම් පන්හිඳ</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/BsfDk8cHvAyOiI5nVgNxUyjeC0sW5vfRzEsa9NwT.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/0xZs1X0EdSMDXhCaz0otJmNQuswsLxAIyqZh2x7e.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-09-27T19:00:00.000Z",
+      "originalDateStr": "Mon, Sep 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/nonimi-panhida/6a54d20da4e80",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
+    },
+    {
       "id": "oneticket-430",
       "source": "OneTicket",
       "name": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2",
-      "description": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2 happening at Regent Arie Lagoon. Date & Time: Tue, Sep 29, 2026, 12:30 AM. Tickets start from 3000 LKR.",
+      "description": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2 happening at Regent Arie Lagoon. Date & Time: Tue, Sep 29, 2026, 01:00 AM. Tickets start from 3000 LKR.",
       "bannerUrl": "https://storage.googleapis.com/oneticket/91923278-9f52f068-729f-4beb-8793-9234f4685384.jpg",
       "posterUrl": "https://storage.googleapis.com/oneticket/79468342-67a9c1cf-7e7f-4d23-942c-572370c6d298.jpg",
       "venue": "Regent Arie Lagoon",
       "city": "Regent Arie Lagoon",
-      "dateTime": "2026-09-28T19:00:00.000Z",
-      "originalDateStr": "Tue, Sep 29, 2026, 12:30 AM",
+      "dateTime": "2026-09-28T19:30:00.000Z",
+      "originalDateStr": "Tue, Sep 29, 2026, 01:00 AM",
       "priceCurrency": "LKR",
       "minPrice": 3000,
       "maxPrice": 3000,
@@ -1109,29 +1109,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
       "name": "SENSATION LIVE IN CONCERT ALAWWA",
@@ -1176,6 +1153,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
