@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-08-31T03:40:45.241Z",
+  "lastSyncTime": "2026-08-31T10:32:04.292Z",
   "counts": {
     "MyTickets": 23,
     "OneTicket": 14,
-    "TicketsMinistry": 41,
-    "Total": 78
+    "TicketsMinistry": 37,
+    "Total": 74
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1181",
-      "source": "TicketsMinistry",
-      "name": "DOPERMEAN",
-      "description": "<p>DOPERMEAN Season 1 is a one-night music experience on the shores of Arugambay, Sri Lanka—bringing together the energy of the 80s, the anthems of the 90s, and the pulse of house music in a breathtaking tropical setting.</p><p>Family-friendly, inclusive, and built on good vibes, this event is more than just a party. A portion of every ticket supports elephant-human conflict awareness and conservation in the region.</p><p>Seamless entry via Tickets Ministry. All ages welcome. Good people. Great music. A cause that matters.</p><p>📅 July 28th | 📍 Arugambay, Sri Lanka</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/uat/events/MvKTcCUE8nOdIIM8gLUVp6VbXzB3Vd4PsexZk82K.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/uat/events/lDm8iY8NZAmPhPpBnrihyThVsjAJPb3rgcAGT5Yf.jpg",
-      "venue": "Shell Resort - Arugambay",
-      "city": "Pottuvil",
-      "dateTime": "2026-08-28T15:00:00.000Z",
-      "originalDateStr": "Fri, Aug 28, 2026, 08:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/dopermean/6a37a4df724dd",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.8369705000000005,
-      "longitude": 81.8288252
-    },
-    {
-      "id": "ticketsministry-1243",
-      "source": "TicketsMinistry",
-      "name": "VACATION NIGHT WITH MAMA BAND",
-      "description": "<p>VACATION NIGHT WITH MAMA BAND on the 29th of August Saturday Night</p><p>At the Moonlight Orilla Hotel A/C Banquet Hall </p><p>Featuring: Maria with Mama BandArtist Line up: Maria Nonis | Nadeera Nonis | Ruwan Hettiarachchi | Dinesh Gamage & Kaizer Kaiz</p><p>Compere: Kavinga perera</p><p>Tabel offer: 12pax Table - 60,000 You can select of these for the table purchase  (Inclusive of  1L Label 5 or Whiskey or 12 Beer Cans) </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081321-vacation-night-with-mama-band-thumbnail.jpg",
-      "venue": "Moon Light Orilla Hotel",
-      "city": "Nainamadama",
-      "dateTime": "2026-08-29T18:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/vacation-night-with-mama-band/6a76dffe59184",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.317621099999998,
-      "longitude": 79.8488601
-    },
     {
       "id": "ticketsministry-1205",
       "source": "TicketsMinistry",
@@ -75,52 +29,6 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
-    },
-    {
-      "id": "ticketsministry-1238",
-      "source": "TicketsMinistry",
-      "name": "THE VOICE IN THE ROOM",
-      "description": "<p>The Chamber Music Society of Colombo announced that it will present “The Voice in the Room,” a recital featuring the tenor Amar Muchhala and the pianist Johann Peiris, on Aug. 29 and 30 at the Goethe-Institut Hall.The program offers an ambitious, cross-genre journey through French art song, Hungarian Romanticism, and 19th-century opera, designed specifically for the tight acoustics of a chamber setting.The first half begins with four mélodies by Henri Duparc, setting poetry by Charles Baudelaire (“L’invitation au voyage,”“La vie antérieure”), Jean Lahor (“Chanson triste”), and Leconte de Lisle (“Phidylé”). The duo will then navigate Franz Liszt’s turbulent Tre Sonetti di Petrarca (Sonetti 104, 47, and 123), a cycle that translates Petrarch’s torment and devotion into virtuosic keyboard writing and expansive vocal lines.After intermission, the performance turns toward the dramatic stage with three staple tenor showpieces: Giacomo Puccini’s mournful “E lucevan le stelle” from Tosca; Amilcare Ponchielli’s soaring “Cielo e mar!” from La Gioconda; and Georges Bizet’s desperate “La fleur que tu m’avais jetée” from Carmen.“Bringing art song and operatic literature out of the massive opera house and placing them into an intimate, transparent chamber setting is central to the philosophical spirit of ‘The Voice in the Room,’” said Lakshman Joseph-de Saram, the artistic director of the Chamber Music Society of Colombo. “In a room of this scale, there is nowhere for a performer tohide, nor is there any distance for the listener to escape into comfortable detachment. Every nuance of tone, every breath, and every inflection of poetic text becomes an immediate, unmediated encounter. In Amar, we have a singer whose dramatic range and international pedigree are matched by extraordinary vocal nuance, and in Johann, a partnercapable of executing Liszt’s scale and Duparc’s subtle colors with immense clarity. Together, they strip these monumental works down to their barest, most compelling emotional core.”Born in Bombay and resident in London, Mr. Muchhala read French literature at Franklin & Marshall College in the United States before studying on the prestigious opera course at the Guildhall School of Music and Drama. He made his Royal Opera House, Covent Garden, debut in the world premiere of David Bruce’s The Firework-Maker’s Daughter, subsequently originating the role of Alex in Søren Nils Eichberg’s Glare and covering Jonas Kaufmann inthe title role of Massenet’s Werther.His wide-ranging international career encompasses European stages - including title roles at Theater Regensburg, Staatsoper Hannover, and Dorset Opera - alongside appearances with major UK ensembles such as the London Philharmonic Orchestra, the Bournemouth Symphony Orchestra, and the Hallé.Johann Peiris appears as the holder of the Malinee Jayasinghe-Peris Chair of the CMSC. The concerts are supported inpart by A. Baur & Co., the Tokyo Cement Group, and the Goethe-Institut.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TeN6Gu0uE8pYaAF8y8840kMo63TKNEQOwUYEGJT1.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/knPitbDcvHs3tP5iHehuKK9pZubIUZ8DolHTECGM.png",
-      "venue": "The Goethe Institute Colombo",
-      "city": "Colombo 07",
-      "dateTime": "2026-08-29T19:30:00.000Z",
-      "originalDateStr": "Sun, Aug 30, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-voice-in-the-room/6a743d70e95f0",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.9098561,
-      "longitude": 79.87089619999999
-    },
-    {
-      "id": "ticketsministry-1239",
-      "source": "TicketsMinistry",
-      "name": "THE VOICE IN THE ROOM",
-      "description": "<p>The Chamber Music Society of Colombo announced that it will present “The Voice in the Room,” a recital featuring the tenor Amar Muchhala and the pianist Johann Peiris, on Aug. 29 and 30 at the Goethe-Institut Hall.The program offers an ambitious, cross-genre journey through French art song, Hungarian Romanticism, and 19th-century opera, designed specifically for the tight acoustics of a chamber setting.The first half begins with four mélodies by Henri Duparc, setting poetry by Charles Baudelaire (“L’invitation au voyage,”“La vie antérieure”), Jean Lahor (“Chanson triste”), and Leconte de Lisle (“Phidylé”). The duo will then navigate Franz Liszt’s turbulent Tre Sonetti di Petrarca (Sonetti 104, 47, and 123), a cycle that translates Petrarch’s torment and devotion into virtuosic keyboard writing and expansive vocal lines.After intermission, the performance turns toward the dramatic stage with three staple tenor showpieces: Giacomo Puccini’s mournful “E lucevan le stelle” from Tosca; Amilcare Ponchielli’s soaring “Cielo e mar!” from La Gioconda; and Georges Bizet’s desperate “La fleur que tu m’avais jetée” from Carmen.“Bringing art song and operatic literature out of the massive opera house and placing them into an intimate, transparent chamber setting is central to the philosophical spirit of ‘The Voice in the Room,’” said Lakshman Joseph-de Saram, the artistic director of the Chamber Music Society of Colombo. “In a room of this scale, there is nowhere for a performer tohide, nor is there any distance for the listener to escape into comfortable detachment. Every nuance of tone, every breath, and every inflection of poetic text becomes an immediate, unmediated encounter. In Amar, we have a singer whose dramatic range and international pedigree are matched by extraordinary vocal nuance, and in Johann, a partnercapable of executing Liszt’s scale and Duparc’s subtle colors with immense clarity. Together, they strip these monumental works down to their barest, most compelling emotional core.”Born in Bombay and resident in London, Mr. Muchhala read French literature at Franklin & Marshall College in the United States before studying on the prestigious opera course at the Guildhall School of Music and Drama. He made his Royal Opera House, Covent Garden, debut in the world premiere of David Bruce’s The Firework-Maker’s Daughter, subsequently originating the role of Alex in Søren Nils Eichberg’s Glare and covering Jonas Kaufmann inthe title role of Massenet’s Werther.His wide-ranging international career encompasses European stages - including title roles at Theater Regensburg, Staatsoper Hannover, and Dorset Opera - alongside appearances with major UK ensembles such as the London Philharmonic Orchestra, the Bournemouth Symphony Orchestra, and the Hallé.Johann Peiris appears as the holder of the Malinee Jayasinghe-Peris Chair of the CMSC. The concerts are supported inpart by A. Baur & Co., the Tokyo Cement Group, and the Goethe-Institut.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/GNuuJk2vT14b5C9Kw8WEHeHOCvgsfOyuL6H7V7xH.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/c5leTw166mlB78bERKrg1B0ZALZxIFq1f3Ayo4lR.png",
-      "venue": "The Goethe Institute Colombo",
-      "city": "Colombo 07",
-      "dateTime": "2026-08-30T19:30:00.000Z",
-      "originalDateStr": "Mon, Aug 31, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-voice-in-the-room/6a743e2707493",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.9098561,
-      "longitude": 79.87089619999999
     },
     {
       "id": "mytickets-6a6b23175c3d99574989d78a",
@@ -972,8 +880,8 @@
     {
       "id": "oneticket-430",
       "source": "OneTicket",
-      "name": "මීගමු කලපුවේ අවාරෙක ආලේ Day 2",
-      "description": "මීගමු කලපුවේ අවාරෙක ආලේ Day 2 happening at Regent Arie Lagoon. Date & Time: Tue, Sep 29, 2026, 12:30 AM. Tickets start from 3000 LKR.",
+      "name": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2",
+      "description": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2 happening at Regent Arie Lagoon. Date & Time: Tue, Sep 29, 2026, 12:30 AM. Tickets start from 3000 LKR.",
       "bannerUrl": "https://storage.googleapis.com/oneticket/91923278-9f52f068-729f-4beb-8793-9234f4685384.jpg",
       "posterUrl": "https://storage.googleapis.com/oneticket/79468342-67a9c1cf-7e7f-4d23-942c-572370c6d298.jpg",
       "venue": "Regent Arie Lagoon",
@@ -1201,6 +1109,29 @@
       "longitude": 79.8656
     },
     {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
+    },
+    {
       "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
       "name": "SENSATION LIVE IN CONCERT ALAWWA",
@@ -1245,29 +1176,6 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
-    },
-    {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1356,8 +1264,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.869145949999999,
-      "longitude": 79.97522049999999
+      "latitude": 6.917464718429467,
+      "longitude": 79.85621391129827
     },
     {
       "id": "oneticket-397",
@@ -1391,7 +1299,7 @@
       "bannerUrl": "https://cdn.ticketsministry.com/events/202608061521-chill-theory-at-gangaara-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608061521-chill-theory-at-gangaara-thumbnail.jpg",
       "venue": "Avenra Gangaara Wennappuwa",
-      "city": "null",
+      "city": "Negombo",
       "dateTime": "2026-10-17T19:30:00.000Z",
       "originalDateStr": "Sun, Oct 18, 2026, 01:00 AM",
       "priceCurrency": "LKR",
@@ -1403,8 +1311,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.86820435,
-      "longitude": 79.93046255
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "mytickets-6a9275fc159b347ca4a6d108",
@@ -1572,8 +1480,8 @@
       "source": "TicketsMinistry",
       "name": "NIGHT FOR SIGHT",
       "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favourite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/cvL1c97axF7nhVEWyhOITAc4wLBZCW3REpyk4tvf.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/A8bnq1HQUWMOgVafZVt9JKc6OOp8U9ocH8mop5FE.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/5wvHEfVVRZHrSzjrlR8D0eu61lSFk6ZoekKrr45N.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/kLSqUfs984M5Cu8mgqHxlKB7CjYQGWzSmT8LzTdD.jpg",
       "venue": "Cinnamon Lakeside Colombo",
       "city": "Colombo 02",
       "dateTime": "2026-10-31T19:30:00.000Z",
