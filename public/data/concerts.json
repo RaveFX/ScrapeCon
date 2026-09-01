@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-01T09:10:07.597Z",
+  "lastSyncTime": "2026-09-01T14:30:45.856Z",
   "counts": {
     "MyTickets": 24,
-    "OneTicket": 14,
+    "OneTicket": 15,
     "TicketsMinistry": 37,
-    "Total": 75
+    "Total": 76
   },
   "concerts": [
     {
@@ -993,6 +993,30 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "oneticket-435",
+      "source": "OneTicket",
+      "name": "ඒ කාලේ (E Kaale)",
+      "description": "ඒ කාලේ (E Kaale) happening at Piliyandala. Date & Time: Sat, Oct 3, 2026, 10:30 PM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/70201026-174ca5c0-4d39-4e81-b278-014d2abbe0c3.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/45380847-2957243a-658a-4e4d-84ad-2126e6930016.jpg",
+      "venue": "Piliyandala",
+      "city": "Piliyandala",
+      "dateTime": "2026-10-03T17:00:00.000Z",
+      "originalDateStr": "Sat, Oct 3, 2026, 10:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/ඒ-කල-e-kaale",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9056098039215685,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1189",
