@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-02T02:54:14.946Z",
+  "lastSyncTime": "2026-09-02T08:23:15.065Z",
   "counts": {
-    "MyTickets": 24,
+    "MyTickets": 26,
     "OneTicket": 15,
     "TicketsMinistry": 37,
-    "Total": 76
+    "Total": 78
   },
   "concerts": [
     {
@@ -513,8 +513,8 @@
     {
       "id": "mytickets-6a8d521b0ddc58a7a086d692",
       "source": "MyTickets",
-      "name": "ANDRUM ENDRUM",
-      "description": "<p>Soundarie &amp; Band MAYA present “ANDRUM ENDRUM ‘ — an unforgettable evening of music, energy and incredible talent, under the direction of Soundarie David Rodrigo.</p><p><br></p><p>13TH SEPTEMBER 2026</p><p>7.00 PM onwards</p><p>Bishop’s College Auditorium</p><p><br></p><p>Featuring Chandru, Prashanthini Nishanthan, Tanuja J &amp; Prakash K, backed by an exceptional line-up of musicians.</p>",
+      "name": "ANDRUM INDRUM",
+      "description": "<p>Soundarie &amp; Band MAYA present “ANDRUM INDRUM ‘ — an unforgettable evening of music, energy and incredible talent, under the direction of Soundarie David Rodrigo.</p><p><br></p><p>13TH SEPTEMBER 2026</p><p>7.00 PM onwards</p><p>Bishop’s College Auditorium</p><p><br></p><p>Featuring Chandru, Prashanthini Nishanthan, Tanuja J &amp; Prakash K, backed by an exceptional line-up of musicians.</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/ANDRUM%20ENDRUM/WhatsApp%20Image%202026-08-25%20at%2012.54.51%20PM-1787646202597.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/ANDRUM%20ENDRUM/WhatsApp%20Image%202026-08-25%20at%2012.54.51%20PM-1787646202597.jpeg",
       "venue": "Bishops College Auditorium",
@@ -524,7 +524,7 @@
       "priceCurrency": "LKR",
       "minPrice": 1000,
       "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/andrum-endrum/6a8d521b0ddc58a7a086d692",
+      "ticketLink": "https://mytickets.lk/event/andrum-indrum/6a8d521b0ddc58a7a086d692",
       "status": "active",
       "tags": [
         "Concert"
@@ -973,6 +973,28 @@
       "longitude": 79.91147419910696
     },
     {
+      "id": "mytickets-6a97be00b4b9b1d0785fa8fc",
+      "source": "MyTickets",
+      "name": "නීශානන්දය - Nishanandaya",
+      "description": "<p>නීශානන්දය - Nishanandaya</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B1%E0%B7%93%E0%B7%81%E0%B7%8F%E0%B6%B1%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B6%BA%20-%20Nishanandaya/Nishanandaya.jpg%20(1)-1788329265858.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B1%E0%B7%93%E0%B7%81%E0%B7%8F%E0%B6%B1%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B6%BA%20-%20Nishanandaya/Nishanandaya.jpg%20(1)-1788329265858.jpeg",
+      "venue": "YMBA Kiribathgoda",
+      "city": "666548e1a03df8fc2ac5a339",
+      "dateTime": "2026-10-03T13:00:00.000Z",
+      "originalDateStr": "Sat, Oct 3, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/nishanandaya/6a97be00b4b9b1d0785fa8fc",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.909688235294118,
+      "longitude": 79.84535686274509
+    },
+    {
       "id": "mytickets-6a87deb9cee9886b6c5bebff",
       "source": "MyTickets",
       "name": "Cinema Live In Concert ",
@@ -1267,6 +1289,28 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "mytickets-6a950d9dd0858700a832c42f",
+      "source": "MyTickets",
+      "name": "Ranrasa Sade - රන්රස සාදේ ",
+      "description": "<p>Ranrasa Sade - රන්රස සාදේ&nbsp;</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Ranrasa%20Sade%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%BB%E0%B7%83%20%E0%B7%83%E0%B7%8F%E0%B6%AF%E0%B7%9A%20/nhibh-1788153490389.jfif",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Ranrasa%20Sade%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%BB%E0%B7%83%20%E0%B7%83%E0%B7%8F%E0%B6%AF%E0%B7%9A%20/nhibh-1788153490389.jfif",
+      "venue": "The Epitome Hotel - Kurunegala",
+      "city": "666548e1a03df8fc2ac5a3aa",
+      "dateTime": "2026-10-16T13:30:00.000Z",
+      "originalDateStr": "Fri, Oct 16, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/ranrasa-sade/6a950d9dd0858700a832c42f",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.8955705882352945,
+      "longitude": 79.89116078431373
     },
     {
       "id": "ticketsministry-1273",
