@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-03T02:57:54.687Z",
+  "lastSyncTime": "2026-09-03T08:32:52.520Z",
   "counts": {
     "MyTickets": 26,
     "OneTicket": 15,
@@ -205,7 +205,7 @@
       "minPrice": 5000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/rhythm-of-echoes/6a54cacc0e68a",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -1226,10 +1226,10 @@
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
       "source": "MyTickets",
-      "name": "මැයි මාර සංචරණිය -Maeyi Mara Sancaraṇiya",
-      "description": "<p>මැයි මාර සංචරණිය -Maeyi Mara Sancaraṇiya</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B7%90%E0%B6%BA%E0%B7%92%20%E0%B6%B8%E0%B7%8F%E0%B6%BB%20%E0%B7%83%E0%B6%82%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B7%92%E0%B6%BA%20-Maeyi%20Mara%20Sancara%E1%B9%87iya/WhatsApp%20Image%202026-08-21%20at%2017.20.25-1787328964655.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B7%90%E0%B6%BA%E0%B7%92%20%E0%B6%B8%E0%B7%8F%E0%B6%BB%20%E0%B7%83%E0%B6%82%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B7%92%E0%B6%BA%20-Maeyi%20Mara%20Sancara%E1%B9%87iya/WhatsApp%20Image%202026-08-21%20at%2017.20.25-1787328964655.jpeg",
+      "name": "මැයි මාර සංචරණිය -Maimara Sancharaniya",
+      "description": "<p>මැයි මාර සංචරණිය -<span style=\"background-color: rgba(241, 245, 249, 0.5);\">Maimara Sancharaniy</span>a</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B7%90%E0%B6%BA%E0%B7%92%20%E0%B6%B8%E0%B7%8F%E0%B6%BB%20%E0%B7%83%E0%B6%82%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B7%92%E0%B6%BA%20-Maeyi%20Mara%20Sancara%E1%B9%87iya/main%201080-01.jpg-1788409817817.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/%E0%B6%B8%E0%B7%90%E0%B6%BA%E0%B7%92%20%E0%B6%B8%E0%B7%8F%E0%B6%BB%20%E0%B7%83%E0%B6%82%E0%B6%A0%E0%B6%BB%E0%B6%AB%E0%B7%92%E0%B6%BA%20-Maeyi%20Mara%20Sancara%E1%B9%87iya/main%201080-01.jpg-1788409817817.jpg",
       "venue": "Gampola Wickramabahu National College Auditorium",
       "city": "666548e1a03df8fc2ac5a1f4",
       "dateTime": "2026-10-11T09:00:00.000Z",
@@ -1237,7 +1237,7 @@
       "priceCurrency": "LKR",
       "minPrice": 1000,
       "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/maeyi-mara-sancaraiya/6a84384e8b28dae979bfe07d",
+      "ticketLink": "https://mytickets.lk/event/maimara-sancharaniya/6a84384e8b28dae979bfe07d",
       "status": "active",
       "tags": [
         "Concert"
@@ -1546,7 +1546,7 @@
       "id": "ticketsministry-1253",
       "source": "TicketsMinistry",
       "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Draught + Bench Seating: 5000 LKR</p></li><li><p>Free Draught + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
       "venue": "Radisson Blu Resort Galle",
@@ -1762,16 +1762,16 @@
       "dateTime": "2026-12-12T10:00:00.000Z",
       "originalDateStr": "Sat, Dec 12, 2026, 03:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 5000,
+      "minPrice": 3000,
+      "maxPrice": 3000,
       "ticketLink": "https://www.ticketsministry.com/concerts/rise-up/22c0ea46-81ea-46cc-b4c0-34ec2702067d",
       "status": "active",
       "tags": [
         "Concert",
         "EDM"
       ],
-      "latitude": 6.888668627450981,
-      "longitude": 79.87421960784313
+      "latitude": 6.01167794433715,
+      "longitude": 80.23375474611859
     },
     {
       "id": "oneticket-421",
