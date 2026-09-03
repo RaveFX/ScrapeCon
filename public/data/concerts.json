@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-03T08:32:52.520Z",
+  "lastSyncTime": "2026-09-03T14:08:02.337Z",
   "counts": {
     "MyTickets": 26,
     "OneTicket": 15,
-    "TicketsMinistry": 37,
-    "Total": 78
+    "TicketsMinistry": 38,
+    "Total": 79
   },
   "concerts": [
     {
@@ -160,7 +160,7 @@
       "minPrice": 2000,
       "maxPrice": 10000,
       "ticketLink": "https://mytickets.lk/event/yugatra-live-in-concert-2026/6a2be5bf5e065e87cfd2cde6",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert"
       ],
@@ -1070,7 +1070,7 @@
       "description": "<p>Enter a world of deep sound, dark aesthetics, and timeless energy. A carefully curated experience for those who live beyond the ordinary.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/NDeHCboYt0UDT2LtrlvLjealORKZofSP8ewAP9qy.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/NO7fkWHzUlK2f1I4ZVxy6P3dit2f81nCkVl3RNqs.jpg",
-      "venue": "TBA",
+      "venue": "The Other Room",
       "city": "Colombo 07",
       "dateTime": "2026-10-09T18:00:00.000Z",
       "originalDateStr": "Fri, Oct 9, 2026, 11:30 PM",
@@ -1083,8 +1083,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 7.857684999999999,
-      "longitude": 80.70625
+      "latitude": 6.908647493090775,
+      "longitude": 79.86327027499637
     },
     {
       "id": "oneticket-420",
@@ -1702,6 +1702,29 @@
       ],
       "latitude": 6.896198039215687,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1277",
+      "source": "TicketsMinistry",
+      "name": "SNEHAYE NAGARAYA 5.0",
+      "description": "<p>ස්නේහයේ නගරය 5.0 LEGEND EDITION</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202609031451-snehaye-nagaraya-5.0-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609031451-snehaye-nagaraya-5.0-thumbnail.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-29T19:30:00.000Z",
+      "originalDateStr": "Mon, Nov 30, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-50/6a993c1f0b349",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1247",
