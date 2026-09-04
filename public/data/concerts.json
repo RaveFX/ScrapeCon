@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-04T14:00:30.259Z",
+  "lastSyncTime": "2026-09-04T18:48:28.999Z",
   "counts": {
     "MyTickets": 26,
     "OneTicket": 16,
@@ -44,7 +44,7 @@
       "minPrice": 1000,
       "maxPrice": 35000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Concert",
