@@ -1,59 +1,12 @@
 {
-  "lastSyncTime": "2026-09-05T02:58:45.430Z",
+  "lastSyncTime": "2026-09-05T08:02:37.234Z",
   "counts": {
-    "MyTickets": 25,
+    "MyTickets": 26,
     "OneTicket": 16,
-    "TicketsMinistry": 38,
-    "Total": 79
+    "TicketsMinistry": 36,
+    "Total": 78
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1212",
-      "source": "TicketsMinistry",
-      "name": "PULZE X",
-      "description": "<p>PULZE-X is a futuristic, story-driven live concert experience presented by STAGELAB Events.Step into the world of Project X, a mysterious lifeform created inside the STAGELAB research facility. As music, technology and crowd energy collide, Project X begins to awaken—transforming the venue into an immersive cyberpunk universe filled with powerful live performances, cinematic visuals, lighting effects and synchronized X-Band LED wristbands.</p><p>This is more than a concert. It is a live sci-fi experience where every attendee becomes part of the experiment.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EFvc4f2hLzm0XPyE6ndTRvoP5xGKETy8KmY83Gp7.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/iibRW1HTXyhTt6hVz49Ge7TB6mH2QhiEERN32SOS.png",
-      "venue": "BMICH Outdoor Premises",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T17:00:00.000Z",
-      "originalDateStr": "Fri, Sep 4, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 35000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pulze-x/6a565aa3e0234",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
-      "id": "ticketsministry-1220",
-      "source": "TicketsMinistry",
-      "name": "MATHAKA 2.0 WAYO YAMAYA LIVE AT KDU",
-      "description": "<p>මතක 2.0 – WAYO යාමය 2026 is a charity musical evening organized to support the development of the Faculty of Law Library at KDU, provide student scholarships, and enhance practical legal exposure. Beyond music, it is a celebration of memories—a night to relive cherished moments, create new memories, and rejoice with loved ones while contributing to a meaningful cause.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607191918-mathaka-2.0-wayo-yamaya-live-at-kdu-thumbnail.png",
-      "venue": "KDU Football Grounds Rathmalana",
-      "city": "Ratmalana",
-      "dateTime": "2026-09-04T17:00:00.000Z",
-      "originalDateStr": "Fri, Sep 4, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 32000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mathaka-20-wayo-yamaya-live-at-kdu/6a5cd59fe719b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.81836630204379,
-      "longitude": 79.88409991965251
-    },
     {
       "id": "ticketsministry-1211",
       "source": "TicketsMinistry",
@@ -89,8 +42,8 @@
       "dateTime": "2026-09-05T11:00:00.000Z",
       "originalDateStr": "Sat, Sep 5, 2026, 04:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
+      "minPrice": 1000,
+      "maxPrice": 18000,
       "ticketLink": "https://www.ticketsministry.com/concerts/hello-kurunegala/6a5718eac7fbd",
       "status": "active",
       "tags": [
@@ -1066,6 +1019,28 @@
       "longitude": 80.31658034784374
     },
     {
+      "id": "mytickets-6a9bcb2bcd343abf74ea8773",
+      "source": "MyTickets",
+      "name": "Kele Show Eka - කැලේ Show එක ",
+      "description": "<h2><em>\"කැලේ Show එක\"</em></h2><p>වෙනස් විදිහේ වැඩක්...</p><p>වෙනස් විදිහේ තැනක....</p><p><br></p><p>රිද්ම වීරවර්ධන&nbsp;</p><p>ජෝ පෙරේරා&nbsp;</p><p>නිපුනි දිසානායක&nbsp;</p><p>මහිරු සේනාරත්න&nbsp;</p><p>යශෝධා මැදගෙදර&nbsp;</p><p>රනුධි ද සොයිසා&nbsp;සමගින්....</p><p><br></p><p>සුන්දර <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a> එළිමහනේදී...</p><p><br></p><p>📅 - 4th October 2026,</p><p>📍- <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a></p><p>⏱️ - 5:00 PM</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <strong><em>(Front Raw Barn Couch Seating)</em></strong> - <strong>10,000 LKR</strong> (Limited Slots Only)</p><p>Lawn Area <strong><em>(Barn Chair Seating)</em></strong> - <strong>6000 LKR</strong></p><p>Cocktail Table Area <strong><em>(Standing)</em></strong> - <strong>5000 LKR</strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
+      "venue": "The Barnhouse - Sri Lanka",
+      "city": "666548e1a03df8fc2ac5a55a",
+      "dateTime": "2026-10-04T11:30:00.000Z",
+      "originalDateStr": "Sun, Oct 4, 2026, 05:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/kele-show-eka-show/6a9bcb2bcd343abf74ea8773",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.966472549019608,
+      "longitude": 79.84065098039216
+    },
+    {
       "id": "ticketsministry-1228",
       "source": "TicketsMinistry",
       "name": "LOST IN SRI LANKA",
@@ -1157,29 +1132,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
       "name": "SENSATION LIVE IN CONCERT ALAWWA",
@@ -1201,6 +1153,29 @@
       ],
       "latitude": 7.295998692711573,
       "longitude": 80.22938217500008
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "ticketsministry-1262",
