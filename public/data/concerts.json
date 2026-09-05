@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-05T08:02:37.234Z",
+  "lastSyncTime": "2026-09-05T13:14:53.027Z",
   "counts": {
     "MyTickets": 26,
     "OneTicket": 16,
@@ -29,6 +29,29 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
+    },
+    {
+      "id": "ticketsministry-1218",
+      "source": "TicketsMinistry",
+      "name": "NITHAMBANI",
+      "description": "<p>Outdoor concert with Avatar Band</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607181138-nithambani-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202607181138-nithambani-thumbnail.jpg",
+      "venue": "Horana Public Ground",
+      "city": "Horana",
+      "dateTime": "2026-09-05T08:30:00.000Z",
+      "originalDateStr": "Sat, Sep 5, 2026, 02:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/nithambani/6a5b1866be736",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.7135906,
+      "longitude": 80.0624692
     },
     {
       "id": "ticketsministry-1213",
@@ -166,29 +189,6 @@
       ],
       "latitude": 8.098686483968136,
       "longitude": 80.22807975727076
-    },
-    {
-      "id": "ticketsministry-1218",
-      "source": "TicketsMinistry",
-      "name": "NITHAMBANI",
-      "description": "<p>Outdoor concert with Avatar Band</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607181138-nithambani-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607181138-nithambani-thumbnail.jpg",
-      "venue": "Horana Public Ground",
-      "city": "Horana",
-      "dateTime": "2026-09-05T20:30:00.000Z",
-      "originalDateStr": "Sun, Sep 6, 2026, 02:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/nithambani/6a5b1866be736",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.7135906,
-      "longitude": 80.0624692
     },
     {
       "id": "mytickets-6a7ed4084a3868dd0c591f00",
@@ -1022,13 +1022,13 @@
       "id": "mytickets-6a9bcb2bcd343abf74ea8773",
       "source": "MyTickets",
       "name": "Kele Show Eka - කැලේ Show එක ",
-      "description": "<h2><em>\"කැලේ Show එක\"</em></h2><p>වෙනස් විදිහේ වැඩක්...</p><p>වෙනස් විදිහේ තැනක....</p><p><br></p><p>රිද්ම වීරවර්ධන&nbsp;</p><p>ජෝ පෙරේරා&nbsp;</p><p>නිපුනි දිසානායක&nbsp;</p><p>මහිරු සේනාරත්න&nbsp;</p><p>යශෝධා මැදගෙදර&nbsp;</p><p>රනුධි ද සොයිසා&nbsp;සමගින්....</p><p><br></p><p>සුන්දර <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a> එළිමහනේදී...</p><p><br></p><p>📅 - 4th October 2026,</p><p>📍- <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a></p><p>⏱️ - 5:00 PM</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <strong><em>(Front Raw Barn Couch Seating)</em></strong> - <strong>10,000 LKR</strong> (Limited Slots Only)</p><p>Lawn Area <strong><em>(Barn Chair Seating)</em></strong> - <strong>6000 LKR</strong></p><p>Cocktail Table Area <strong><em>(Standing)</em></strong> - <strong>5000 LKR</strong></p>",
+      "description": "<h2><em>\"කැලේ Show එක\"</em></h2><p>වෙනස් විදිහේ වැඩක්...</p><p>වෙනස් විදිහේ තැනක....</p><p><br></p><p>රිද්ම වීරවර්ධන&nbsp;</p><p>ජෝ පෙරේරා&nbsp;</p><p>නිපුනි හේරත්</p><p>මහිරු සේනාරත්න&nbsp;</p><p>යශෝධා මැදගෙදර&nbsp;</p><p>රනුධි ද සොයිසා&nbsp;සමගින්....</p><p><br></p><p>සුන්දර <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a> එළිමහනේදී...</p><p><br></p><p>📅 - 4th October 2026,</p><p>📍- <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a></p><p>⏱️ - 4:30 PM</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <strong><em>(Front Raw Barn Couch Seating)</em></strong> - <strong>10,000 LKR</strong> (Limited Slots Only)</p><p>Lawn Area <strong><em>(Barn Chair Seating)</em></strong> - <strong>6000 LKR</strong></p><p>Cocktail Table Area <strong><em>(Standing)</em></strong> - <strong>5000 LKR</strong></p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
       "venue": "The Barnhouse - Sri Lanka",
       "city": "666548e1a03df8fc2ac5a55a",
-      "dateTime": "2026-10-04T11:30:00.000Z",
-      "originalDateStr": "Sun, Oct 4, 2026, 05:00 PM",
+      "dateTime": "2026-10-04T11:00:00.000Z",
+      "originalDateStr": "Sun, Oct 4, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 10000,
