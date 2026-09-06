@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-05T23:36:35.831Z",
+  "lastSyncTime": "2026-09-06T02:57:34.925Z",
   "counts": {
-    "MyTickets": 26,
+    "MyTickets": 24,
     "OneTicket": 17,
     "TicketsMinistry": 36,
-    "Total": 79
+    "Total": 77
   },
   "concerts": [
     {
@@ -98,51 +98,6 @@
       ],
       "latitude": 7.480618437897388,
       "longitude": 80.31658034784374
-    },
-    {
-      "id": "mytickets-6a4de3887db51a0f260212fd",
-      "source": "MyTickets",
-      "name": "WAYO YAMAYA (වායෝ යාමය)",
-      "description": "<p>WAYO YAMAYA (වායෝ යාමය)</p><p><br></p><p>Enjoy an unforgettable evening with WAYO, featuring Sashika Nisansala and Chandana Liyanarachchi.</p><p>Date: Saturday, 5th September 2026 Time: 6.30 PM Venue: Musaeus College Auditorium</p><p>A fundraising concert by the Kingswood Union – Colombo Branch in support of the Kingswood College Sports and Education Development Fund.</p><p>Ticket Prices: LKR 12,000 | LKR 10,000 | LKR 7,500 | LKR 5,000 | LKR 3,000 | LKR 2,000 (Balcony)</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20YAMAYA%20(%E0%B7%80%E0%B7%8F%E0%B6%BA%E0%B7%9D%20%E0%B6%BA%E0%B7%8F%E0%B6%B8%E0%B6%BA)/1080%20x%201080-1783489198407.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20YAMAYA%20(%E0%B7%80%E0%B7%8F%E0%B6%BA%E0%B7%9D%20%E0%B6%BA%E0%B7%8F%E0%B6%B8%E0%B6%BA)/1080%20x%201080-1783489198407.jpg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-09-05T13:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 12000,
-      "ticketLink": "https://mytickets.lk/event/wayo-yamaya/6a4de3887db51a0f260212fd",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
-    {
-      "id": "mytickets-6a2be5bf5e065e87cfd2cde6",
-      "source": "MyTickets",
-      "name": "Yugatra යුගාත්‍රා - Live in concert  2026",
-      "description": "<p>යුගාත්‍රා - Live in concert&nbsp;</p><p><br></p><p>සංගීතයෙන් යුග යුග යා කරන “යුගාත්‍රා” ශ්‍රී ලංකාවේ අංක 1 ප්‍රාසංගික නාලිකාව, TV දෙරණෙන් විකාශය වන සම්මානනීය සහ අතිශය ජනප්‍රිය සංගීත වැඩසටහනකි. එහි සජීව අත්දැකීමක් ලෙස සහෘද ප්‍රේක්ෂක ඔබ වෙත සමීප කරන “යුගාත්‍රා - Live in Concert” මනුසත් දෙරණට සවිබල පිණිස පැවැත්වේ.</p><p><br></p><p>ජනප්‍රිය ප්‍රවීණයින් සමග නව පරපුරේ විශිෂ්ටයින්&nbsp;එකම වේදිකාවක තම තමන්ගේ ගීත එක්ව ගායනා කිරීම මෙම ප්‍රසංගයේ ඇති සුවිශේෂීත්වයයි.</p><p><br></p><p>මෙම අති උත්කර්ෂවත් ප්‍රසංගය ජනප්‍රිය 'Shiksha' සංගීත කණ්ඩායම විසින් සංගීතවත් කරනු ලබන අතර, නිවේදන කටයුතු මෙහෙයවනු ලබන්නේ මනුරංග විජේසේකර විසිනි.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Yugatra%20%E0%B6%BA%E0%B7%94%E0%B6%9C%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%8F%20-%20Live%20in%20concert%20%202026/YUGATHRA%20MYTICKETS%20EVENT%20COVER.jpg-1781599980402.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Yugatra%20%E0%B6%BA%E0%B7%94%E0%B6%9C%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%8F%20-%20Live%20in%20concert%20%202026/YUGATHRA%20MYTICKETS%20EVENT%20COVER.jpg-1781599980402.jpeg",
-      "venue": "Nelum Pokuna Indoor Theater",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2026-09-05T13:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/yugatra-live-in-concert-2026/6a2be5bf5e065e87cfd2cde6",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9089,
-      "longitude": 79.8676
     },
     {
       "id": "ticketsministry-1268",
@@ -696,7 +651,7 @@
       "id": "mytickets-6a7daa07d556332fdf77addb",
       "source": "MyTickets",
       "name": "WAYO AT THE EDGE",
-      "description": "<p>WAYO AT THE EDGE</p><p><br></p><p>Music hits different at the Edge. 🎶🔥</p><p><br></p><p>Get ready for a night where live music, great food, chilled drinks, and good company all come together. Experience WAYO featuring Shihan &amp; Dhanith Sri live under the open sky, with the perfect atmosphere to sing, dance, grab a bite, raise a glass, and enjoy the night your way.</p><p><br></p><p>Bring your crew. Come for the music, stay for the vibe. 🍻✨</p><p><br></p><p>25th September 2026 | 7 PM</p><p>Waters Edge Outdoor Premises</p><p><br></p><p>Proudly presented by Madhi Events in collaboration with Rolling and Action Entertainment. See you at the edge — where memories happen.</p>",
+      "description": "<p>WAYO AT THE EDGE - Music hits different at the Edge. 🎶🔥</p><p><em>Get ready for a night where live music, great food, chilled drinks, and good company all come together. Experience WAYO featuring Shihan &amp; Dhanith Sri live under the open sky, with the perfect atmosphere to sing, dance, grab a bite, raise a glass, and enjoy the night your way.</em></p><p><em>Bring your crew. Come for the music, stay for the vibe.</em> 🍻✨</p><p><br></p><p>📅 25th September 2026</p><p>⏱️ 7 PM</p><p>📍 Waters Edge Outdoor Premises</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <em>( Beer Bench Free Seating for 8 person)</em> - 7,500 LKR / PP</p><p>GENERAL Access <em>(Beer Bench Free Seating for 8 person)</em> - 5000 LKR / PP</p><p><br></p><p><strong>Table Booking:</strong></p><p>To reserve a table, please select <strong>8 tickets from the same table number</strong>.</p><p><strong>Important:</strong> Once a table or seat reservation is confirmed, <strong>no changes, cancellations, or transfers will be permitted under any circumstances</strong>, in accordance with the <strong>MyTickets Ticket Policy</strong>.</p><p><br></p><p>Proudly presented by Madhi Events in collaboration with Rolling and Action Entertainment. See you at the edge — where memories happen.</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
       "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
       "venue": "Waters Edge Outdoor Car Park - Battaramulla",
