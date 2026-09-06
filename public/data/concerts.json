@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-06T08:21:35.454Z",
+  "lastSyncTime": "2026-09-06T13:23:48.717Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 17,
-    "TicketsMinistry": 35,
-    "Total": 76
+    "TicketsMinistry": 31,
+    "Total": 72
   },
   "concerts": [
     {
@@ -29,98 +29,6 @@
       ],
       "latitude": 6.914999999999998,
       "longitude": 79.8547222
-    },
-    {
-      "id": "ticketsministry-1218",
-      "source": "TicketsMinistry",
-      "name": "NITHAMBANI",
-      "description": "<p>Outdoor concert with Avatar Band</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607181138-nithambani-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202607181138-nithambani-thumbnail.jpg",
-      "venue": "Horana Public Ground",
-      "city": "Horana",
-      "dateTime": "2026-09-05T08:30:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 02:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/nithambani/6a5b1866be736",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.7135906,
-      "longitude": 80.0624692
-    },
-    {
-      "id": "ticketsministry-1213",
-      "source": "TicketsMinistry",
-      "name": "HELLO KURUNEGALA",
-      "description": "<p>Astral Force is a progressive house music event featuring live DJ performances in a safe and professional entertainment environment</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/NjAEJH1EAyApoCxpEdbM8Tw6a1WU5oFORagGEtgp.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/YUKlNBYZ14dXm4ays9Y3TKM91eaLzMOLFD3GNbbm.jpg",
-      "venue": "Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-09-05T11:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 04:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 18000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/hello-kurunegala/6a5718eac7fbd",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 7.480618437897388,
-      "longitude": 80.31658034784374
-    },
-    {
-      "id": "ticketsministry-1268",
-      "source": "TicketsMinistry",
-      "name": "The Maryites Grandiose Partya 5",
-      "description": "<p>Get ready for Maryites Grandiose පාටිය 5, an unforgettable night of live music, entertainment, dancing and exciting giveaways! Organised by the St. Mary’s College Sports & Education Development Association, the event brings together an incredible entertainment lineup featuring Centigradz, Doctor and C Plus, with Joy De Alwis as compere. Join us at Grandeeza Hotel, Negombo, on 5 September 2026 from 7:00 PM for a spectacular night packed with music, energy and prizes, including an air ticket, hotel package for two, Black Label bottle draws, and a special gift for the Best Dancing Couple. Organised by: St. Mary’s College Sports & Education Development Association.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202608231453-the-maryites-grandiose-පාටිය-5-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9vpWHaBMHUhQE2SPO4lt6Hob4ZrFLdnjeVmt7aX8.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-09-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-maryites-grandiose-partya-5/c7ebbce9-02f2-432f-a819-471fe475246f",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
-      "id": "ticketsministry-1261",
-      "source": "TicketsMinistry",
-      "name": "SARUWATH LIVE IN CONCERT",
-      "description": "<p>ඔන්න එහෙනම් සුපිරිම Live in Concert එකක් ගල්නෑවට...... 😍🎶 සරුවත් රහම ටික With Blueberry Music 🎶සුපිරිම Concert එක බලන්න Sep 05 ගල්නෑවට එන්න..Ready වෙන්න 😉🤟❤️🎶Artists Lineup🔹Chamara Weerasinghe🔹Sureni De Mel 🔹Viraj Perera🔹D-Tab🔹JNK Jana and MoniyoDancing 💃  Suba with CamelliaHost 🎤 Nalin Yatimangala🗓️ 2026/09/05🕗 රාත්‍රී 𝟴.𝟬𝟬 සිට📍 ගල්නෑව රථගාල ක්‍රීඩාංගණයTicket prices🎫 Rs.800🎫 Rs.1500 VIPBook your Tickets🔴 Online Tickets coming soon Official Ticketing partner Tickets ministryFor more Info📞 ‪+94 77 256 9040‬ (Nalin)Media Sponsored  Sha FM 📻</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608180947-saruwath-live-in-concert-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608180947-saruwath-live-in-concert-thumbnail.jpg",
-      "venue": "Galnewa Mahaweli Public Ground",
-      "city": "Galnewa",
-      "dateTime": "2026-09-05T20:00:00.000Z",
-      "originalDateStr": "Sun, Sep 6, 2026, 01:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 750,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/saruwath-live-in-concert/6a83dccca1d61",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 8.098686483968136,
-      "longitude": 80.22807975727076
     },
     {
       "id": "mytickets-6a7ed4084a3868dd0c591f00",
