@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-07T08:55:09.684Z",
+  "lastSyncTime": "2026-09-07T15:30:13.324Z",
   "counts": {
     "MyTickets": 23,
     "OneTicket": 17,
@@ -7,29 +7,6 @@
     "Total": 71
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1211",
-      "source": "TicketsMinistry",
-      "name": "KODIGAHA YATA LIVE IN CONCERT",
-      "description": "<p>KODIGAHA YATA LIVE IN CONCERT</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/EGAwlch8Je0erm5NcxXURLVxqZzXAGivYgDGFUEl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EsqRanCJxXS63wXAVIyPoOH7yCncyL3zB3tukPZd.jpg",
-      "venue": "Bishop’s College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-04T19:00:00.000Z",
-      "originalDateStr": "Sat, Sep 5, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kodigaha-yata-live-in-concert/6a564b3dd4c90",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.914999999999998,
-      "longitude": 79.8547222
-    },
     {
       "id": "mytickets-6a6875e1305266ba58245e6e",
       "source": "MyTickets",
@@ -1153,6 +1130,29 @@
       ],
       "latitude": 6.904041176470589,
       "longitude": 79.87359215686274
+    },
+    {
+      "id": "ticketsministry-1278",
+      "source": "TicketsMinistry",
+      "name": "MARIANS AT WAVE AND LAKE",
+      "description": "<p>Marians at Wave & Lake promises an exciting live musical experience featuring the iconic Marians, energetic performances, DJs, and a vibrant concert atmosphere. What makes it special is the combination of live music, entertainment, and a unique lakeside venue, making it ideal for music lovers, friends, couples, families, and anyone looking for a memorable night out.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609071304-marians-at-wave-&-lake-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/sbfYMlsQXQg1WYydet1JKKgfTvlK6dz8LxQL2JVX.jpg",
+      "venue": "Wave n' Lake Navy Banquet Hall",
+      "city": "Ragama",
+      "dateTime": "2026-10-17T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 18, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/marians-at-wave-and-lake/c0bcce60-bb13-48a9-aabe-b75e6409f156",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1240",
