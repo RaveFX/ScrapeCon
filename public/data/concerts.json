@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-09T08:37:30.252Z",
+  "lastSyncTime": "2026-09-09T14:09:26.667Z",
   "counts": {
-    "MyTickets": 23,
-    "OneTicket": 16,
+    "MyTickets": 24,
+    "OneTicket": 17,
     "TicketsMinistry": 32,
-    "Total": 71
+    "Total": 73
   },
   "concerts": [
     {
@@ -237,6 +237,28 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "mytickets-6aa13c7fdfca8c019cd31edc",
+      "source": "MyTickets",
+      "name": "Rhythm Star Night",
+      "description": "<p>Rhythm Star Night</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Star%20Night/Poster%201080x1080%20my%20tickets.jpg-1788950954853.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Star%20Night/Poster%201080x1080%20my%20tickets.jpg-1788950954853.jpeg",
+      "venue": "Royal Monarch Wattala",
+      "city": "666548e1a03df8fc2ac5a721",
+      "dateTime": "2026-09-13T12:00:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 05:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/rhythm-star-night/6aa13c7fdfca8c019cd31edc",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.908433333333334,
+      "longitude": 79.84974901960784
+    },
+    {
       "id": "mytickets-6a8d521b0ddc58a7a086d692",
       "source": "MyTickets",
       "name": "ANDRUM INDRUM",
@@ -370,6 +392,30 @@
       ],
       "latitude": 7.204734327238933,
       "longitude": 80.55385661152789
+    },
+    {
+      "id": "oneticket-438",
+      "source": "OneTicket",
+      "name": "SAMBAVAM",
+      "description": "SAMBAVAM happening at Elevate by Jetwing 29th Floor, Access Tower II 278 Union Place. Date & Time: Sun, Sep 20, 2026, 12:30 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/46818497-64317157-e445-4adb-83b5-70258b583117.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/38457758-92b216dc-b349-4257-8982-e39574a2bd94.jpg",
+      "venue": "Elevate by Jetwing 29th Floor, Access Tower II 278 Union Place",
+      "city": "Elevate by Jetwing 29th Floor, Access Tower II 278 Union Place",
+      "dateTime": "2026-09-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Sep 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/sambavam",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.906550980392157,
+      "longitude": 79.87453333333333
     },
     {
       "id": "mytickets-6a7a9822f6e32989e564e686",
@@ -1501,8 +1547,8 @@
       "id": "ticketsministry-1279",
       "source": "TicketsMinistry",
       "name": "FOUR NOTES",
-      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Jcq4rWofKTw42LBBUW6kbyGJbwBsbLrB3Xl1hKuQ.jpg",
+      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
