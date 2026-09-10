@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-10T08:38:56.041Z",
+  "lastSyncTime": "2026-09-10T14:03:36.036Z",
   "counts": {
-    "MyTickets": 24,
+    "MyTickets": 26,
     "OneTicket": 17,
-    "TicketsMinistry": 33,
-    "Total": 74
+    "TicketsMinistry": 34,
+    "Total": 76
   },
   "concerts": [
     {
@@ -68,7 +68,8 @@
       "ticketLink": "https://mytickets.lk/event/ridee-gee/6a4ded82783f6c01e4fcaf17",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
@@ -239,18 +240,18 @@
     {
       "id": "mytickets-6aa13c7fdfca8c019cd31edc",
       "source": "MyTickets",
-      "name": "Rhythm Star Night",
-      "description": "<p>Rhythm Star Night</p>",
+      "name": "Rhythm Star Night 2026",
+      "description": "<p>Get Ready for RHYTHM STAR NIGHT 2026! ✨🎶</p><p><br></p><p>An unforgettable evening of music, entertainment, and celebration is coming your way! 🌟 Join us for Rhythm Star Night&nbsp;with “SA RE GA MA”, featuring an exciting lineup of talented artists and performers.</p><p><br></p><p>*Famous South Indian Actress Aishwarya Rajesh</p><p>*Rising Actor Sujann Chandru</p><p>*Actress Kaviya Varshini Reddy</p><p>*Singers Mukesh, Malathi&nbsp;Luxman &amp; Magizhan</p><p>*Sri Lankan famous musical band Karuna's Sa Re Ga Ma&nbsp;</p><p><br></p><p>📅 13th September 2026</p><p>⏰ 4:30 PM</p><p>📍 Royal Monarch Banquet Hall, Wattala</p><p><br></p><p>Come enjoy a spectacular night filled with rhythm, melodies and incredible performances.</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Star%20Night/Poster%201080x1080%20my%20tickets.jpg-1788950954853.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Star%20Night/Poster%201080x1080%20my%20tickets.jpg-1788950954853.jpeg",
       "venue": "Royal Monarch Wattala",
       "city": "666548e1a03df8fc2ac5a721",
-      "dateTime": "2026-09-13T12:00:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 05:30 PM",
+      "dateTime": "2026-09-13T11:00:00.000Z",
+      "originalDateStr": "Sun, Sep 13, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 10000,
       "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/rhythm-star-night/6aa13c7fdfca8c019cd31edc",
+      "ticketLink": "https://mytickets.lk/event/rhythm-star-night-2026/6aa13c7fdfca8c019cd31edc",
       "status": "active",
       "tags": [
         "Concert"
@@ -577,6 +578,28 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "mytickets-6aa27a8d360085b29b28ca0f",
+      "source": "MyTickets",
+      "name": "Thunsiya Hata Eka - තුන්සිය හැට එක",
+      "description": "<p>Thunsiya Hata Eka - තුන්සිය හැට එක</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Thunsiya%20Hata%20Eka%20-%20%E0%B6%AD%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B7%92%E0%B6%BA%20%E0%B7%84%E0%B7%90%E0%B6%A7%20%E0%B6%91%E0%B6%9A/WhatsApp%20Image%202026-09-09%20at%2010.23.04%20PM-1789032828915.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Thunsiya%20Hata%20Eka%20-%20%E0%B6%AD%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B7%92%E0%B6%BA%20%E0%B7%84%E0%B7%90%E0%B6%A7%20%E0%B6%91%E0%B6%9A/WhatsApp%20Image%202026-09-09%20at%2010.23.04%20PM-1789032828915.jpeg",
+      "venue": "Elphinstone Theatre ",
+      "city": "666548e1a03df8fc2ac5a04a",
+      "dateTime": "2026-09-27T10:00:00.000Z",
+      "originalDateStr": "Sun, Sep 27, 2026, 03:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 2500,
+      "ticketLink": "https://mytickets.lk/event/thunsiya-hata-eka/6aa27a8d360085b29b28ca0f",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.924433333333334,
+      "longitude": 79.83876862745097
     },
     {
       "id": "oneticket-402",
@@ -972,29 +995,6 @@
       "longitude": 80.22938217500008
     },
     {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -1016,6 +1016,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1181,7 +1204,7 @@
       "source": "TicketsMinistry",
       "name": "CHILL THEORY AT GANGAARA",
       "description": "<p>𝐃𝐨 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐂𝐡𝐢𝐥𝐥 𝐌𝐞𝐦𝐨𝐫𝐢𝐞𝐬 𝐂𝐨𝐦𝐞 𝐓𝐨 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐢𝐬 𝐍𝐢𝐠𝐡𝐭  𝐆𝐮𝐲𝐬 𝗪𝗶𝘁𝗵  Family's Friend's Squad  Fionce And Fioncee  All Are Guys 2026.10.17 At Avenra Gangaara Wennappuwa. Doors Open At 6.30 Onwards𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚𝐹𝑡. 𝐵𝑎𝑐ℎ𝑖 𝑆𝑢𝑠𝑎𝑛𝐶𝑒𝑛𝑡𝑖𝑔𝑟𝑎𝑑𝑒𝑧 𝐽𝑎𝑦𝑎 𝑆𝑟𝑖   𝑆𝑒𝑛𝑎𝑛𝑎𝑦𝑎𝑘𝑎 𝑊𝑒𝑟𝑎𝑙𝑖𝑦𝑎𝑑𝑑𝑒ᴛɪᴄᴋᴇᴛꜱ ᴄᴀᴛᴇɢᴏʀɪᴇꜱ ꜱɪʟᴠᴇʀ : ʀꜱ.4000.00   ꜱɪʟᴠᴇʀ : ʀꜱ.35000.00 (10 ᴘᴀx ᴛᴀʙʟᴇ)ɢᴏʟᴅ : ʀꜱ5000.00 (ᴏɴᴇ ʙᴇᴇʀ)   ɢᴏʟᴅ : ʀꜱ.45000.00 (10 ʙᴇᴇʀ ꜰᴏʀ 10 ᴘᴀx ᴛᴀʙʟᴇ)ᴘʟᴀᴛɪɴᴜᴍ : ʀꜱ.75000.00 (01 ᴡʜɪꜱᴋᴇʏ ʙᴏᴛᴛʟᴇ, 01 ᴄʜᴇᴀꜱᴇʀ ꜰᴏʀ 10 ᴘᴀx ᴛᴀʙʟᴇ)𝐒𝐞𝐚𝐭𝐢𝐧𝐠 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧1. ɢʀᴏᴜᴘѕ ᴏғ 10 ᴛɪᴄᴋᴇᴛѕ ʜᴏʟᴅᴇʀѕ ᴡɪʟʟ ʀᴇᴄɪᴇᴠᴇ ᴀ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴘʀɪᴠᴀᴛᴇ ᴛᴀʙʟᴇ2. ɪɴᴅɪᴠɪᴅᴜᴀʟ ᴛɪᴄᴋᴇᴛ ʜᴏʟᴅᴇʀѕ ᴡɪʟʟ ʙᴇ ѕᴇᴀᴛᴇᴅ ᴏɴ ᴀ ѕʜᴀʀᴇᴅ ʙᴀѕɪѕ 𝗥𝗲𝘀𝗮𝗿𝘃𝗮𝘁𝗶𝗼𝗻𝘀 & 𝗜𝗻𝗾𝘂𝗶𝗿𝗶𝗲𝘀 𝗖𝗮𝗹𝗹 𝗢𝗿 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽  𝟬𝟳𝟭 𝟯𝟴𝟭 𝟯𝟴𝟭 𝟲</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608061521-chill-theory-at-gangaara-banner.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6yKNYkKCvsz9jJ9PzMoRUNy3ncQFnArbn4Nluzc7.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608061521-chill-theory-at-gangaara-thumbnail.jpg",
       "venue": "Avenra Gangaara Wennappuwa",
       "city": "Negombo",
@@ -1451,6 +1474,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1281",
+      "source": "TicketsMinistry",
+      "name": "AMARANEEYA SWARA EDITION 02",
+      "description": "<p>Amaraneeya swara edition 02</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/VSU0TEvK2BjXomMH3rdxPF3WZ3HnT7rmtbPEk4Vn.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/US1NeWSDan2CgIJ2QohnsxoDhWu6ruZLnJLzAGaE.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:30:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/amaraneeya-swara-edition-02/6a9ff838d85d8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "mytickets-6a82b47f95bb41016919efb8",
