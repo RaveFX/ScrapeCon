@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-11T08:33:44.920Z",
+  "lastSyncTime": "2026-09-11T14:03:13.596Z",
   "counts": {
-    "MyTickets": 25,
+    "MyTickets": 26,
     "OneTicket": 18,
-    "TicketsMinistry": 36,
-    "Total": 79
+    "TicketsMinistry": 37,
+    "Total": 81
   },
   "concerts": [
     {
@@ -841,7 +841,7 @@
       "name": "MIYESI SANKALPANA",
       "description": "<p>A nostalgic live music experience for Millennials, featuring popular Sinhala hits, live performances, and entertainment. A family-friendly evening where you can come with your family, friends, and loved ones to enjoy great music, memories, and a fun night together.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/uVJQXHZEXXUDFijlOFbHoFrtIFHvnqsXlrKJMnC1.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/wFtcGgAG5Aqn5dGSsw0r6LTdvuS9ns9BpvnTSK1f.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EY2eVMhB9MVvFRqqHtgWkeOafegBxBeIpWKHNV9p.jpg",
       "venue": "Panorama Hotel Kalutara",
       "city": "Kalutara",
       "dateTime": "2026-10-03T18:30:00.000Z",
@@ -931,8 +931,8 @@
       "source": "OneTicket",
       "name": "GENZ FEST 2026",
       "description": "GENZ FEST 2026 happening at Nelum Pokuna Out Door. Date & Time: Sat, Oct 10, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/48698536-b9b23e81-00c5-459f-a588-0e33b6325d9c.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/78803540-28289f4c-d08c-417e-8ef4-8af35b6fdf8c.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/46978445-6bfc8154-7314-49b1-9788-57f3fab9bc28.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/63565924-046d94ad-c758-4b7d-902d-fabf90e4c10a.jpg",
       "venue": "Nelum Pokuna Out Door",
       "city": "Nelum Pokuna Out Door",
       "dateTime": "2026-10-09T19:00:00.000Z",
@@ -1522,6 +1522,28 @@
       "longitude": 79.97522049999999
     },
     {
+      "id": "mytickets-6aa3deaff4566da151daf319",
+      "source": "MyTickets",
+      "name": "Amarindu - අමරිදු",
+      "description": "<h2><strong>Amarindu - අමරිදු.</strong></h2><p><br></p><p><em>ශ්‍රී ලාංකීය ගී&nbsp;කෙත මැනවින් අස්වැද්දු අසමසම&nbsp;හෙළයේ මහා ගාන්ධර්ව ස්වරය&nbsp;- ආචාර්ය පණ්ඩිත්&nbsp;W D අමරදේවයන් ගේ 10 වන ගුණ සමරු&nbsp;මියැසි ප්‍රසංගය. \"අමරිඳු \"</em></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Amarindu%20-%20%E0%B6%85%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%94/WhatsApp%20Image%202026-09-11%20at%204.30.09%20PM-1789124470285.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Amarindu%20-%20%E0%B6%85%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%94/WhatsApp%20Image%202026-09-11%20at%204.30.09%20PM-1789124470285.jpeg",
+      "venue": "Musaeus College",
+      "city": "Colombo",
+      "dateTime": "2026-11-06T13:30:00.000Z",
+      "originalDateStr": "Fri, Nov 6, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/amarindu/6aa3deaff4566da151daf319",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
+    },
+    {
       "id": "ticketsministry-1252",
       "source": "TicketsMinistry",
       "name": "MANDAKINI",
@@ -1567,6 +1589,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1289",
+      "source": "TicketsMinistry",
+      "name": "SUMIHIRI MATHAKAYAN - LEGENDS UNPLUGGED",
+      "description": "<p>SUMIHIRI MATHAKAYAN - LEGENDS UNPLUGGEDදකුණු ලක ප්‍රේක්ෂක ඔබගේ දැඩි ඉල්ලීම පරිදි \"සුමිහිරි මතකයන්\" ප්‍රසංගය රුහුණු විශ්වවිද්‍යාලීය රබින්ද්‍රනාත් තාගෝර් ශ්‍රවණාගාරයේදී....</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mSATxkFYkmPgKnUNCLUo2cF5JG6BfUH113agpFu7.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AtVzJXepcK2UwivTwXSET1JqRGXohvnzyDfVvxBi.jpg",
+      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
+      "city": "Matara",
+      "dateTime": "2026-11-14T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 15, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-legends-unplugged/6aa3e7afaab0a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.937981700000001,
+      "longitude": 80.5734152
     },
     {
       "id": "mytickets-6a82b47f95bb41016919efb8",
