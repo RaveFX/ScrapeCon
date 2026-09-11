@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-11T14:03:13.596Z",
+  "lastSyncTime": "2026-09-11T18:58:30.220Z",
   "counts": {
     "MyTickets": 26,
     "OneTicket": 18,
@@ -1134,13 +1134,13 @@
       "id": "oneticket-440",
       "source": "OneTicket",
       "name": "AAYU Live in Concert",
-      "description": "AAYU Live in Concert happening at Dharmaloka Hall. Date & Time: Thu, Oct 15, 2026, 12:30 AM. Tickets start from 1000 LKR.",
+      "description": "AAYU Live in Concert happening at Dharmaloka Hall. Date & Time: Wed, Oct 14, 2026, 11:00 PM. Tickets start from 1000 LKR.",
       "bannerUrl": "https://storage.googleapis.com/oneticket/86914031-f5131d5d-c1c9-48b3-8c2f-5a48978b618e.jpg",
       "posterUrl": "https://storage.googleapis.com/oneticket/62145342-33e82a2e-f206-4ce6-aa88-78db56e30e41.jpg",
       "venue": "Dharmaloka Hall",
       "city": "Dharmaloka Hall",
-      "dateTime": "2026-10-14T19:00:00.000Z",
-      "originalDateStr": "Thu, Oct 15, 2026, 12:30 AM",
+      "dateTime": "2026-10-14T17:30:00.000Z",
+      "originalDateStr": "Wed, Oct 14, 2026, 11:00 PM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
       "maxPrice": 1000,
