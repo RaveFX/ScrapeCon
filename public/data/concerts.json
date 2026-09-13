@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-13T03:11:45.569Z",
+  "lastSyncTime": "2026-09-13T14:03:44.930Z",
   "counts": {
     "MyTickets": 23,
-    "OneTicket": 19,
-    "TicketsMinistry": 38,
-    "Total": 80
+    "OneTicket": 20,
+    "TicketsMinistry": 34,
+    "Total": 77
   },
   "concerts": [
     {
@@ -31,76 +31,6 @@
       "longitude": 79.8632827
     },
     {
-      "id": "ticketsministry-1246",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON BAND 2 BAND",
-      "description": "<p>PUB LONDON BAND 2 BAND</p><p>Get ready for an unforgettable night of live music, energy, and entertainment at Pub London Band 2 Band! Featuring an incredible lineup of popular Sri Lankan artists including DILMIN, NADIMAL, LA SIGNORE, FALAN, WASTHI, IRAJ, KK, DINESH, KAIZER, VINUJA, UMARIA</p><p>Experience a spectacular musical showdown backed by the Point 5 & MIDLANE, bringing you a night packed with your favourite hits, powerful performances, and nonstop entertainment.</p><p>📍 Venue: Samanala Ground, Galle📅 Date: 12 September 2026⏰ Start Time: 7:00 PM</p><p>🎟️ Tickets:General Early Bird – LKR 1,000 Limited Tickets (SOLD OUT)General Phase 01 – LKR 1,500 Limited Tickets</p><p>VIP Seated Early Bird – LKR 2,000 Limited Tickets (SOLD OUT)VIP Seated Phase 01 – LKR 2,500 Limited Tickets</p><p>VVIP Table Early Bird – LKR 20,000 (6 pax - Elevated View Experience) Limited Tickets (SOLD OUT)VVIP Table Phase 01 – LKR 25,000 (6 pax - Elevated View Experience) Limited Tickets</p><p>Don’t miss the ultimate Pub London experience — bring your crew and get ready to Band 2 Band!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Umx6c4HfQufyNNYMjD8MyohU1bxF6VVgY5r1d3jv.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DslfABsngFEPTD1aDvsuUCuUhVb4l2OlMmRoVN8U.jpg",
-      "venue": "Samanala Ground Galle",
-      "city": "Galle",
-      "dateTime": "2026-09-12T16:00:00.000Z",
-      "originalDateStr": "Sat, Sep 12, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-band-2-band/6a7a9ca3aa530",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.030886499999999,
-      "longitude": 80.21436039999999
-    },
-    {
-      "id": "ticketsministry-1190",
-      "source": "TicketsMinistry",
-      "name": "AGNI RAP CONCERT",
-      "description": "<p>Hip hop rap music concert</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/JNJNRfoxQkBSUe3ZcaLCfKtsn3jS0xUG1sZrL4w6.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/rVkloEpgKGOokPOrHm1DSV1GjfcWAHvaZY7cqsKb.jpg",
-      "venue": "Sahas Uyana - Kandy",
-      "city": "Kandy",
-      "dateTime": "2026-09-12T16:00:00.000Z",
-      "originalDateStr": "Sat, Sep 12, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2800,
-      "maxPrice": 5500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/agni-rap-concert/6a4348aeb7d9e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.291580013729532,
-      "longitude": 80.63412811129967
-    },
-    {
-      "id": "ticketsministry-1163",
-      "source": "TicketsMinistry",
-      "name": "WAREN HEEN SARE",
-      "description": "<p>\"WAREN HEEN SARE\" is a live musical concert celebrating the timeless creations of legendary Sri Lankan musician, The Father of Modern Sinhala Music Gurudevi Sunil Santha. Featuring talented vocalists, the event offers an unforgettable evening of nostalgia, culture, and beautiful music, bringing Sri Lanka's musical heritage to life for a new generation. </p>",
-      "bannerUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/arhczjgXs858WX79Prq69n0sSbTsBsdYNhG1XJjZ.jpg",
-      "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/ebtKVfojtoECuthv7GVJzg6LuVv3RxYb2kh3qJtc.jpg",
-      "venue": "The Lionel Wendt",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-12T16:45:00.000Z",
-      "originalDateStr": "Sat, Sep 12, 2026, 10:15 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/waren-heen-sare/6a2117d96ae67",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.906927065169236,
-      "longitude": 79.86040848895234
-    },
-    {
       "id": "ticketsministry-1245",
       "source": "TicketsMinistry",
       "name": "DEAR SOUTH PRATHIHARA 2026",
@@ -122,53 +52,6 @@
       ],
       "latitude": 6.2723018999999995,
       "longitude": 81.2452212
-    },
-    {
-      "id": "ticketsministry-1188",
-      "source": "TicketsMinistry",
-      "name": "RAJINATA ANDA LIVE ON STAGE",
-      "description": "<p>Musical Concert: Rajinata Anda - Live on Stage</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202606291930-rajinata-anda-live-on-stage-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202606291930-rajinata-anda-live-on-stage-thumbnail.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-12T18:00:00.000Z",
-      "originalDateStr": "Sat, Sep 12, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/rajinata-anda-live-on-stage/6a427a81a6d31",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
-      "id": "ticketsministry-1235",
-      "source": "TicketsMinistry",
-      "name": "SING ALONG WITH MARIANS",
-      "description": "<h3>Sing Along with Marians – A Night of Music for a Worthy Cause</h3><p>Join us for an unforgettable evening of music, entertainment, and giving back at Sing Along with Marians, organised by Lions International District 306D7 in aid of Base Hospital Homagama.</p><p>This special fundraising event aims to raise funds towards the purchase of an Endoscopy Machine for the hospital, supporting better healthcare services for the community. Come enjoy great music, a delicious buffet, and a memorable night while contributing to a truly worthy cause.</p><p>All ticket categories include buffet and seating.</p><p>Gold Table Package: A reserved table for 10 guests, including 1 bottle of liquor, 1 bottle of wine, juice and buffet.</p><p>🎶 Sing Along with Marians📅 12 September 2026🕖 7:00 PM onwards📍 Cinnamon Lakeside – Kings Court</p><p>Bring your friends and family, sing along to your favourite songs, and be part of a night that makes a difference. </p><p>Your ticket is more than an evening of entertainment—it is a contribution towards better healthcare and a healthier future for our community.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/S48lz1TYMPRCa7GO1Z2FuCli2VMymCEy5ar5aD8c.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/6ABKhMwRYDh2mRYK9ua1ZAakeRyef4dHT3i3IKHj.jpg",
-      "venue": "Cinnamon Lakeside Colombo",
-      "city": "Colombo 02",
-      "dateTime": "2026-09-12T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 13, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 15000,
-      "maxPrice": 225000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sing-along-with-marians/7536344f-226d-45a0-9996-a1353032a48e",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.929170399999999,
-      "longitude": 79.8492962
     },
     {
       "id": "mytickets-6aa13c7fdfca8c019cd31edc",
@@ -772,9 +655,9 @@
       "id": "ticketsministry-1288",
       "source": "TicketsMinistry",
       "name": "MIYESI SANKALPANA",
-      "description": "<p>A nostalgic live music experience for Millennials, featuring popular Sinhala hits, live performances, and entertainment. A family-friendly evening where you can come with your family, friends, and loved ones to enjoy great music, memories, and a fun night together.</p>",
+      "description": "<p>A nostalgic live music experience featuring popular Sinhala hits, live performances, and entertainment. A family-friendly evening where you can come with your family, friends, and loved ones to enjoy great music, memories, and a fun night together.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/uVJQXHZEXXUDFijlOFbHoFrtIFHvnqsXlrKJMnC1.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/EY2eVMhB9MVvFRqqHtgWkeOafegBxBeIpWKHNV9p.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/Oru4JX1ENCPCfQW2i6rPu0e5IwD5uJqORsJx0Qcm.jpg",
       "venue": "Panorama Hotel Kalutara",
       "city": "Kalutara",
       "dateTime": "2026-10-03T18:30:00.000Z",
@@ -835,6 +718,29 @@
       ],
       "latitude": 6.966472549019608,
       "longitude": 79.84065098039216
+    },
+    {
+      "id": "ticketsministry-1291",
+      "source": "TicketsMinistry",
+      "name": "MOUNTAINSPACE",
+      "description": "<p>A night beyond the ordinary — surrounded by breathtaking nature, deep progressive melodies, hypnotic rhythms and an energy that carries you from sunset TILL SUNRISE. ✨</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/MLva4bzsSxGY7wYrDyWNqK7UO7MvdOhbiS2OUq2F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/VYf2yFMGGTUFB7WT5xMcWS5Q46qvawqkaDcZO9LN.jpg",
+      "venue": "Tiki House Dambulla",
+      "city": "Dambulla",
+      "dateTime": "2026-10-09T17:00:00.000Z",
+      "originalDateStr": "Fri, Oct 9, 2026, 10:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 2000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mountainspace/684f63dd-aaa3-4c1f-b209-eeb4c9533a10",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 7.204734327238933,
+      "longitude": 80.55385661152789
     },
     {
       "id": "ticketsministry-1228",
@@ -928,29 +834,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1290",
-      "source": "TicketsMinistry",
-      "name": "HARMONY FOR HUMANITY",
-      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
-      "venue": "Sanaya Mansion - Matara",
-      "city": "Matara",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.9442569999999995,
-      "longitude": 80.525142
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -972,6 +855,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1290",
+      "source": "TicketsMinistry",
+      "name": "HARMONY FOR HUMANITY",
+      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
+      "venue": "Sanaya Mansion - Matara",
+      "city": "Matara",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.9442569999999995,
+      "longitude": 80.525142
     },
     {
       "id": "ticketsministry-1259",
@@ -1569,6 +1475,30 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "oneticket-443",
+      "source": "OneTicket",
+      "name": "Abhi Live In Concert Ampara",
+      "description": "Abhi Live In Concert Ampara happening at Municipal Council Public Garden. Date & Time: Sat, Nov 14, 2026, 11:30 PM. Tickets start from 3500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/22660538-8b8ed691-8a93-4e31-99af-753a7529d1fb.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/32107377-c8f3f992-5f9f-4cd8-bb9f-930f85bef13f.jpg",
+      "venue": "Municipal Council Public Garden",
+      "city": "Municipal Council Public Garden",
+      "dateTime": "2026-11-14T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 14, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 3500,
+      "ticketLink": "https://oneticket.lk/event/abhi-live-in-concert-ampara",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.914707843137255,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1289",
