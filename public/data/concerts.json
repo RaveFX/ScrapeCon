@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-09-12T23:44:03.100Z",
+  "lastSyncTime": "2026-09-13T03:11:45.569Z",
   "counts": {
-    "MyTickets": 24,
+    "MyTickets": 23,
     "OneTicket": 19,
     "TicketsMinistry": 38,
-    "Total": 81
+    "Total": 80
   },
   "concerts": [
-    {
-      "id": "mytickets-6a4ded82783f6c01e4fcaf17",
-      "source": "MyTickets",
-      "name": "Ridee Gee - රීදී ගී",
-      "description": "<p>Ridee Gee - රීදී ගී</p><p><br></p><p>රිදී ගී -2 \"ආදරේ හිතෙනවා දැක්කම\"</p><p><br></p><p>ආචාර්‍ය රෝහණ වීරසිංහ මහතා ගේ සංගීත අඩ්‍යක්ශනයෙන් , සමන් අතාවුදහෙට්ටි මහතාගේ කතනයෙන් සහ උරේශා රවිහාරි , සුරේන්ද්‍ර පෙරේරා , සුනෙත් උදයරත්න , තනුර මදුගීත් , උමාලි තිලකරත්න , නෙරංජා දේවි , ලිහිනි මිනෝදා, සමීර ලලිතාංග යන ප්‍රකටගායන ශිල්පීන් පිරිසක් සමඟ එක්ව, ශ්‍රී ලංකා සිනමාවේ රන් යුගය සමරන අමතක නොවන සංගීත සන්ධ්‍යාවකට ඔබට ආරාධනා කරමු.</p><p><br></p><p>මෙම ප්‍රසංගයේ ,ආචාර්‍ය් අමරදේව, ජෝතිපාල, වික්ටර් රත්නායක, විජය කුමාරතුංග , මිල්ටන් මල්ලවාරච්චි, ඇන්ජලීන් ගුණතිලක, ලතා වල්පොල, නන්දා මාලනී සහ සුජාතා ආත්තනායක ගායනා කල සුප්‍රසිද්ධ ගීත රාශියක් ඉදිරිපත් කෙරේ.&nbsp;&nbsp;</p><p>මෙම ගීත මාලිනී ෆොන්සේකා, ගාමිණී ෆොන්සේකා, විජය කුමාරණතුංග සහ තවත් ශ්‍රී ලාංකික කලාකරුවන් රඟපෑ සුප්‍රසිද්ධ චිත්‍රපට වලින් තෝරාගෙන ඇත.</p><p><br></p><p>සැප්තැම්බර් 12 වන දින&nbsp;BMICH හීදී.</p><p>ප්‍රවේශ පත්‍ර-mytickets.lk වෙබ් අඩවියෙන් ලබා ගත හැක&nbsp;&nbsp;</p><p>(රු. 15,000, 10,000, 7,500, 6000, 5,000, 3,000, 2,000)</p><p><br></p><p>මෙම අවස්ථාව කිසිසේත් මග හැර නොගන්න! ඔබට සිතට දිගු කලක් රැඳෙන අත්දැකීමක් ලබා දෙනු ඇත.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Ridee%20Gee%20-%20%E0%B6%BB%E0%B7%93%E0%B6%AF%E0%B7%93%20%E0%B6%9C%E0%B7%93/WhatsApp%20Image%202026-07-12%20at%201.29.21%20PM-1783937354893.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Ridee%20Gee%20-%20%E0%B6%BB%E0%B7%93%E0%B6%AF%E0%B7%93%20%E0%B6%9C%E0%B7%93/WhatsApp%20Image%202026-07-12%20at%201.29.21%20PM-1783937354893.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-09-12T13:00:00.000Z",
-      "originalDateStr": "Sat, Sep 12, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/ridee-gee/6a4ded82783f6c01e4fcaf17",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
     {
       "id": "ticketsministry-1216",
       "source": "TicketsMinistry",
