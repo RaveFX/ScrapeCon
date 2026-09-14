@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-14T03:24:23.809Z",
+  "lastSyncTime": "2026-09-14T09:33:49.562Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 20,
-    "TicketsMinistry": 34,
-    "Total": 75
+    "TicketsMinistry": 35,
+    "Total": 76
   },
   "concerts": [
     {
@@ -1569,6 +1569,29 @@
       ],
       "latitude": 6.896198039215687,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1280",
+      "source": "TicketsMinistry",
+      "name": "OBA MA HAMU VU LIVE IN CONCERT",
+      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/WLY0ZsgPR0TLKm2KXckVIX0GuPLmlyPInTvJh1CF.jpg",
+      "venue": "The Epitome Hotel Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.507550900000001,
+      "longitude": 80.40448719999999
     },
     {
       "id": "ticketsministry-1277",
