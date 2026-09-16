@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-15T23:57:44.454Z",
+  "lastSyncTime": "2026-09-16T04:09:55.291Z",
   "counts": {
     "MyTickets": 22,
     "OneTicket": 20,
@@ -115,7 +115,8 @@
       "ticketLink": "https://mytickets.lk/event/thaala-samaggraha/6a3a1e87be3ca6d8118e17f1",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.964903921568628,
       "longitude": 79.89743529411764
@@ -184,7 +185,8 @@
       "ticketLink": "https://mytickets.lk/event/sinaha-thotak/6a7a9822f6e32989e564e686",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.889923529411765,
       "longitude": 79.82465098039215
@@ -1345,8 +1347,8 @@
       "source": "MyTickets",
       "name": "Amarindu - අමරිදු",
       "description": "<h2><strong>Amarindu - අමරිදු.</strong></h2><p><br></p><p><em>ශ්‍රී ලාංකීය ගී&nbsp;කෙත මැනවින් අස්වැද්දු අසමසම&nbsp;හෙළයේ මහා ගාන්ධර්ව ස්වරය&nbsp;- ආචාර්ය පණ්ඩිත්&nbsp;W D අමරදේවයන් ගේ 10 වන ගුණ සමරු&nbsp;මියැසි ප්‍රසංගය. \"අමරිඳු \"</em></p><p><br></p><p>සිරස FM සහ පණ්ඩිත් අමරදේව පදනම&nbsp;ඉදිරිපත් කිරීමක්&nbsp;</p><p><br></p><p>ආචාර්‍ය රෝහණ විරසිංහයන්ගේ මියැසි අදියුරුවම සමග&nbsp;</p><p><br></p><p>අමරසිරි&nbsp;පිරිස්,</p><p>රූකාන්ත ගුණතිලක,</p><p>උමාරියා සින්හවන්සා සමගින්&nbsp;</p><p>සුනීර සුමංග හඬ මධුර්‍ය සමග හැඩව&nbsp;</p><p><br></p><p>ඔක්තෝබර් 06 වැනිදා රාත්‍රී 7:00 ට&nbsp;</p><p>කොළඹ මියුසියස් විද්‍යාලයීය ශ්‍රවනාගාරයේදී.</p><p><br></p><p>ප්‍රසංගය සඳහා ආසන වෙන්කිරීම අන්තර්ජාලය හරහා පමණක් සිදුවන අතර <strong>ආසන වෙන්කිරීම්&nbsp;ඩිජිටල් රිසිට්පත (QR කේතය සහිත)</strong>&nbsp;ශාලාවට ඇතුලත් කිරීමේදී <strong>ඩිජිටල් ක්‍රමවේදය අනුව වලංගු</strong> කෙරේ.</p><p>සවස 6:45 ට පෙර අසුන්ගන්න.</p><p>වාහන නැවැත්වීමේ පහසුකම සීමිත බැවින් අනෙකුත් ප්‍රවාහන මාධ්‍යයන් භාවිතා කරන්න.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Amarindu%20-%20%E0%B6%85%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%94/WhatsApp%20Image%202026-09-11%20at%204.30.09%20PM-1789124470285.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Amarindu%20-%20%E0%B6%85%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%94/WhatsApp%20Image%202026-09-11%20at%204.30.09%20PM-1789124470285.jpeg",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Amarindu%20-%20%E0%B6%85%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%94/WhatsApp%20Image%202026-09-15%20at%206.54.39%20PM-1789529553628.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Amarindu%20-%20%E0%B6%85%E0%B6%B8%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%94/WhatsApp%20Image%202026-09-15%20at%206.54.39%20PM-1789529553628.jpeg",
       "venue": "Musaeus College",
       "city": "Colombo",
       "dateTime": "2026-11-06T13:30:00.000Z",
