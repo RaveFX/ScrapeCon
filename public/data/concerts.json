@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-16T04:09:55.291Z",
+  "lastSyncTime": "2026-09-16T10:51:16.312Z",
   "counts": {
-    "MyTickets": 22,
+    "MyTickets": 23,
     "OneTicket": 20,
-    "TicketsMinistry": 35,
-    "Total": 77
+    "TicketsMinistry": 36,
+    "Total": 79
   },
   "concerts": [
     {
@@ -48,8 +48,7 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert",
-        "Featured"
+        "Indoor Musical Concert"
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
@@ -769,27 +768,27 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1221",
+      "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>Adareta mathakayak</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
       "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "ticketsministry-1290",
@@ -838,27 +837,27 @@
       "longitude": 79.86020890635984
     },
     {
-      "id": "ticketsministry-1262",
+      "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>Adareta mathakayak</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "minPrice": 1000,
+      "maxPrice": 4500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
       "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1049,8 +1048,8 @@
       "source": "TicketsMinistry",
       "name": "MARIANS AT WAVE AND LAKE",
       "description": "<p>Marians at Wave & Lake promises an exciting live musical experience featuring the iconic Marians, energetic performances, DJs, and a vibrant concert atmosphere. What makes it special is the combination of live music, entertainment, and a unique lakeside venue, making it ideal for music lovers, friends, couples, families, and anyone looking for a memorable night out.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609071304-marians-at-wave-&-lake-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/sbfYMlsQXQg1WYydet1JKKgfTvlK6dz8LxQL2JVX.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/2bhrp2z4vzjcvllvG9FoL3iUNMtASUU35t1gZ0b1.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/nqlGPYyT7PFfZmAWNbS1uDAZ34qrM1WnwAyKZCNZ.jpg",
       "venue": "Wave n' Lake Navy Banquet Hall",
       "city": "Ragama",
       "dateTime": "2026-10-17T19:00:00.000Z",
@@ -1272,6 +1271,28 @@
       ],
       "latitude": 6.723637500000001,
       "longitude": 80.0297969
+    },
+    {
+      "id": "mytickets-6aaa291d600f2801ef1ca5df",
+      "source": "MyTickets",
+      "name": "Purawurtha - පුරාවෘත්ත",
+      "description": "<p>Purawurtha - පුරාවෘත්ත</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Purawurtha%20-%20%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%98%E0%B6%AD%E0%B7%8A%E0%B6%AD/New-N.jpg-1789536165888.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Purawurtha%20-%20%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%98%E0%B6%AD%E0%B7%8A%E0%B6%AD/New-N.jpg-1789536165888.jpeg",
+      "venue": "Provincial Council Auditorium - Kurunagala",
+      "city": "666548e1a03df8fc2ac5a3aa",
+      "dateTime": "2026-10-25T12:30:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 06:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/purawurtha/6aaa291d600f2801ef1ca5df",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.914394117647059,
+      "longitude": 79.82370980392156
     },
     {
       "id": "ticketsministry-1253",
@@ -1636,7 +1657,8 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert"
+        "Indoor Musical Concert",
+        "Featured"
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
@@ -1739,7 +1761,7 @@
       "id": "mytickets-6aa7dd39774525f787efc9ba",
       "source": "MyTickets",
       "name": "Rangira Maa - රන් ගිර මා ",
-      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p><em>﻿</em></p>",
+      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p><span class=\"ql-cursor\">﻿</span>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 6.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "venue": "BMICH - COLOMBO",
@@ -1756,6 +1778,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1292",
+      "source": "TicketsMinistry",
+      "name": "CHANDRAYAMAYA",
+      "description": "<p>Chandrayamaya is an enchanting evening of timeless Sinhala music, bringing together some of Sri Lanka’s most beloved voices on one prestigious stage. Featuring the legendary Sunil Edirisinghe, the charismatic Keerthi Pasquel, the soulful Athula Adhikari, and the ever-popular Athma Liyanage. The concert promises an unforgettable journey through generations of cherished melodies and memories. With musical direction by Manoj Peiris and music by Three-Thaal, hosted by the renowned Manuranga Wijesekera, Chandrayamaya will take place on December 19 at 7.00 PM at the Musaeus College Auditorium Colombo.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202609161047-chandrayamaya-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609161047-chandrayamaya-thumbnail.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chandrayamaya/6aaa265d21d96",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "oneticket-421",
