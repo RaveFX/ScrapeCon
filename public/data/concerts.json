@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-17T17:55:36.333Z",
+  "lastSyncTime": "2026-09-17T20:57:58.295Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 22,
-    "TicketsMinistry": 35,
-    "Total": 81
+    "TicketsMinistry": 36,
+    "Total": 82
   },
   "concerts": [
     {
@@ -745,29 +745,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>Adareta mathakayak</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
-    },
-    {
       "id": "ticketsministry-1290",
       "source": "TicketsMinistry",
       "name": "HARMONY FOR HUMANITY",
@@ -812,6 +789,29 @@
       ],
       "latitude": 7.182460707392528,
       "longitude": 79.86020890635984
+    },
+    {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>Adareta mathakayak</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "ticketsministry-1221",
@@ -902,6 +902,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1293",
+      "source": "TicketsMinistry",
+      "name": "KARL LUTCHMAYER IN RECITAL",
+      "description": "<p>The Chamber Music Society of Colombo (CMSC) is pleased to announce a distinguished piano recital by the internationally celebrated pianist and musicologist Dr. Karl Lutchmayer. The performance will be held on Sunday, 11th October 2026, at 7:00 PM at the Goethe-Institut Hall, Colombo.In addition to the recital, Dr. Lutchmayer will conduct a masterclass for advanced pianists on Saturday, 10th October 2026, offering a rare opportunity for serious students and emerging professionals to engage directly with an artist of global stature. This concert is made possible through the generous support of Baurs & Co., The Rukmini Tissanayagam Trust, the Tokyo Cement Group, and the Goethe-Institut.Equally renowned as a soloist, chamber musician, and academic, Karl Lutchmayer holds the distinction of being the first Steinway Artist of Indian origin. His international career spans performances across four continents, with collaborations alongside conductors such as Sir Andrew Davis, Lorin Maazel, Neil Thomson, and Peter Stark. He has appeared with major ensembles including the Philharmonia Orchestra and the National Youth Orchestra of Great Britain, and has been featured on BBC Television and Radio, Classic FM, and All India Radio.In the UK, Lutchmayer is widely celebrated for his Conversational Concerts series, through which he champions both rare and contemporary repertoire.He has given over 90 world premieres of works by composers including Henri Dutilleux, George Benjamin, and Thomas Adès. His 2025 Chandos recording of Busoni’s solo and duo piano music with Peter Donohoe received extensive critical acclaim, with International Piano describing their ensemble playing as “magnificent” and Gramophone praising his “artfully balanced” artistry.Lutchmayer trained at the Royal College of Music, where he was awarded the Hopkinson Medal by Queen Elizabeth, The Queen Mother, before pursuing advanced studies under Lev Naumov at the Moscow Conservatoire. He holds an MPhil in Musicology from the University of Oxford and a PhD from the University of Cambridge. In 2015, he was honored with the Bharat Gaurav (Pride of India) Lifetime Achievement Award in recognition of his enduring contribution to Western classical music in India.Commenting on the upcoming engagement, CMSC Artistic Director Lakshman Joseph-de Saram said:“We are honored to welcome Karl Lutchmayer to the Colombo stage. Karl is a fiery virtuoso and a master communicator who unites formidable technical command with intellectual insight. Presenting an artist of his international standing in Sri Lanka aligns directly with the CMSC’s core vision of bringing world-class musical experiences to our audience.”Recital ProgrammeBeethoven — Sonata in B-flat major, Op. 22Haydn — Sonata in C major, Hob. XVI:50Grieg — Notturno, Op. 54, No. 4Brahms — Drei Intermezzi, Op. 117Ravel — Ondine from Gaspard de la Nuit, M. 55Liszt — 3 Études from Grandes études de Paganini, S. 141</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/IHjtDsUeIlYPBgGufN77VVeDhoupMRfZMJFDmUfh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609180057-karl-lutchmayer-in-recital-thumbnail.jpg",
+      "venue": "The Goethe Institute Colombo",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-11T19:00:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/karl-lutchmayer-in-recital/6aac401e88a39",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.9098561,
+      "longitude": 79.87089619999999
     },
     {
       "id": "oneticket-440",
