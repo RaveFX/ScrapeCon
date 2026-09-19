@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-19T03:09:50.352Z",
+  "lastSyncTime": "2026-09-19T08:31:36.821Z",
   "counts": {
     "MyTickets": 24,
-    "OneTicket": 22,
+    "OneTicket": 21,
     "TicketsMinistry": 36,
-    "Total": 82
+    "Total": 81
   },
   "concerts": [
     {
@@ -421,30 +421,6 @@
       ],
       "latitude": 6.904041176470589,
       "longitude": 79.87453333333333
-    },
-    {
-      "id": "oneticket-342",
-      "source": "OneTicket",
-      "name": "නේත්‍රා(Nethraa) Live in Concert chapter 2",
-      "description": "නේත්‍රා(Nethraa) Live in Concert chapter 2 happening at TBA. Date & Time: Tue, Sep 29, 2026, 07:30 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/48487661-ea1c6ac7-6400-4e79-881d-72bd82a598e3.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/58499039-7a88076f-c79d-4c4b-967e-4f00a9970993.jpg",
-      "venue": "TBA",
-      "city": "TBA",
-      "dateTime": "2026-09-29T02:00:00.000Z",
-      "originalDateStr": "Tue, Sep 29, 2026, 07:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/නතරnethraa-live-in-concert-chapter-2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.934158823529412,
-      "longitude": 79.87327843137254
     },
     {
       "id": "ticketsministry-1263",
