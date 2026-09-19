@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-09-19T08:31:36.821Z",
+  "lastSyncTime": "2026-09-19T13:41:16.359Z",
   "counts": {
     "MyTickets": 24,
-    "OneTicket": 21,
-    "TicketsMinistry": 36,
-    "Total": 81
+    "OneTicket": 20,
+    "TicketsMinistry": 35,
+    "Total": 79
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1164",
-      "source": "TicketsMinistry",
-      "name": "SWARAABHISHEKA",
-      "description": "<h5>Swarabhisheka 🎼</h5><h5>Step into an unforgettable evening where the golden voices of Sri Lanka come together on one stage. Swarabhisheka celebrates the rich heritage of classical music with performances by legendary maestros: Sunil Edirisinghe | Amarasiri Peiris | Kasun Kalhara | Suneera Sumanga.</h5><h5>Join us for a soul-stirring journey through melody, memory, and mastery — a night that pays homage to the enduring power of song.</h5><h5>Music Direction: Sugath Hettiarachchi</h5><h5>Compered by: Bandula Nanayakkarawasam </h5>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A1SRtZqeKSpegHnn0sWeeQsV4F7Rf6IpFgATXM9j.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/B9vdeDDgpOtNrvIwMdjhZQHOfTIlJsPABU7c1lWF.png",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-18T17:00:00.000Z",
-      "originalDateStr": "Fri, Sep 18, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/swaraabhisheka/6a217fd5be41e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
     {
       "id": "mytickets-6a72b98f3891a9c45bfe982f",
       "source": "MyTickets",
@@ -105,8 +82,8 @@
       "posterUrl": "https://cdn.ticketsministry.com/events/XIgMfB2abrUcI4uTwhYf2xkY5qYnOqToMEI7dPnW.jpg",
       "venue": "Trinity College Main Hall",
       "city": "Kandy",
-      "dateTime": "2026-09-19T17:30:00.000Z",
-      "originalDateStr": "Sat, Sep 19, 2026, 11:00 PM",
+      "dateTime": "2026-09-19T17:15:00.000Z",
+      "originalDateStr": "Sat, Sep 19, 2026, 10:45 PM",
       "priceCurrency": "LKR",
       "minPrice": 500,
       "maxPrice": 1500,
@@ -118,30 +95,6 @@
       ],
       "latitude": 7.204734327238933,
       "longitude": 80.55385661152789
-    },
-    {
-      "id": "oneticket-438",
-      "source": "OneTicket",
-      "name": "SAMBAVAM",
-      "description": "SAMBAVAM happening at Elevate by Jetwing 29th Floor, Access Tower II 278 Union Place. Date & Time: Sun, Sep 20, 2026, 12:30 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/46818497-64317157-e445-4adb-83b5-70258b583117.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/38457758-92b216dc-b349-4257-8982-e39574a2bd94.jpg",
-      "venue": "Elevate by Jetwing 29th Floor, Access Tower II 278 Union Place",
-      "city": "Elevate by Jetwing 29th Floor, Access Tower II 278 Union Place",
-      "dateTime": "2026-09-19T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 20, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/sambavam",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.906550980392157,
-      "longitude": 79.87453333333333
     },
     {
       "id": "mytickets-6a7a9822f6e32989e564e686",
@@ -743,6 +696,29 @@
       "longitude": 80.525142
     },
     {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 4500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
+    },
+    {
       "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
       "name": "THE GRAND FEST 2026",
@@ -787,29 +763,6 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
-    },
-    {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
