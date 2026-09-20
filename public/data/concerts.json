@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-09-20T03:26:30.923Z",
+  "lastSyncTime": "2026-09-20T09:05:07.292Z",
   "counts": {
-    "MyTickets": 21,
-    "OneTicket": 20,
-    "TicketsMinistry": 35,
-    "Total": 76
+    "MyTickets": 22,
+    "OneTicket": 19,
+    "TicketsMinistry": 34,
+    "Total": 75
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1265",
-      "source": "TicketsMinistry",
-      "name": "MIND YOUR MUSIC 2026 | ROMANTICS TO ROCK 'N' ROLL",
-      "description": "<p>The Trinity College Choir's Mind Your Music concert can be considered as a modest attempt to showcase the Choir's wide variety of repertoire, incorporating a broad array of music of different styles, genres and eras. </p><p>In 'Romantics to Rock 'n Roll', we celebrate the great Romantic works, that have earned lasting reverence since the time of their composition, and explore, across the decades, the music that came to define entire generations. Through this concert, Choristers receive a greater sense of appreciation towards all forms and styles of music, distinguishing and appreciating the nuances and styles of each.</p><p>The fact that almost all the music performed are specially arranged for the character of the Choir, save for those musical pieces composed by the Masters and recognized choral arrangements, helps the Choristers to absorb the experience fully.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202608211315-mind-your-music-2026-|-romantics-to-rock-'n'-roll-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/XIgMfB2abrUcI4uTwhYf2xkY5qYnOqToMEI7dPnW.jpg",
-      "venue": "Trinity College Main Hall",
-      "city": "Kandy",
-      "dateTime": "2026-09-19T17:15:00.000Z",
-      "originalDateStr": "Sat, Sep 19, 2026, 10:45 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 500,
-      "maxPrice": 1500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mind-your-music-2026-romantics-to-rock-n-roll/fb1728b7-2dce-4cfb-8be1-0a3f3a609dc2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.204734327238933,
-      "longitude": 80.55385661152789
-    },
     {
       "id": "mytickets-6a7a9822f6e32989e564e686",
       "source": "MyTickets",
@@ -52,30 +29,6 @@
       ],
       "latitude": 6.889923529411765,
       "longitude": 79.82465098039215
-    },
-    {
-      "id": "oneticket-423",
-      "source": "OneTicket",
-      "name": "Dream Night with D-Major",
-      "description": "Dream Night with D-Major happening at Earl’s Regency Hotel. Date & Time: Sun, Sep 20, 2026, 11:30 PM. Tickets start from 6000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/32969843-a1eb9fe6-bee3-44d9-8138-d43c8ab6b8e1.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/73350565-afb777a0-fc11-42e5-847c-925f050fa01d.jpg",
-      "venue": "Earl’s Regency Hotel",
-      "city": "Earl’s Regency Hotel",
-      "dateTime": "2026-09-20T18:00:00.000Z",
-      "originalDateStr": "Sun, Sep 20, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://oneticket.lk/event/dream-night-with-d-major",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.895256862745098,
-      "longitude": 79.87453333333333
     },
     {
       "id": "oneticket-429",
@@ -630,29 +583,6 @@
       "longitude": 80.525142
     },
     {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
-    },
-    {
       "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
       "name": "THE GRAND FEST 2026",
@@ -674,6 +604,29 @@
       ],
       "latitude": 7.182460707392528,
       "longitude": 79.86020890635984
+    },
+    {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 4500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "ticketsministry-1262",
@@ -743,29 +696,6 @@
       "longitude": 79.82214117647058
     },
     {
-      "id": "ticketsministry-1236",
-      "source": "TicketsMinistry",
-      "name": "ECHOES OF MELODIES",
-      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/R2aOzVsnGPgBHfJvlAWlPVt0KGidRiKiagAYnID9.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608050945-echoes-of-melodies-thumbnail.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-11T19:00:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1293",
       "source": "TicketsMinistry",
       "name": "KARL LUTCHMAYER IN RECITAL",
@@ -787,6 +717,29 @@
       ],
       "latitude": 6.9098561,
       "longitude": 79.87089619999999
+    },
+    {
+      "id": "ticketsministry-1236",
+      "source": "TicketsMinistry",
+      "name": "ECHOES OF MELODIES",
+      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/R2aOzVsnGPgBHfJvlAWlPVt0KGidRiKiagAYnID9.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608050945-echoes-of-melodies-thumbnail.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-11T19:00:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "oneticket-440",
@@ -1020,6 +973,28 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "mytickets-6aad1eb848012dccf365931f",
+      "source": "MyTickets",
+      "name": "Frequency At The Edge",
+      "description": "<p>Frequency At The Edge</p><p>🔥 𝘾𝙊𝙇𝙊𝙈𝘽𝙊… 𝙂𝙀𝙏 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙁𝙍𝙀𝙌𝙐𝙀𝙉𝘾𝙔! 🔥</p><p>This October, experience international-standard entertainment, electrifying performances and one unforgettable night.</p><p><br></p><p>SR PLUS EVENTS proudly presents</p><p>🎶 𝐂𝐎𝐋𝐎𝐌𝐁𝐎 𝐎𝐍 𝐎𝐍𝐄 — 𝐅𝐑𝐄𝐐𝐔𝐄𝐍𝐂𝐘 𝐀𝐓 𝐓𝐇𝐄 𝐄𝐃𝐆𝐄 🎶</p><p><br></p><p>𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐧𝐒 | 𝐔𝐌𝐀𝐑𝐈𝐀 | 𝐅𝐀𝐋𝐋𝐄𝐍 𝐀𝐍𝐃𝐑𝐈𝐀 | 𝐒𝐀𝐉𝐈𝐓𝐇 𝐏𝐄𝐑𝐄𝐑𝐀</p><p><br></p><p>📅 23 OCTOBER 2026 📍 WATERS EDGE, BATTARAMULLA, OUTDOOR PREMISES</p><p><br></p><p>🎟️ 𝗧𝗜𝗖𝗞𝗘𝗧𝗦</p><p>🥈 𝗦𝗜𝗟𝗩𝗘𝗥 — Rs. 5,000 8-Pax Reserved Bench — Rs. 36,000</p><p><br></p><p>🥇 𝗚𝗢𝗟𝗗 — Rs. 7,500 8-Pax Reserved Bench — Rs. 55,000</p><p><br></p><p>BUY 8 TICKETS &amp; GET YOUR OWN RESERVED BENCH!</p><p><br></p><p><br></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Frequency%20At%20The%20Edge/Web-Post.jpg-1789730348282.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Frequency%20At%20The%20Edge/Web-Post.jpg-1789730348282.jpeg",
+      "venue": "Waters Edge Outdoor Premises",
+      "city": "666548e1a03df8fc2ac5a0e5",
+      "dateTime": "2026-10-23T13:30:00.000Z",
+      "originalDateStr": "Fri, Oct 23, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://mytickets.lk/event/frequency-at-the-edge/6aad1eb848012dccf365931f",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9055,
+      "longitude": 79.9114
     },
     {
       "id": "mytickets-6a955060bf50fa473bc83813",
