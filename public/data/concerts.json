@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-09-21T03:21:34.767Z",
+  "lastSyncTime": "2026-09-21T09:35:52.175Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 19,
@@ -374,8 +374,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.738326478386578,
-      "longitude": 79.80820133866486
+      "latitude": 6.593903422312124,
+      "longitude": 79.95881321129727
     },
     {
       "id": "ticketsministry-1189",
@@ -442,8 +442,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 7.204734327238933,
-      "longitude": 80.55385661152789
+      "latitude": 7.8848621058137915,
+      "longitude": 80.65803921130218
     },
     {
       "id": "ticketsministry-1228",
@@ -999,11 +999,11 @@
       "id": "oneticket-341",
       "source": "OneTicket",
       "name": "Pathuman Live in Concert",
-      "description": "Pathuman Live in Concert happening at BMICH - Outdoor. Date & Time: Fri, Oct 23, 2026, 11:30 PM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/81297221-d6ba56b9-cea2-47ee-a5da-5b61627084e4.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/51332466-abad55eb-6933-40a0-947c-773482e4a48b.jpg",
-      "venue": "BMICH - Outdoor",
-      "city": "BMICH - Outdoor",
+      "description": "Pathuman Live in Concert happening at Arcade Independence Square. Date & Time: Fri, Oct 23, 2026, 11:30 PM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/74957054-689fe2d3-04c2-4d1e-a3ae-3bbb0c0763ea.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/69005365-16ed3921-fbc1-4cd0-831f-13c42ac14563.jpg",
+      "venue": "Arcade Independence Square",
+      "city": "Arcade Independence Square",
       "dateTime": "2026-10-23T18:00:00.000Z",
       "originalDateStr": "Fri, Oct 23, 2026, 11:30 PM",
       "priceCurrency": "LKR",
@@ -1016,8 +1016,8 @@
         "Outdoor Musical Event",
         "Indoor"
       ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
+      "latitude": 6.933845098039216,
+      "longitude": 79.87327843137254
     },
     {
       "id": "ticketsministry-1257",
@@ -1140,7 +1140,7 @@
       "description": "<p>Purawurtha - පුරාවෘත්ත</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Purawurtha%20-%20%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%98%E0%B6%AD%E0%B7%8A%E0%B6%AD/New-N.jpg-1789536165888.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Purawurtha%20-%20%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%98%E0%B6%AD%E0%B7%8A%E0%B6%AD/New-N.jpg-1789536165888.jpeg",
-      "venue": "Provincial Council Auditorium - Kurunagala",
+      "venue": "Provincial Council Auditorium - Kurunegala",
       "city": "666548e1a03df8fc2ac5a3aa",
       "dateTime": "2026-10-25T12:30:00.000Z",
       "originalDateStr": "Sun, Oct 25, 2026, 06:00 PM",
@@ -1221,8 +1221,8 @@
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 6.869145949999999,
-      "longitude": 79.97522049999999
+      "latitude": 6.851392819236106,
+      "longitude": 79.89660111129807
     },
     {
       "id": "mytickets-6aa3deaff4566da151daf319",
