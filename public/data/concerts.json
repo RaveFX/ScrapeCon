@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-22T00:35:31.323Z",
+  "lastSyncTime": "2026-09-22T07:18:40.628Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 19,
-    "TicketsMinistry": 35,
-    "Total": 75
+    "TicketsMinistry": 36,
+    "Total": 76
   },
   "concerts": [
     {
@@ -311,8 +311,8 @@
       "source": "OneTicket",
       "name": "ඒ කාලේ (E Kaale)",
       "description": "ඒ කාලේ (E Kaale) happening at Piliyandala. Date & Time: Sat, Oct 3, 2026, 10:30 PM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/70201026-174ca5c0-4d39-4e81-b278-014d2abbe0c3.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/45380847-2957243a-658a-4e4d-84ad-2126e6930016.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/57910087-cf0aaef1-a227-4999-9ba5-a80403c0f818.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/92521945-42b1400d-d4d3-45a4-b142-98316c43667c.jpg",
       "venue": "Piliyandala",
       "city": "Piliyandala",
       "dateTime": "2026-10-03T17:00:00.000Z",
@@ -513,29 +513,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1290",
       "source": "TicketsMinistry",
       "name": "HARMONY FOR HUMANITY",
@@ -557,6 +534,29 @@
       ],
       "latitude": 5.9442569999999995,
       "longitude": 80.525142
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "ticketsministry-1262",
@@ -649,6 +649,29 @@
       "longitude": 79.82214117647058
     },
     {
+      "id": "ticketsministry-1297",
+      "source": "TicketsMinistry",
+      "name": "ANANRHAYA PK MUSIC ACADEMY LIVE IN CONCERT",
+      "description": "<p>This is Live in concert.Feature Guest Artist Shashika Nisansala.So Backed By Pk music Academy Music Band.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/T6YhAAqQ8Vu4pXOndt7vZx6bU8ynqEd3ymx8xsYB.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/bfKxPi17nX2cFpSzsBnqdMVPMnFeqT8VGOs9EFMp.jpg",
+      "venue": "YMBA Auditorium",
+      "city": "Colombo 08",
+      "dateTime": "2026-10-11T18:30:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/ananrhaya-pk-music-academy-live-in-concert/cd4547ea-1d5b-4e38-890b-648192ff007a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913432699999996,
+      "longitude": 79.57232269453122
+    },
+    {
       "id": "ticketsministry-1293",
       "source": "TicketsMinistry",
       "name": "KARL LUTCHMAYER IN RECITAL",
@@ -676,8 +699,8 @@
       "source": "TicketsMinistry",
       "name": "ECHOES OF MELODIES",
       "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/R2aOzVsnGPgBHfJvlAWlPVt0KGidRiKiagAYnID9.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608050945-echoes-of-melodies-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
       "dateTime": "2026-10-11T19:00:00.000Z",
@@ -1068,8 +1091,8 @@
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
       "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202609181814-snehaye-nagaraya-kandy-6.0-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202609181814-snehaye-nagaraya-kandy-6.0-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
       "venue": "NICD Auditorium Polgolla Kandy",
       "city": "null",
       "dateTime": "2026-10-24T19:00:00.000Z",
