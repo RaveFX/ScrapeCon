@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-24T00:13:58.536Z",
+  "lastSyncTime": "2026-09-24T07:11:38.899Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 20,
-    "TicketsMinistry": 37,
-    "Total": 78
+    "TicketsMinistry": 38,
+    "Total": 79
   },
   "concerts": [
     {
@@ -50,28 +50,6 @@
       ],
       "latitude": 6.964590196078432,
       "longitude": 79.8770431372549
-    },
-    {
-      "id": "mytickets-6a7daa07d556332fdf77addb",
-      "source": "MyTickets",
-      "name": "WAYO AT THE EDGE",
-      "description": "<p>WAYO AT THE EDGE - Music hits different at the Edge. 🎶🔥</p><p><em>Get ready for a night where live music, great food, chilled drinks, and good company all come together. Experience WAYO featuring Shihan &amp; Dhanith Sri live under the open sky, with the perfect atmosphere to sing, dance, grab a bite, raise a glass, and enjoy the night your way.</em></p><p><em>Bring your crew. Come for the music, stay for the vibe.</em> 🍻✨</p><p><br></p><p>📅 25th September 2026</p><p>⏱️ 7 PM</p><p>📍 Waters Edge Outdoor Premises</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <em>( Beer Bench Free Seating for 8 person)</em> - 7,500 LKR / PP</p><p>GENERAL Access <em>(Beer Bench Free Seating for 8 person)</em> - 5000 LKR / PP</p><p><br></p><p><strong>Table Booking:</strong></p><p>To reserve a table, please select <strong>8 tickets from the same table number</strong>.</p><p><strong>Important:</strong> Once a table or seat reservation is confirmed, <strong>no changes, cancellations, or transfers will be permitted under any circumstances</strong>, in accordance with the <strong>MyTickets Ticket Policy</strong>.</p><p><br></p><p>Proudly presented by Madhi Events in collaboration with Rolling and Action Entertainment. See you at the edge — where memories happen.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
-      "venue": "Waters Edge Outdoor Car Park - Battaramulla",
-      "city": "666548e1a03df8fc2ac5a0e5",
-      "dateTime": "2026-09-25T14:30:00.000Z",
-      "originalDateStr": "Fri, Sep 25, 2026, 08:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/wayo-at-the-edge/6a7daa07d556332fdf77addb",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9055,
-      "longitude": 79.9114
     },
     {
       "id": "oneticket-424",
@@ -121,6 +99,30 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "oneticket-436",
+      "source": "OneTicket",
+      "name": "SUNDAY PEOPLE | RSVP",
+      "description": "SUNDAY PEOPLE | RSVP happening at Pullman Colombo City Centre. Date & Time: Sun, Sep 27, 2026, 08:30 AM. Tickets start from 6000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/56768658-f9fa3a5f-4dc2-4e67-b72b-930c5603b738.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/28170300-2469bedb-6696-4ccd-8255-41a5d20a08f1.jpg",
+      "venue": "Pullman Colombo City Centre",
+      "city": "Pullman Colombo City Centre",
+      "dateTime": "2026-09-27T03:00:00.000Z",
+      "originalDateStr": "Sun, Sep 27, 2026, 08:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://oneticket.lk/event/sunday-people-rsvp",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.905923529411765,
+      "longitude": 79.87453333333333
+    },
+    {
       "id": "oneticket-402",
       "source": "OneTicket",
       "name": "මීගමු කලපුවේ අවාරෙක ආලේ",
@@ -166,30 +168,6 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
-    },
-    {
-      "id": "oneticket-436",
-      "source": "OneTicket",
-      "name": "SUNDAY PEOPLE | RSVP",
-      "description": "SUNDAY PEOPLE | RSVP happening at Pullman Colombo City Centre. Date & Time: Mon, Sep 28, 2026, 04:30 AM. Tickets start from 6000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/34981478-aa0e50e5-8a73-43d8-9082-32fb07f19524.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/71367242-dbe4fb8c-9a4f-4297-b39c-620dafc88af8.jpg",
-      "venue": "Pullman Colombo City Centre",
-      "city": "Pullman Colombo City Centre",
-      "dateTime": "2026-09-27T23:00:00.000Z",
-      "originalDateStr": "Mon, Sep 28, 2026, 04:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://oneticket.lk/event/sunday-people-rsvp",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.905923529411765,
-      "longitude": 79.87453333333333
     },
     {
       "id": "oneticket-430",
@@ -421,6 +399,28 @@
       ],
       "latitude": 6.966472549019608,
       "longitude": 79.84065098039216
+    },
+    {
+      "id": "mytickets-6a7daa07d556332fdf77addb",
+      "source": "MyTickets",
+      "name": "WAYO AT THE EDGE",
+      "description": "<h1><strong><u>WAYO AT THE EDGE has been rescheduled to 9th October 2026.</u></strong></h1><p><br></p><p><strong style=\"color: rgb(230, 0, 0);\">Refund requests will be accepted until 12:00 midnight on 5 October. Any requests submitted after the stated cut-off time will not be processed.</strong></p><p><strong style=\"color: rgb(230, 0, 0);\">This term applies only to customers who have already purchased tickets for the event originally scheduled for 25 September.</strong></p><p><br></p><p><br></p><p>WAYO AT THE EDGE - Music hits different at the Edge. 🎶🔥</p><p><em>Get ready for a night where live music, great food, chilled drinks, and good company all come together. Experience WAYO featuring Shihan &amp; Dhanith Sri live under the open sky, with the perfect atmosphere to sing, dance, grab a bite, raise a glass, and enjoy the night your way.</em></p><p><em>Bring your crew. Come for the music, stay for the vibe.</em> 🍻✨</p><p><br></p><p>📅 NEW DATE: 09 OCTOBER 2026</p><p>⏱️ 7 PM</p><p>📍 Waters Edge Outdoor Premises</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <em>( Beer Bench Free Seating for 8 person)</em> - 7,500 LKR / PP</p><p>GENERAL Access <em>(Beer Bench Free Seating for 8 person)</em> - 5000 LKR / PP</p><p><br></p><p><strong>Table Booking:</strong></p><p>To reserve a table, please select <strong>8 tickets from the same table number</strong>.</p><p><strong>Important:</strong> Once a table or seat reservation is confirmed, <strong>no changes, cancellations, or transfers will be permitted under any circumstances</strong>, in accordance with the <strong>MyTickets Ticket Policy</strong>.</p><p><br></p><p>Proudly presented by Madhi Events in collaboration with Rolling and Action Entertainment. See you at the edge — where memories happen.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
+      "venue": "Waters Edge Outdoor Car Park - Battaramulla",
+      "city": "666548e1a03df8fc2ac5a0e5",
+      "dateTime": "2026-10-09T13:30:00.000Z",
+      "originalDateStr": "Fri, Oct 9, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://mytickets.lk/event/wayo-at-the-edge/6a7daa07d556332fdf77addb",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9055,
+      "longitude": 79.9114
     },
     {
       "id": "ticketsministry-1291",
@@ -1088,29 +1088,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
@@ -1132,6 +1109,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1244",
+      "source": "TicketsMinistry",
+      "name": "ADARANEEYA HENDAWAK",
+      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1286",
@@ -1739,7 +1739,7 @@
       "id": "mytickets-6aa7dd39774525f787efc9ba",
       "source": "MyTickets",
       "name": "Rangira Maa - රන් ගිර මා ",
-      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p><span class=\"ql-cursor\">﻿</span>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 6.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
+      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>﻿හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 6.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "venue": "BMICH - COLOMBO",
@@ -1779,6 +1779,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1298",
+      "source": "TicketsMinistry",
+      "name": "SUMIHIRI MATHAKAYAN LEGENDS UNPLUGGED",
+      "description": "<p>LEGENDS UNPLUGGED Once In a Lifetime Concert ! </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/AXpW4IXE9oa7GixmKklAQQu9FByGulxujL2FUuTu.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zkoPEyWT3o97fLHiLmIBLFoigD4V7ECPXlG8S1Vw.png",
+      "venue": "BMICH",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-25T18:00:00.000Z",
+      "originalDateStr": "Fri, Dec 25, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-legends-unplugged/6ab245df3b15c",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "oneticket-421",
