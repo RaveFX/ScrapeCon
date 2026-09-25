@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-25T09:22:41.814Z",
+  "lastSyncTime": "2026-09-25T14:59:26.727Z",
   "counts": {
     "MyTickets": 21,
-    "OneTicket": 21,
+    "OneTicket": 20,
     "TicketsMinistry": 38,
-    "Total": 80
+    "Total": 79
   },
   "concerts": [
     {
@@ -50,30 +50,6 @@
       ],
       "latitude": 6.964590196078432,
       "longitude": 79.8770431372549
-    },
-    {
-      "id": "oneticket-424",
-      "source": "OneTicket",
-      "name": "රිදී නිම්නාද",
-      "description": "රිදී නිම්නාද happening at St.Joseph girls college Auditorium. Date & Time: Fri, Sep 25, 2026, 11:30 PM. Tickets start from 1000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/12281871-dacc6158-f9b0-4937-aad1-ee273f635251.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/70270778-b1ff3f37-edc1-424b-9fb2-fdc6a8db42a6.jpg",
-      "venue": "St.Joseph girls college Auditorium",
-      "city": "St.Joseph girls college Auditorium",
-      "dateTime": "2026-09-25T18:00:00.000Z",
-      "originalDateStr": "Fri, Sep 25, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 1000,
-      "ticketLink": "https://oneticket.lk/event/ridinimnadha",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.8955705882352945,
-      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1155",
@@ -184,7 +160,7 @@
       "minPrice": 3000,
       "maxPrice": 3000,
       "ticketLink": "https://oneticket.lk/event/මගම-කලපව-අවරක-ආල-day-2",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Event",
