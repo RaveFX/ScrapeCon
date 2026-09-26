@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-26T09:06:32.173Z",
+  "lastSyncTime": "2026-09-26T14:06:08.787Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 20,
-    "TicketsMinistry": 39,
-    "Total": 78
+    "TicketsMinistry": 40,
+    "Total": 79
   },
   "concerts": [
     {
@@ -16,13 +16,13 @@
       "posterUrl": "https://ticketsministry.s3.ap-south-1.amazonaws.com/public/events/202605251301-atheethawaloka-thumbnail.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
-      "dateTime": "2026-09-26T19:00:00.000Z",
-      "originalDateStr": "Sun, Sep 27, 2026, 12:30 AM",
+      "dateTime": "2026-09-26T17:30:00.000Z",
+      "originalDateStr": "Sat, Sep 26, 2026, 11:00 PM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/athithawaloka/6a13fad70090d",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -163,7 +163,7 @@
       "minPrice": 4000,
       "maxPrice": 4000,
       "ticketLink": "https://oneticket.lk/event/hangova",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Event",
@@ -493,29 +493,6 @@
       "longitude": 79.85862737419039
     },
     {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
-    },
-    {
       "id": "ticketsministry-1290",
       "source": "TicketsMinistry",
       "name": "HARMONY FOR HUMANITY",
@@ -560,6 +537,29 @@
       ],
       "latitude": 7.182460707392528,
       "longitude": 79.86020890635984
+    },
+    {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "ticketsministry-1262",
@@ -1248,6 +1248,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1302",
+      "source": "TicketsMinistry",
+      "name": "MATHAKAYAN APE",
+      "description": "<p>මතකයන් අපේ ❤️මතක අරන් මහ ගෙදරට… 🎶Purple Range සංගීතය සමඟින්,හදවතට සමීප වූ ගීතත් එක්ක මතකයන් නැවත අලුත් කරගන්න එන්න…🎤 Chamara Weerasinghe🎤 Damith Asanka🎤 Indunil Andaramanna🎤 Kaweesha Kaviraj🎤 Sathuta Suranga🎤 Upul Jayan📅 නොවැම්බර් 06⏰ රාත්‍රී 09.00 සිට📍 දික්වැල්ල මහජන ක්‍රීඩාංගණයේදීමතකයන් අපේ ❤️මතක අරන් මහ ගෙදරට… 🎶</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202609261527-mathakayan-ape-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609261527-mathakayan-ape-thumbnail.jpg",
+      "venue": "Dikwella Public Ground",
+      "city": "Dikwella",
+      "dateTime": "2026-11-06T21:00:00.000Z",
+      "originalDateStr": "Sat, Nov 7, 2026, 02:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 750,
+      "maxPrice": 2000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mathakayan-ape/6ab7971b38764",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Sam Event House"
+      ],
+      "latitude": 5.9640125,
+      "longitude": 80.6940156
     },
     {
       "id": "oneticket-444",
