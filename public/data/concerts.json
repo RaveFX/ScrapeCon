@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-26T03:33:33.050Z",
+  "lastSyncTime": "2026-09-26T09:06:32.173Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 20,
-    "TicketsMinistry": 38,
-    "Total": 77
+    "TicketsMinistry": 39,
+    "Total": 78
   },
   "concerts": [
     {
@@ -470,6 +470,52 @@
       "longitude": 79.8656
     },
     {
+      "id": "ticketsministry-1301",
+      "source": "TicketsMinistry",
+      "name": "BAJAUWWA",
+      "description": "<p>Sing Along with Sudath Nawlage – A Night Full of Fun!</p><p>Enjoy an amazing outdoor concert with Sudath Nawlage’s popular songs and a special DJ performance.</p><p>Relax, enjoy delicious food and drinks, dance, and have a great time with your friends and family.</p><p>The hotel is located facing the beach, giving you the perfect beach vibe with the fresh sea breeze and beautiful surroundings.</p><p>Enjoy great music, tasty food, dancing, and a memorable night by the beach.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202609261330-bajauwwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609261330-bajauwwa-thumbnail.jpg",
+      "venue": "Kay Jay Beach Front Hotel",
+      "city": "Uswetakeiyawa",
+      "dateTime": "2026-10-10T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 10, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 30000,
+      "maxPrice": 30000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/bajauwwa/6ab77b93aca6f",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Singalong concert"
+      ],
+      "latitude": 7.033562292968351,
+      "longitude": 79.85862737419039
+    },
+    {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
+    },
+    {
       "id": "ticketsministry-1290",
       "source": "TicketsMinistry",
       "name": "HARMONY FOR HUMANITY",
@@ -539,29 +585,6 @@
       "longitude": 80.36728060000002
     },
     {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
-    },
-    {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
       "source": "MyTickets",
       "name": "මැයි මාර සංචරණිය -Maimara Sancharaniya",
@@ -629,29 +652,6 @@
       "longitude": 79.87461837524435
     },
     {
-      "id": "ticketsministry-1293",
-      "source": "TicketsMinistry",
-      "name": "KARL LUTCHMAYER IN RECITAL",
-      "description": "<p>The Chamber Music Society of Colombo (CMSC) is pleased to announce a distinguished piano recital by the internationally celebrated pianist and musicologist Dr. Karl Lutchmayer. The performance will be held on Sunday, 11th October 2026, at 7:00 PM at the Goethe-Institut Hall, Colombo.In addition to the recital, Dr. Lutchmayer will conduct a masterclass for advanced pianists on Saturday, 10th October 2026, offering a rare opportunity for serious students and emerging professionals to engage directly with an artist of global stature. This concert is made possible through the generous support of Baurs & Co., The Rukmini Tissanayagam Trust, the Tokyo Cement Group, and the Goethe-Institut.Equally renowned as a soloist, chamber musician, and academic, Karl Lutchmayer holds the distinction of being the first Steinway Artist of Indian origin. His international career spans performances across four continents, with collaborations alongside conductors such as Sir Andrew Davis, Lorin Maazel, Neil Thomson, and Peter Stark. He has appeared with major ensembles including the Philharmonia Orchestra and the National Youth Orchestra of Great Britain, and has been featured on BBC Television and Radio, Classic FM, and All India Radio.In the UK, Lutchmayer is widely celebrated for his Conversational Concerts series, through which he champions both rare and contemporary repertoire.He has given over 90 world premieres of works by composers including Henri Dutilleux, George Benjamin, and Thomas Adès. His 2025 Chandos recording of Busoni’s solo and duo piano music with Peter Donohoe received extensive critical acclaim, with International Piano describing their ensemble playing as “magnificent” and Gramophone praising his “artfully balanced” artistry.Lutchmayer trained at the Royal College of Music, where he was awarded the Hopkinson Medal by Queen Elizabeth, The Queen Mother, before pursuing advanced studies under Lev Naumov at the Moscow Conservatoire. He holds an MPhil in Musicology from the University of Oxford and a PhD from the University of Cambridge. In 2015, he was honored with the Bharat Gaurav (Pride of India) Lifetime Achievement Award in recognition of his enduring contribution to Western classical music in India.Commenting on the upcoming engagement, CMSC Artistic Director Lakshman Joseph-de Saram said:“We are honored to welcome Karl Lutchmayer to the Colombo stage. Karl is a fiery virtuoso and a master communicator who unites formidable technical command with intellectual insight. Presenting an artist of his international standing in Sri Lanka aligns directly with the CMSC’s core vision of bringing world-class musical experiences to our audience.”Recital ProgrammeBeethoven — Sonata in B-flat major, Op. 22Haydn — Sonata in C major, Hob. XVI:50Grieg — Notturno, Op. 54, No. 4Brahms — Drei Intermezzi, Op. 117Ravel — Ondine from Gaspard de la Nuit, M. 55Liszt — 3 Études from Grandes études de Paganini, S. 141</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/IHjtDsUeIlYPBgGufN77VVeDhoupMRfZMJFDmUfh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202609180057-karl-lutchmayer-in-recital-thumbnail.jpg",
-      "venue": "The Goethe Institute Colombo",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-11T19:00:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/karl-lutchmayer-in-recital/6aac401e88a39",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.9098561,
-      "longitude": 79.87089619999999
-    },
-    {
       "id": "ticketsministry-1236",
       "source": "TicketsMinistry",
       "name": "ECHOES OF MELODIES",
@@ -673,6 +673,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1293",
+      "source": "TicketsMinistry",
+      "name": "KARL LUTCHMAYER IN RECITAL",
+      "description": "<p>The Chamber Music Society of Colombo (CMSC) is pleased to announce a distinguished piano recital by the internationally celebrated pianist and musicologist Dr. Karl Lutchmayer. The performance will be held on Sunday, 11th October 2026, at 7:00 PM at the Goethe-Institut Hall, Colombo.In addition to the recital, Dr. Lutchmayer will conduct a masterclass for advanced pianists on Saturday, 10th October 2026, offering a rare opportunity for serious students and emerging professionals to engage directly with an artist of global stature. This concert is made possible through the generous support of Baurs & Co., The Rukmini Tissanayagam Trust, the Tokyo Cement Group, and the Goethe-Institut.Equally renowned as a soloist, chamber musician, and academic, Karl Lutchmayer holds the distinction of being the first Steinway Artist of Indian origin. His international career spans performances across four continents, with collaborations alongside conductors such as Sir Andrew Davis, Lorin Maazel, Neil Thomson, and Peter Stark. He has appeared with major ensembles including the Philharmonia Orchestra and the National Youth Orchestra of Great Britain, and has been featured on BBC Television and Radio, Classic FM, and All India Radio.In the UK, Lutchmayer is widely celebrated for his Conversational Concerts series, through which he champions both rare and contemporary repertoire.He has given over 90 world premieres of works by composers including Henri Dutilleux, George Benjamin, and Thomas Adès. His 2025 Chandos recording of Busoni’s solo and duo piano music with Peter Donohoe received extensive critical acclaim, with International Piano describing their ensemble playing as “magnificent” and Gramophone praising his “artfully balanced” artistry.Lutchmayer trained at the Royal College of Music, where he was awarded the Hopkinson Medal by Queen Elizabeth, The Queen Mother, before pursuing advanced studies under Lev Naumov at the Moscow Conservatoire. He holds an MPhil in Musicology from the University of Oxford and a PhD from the University of Cambridge. In 2015, he was honored with the Bharat Gaurav (Pride of India) Lifetime Achievement Award in recognition of his enduring contribution to Western classical music in India.Commenting on the upcoming engagement, CMSC Artistic Director Lakshman Joseph-de Saram said:“We are honored to welcome Karl Lutchmayer to the Colombo stage. Karl is a fiery virtuoso and a master communicator who unites formidable technical command with intellectual insight. Presenting an artist of his international standing in Sri Lanka aligns directly with the CMSC’s core vision of bringing world-class musical experiences to our audience.”Recital ProgrammeBeethoven — Sonata in B-flat major, Op. 22Haydn — Sonata in C major, Hob. XVI:50Grieg — Notturno, Op. 54, No. 4Brahms — Drei Intermezzi, Op. 117Ravel — Ondine from Gaspard de la Nuit, M. 55Liszt — 3 Études from Grandes études de Paganini, S. 141</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/IHjtDsUeIlYPBgGufN77VVeDhoupMRfZMJFDmUfh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609180057-karl-lutchmayer-in-recital-thumbnail.jpg",
+      "venue": "The Goethe Institute Colombo",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-11T19:00:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/karl-lutchmayer-in-recital/6aac401e88a39",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.9098561,
+      "longitude": 79.87089619999999
     },
     {
       "id": "oneticket-440",
@@ -1021,29 +1044,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1294",
-      "source": "TicketsMinistry",
-      "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
-    },
-    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -1065,6 +1065,29 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
+    },
+    {
+      "id": "ticketsministry-1294",
+      "source": "TicketsMinistry",
+      "name": "SNEHAYE NAGARAYA KANDY 6.0",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1286",
