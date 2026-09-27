@@ -1,36 +1,12 @@
 {
-  "lastSyncTime": "2026-09-27T03:42:37.533Z",
+  "lastSyncTime": "2026-09-27T09:49:02.858Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 19,
+    "OneTicket": 18,
     "TicketsMinistry": 39,
-    "Total": 77
+    "Total": 76
   },
   "concerts": [
-    {
-      "id": "oneticket-436",
-      "source": "OneTicket",
-      "name": "SUNDAY PEOPLE | RSVP",
-      "description": "SUNDAY PEOPLE | RSVP happening at Industri. Date & Time: Sun, Sep 27, 2026, 08:30 AM. Tickets start from 6000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/56768658-f9fa3a5f-4dc2-4e67-b72b-930c5603b738.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/28170300-2469bedb-6696-4ccd-8255-41a5d20a08f1.jpg",
-      "venue": "Industri",
-      "city": "Industri",
-      "dateTime": "2026-09-27T03:00:00.000Z",
-      "originalDateStr": "Sun, Sep 27, 2026, 08:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://oneticket.lk/event/sunday-people-rsvp",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.905923529411765,
-      "longitude": 79.87453333333333
-    },
     {
       "id": "ticketsministry-1205",
       "source": "TicketsMinistry",
@@ -106,8 +82,8 @@
       "source": "OneTicket",
       "name": "HANGOVA",
       "description": "HANGOVA happening at Momo, Wattala. Date & Time: Fri, Oct 2, 2026, 11:30 PM. Tickets start from 4000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/59494942-0f0083dd-2240-4bd7-bddd-499c27935341.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/92882862-4a649c7a-ece0-465a-a4ff-8ea386e39c7b.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/51479716-fb57d37c-835e-485c-96e8-38173adec6b3.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/65729246-5598e920-002c-4b1e-8381-d74f5dd2093d.jpg",
       "venue": "Momo, Wattala",
       "city": "Momo, Wattala",
       "dateTime": "2026-10-02T18:00:00.000Z",
@@ -137,7 +113,7 @@
       "dateTime": "2026-10-02T19:30:00.000Z",
       "originalDateStr": "Sat, Oct 3, 2026, 01:00 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
+      "minPrice": 4000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/era-of-marians/6a59d37f0b424",
       "status": "active",
