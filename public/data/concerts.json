@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-26T22:22:02.793Z",
+  "lastSyncTime": "2026-09-27T03:42:37.533Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 20,
+    "OneTicket": 19,
     "TicketsMinistry": 39,
-    "Total": 78
+    "Total": 77
   },
   "concerts": [
     {
@@ -30,30 +30,6 @@
       ],
       "latitude": 6.905923529411765,
       "longitude": 79.87453333333333
-    },
-    {
-      "id": "oneticket-402",
-      "source": "OneTicket",
-      "name": "මීගමු කලපුවේ අවාරෙක ආලේ",
-      "description": "මීගමු කලපුවේ අවාරෙක ආලේ happening at Regenta Arie Lagoon. Date & Time: Mon, Sep 28, 2026, 12:00 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/59503051-20a48c94-481b-4bd3-8ffb-aa52c8a51ab6.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/70122254-c6c798ce-611f-452b-9437-4bcf60385223.jpg",
-      "venue": "Regenta Arie Lagoon",
-      "city": "Regenta Arie Lagoon",
-      "dateTime": "2026-09-27T18:30:00.000Z",
-      "originalDateStr": "Mon, Sep 28, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/මගම-කලපව-අවරක-ආල",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.955805882352942,
-      "longitude": 79.87421960784313
     },
     {
       "id": "ticketsministry-1205",
