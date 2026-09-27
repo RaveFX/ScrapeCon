@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-27T09:49:02.858Z",
+  "lastSyncTime": "2026-09-27T14:59:18.871Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 18,
-    "TicketsMinistry": 39,
-    "Total": 76
+    "TicketsMinistry": 40,
+    "Total": 77
   },
   "concerts": [
     {
@@ -16,13 +16,13 @@
       "posterUrl": "https://cdn.ticketsministry.com/events/0xZs1X0EdSMDXhCaz0otJmNQuswsLxAIyqZh2x7e.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
-      "dateTime": "2026-09-27T19:00:00.000Z",
-      "originalDateStr": "Mon, Sep 28, 2026, 12:30 AM",
+      "dateTime": "2026-09-27T18:00:00.000Z",
+      "originalDateStr": "Sun, Sep 27, 2026, 11:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 3000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/nonimi-panhida/6a54d20da4e80",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -445,29 +445,6 @@
       "longitude": 80.525142
     },
     {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
-    },
-    {
       "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
       "name": "THE GRAND FEST 2026",
@@ -512,6 +489,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -581,29 +581,6 @@
       "longitude": 79.87461837524435
     },
     {
-      "id": "ticketsministry-1236",
-      "source": "TicketsMinistry",
-      "name": "ECHOES OF MELODIES",
-      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-11T19:00:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1293",
       "source": "TicketsMinistry",
       "name": "KARL LUTCHMAYER IN RECITAL",
@@ -625,6 +602,29 @@
       ],
       "latitude": 6.9098561,
       "longitude": 79.87089619999999
+    },
+    {
+      "id": "ticketsministry-1236",
+      "source": "TicketsMinistry",
+      "name": "ECHOES OF MELODIES",
+      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-11T19:00:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "oneticket-440",
@@ -973,29 +973,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1294",
-      "source": "TicketsMinistry",
-      "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
-    },
-    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -1017,6 +994,29 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
+    },
+    {
+      "id": "ticketsministry-1294",
+      "source": "TicketsMinistry",
+      "name": "SNEHAYE NAGARAYA KANDY 6.0",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1286",
@@ -1404,6 +1404,29 @@
       "tags": [
         "Concert",
         "EDM"
+      ],
+      "latitude": 6.921836877837569,
+      "longitude": 79.81500565289788
+    },
+    {
+      "id": "ticketsministry-1304",
+      "source": "TicketsMinistry",
+      "name": "THE SAMBAR SYNDICATE",
+      "description": "<p>The Sambar Syndicate is a prominent, high-energy South Indian themed club music and nightlife event series.The event is known for blending cultural elements with modern dance genres, featuring a mix of music that ranges from traditional South Indian kuthu beats to electronic and techno music. It is widely marketed as a comprehensive \"South Indian takeover\" that merges the city's unique regional sound, culture, and heavy bass.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609271631-the-sambar-syndicate-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/aEAJWBYd6MIUMmsssgzipP4JLiwsZjTIG9nIrcYw.jpg",
+      "venue": "Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-21T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 21, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-sambar-syndicate/bca26ee4-a586-46d5-9a97-a879203cd5e3",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
