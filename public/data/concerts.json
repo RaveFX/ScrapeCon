@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-09-28T03:41:12.765Z",
+  "lastSyncTime": "2026-09-28T10:34:04.315Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 18,
+    "OneTicket": 19,
     "TicketsMinistry": 41,
-    "Total": 78
+    "Total": 79
   },
   "concerts": [
     {
@@ -410,7 +410,7 @@
       "dateTime": "2026-10-10T18:00:00.000Z",
       "originalDateStr": "Sat, Oct 10, 2026, 11:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 30000,
+      "minPrice": 10000,
       "maxPrice": 30000,
       "ticketLink": "https://www.ticketsministry.com/concerts/bajauwwa/6ab77b93aca6f",
       "status": "active",
@@ -1476,6 +1476,30 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "oneticket-457",
+      "source": "OneTicket",
+      "name": "ඉස්සර මතක 2.0",
+      "description": "ඉස්සර මතක 2.0 happening at Horana Sri Palee Auditorium. Date & Time: Sun, Nov 29, 2026, 12:00 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/62079934-3b1c626c-37b6-4ee0-9a25-c49d8049b064.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/56297476-e45afd25-b176-46d0-948f-35a74e6b9ebf.jpg",
+      "venue": "Horana Sri Palee Auditorium",
+      "city": "Horana Sri Palee Auditorium",
+      "dateTime": "2026-11-28T18:30:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/ඉසසර-මතක-20",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.925688235294118,
+      "longitude": 79.87453333333333
     },
     {
       "id": "oneticket-426",
