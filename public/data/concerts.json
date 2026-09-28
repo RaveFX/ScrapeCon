@@ -1,59 +1,12 @@
 {
-  "lastSyncTime": "2026-09-28T10:34:04.315Z",
+  "lastSyncTime": "2026-09-28T19:14:50.064Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 19,
+    "OneTicket": 18,
     "TicketsMinistry": 41,
-    "Total": 79
+    "Total": 78
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1205",
-      "source": "TicketsMinistry",
-      "name": "NONIMI PANHIDA",
-      "description": "<p>ගීතයේ ආත්මීය  ඉමිහිර නොනිම් පන්හිඳ</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/BsfDk8cHvAyOiI5nVgNxUyjeC0sW5vfRzEsa9NwT.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/0xZs1X0EdSMDXhCaz0otJmNQuswsLxAIyqZh2x7e.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-09-27T18:00:00.000Z",
-      "originalDateStr": "Sun, Sep 27, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/nonimi-panhida/6a54d20da4e80",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
-      "id": "oneticket-430",
-      "source": "OneTicket",
-      "name": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2",
-      "description": "මීගමු කලපුවේ අවාරෙක ආලේ DAY 2 happening at Regent Arie Lagoon. Date & Time: Tue, Sep 29, 2026, 01:00 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/91923278-9f52f068-729f-4beb-8793-9234f4685384.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/79468342-67a9c1cf-7e7f-4d23-942c-572370c6d298.jpg",
-      "venue": "Regent Arie Lagoon",
-      "city": "Regent Arie Lagoon",
-      "dateTime": "2026-09-28T19:30:00.000Z",
-      "originalDateStr": "Tue, Sep 29, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/මගම-කලපව-අවරක-ආල-day-2",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.904041176470589,
-      "longitude": 79.87453333333333
-    },
     {
       "id": "ticketsministry-1263",
       "source": "TicketsMinistry",
@@ -973,29 +926,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
@@ -1017,6 +947,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1244",
+      "source": "TicketsMinistry",
+      "name": "ADARANEEYA HENDAWAK",
+      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1286",
@@ -1325,7 +1278,7 @@
       "name": "SUMIHIRI MATHAKAYAN LEGENDS UNPLUGGED",
       "description": "<p>SUMIHIRI MATHAKAYAN - LEGENDS UNPLUGGEDදකුණු ලක ප්‍රේක්ෂක ඔබගේ දැඩි ඉල්ලීම පරිදි \"සුමිහිරි මතකයන්\" ප්‍රසංගය රුහුණු විශ්වවිද්‍යාලීය රබින්ද්‍රනාත් තාගෝර් ශ්‍රවණාගාරයේදී....</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/UzmfiQzbh0LbkBp9mVP3irBZ4oggV3N4xJjQNtr0.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VUh6HXxQZJ7Cqg5fZaqO8x27D9jirA9UovObewYW.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/x7GoBcfySsjNwon8SKmD6jxoaR8wR0zSjsryIiqT.jpg",
       "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
       "city": "Matara",
       "dateTime": "2026-11-14T19:00:00.000Z",
@@ -1547,6 +1500,29 @@
       ],
       "latitude": 7.507550900000001,
       "longitude": 80.40448719999999
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202609282101-akasa-sutra-namunukula-ahasa-yata-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202609282101-akasa-sutra-namunukula-ahasa-yata-thumbnail.jpg",
+      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.980700793020149,
+      "longitude": 81.07332407418981
     },
     {
       "id": "ticketsministry-1277",
@@ -1788,7 +1764,7 @@
       "name": "SUMIHIRI MATHAKAYAN LEGENDS UNPLUGGED",
       "description": "<p>LEGENDS UNPLUGGED Once In a Lifetime Concert ! </p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/AXpW4IXE9oa7GixmKklAQQu9FByGulxujL2FUuTu.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zkoPEyWT3o97fLHiLmIBLFoigD4V7ECPXlG8S1Vw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/KVWY0GM4NxaN4ZLAxy0ciqwOZWAsQglzNc5sjeGJ.jpg",
       "venue": "BMICH",
       "city": "Colombo 07",
       "dateTime": "2026-12-25T18:00:00.000Z",
