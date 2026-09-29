@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-09-29T07:53:04.654Z",
+  "lastSyncTime": "2026-09-29T14:36:48.963Z",
   "counts": {
-    "MyTickets": 21,
+    "MyTickets": 19,
     "OneTicket": 18,
     "TicketsMinistry": 41,
-    "Total": 79
+    "Total": 78
   },
   "concerts": [
-    {
-      "id": "mytickets-6abb394da0f59f934770316e",
-      "source": "MyTickets",
-      "name": "Subha Saha Yasa - සුභ සහ යස ",
-      "description": "<p>Subha Saha Yasa - සුභ සහ යස&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Subha%20Saha%20Yasa%20-%20%E0%B7%83%E0%B7%94%E0%B6%B7%20%E0%B7%83%E0%B7%84%20%E0%B6%BA%E0%B7%83%20/WhatsApp%20Image%202026-09-28%20at%204.07.10%20PM-1790654518407.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Subha%20Saha%20Yasa%20-%20%E0%B7%83%E0%B7%94%E0%B6%B7%20%E0%B7%83%E0%B7%84%20%E0%B6%BA%E0%B7%83%20/WhatsApp%20Image%202026-09-28%20at%204.07.10%20PM-1790654518407.jpeg",
-      "venue": "Namel Malini Punchi Theatre Borella",
-      "city": "Colombo",
-      "dateTime": "2026-10-02T10:00:00.000Z",
-      "originalDateStr": "Fri, Oct 2, 2026, 03:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 1000,
-      "ticketLink": "https://mytickets.lk/event/subha-saha-yasa/6abb394da0f59f934770316e",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.937609803921569,
-      "longitude": 79.83563137254902
-    },
     {
       "id": "ticketsministry-1263",
       "source": "TicketsMinistry",
@@ -1171,7 +1149,7 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Sam Event House"
+        "Outdoor Musical Concert"
       ],
       "latitude": 5.9640125,
       "longitude": 80.6940156
