@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-02T04:05:26.517Z",
+  "lastSyncTime": "2026-10-02T11:53:32.436Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 19,
-    "TicketsMinistry": 47,
-    "Total": 85
+    "TicketsMinistry": 48,
+    "Total": 86
   },
   "concerts": [
     {
@@ -16,8 +16,8 @@
       "posterUrl": "https://cdn.ticketsministry.com/events/lzoBQi4kfe3QFRNbgNjNsozThNxyzSZed02qVaN0.png",
       "venue": "Nelum Pokuna Rooftop Amphitheatre",
       "city": "Colombo 07",
-      "dateTime": "2026-10-02T17:30:00.000Z",
-      "originalDateStr": "Fri, Oct 2, 2026, 11:00 PM",
+      "dateTime": "2026-10-02T05:30:00.000Z",
+      "originalDateStr": "Fri, Oct 2, 2026, 11:00 AM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
       "maxPrice": 6000,
@@ -375,29 +375,6 @@
       "longitude": 79.85862737419039
     },
     {
-      "id": "ticketsministry-1290",
-      "source": "TicketsMinistry",
-      "name": "HARMONY FOR HUMANITY",
-      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
-      "venue": "Sanaya Mansion - Matara",
-      "city": "Matara",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.9442569999999995,
-      "longitude": 80.525142
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -421,27 +398,27 @@
       "longitude": 80.36728060000002
     },
     {
-      "id": "ticketsministry-1259",
+      "id": "ticketsministry-1290",
       "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
+      "name": "HARMONY FOR HUMANITY",
+      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
+      "venue": "Sanaya Mansion - Matara",
+      "city": "Matara",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
       "status": "active",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
+      "latitude": 5.9442569999999995,
+      "longitude": 80.525142
     },
     {
       "id": "ticketsministry-1221",
@@ -465,6 +442,29 @@
       ],
       "latitude": 7.295998692711573,
       "longitude": 80.22938217500008
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -950,27 +950,27 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1319",
+      "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
+      "name": "SNEHAYE NAGARAYA KANDY 6.0",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
       "dateTime": "2026-10-24T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
+      "minPrice": 2500,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Indoor Musical Concert"
       ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1244",
@@ -996,27 +996,27 @@
       "longitude": 80.02386807500172
     },
     {
-      "id": "ticketsministry-1294",
+      "id": "ticketsministry-1319",
       "source": "TicketsMinistry",
-      "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
+      "name": "NEGOMBO OKTOBERFEST 2026",
+      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
+      "venue": "Sentido Heritance Negombo",
+      "city": "Negombo",
       "dateTime": "2026-10-24T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
+      "minPrice": 7000,
+      "maxPrice": 49000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert"
+        "Outdoor Musical Concert"
       ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
+      "latitude": 7.2347,
+      "longitude": 79.8413
     },
     {
       "id": "ticketsministry-1286",
@@ -1255,21 +1255,21 @@
       "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609272202-afro-embassy-listing-banner.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/H6BrdPc3gmiwYXE9lcye2lFaTs9Xne8Vi2j6mn6y.png",
-      "venue": "Colombo",
+      "venue": "Headquaters by W15",
       "city": "Colombo 01",
       "dateTime": "2026-11-07T19:00:00.000Z",
       "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 5000,
+      "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
       "status": "active",
       "tags": [
         "Concert",
         "EDM"
       ],
-      "latitude": 6.921836877837569,
-      "longitude": 79.81500565289788
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -1364,6 +1364,29 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "ticketsministry-1323",
+      "source": "TicketsMinistry",
+      "name": "KELE HANDA RUKMANI SWARNA GEE",
+      "description": "<p>A concert that was meant to be her next musical celebration — but became a tribute to a legend. </p><p>“Kele Handa Rukmani Swarna Gee” revives the music of Rukmani Devi, the legendary actress, singer and first female superstar of Sri Lankan cinema, whose extraordinary voice and timeless artistry left an everlasting mark on generations. </p><p>This concert carries a special place in Sri Lankan musical history. It was originally scheduled to be performed by Rukmani Devi herself, but sadly, she passed away before that long-awaited performance could take place. </p><p>Decades later, her unfinished musical journey is brought back to the stage as a heartfelt tribute to the woman who helped shape the golden era of Sri Lankan music and cinema.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610021321-kele-handa---rukmani-swarna-gee-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qNza0cGALae5Y9jrUSd6gyx6s8OlY6JxXnXtI3Kx.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-15T18:30:00.000Z",
+      "originalDateStr": "Mon, Nov 16, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kele-handa-rukmani-swarna-gee/6abf8fb34c01e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "mytickets-6a82b47f95bb41016919efb8",
@@ -1694,8 +1717,8 @@
       "source": "TicketsMinistry",
       "name": "MARIANS WITH NEWS",
       "description": "<p>MARIANS with NEWS - TWO GENERATIONS, ONE STAGE ✨For the first time ever, two of Sri Lanka’s most famous and loved bands, representing two generations of Sri Lankan music, come together for one BIG night of live entertainment!Get ready for an unforgettable evening with The Marians and News, sharing the same stage for the very first time. 🎤✨From timeless classics that have become part of Sri Lanka’s musical history to the sounds that have captivated a new generation, this is a rare opportunity to experience two iconic bands from two musical eras together on one stage.📅 December 4th⏰ 7:30 PM onwards📍 Water’s Edge – Outdoor Premises🎟️ Ticket PricesPlatinum – LKR 7,500/-Gold – LKR 5,000/-Bring your friends and family and get ready for a night filled with great music, unforgettable songs and an incredible live experience.✨ Two Famous Bands. Two Generations. One Stage. One Unforgettable Night. ✨Marians with News - Together on one stage for the first time.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202610010925-marians-with-news-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202610010925-marians-with-news-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nLYEnJvSkRMhlXq8auw5uMmxTXKTQsM5PRCr1hg9.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/bdpj2aMP3y9cKsRR6rx5vQRM4uXe14BdoBOd03qK.jpg",
       "venue": "Waters Edge Outdoor",
       "city": "Battaramulla",
       "dateTime": "2026-12-04T19:30:00.000Z",
