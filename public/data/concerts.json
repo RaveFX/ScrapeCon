@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-01T22:20:56.273Z",
+  "lastSyncTime": "2026-10-02T04:05:26.517Z",
   "counts": {
-    "MyTickets": 20,
+    "MyTickets": 19,
     "OneTicket": 19,
     "TicketsMinistry": 47,
-    "Total": 86
+    "Total": 85
   },
   "concerts": [
     {
@@ -1062,28 +1062,6 @@
       ],
       "latitude": 6.914394117647059,
       "longitude": 79.82370980392156
-    },
-    {
-      "id": "mytickets-6abdefe023148d826b01c147",
-      "source": "MyTickets",
-      "name": "Ape Gedara Gini Thiyaida - අපේ ගෙදර ගිනි තියයිද",
-      "description": "<p>Ape Gedara Gini Thiyaida - අපේ ගෙදර ගිනි තියයිද</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Ape%20Gedara%20Gini%20Thiyaida%20-%20%E0%B6%85%E0%B6%B4%E0%B7%9A%20%E0%B6%9C%E0%B7%99%E0%B6%AF%E0%B6%BB%20%E0%B6%9C%E0%B7%92%E0%B6%B1%E0%B7%92%20%E0%B6%AD%E0%B7%92%E0%B6%BA%E0%B6%BA%E0%B7%92%E0%B6%AF/WhatsApp%20Image%202026-10-01%20at%208.50.54%20AM-1790832466983.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Ape%20Gedara%20Gini%20Thiyaida%20-%20%E0%B6%85%E0%B6%B4%E0%B7%9A%20%E0%B6%9C%E0%B7%99%E0%B6%AF%E0%B6%BB%20%E0%B6%9C%E0%B7%92%E0%B6%B1%E0%B7%92%20%E0%B6%AD%E0%B7%92%E0%B6%BA%E0%B6%BA%E0%B7%92%E0%B6%AF/WhatsApp%20Image%202026-10-01%20at%208.50.54%20AM-1790832466983.jpeg",
-      "venue": "Lionel Wendt - Colombo",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-10-31T13:30:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 4000,
-      "ticketLink": "https://mytickets.lk/event/ape-gedara-gini-thiyaida/6abdefe023148d826b01c147",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.923178431372549,
-      "longitude": 79.85759215686274
     },
     {
       "id": "ticketsministry-1253",
