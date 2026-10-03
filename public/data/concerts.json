@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-03T13:01:53.353Z",
+  "lastSyncTime": "2026-10-03T17:45:31.823Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 18,
@@ -113,7 +113,7 @@
       "minPrice": 3000,
       "maxPrice": 3000,
       "ticketLink": "https://www.ticketsministry.com/concerts/spice-island-sessions/6a43452e4be35",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "EDM"
@@ -303,6 +303,52 @@
       "longitude": 79.85862737419039
     },
     {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
+    },
+    {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>Adareta mathakayak</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
+    },
+    {
       "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
       "name": "SENSATION LIVE IN CONCERT ALAWWA",
@@ -347,52 +393,6 @@
       ],
       "latitude": 5.9442569999999995,
       "longitude": 80.525142
-    },
-    {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>Adareta mathakayak</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
-    },
-    {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -901,29 +901,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
       "id": "ticketsministry-1319",
       "source": "TicketsMinistry",
       "name": "NEGOMBO OKTOBERFEST 2026",
@@ -945,6 +922,29 @@
       ],
       "latitude": 7.2347,
       "longitude": 79.8413
+    },
+    {
+      "id": "ticketsministry-1244",
+      "source": "TicketsMinistry",
+      "name": "ADARANEEYA HENDAWAK",
+      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1294",
@@ -1464,7 +1464,7 @@
       "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 6000,
+      "maxPrice": 7000,
       "ticketLink": "https://www.ticketsministry.com/concerts/illusya/a04b175e-b31b-4f2a-83bb-7c07f524fd33",
       "status": "active",
       "tags": [
