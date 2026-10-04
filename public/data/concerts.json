@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-10-04T00:21:29.692Z",
+  "lastSyncTime": "2026-10-04T07:46:00.969Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 17,
-    "TicketsMinistry": 48,
-    "Total": 82
+    "TicketsMinistry": 46,
+    "Total": 80
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1288",
-      "source": "TicketsMinistry",
-      "name": "MIYESI SANKALPANA",
-      "description": "<p>A nostalgic live music experience featuring popular Sinhala hits, live performances, and entertainment. A family-friendly evening where you can come with your family, friends, and loved ones to enjoy great music, memories, and a fun night together.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/uVJQXHZEXXUDFijlOFbHoFrtIFHvnqsXlrKJMnC1.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/Oru4JX1ENCPCfQW2i6rPu0e5IwD5uJqORsJx0Qcm.jpg",
-      "venue": "Panorama Hotel Kalutara",
-      "city": "Kalutara",
-      "dateTime": "2026-10-03T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 3, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/miyesi-sankalpana/794f2667-5209-4342-8105-664d519e02cc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.593903422312124,
-      "longitude": 79.95881321129727
-    },
-    {
-      "id": "ticketsministry-1189",
-      "source": "TicketsMinistry",
-      "name": "SPICE ISLAND SESSIONS",
-      "description": "<p>Following the energy of our first edition, Spice Island Session Vol. 2 returns with a deeper commitment to building and uplifting the local rave culture. This private gathering is dedicated to celebrating authentic house music, bringing together music lovers, DJs, and creatives in a safe, inclusive space where rhythm, connection, and self-expression take center stage. More than just a party, Spice Island Session is a movement to nurture a thriving underground house music community—one session at a time.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/NhF8wtQSrHv4FwxcDq0vT3ZivJsxWkZLAtWZddc2.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/CaEMCFAWxRL3bfT0DtEcoXP9HRwVGCCR2eeRWwlZ.jpg",
-      "venue": "Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-10-03T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 4, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/spice-island-sessions/6a43452e4be35",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 7.480618437897388,
-      "longitude": 80.31658034784374
-    },
     {
       "id": "mytickets-6a9bcb2bcd343abf74ea8773",
       "source": "MyTickets",
@@ -235,50 +189,27 @@
       "longitude": 79.85862737419039
     },
     {
-      "id": "ticketsministry-1259",
+      "id": "ticketsministry-1290",
       "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
+      "name": "HARMONY FOR HUMANITY",
+      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
+      "venue": "Sanaya Mansion - Matara",
+      "city": "Matara",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
       "status": "active",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>Adareta mathakayak</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
+      "latitude": 5.9442569999999995,
+      "longitude": 80.525142
     },
     {
       "id": "ticketsministry-1221",
@@ -304,27 +235,50 @@
       "longitude": 80.22938217500008
     },
     {
-      "id": "ticketsministry-1290",
+      "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
-      "name": "HARMONY FOR HUMANITY",
-      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
-      "venue": "Sanaya Mansion - Matara",
-      "city": "Matara",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>Adareta mathakayak</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
       "status": "active",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 5.9442569999999995,
-      "longitude": 80.525142
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -856,29 +810,6 @@
       "longitude": 79.8413
     },
     {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
@@ -900,6 +831,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1244",
+      "source": "TicketsMinistry",
+      "name": "ADARANEEYA HENDAWAK",
+      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1286",
@@ -1109,29 +1063,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -1153,6 +1084,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -1595,30 +1549,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1279",
-      "source": "TicketsMinistry",
-      "name": "FOUR NOTES",
-      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1321",
       "source": "TicketsMinistry",
       "name": "MARIANS WITH NEWS",
@@ -1641,6 +1571,30 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1279",
+      "source": "TicketsMinistry",
+      "name": "FOUR NOTES",
+      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1247",
