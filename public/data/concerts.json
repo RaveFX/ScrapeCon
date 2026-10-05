@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-10-04T21:09:32.754Z",
+  "lastSyncTime": "2026-10-05T00:26:00.339Z",
   "counts": {
-    "MyTickets": 17,
+    "MyTickets": 16,
     "OneTicket": 17,
     "TicketsMinistry": 48,
-    "Total": 82
+    "Total": 81
   },
   "concerts": [
-    {
-      "id": "mytickets-6a9bcb2bcd343abf74ea8773",
-      "source": "MyTickets",
-      "name": "Kele Show Eka - කැලේ Show එක ",
-      "description": "<h2><em>\"කැලේ Show එක\"</em></h2><p>වෙනස් විදිහේ වැඩක්...</p><p>වෙනස් විදිහේ තැනක....</p><p><br></p><p>රිද්ම වීරවර්ධන&nbsp;</p><p>ජෝ පෙරේරා&nbsp;</p><p>නිපුනි හේරත්</p><p>මහිරු සේනාරත්න&nbsp;</p><p>යශෝධා මැදගෙදර&nbsp;</p><p>රනුධි ද සොයිසා&nbsp;සමගින්....</p><p><br></p><p>සුන්දර <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a> එළිමහනේදී...</p><p><br></p><p>📅 - 4th October 2026,</p><p>📍- <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a></p><p>⏱️ - 4:30 PM</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <strong><em>(Front Raw Barn Couch Seating)</em></strong> - <strong>10,000 LKR</strong> (Limited Slots Only)</p><p>Lawn Area <strong><em>(Barn Chair Seating)</em></strong> - <strong>6000 LKR</strong></p><p>Cocktail Table Area <strong><em>(Standing)</em></strong> - <strong>5000 LKR</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
-      "venue": "The Barnhouse - Sri Lanka",
-      "city": "666548e1a03df8fc2ac5a55a",
-      "dateTime": "2026-10-04T11:00:00.000Z",
-      "originalDateStr": "Sun, Oct 4, 2026, 04:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/kele-show-eka-show/6a9bcb2bcd343abf74ea8773",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.966472549019608,
-      "longitude": 79.84065098039216
-    },
     {
       "id": "mytickets-6a7daa07d556332fdf77addb",
       "source": "MyTickets",
