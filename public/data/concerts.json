@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-06T01:06:48.422Z",
+  "lastSyncTime": "2026-10-06T08:33:29.547Z",
   "counts": {
-    "MyTickets": 16,
+    "MyTickets": 17,
     "OneTicket": 18,
-    "TicketsMinistry": 49,
-    "Total": 83
+    "TicketsMinistry": 51,
+    "Total": 86
   },
   "concerts": [
     {
@@ -167,50 +167,27 @@
       "longitude": 79.85862737419039
     },
     {
-      "id": "ticketsministry-1290",
+      "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
-      "name": "HARMONY FOR HUMANITY",
-      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
-      "venue": "Sanaya Mansion - Matara",
-      "city": "Matara",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
       "status": "active",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 5.9442569999999995,
-      "longitude": 80.525142
-    },
-    {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "ticketsministry-1262",
@@ -236,27 +213,50 @@
       "longitude": 80.36728060000002
     },
     {
-      "id": "ticketsministry-1259",
+      "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
       "dateTime": "2026-10-10T19:00:00.000Z",
       "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
+    },
+    {
+      "id": "ticketsministry-1290",
+      "source": "TicketsMinistry",
+      "name": "HARMONY FOR HUMANITY",
+      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
+      "venue": "Sanaya Mansion - Matara",
+      "city": "Matara",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
       "status": "active",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
+      "latitude": 5.9442569999999995,
+      "longitude": 80.525142
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -275,7 +275,8 @@
       "ticketLink": "https://mytickets.lk/event/maimara-sancharaniya/6a84384e8b28dae979bfe07d",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9115705882352945,
       "longitude": 79.87359215686274
@@ -326,29 +327,6 @@
       "longitude": 79.87461837524435
     },
     {
-      "id": "ticketsministry-1236",
-      "source": "TicketsMinistry",
-      "name": "ECHOES OF MELODIES",
-      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-11T19:00:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1293",
       "source": "TicketsMinistry",
       "name": "KARL LUTCHMAYER IN RECITAL",
@@ -370,6 +348,29 @@
       ],
       "latitude": 6.9098561,
       "longitude": 79.87089619999999
+    },
+    {
+      "id": "ticketsministry-1236",
+      "source": "TicketsMinistry",
+      "name": "ECHOES OF MELODIES",
+      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-11T19:00:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "oneticket-440",
@@ -645,7 +646,8 @@
       "ticketLink": "https://mytickets.lk/event/frequency-at-the-edge/6aad1eb848012dccf365931f",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9055,
       "longitude": 79.9114
@@ -743,6 +745,29 @@
       "longitude": 79.8480048741891
     },
     {
+      "id": "ticketsministry-1328",
+      "source": "TicketsMinistry",
+      "name": "OPEN SKIES",
+      "description": "<p>☁️ OPEN SKIES 2026 — 24 OCTOBER Open Skies is a vibrant music and entertainment experience bringing together talented Sri Lankan artists and thousands of passionate music lovers. 🎶 Our vision is to create a space where artists and audiences connect, grow, and celebrate together. With stunning stage designs, beautiful decorations, high-energy performances, and an unforgettable atmosphere, Open Skies is set to deliver an incredible experience for everyone..</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/jd35fysWs7GaEwjjBg5aw4I5wQOSxXlDBJx0txzI.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/cDlJ0n6RviV5wPIiWYlccnhlPbsvNFyRXGVWrQs2.jpg",
+      "venue": "Nom Nom Thai",
+      "city": "Colombo 01",
+      "dateTime": "2026-10-24T08:00:00.000Z",
+      "originalDateStr": "Sat, Oct 24, 2026, 01:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/open-skies/6ac3a5e9e45eb",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.931257,
+      "longitude": 79.8551343
+    },
+    {
       "id": "mytickets-6a6cb88cc0bde00160fa0120",
       "source": "MyTickets",
       "name": "Mathakaya Asurin - මතකය ඇසුරින්",
@@ -788,29 +813,6 @@
       "longitude": 80.02386807500172
     },
     {
-      "id": "ticketsministry-1319",
-      "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
-    },
-    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
@@ -832,6 +834,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1319",
+      "source": "TicketsMinistry",
+      "name": "NEGOMBO OKTOBERFEST 2026",
+      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
+      "venue": "Sentido Heritance Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 49000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.2347,
+      "longitude": 79.8413
     },
     {
       "id": "ticketsministry-1286",
@@ -1088,29 +1113,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609272202-afro-embassy-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/H6BrdPc3gmiwYXE9lcye2lFaTs9Xne8Vi2j6mn6y.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -1134,6 +1136,29 @@
       "longitude": 79.86998932406588
     },
     {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609272202-afro-embassy-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/H6BrdPc3gmiwYXE9lcye2lFaTs9Xne8Vi2j6mn6y.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
+    },
+    {
       "id": "ticketsministry-1281",
       "source": "TicketsMinistry",
       "name": "AMARANEEYA SWARA EDITION 02",
@@ -1155,6 +1180,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1329",
+      "source": "TicketsMinistry",
+      "name": "ISAI SAAMRAIYAM",
+      "description": "<p>Isai Saamrajyam is the biggest tamil dj music event of the year. Three indian dj artists are going to play on one stage. This event is for the people who love tamil music and people who love to dance and enjoy good music.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610060905-isai-saamrajyam-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9mTOb7eBJgYxWAucWALsDwA0d9aibWjmW5SY5i0O.jpg",
+      "venue": "Air Force Ground Colombo",
+      "city": "Colombo 02",
+      "dateTime": "2026-11-13T20:30:00.000Z",
+      "originalDateStr": "Sat, Nov 14, 2026, 02:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/isai-saamraiyam/6ac477d3ad3a3",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9282072999999995,
+      "longitude": 79.8482454
     },
     {
       "id": "oneticket-449",
@@ -1829,6 +1877,28 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "mytickets-6ac346cf1dd1050809b9ded1",
+      "source": "MyTickets",
+      "name": "Bodare Vol. 1",
+      "description": "<p><strong>Bodare Vol. 1</strong></p><p><br></p><p>Fearless presents BODARE VOL. 1 - A true and gritty hip-hop experience bringing together different sounds, styles, identities and energies on one stage.</p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Main Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 5:00 PM</p><p><br></p><p>LINEUP</p><p><br></p><p>Reezy</p><p>Tikx Kooda</p><p>KK</p><p>AJ Leon</p><p>Sando</p><p>Lilvin999</p><p>Soul Distortion</p><p>Elorath</p><p><br></p><p>TICKETS</p><p><br></p><p>Pre sale — LKR 4,000</p><p>At the Gate — LKR 5,000</p><p><br></p><p>Come early. Stay late.</p><p>Follow: @wearebodare</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol%20.1/WhatsApp%20Image%202026-10-05%20at%2012.46.32%20PM-1791184657789.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol%20.1/WhatsApp%20Image%202026-10-05%20at%2012.46.32%20PM-1791184657789.jpeg",
+      "venue": "Grand Orient Hotel Colombo",
+      "city": "666548e1a03df8fc2ac5a04a",
+      "dateTime": "2026-12-19T11:30:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 05:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://mytickets.lk/event/bodare-vol-1/6ac346cf1dd1050809b9ded1",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.901217647058823,
+      "longitude": 79.84347450980391
     },
     {
       "id": "ticketsministry-1322",
