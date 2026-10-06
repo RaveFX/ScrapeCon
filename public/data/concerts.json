@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-06T16:29:41.501Z",
+  "lastSyncTime": "2026-10-06T22:20:20.585Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 18,
@@ -1928,15 +1928,15 @@
       "source": "TicketsMinistry",
       "name": "CHANDRAYAMAYA",
       "description": "<p>Chandrayamaya is an enchanting evening of timeless Sinhala music, bringing together some of Sri Lanka’s most beloved voices on one prestigious stage. Featuring the legendary Sunil Edirisinghe, the charismatic Keerthi Pasquel, the soulful Athula Adhikari, and the ever-popular Athma Liyanage. The concert promises an unforgettable journey through generations of cherished melodies and memories. With musical direction by Manoj Peiris and music by Three-Thaal, hosted by the renowned Manuranga Wijesekera, Chandrayamaya will take place on December 19 at 7.00 PM at the Musaeus College Auditorium Colombo.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202609161047-chandrayamaya-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202609161047-chandrayamaya-thumbnail.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wgqFNMn7On2qfZ3GwwGPcPv8JibpavpkDH5KPHSy.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qm255v0VLA2zdKxwn4AK7V9ztpXYPQvgLAjtDgSF.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
       "dateTime": "2026-12-19T19:00:00.000Z",
       "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
+      "minPrice": 3000,
+      "maxPrice": 12500,
       "ticketLink": "https://www.ticketsministry.com/concerts/chandrayamaya/6aaa265d21d96",
       "status": "active",
       "tags": [
