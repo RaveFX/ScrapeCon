@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-07T04:21:01.084Z",
+  "lastSyncTime": "2026-10-07T12:39:38.313Z",
   "counts": {
-    "MyTickets": 17,
+    "MyTickets": 18,
     "OneTicket": 18,
     "TicketsMinistry": 51,
-    "Total": 86
+    "Total": 87
   },
   "concerts": [
     {
@@ -167,6 +167,29 @@
       "longitude": 79.85862737419039
     },
     {
+      "id": "ticketsministry-1221",
+      "source": "TicketsMinistry",
+      "name": "SENSATION LIVE IN CONCERT ALAWWA",
+      "description": "<p>Outdoor music show</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
+      "venue": "Alawwa Public Ground",
+      "city": "Alawwa",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.295998692711573,
+      "longitude": 80.22938217500008
+    },
+    {
       "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
       "name": "THE GRAND FEST 2026",
@@ -211,29 +234,6 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
-    },
-    {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
     },
     {
       "id": "ticketsministry-1290",
@@ -327,6 +327,30 @@
       "longitude": 79.87461837524435
     },
     {
+      "id": "ticketsministry-1236",
+      "source": "TicketsMinistry",
+      "name": "ECHOES OF MELODIES",
+      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-11T19:00:00.000Z",
+      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
+    },
+    {
       "id": "ticketsministry-1293",
       "source": "TicketsMinistry",
       "name": "KARL LUTCHMAYER IN RECITAL",
@@ -348,29 +372,6 @@
       ],
       "latitude": 6.9098561,
       "longitude": 79.87089619999999
-    },
-    {
-      "id": "ticketsministry-1236",
-      "source": "TicketsMinistry",
-      "name": "ECHOES OF MELODIES",
-      "description": "<p>After 50 historic years, the original legends reunite on one stage! Experience the unmatchable nostalgia of Sri Lanka's most iconic bands -The Moonstones, The Golden Chimes, and The Super Golden Chimes. Step back into the golden era of Sinhala Pop and relive the timeless melodies that defined generations</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/AJEuiH543rgt8WEyvjqV8QOUgffkXg8IAWPw5vEw.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ZDG1MtoZ2ph2LZUUrTOyz71tPIbQPUEw9appQxlc.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-11T19:00:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/echoes-of-melodies/6a72b8e29208a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
     },
     {
       "id": "oneticket-440",
@@ -784,10 +785,34 @@
       "ticketLink": "https://mytickets.lk/event/mathakaya-asurin/6a6cb88cc0bde00160fa0120",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1319",
+      "source": "TicketsMinistry",
+      "name": "NEGOMBO OKTOBERFEST 2026",
+      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
+      "venue": "Sentido Heritance Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 49000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.2347,
+      "longitude": 79.8413
     },
     {
       "id": "ticketsministry-1244",
@@ -836,29 +861,6 @@
       "longitude": 80.64616827419373
     },
     {
-      "id": "ticketsministry-1319",
-      "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
-    },
-    {
       "id": "ticketsministry-1286",
       "source": "TicketsMinistry",
       "name": "ORDNANCE RHYTHM NIGHT 2026",
@@ -904,29 +906,6 @@
       "longitude": 79.82370980392156
     },
     {
-      "id": "ticketsministry-1311",
-      "source": "TicketsMinistry",
-      "name": "HALLOWEEN PARTY",
-      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
-      "venue": "Queens Hotel Kandy Royal Ball Room",
-      "city": "Kandy",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Halloween Party"
-      ],
-      "latitude": 7.29323279271429,
-      "longitude": 80.63580157500003
-    },
-    {
       "id": "ticketsministry-1253",
       "source": "TicketsMinistry",
       "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
@@ -948,6 +927,29 @@
       ],
       "latitude": 6.052549600000001,
       "longitude": 80.1813931
+    },
+    {
+      "id": "ticketsministry-1311",
+      "source": "TicketsMinistry",
+      "name": "HALLOWEEN PARTY",
+      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
+      "venue": "Queens Hotel Kandy Royal Ball Room",
+      "city": "Kandy",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 3500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Halloween Party"
+      ],
+      "latitude": 7.29323279271429,
+      "longitude": 80.63580157500003
     },
     {
       "id": "ticketsministry-1271",
@@ -1440,7 +1442,7 @@
       "name": "ILLUSYA",
       "description": "<p>ILLUSYA</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/A8PXYIWVnrnkTl97IShkrwbqXEUsAIeuFIYNNtiK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/5gW009cAhLHCR6HFO4cpsWn2eTvXhDXdYOjhSM8Q.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qAcPeffBau5oD2ZwanU9UFIwrYQBmYPaJwcgiQym.jpg",
       "venue": "Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-11-21T16:00:00.000Z",
@@ -1834,6 +1836,28 @@
       "longitude": 80.23375474611859
     },
     {
+      "id": "mytickets-6abdea0023148d826b01c02f",
+      "source": "MyTickets",
+      "name": "Wahi Wahala - වැහි වැහැලා ",
+      "description": "<p><strong>Wahi Wahala - වැහි වැහැලා&nbsp;</strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Wahi%20Wahala%20-%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%92%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%90%E0%B6%BD%E0%B7%8F%20/WhatsApp%20Image%202026-09-30%20at%206.55.09%20PM-1790830219318.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Wahi%20Wahala%20-%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%92%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%90%E0%B6%BD%E0%B7%8F%20/WhatsApp%20Image%202026-09-30%20at%206.55.09%20PM-1790830219318.jpeg",
+      "venue": "BMICH - COLOMBO",
+      "city": "666548e1a03df8fc2ac5a04e",
+      "dateTime": "2026-12-12T13:30:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/wahi-wahala/6abdea0023148d826b01c02f",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
+    },
+    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -1929,7 +1953,7 @@
       "name": "CHANDRAYAMAYA",
       "description": "<p>Chandrayamaya is an enchanting evening of timeless Sinhala music, bringing together some of Sri Lanka’s most beloved voices on one prestigious stage. Featuring the legendary Sunil Edirisinghe, the charismatic Keerthi Pasquel, the soulful Athula Adhikari, and the ever-popular Athma Liyanage. The concert promises an unforgettable journey through generations of cherished melodies and memories. With musical direction by Manoj Peiris and music by Three-Thaal, hosted by the renowned Manuranga Wijesekera, Chandrayamaya will take place on December 19 at 7.00 PM at the Musaeus College Auditorium Colombo.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/wgqFNMn7On2qfZ3GwwGPcPv8JibpavpkDH5KPHSy.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/qm255v0VLA2zdKxwn4AK7V9ztpXYPQvgLAjtDgSF.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/kxhTGnm4sjdBB8YZ3JUEcbnwg1NZmwnXn0sQJsZP.jpg",
       "venue": "Musaeus College Auditorium",
       "city": "Colombo 07",
       "dateTime": "2026-12-19T19:00:00.000Z",
