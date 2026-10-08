@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-08T00:00:21.483Z",
+  "lastSyncTime": "2026-10-08T08:25:14.131Z",
   "counts": {
-    "MyTickets": 18,
+    "MyTickets": 19,
     "OneTicket": 18,
     "TicketsMinistry": 51,
-    "Total": 87
+    "Total": 88
   },
   "concerts": [
     {
@@ -44,7 +44,7 @@
       "minPrice": 2000,
       "maxPrice": 2000,
       "ticketLink": "https://www.ticketsministry.com/concerts/mountainspace/684f63dd-aaa3-4c1f-b209-eeb4c9533a10",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "EDM"
@@ -190,6 +190,29 @@
       "longitude": 80.22938217500008
     },
     {
+      "id": "ticketsministry-1290",
+      "source": "TicketsMinistry",
+      "name": "HARMONY FOR HUMANITY",
+      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
+      "venue": "Sanaya Mansion - Matara",
+      "city": "Matara",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.9442569999999995,
+      "longitude": 80.525142
+    },
+    {
       "id": "ticketsministry-1259",
       "source": "TicketsMinistry",
       "name": "THE GRAND FEST 2026",
@@ -234,29 +257,6 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
-    },
-    {
-      "id": "ticketsministry-1290",
-      "source": "TicketsMinistry",
-      "name": "HARMONY FOR HUMANITY",
-      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
-      "venue": "Sanaya Mansion - Matara",
-      "city": "Matara",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.9442569999999995,
-      "longitude": 80.525142
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -1115,29 +1115,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -1159,6 +1136,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -1622,6 +1622,28 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "mytickets-6ac61f255404c8ecf3d869cc",
+      "source": "MyTickets",
+      "name": "Koththamalli - කොත්තමල්ලි Live In Concert",
+      "description": "<p><strong><u>Koththamalli - කොත්තමල්ලි Live In Concert</u></strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Koththamalli%20-%20%E0%B6%9A%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%92%20Live%20In%20Concert/my%20ticket%20pd.jpg%20(1)%20(1)-1791368992606.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Koththamalli%20-%20%E0%B6%9A%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%92%20Live%20In%20Concert/my%20ticket%20pd.jpg%20(1)%20(1)-1791368992606.jpeg",
+      "venue": "The Grand Marquee - Taj Samudra",
+      "city": "666548e1a03df8fc2ac5a04c",
+      "dateTime": "2026-12-04T14:00:00.000Z",
+      "originalDateStr": "Fri, Dec 4, 2026, 07:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 8000,
+      "ticketLink": "https://mytickets.lk/event/koththamalli-live-in-concert/6ac61f255404c8ecf3d869cc",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.8877274509803925,
+      "longitude": 79.82841568627451
     },
     {
       "id": "oneticket-453",
