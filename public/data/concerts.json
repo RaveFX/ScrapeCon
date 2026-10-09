@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-09T04:35:54.548Z",
+  "lastSyncTime": "2026-10-09T12:35:03.331Z",
   "counts": {
-    "MyTickets": 19,
+    "MyTickets": 21,
     "OneTicket": 19,
-    "TicketsMinistry": 51,
-    "Total": 89
+    "TicketsMinistry": 52,
+    "Total": 92
   },
   "concerts": [
     {
@@ -769,6 +769,28 @@
       "longitude": 79.8551343
     },
     {
+      "id": "mytickets-6ac86ff79efed26011082278",
+      "source": "MyTickets",
+      "name": "Teens On Fire Live In Concert",
+      "description": "<p><strong><u>Teens On Fire Live In Concert</u></strong></p><p><br></p><p>Get ready for an unforgettable night of live music as Teens on Fire Live in Concert brings your favorite stars and coaches from The Voice Teens Sri Lanka together on one stage!</p><p><br></p><p>Featured Performers:</p><p>Coaches: Sanka Dineth, Raini Charuka, Mihindu Ariyarathna and Yasas Medagedara</p><p>Teens Stars: Janiru Kavinda (Winner), Seniru Dilmith, Shrinath Pathum,&nbsp;Thasindu Nimesh and Voice Stars&nbsp;</p><p><br></p><p>Event Details:</p><p>Date: Saturday, 24th October 2026</p><p>Time: 6:30 PM onwards</p><p>Venue: Stein Studio, Ratmalana</p><p><br></p><p>Ticket Categories:</p><p>Elite: LKR 10,000/=</p><p>Premium Plus: LKR 7,500/=</p><p>Premium: LKR 5,000/=</p><p>General: LKR 2,000/=</p><p>Standard: LKR 1,000/=</p><p><br></p><p>Tickets are available exclusively on MyTickets.lk . Don't miss out on this high-energy musical experience!</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/banner%201.jpg-1791520955585.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/banner%201.jpg-1791520955585.jpeg",
+      "venue": "Stein Studios Ratmalana",
+      "city": "666548e1a03df8fc2ac5a5fb",
+      "dateTime": "2026-10-24T13:00:00.000Z",
+      "originalDateStr": "Sat, Oct 24, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/teens-on-fire-live-in-concert/6ac86ff79efed26011082278",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.891805882352942,
+      "longitude": 79.84661176470588
+    },
+    {
       "id": "mytickets-6a6cb88cc0bde00160fa0120",
       "source": "MyTickets",
       "name": "Mathakaya Asurin - මතකය ඇසුරින්",
@@ -792,29 +814,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1319",
-      "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
-    },
-    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -836,6 +835,29 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
+    },
+    {
+      "id": "ticketsministry-1319",
+      "source": "TicketsMinistry",
+      "name": "NEGOMBO OKTOBERFEST 2026",
+      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
+      "venue": "Sentido Heritance Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 49000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.2347,
+      "longitude": 79.8413
     },
     {
       "id": "ticketsministry-1294",
@@ -906,29 +928,6 @@
       "longitude": 79.82370980392156
     },
     {
-      "id": "ticketsministry-1253",
-      "source": "TicketsMinistry",
-      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
-      "venue": "Radisson Blu Resort Galle",
-      "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 6.052549600000001,
-      "longitude": 80.1813931
-    },
-    {
       "id": "ticketsministry-1311",
       "source": "TicketsMinistry",
       "name": "HALLOWEEN PARTY",
@@ -950,6 +949,29 @@
       ],
       "latitude": 7.29323279271429,
       "longitude": 80.63580157500003
+    },
+    {
+      "id": "ticketsministry-1253",
+      "source": "TicketsMinistry",
+      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
+      "venue": "Radisson Blu Resort Galle",
+      "city": "Galle",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Oktoberfest"
+      ],
+      "latitude": 6.052549600000001,
+      "longitude": 80.1813931
     },
     {
       "id": "ticketsministry-1271",
@@ -1368,6 +1390,28 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "mytickets-6ac7663f80fc380bf3925ecc",
+      "source": "MyTickets",
+      "name": "NYTFLY",
+      "description": "<h1><strong>\"NYTFLY\"</strong></h1><p><br></p><p><strong>MORE THAN A CONCERT.</strong></p><p><br></p><p>එක රැයක්…</p><p>සංගීතමය හැඟීම් පහක්…</p><p>ජීවිතයට අමතක නොවන අපූරු ගමනක්…</p><p><br></p><p>සංගීතය කියන්නේ ඇසෙන දෙයක් විතරමද?</p><p>නැත්නම් අපේ හදවතේ ගැඹුරටම දැනෙන හැඟීමක්ද?</p><p><br></p><p>ආදරය, ආශාව, මතකයන්, නිහඬ බව, උද්වේගය සහ ජීවිතයේ අලුත් පිබිදීම…</p><p><br></p><p>මේ හැම හැඟීමක්ම එකම රාත්‍රියක අත්විඳින්නට ලැබුණොත්?</p><p><br></p><p>AWAKEN • DESIRE • DEPTH • CHAOS • IGNITE</p><p><br></p><p>ඔබේම හැඟීම් අතරින් ඔබව රැගෙන යන අසමසම සංගීත චාරිකාව…</p><p><br></p><p>NYTFLY – FLIGHT 001</p><p><br></p><p>&nbsp;SANUKA × WINDY</p><p>&nbsp;DANITH SRI</p><p>&nbsp;WASTHI</p><p>&nbsp;HOOMBAR LIVE</p><p><br></p><p>සංගීතයේ වෙනස්ම ලෝක පහක්…</p><p>එකම වේදිකාවක, එකම රාත්‍රියක…</p><p><br></p><p>📅 2026 නොවැම්බර් 21 සෙනසුරාදා</p><p>🕡 සවස 6.30 සිට</p><p>📍 De Mazenod College Auditorium, Kandana</p><p><br></p><p>🎟️ Tickets from Rs. 2,500/-</p><p><br></p><p>මෙය තවත් එක් ප්‍රසංගයක් පමණක් නොවේ…</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/NYTFLY/Final%20hooombar%20poster%201080x1080_page-0001-1791451678596.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/NYTFLY/Final%20hooombar%20poster%201080x1080_page-0001-1791451678596.jpg",
+      "venue": "De Mazenod College",
+      "city": "666548e1a03df8fc2ac5a2f7",
+      "dateTime": "2026-11-21T13:00:00.000Z",
+      "originalDateStr": "Sat, Nov 21, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/nytfly/6ac7663f80fc380bf3925ecc",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.899021568627451,
+      "longitude": 79.84849411764705
     },
     {
       "id": "mytickets-6a72b00a3891a9c45bfe96d1",
@@ -1949,12 +1993,35 @@
       "longitude": 79.8736
     },
     {
+      "id": "ticketsministry-1333",
+      "source": "TicketsMinistry",
+      "name": "BLAZING ABYSS",
+      "description": "<p>Blazing Abyss 2026 is a spectacular outdoor electronic music festival, bringing together international and local artists to promote tourism, celebrate music, and establish Sri Lanka’s southern coast as an entertainment destination.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/S1AXcArNhuRUEm6uy9livfEFPoJivyOaVzYKW7PX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/YG9RAbta834K5KnksmGdvXYbOtxqqvOCwtQf1eWs.jpg",
+      "venue": "Mirissa",
+      "city": "Mirissa",
+      "dateTime": "2026-12-19T10:00:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 03:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 0,
+      "maxPrice": 0,
+      "ticketLink": "https://www.ticketsministry.com/concerts/blazing-abyss/6ac7895c772b1",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 5.948262,
+      "longitude": 80.4715866
+    },
+    {
       "id": "mytickets-6ac346cf1dd1050809b9ded1",
       "source": "MyTickets",
       "name": "Bodare Vol. 1",
-      "description": "<p><strong>Bodare Vol. 1</strong></p><p><br></p><p>Fearless presents BODARE VOL. 1 - A true and gritty hip-hop experience bringing together different sounds, styles, identities and energies on one stage.</p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Main Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 5:00 PM</p><p><br></p><p>LINEUP</p><p><br></p><p>Reezy</p><p>Tikx Kooda</p><p>KK</p><p>AJ Leon</p><p>Sando</p><p>Lilvin999</p><p>Soul Distortion</p><p>Elorath</p><p><br></p><p>TICKETS</p><p><br></p><p>Pre sale — LKR 4,000</p><p>At the Gate — LKR 5,000</p><p><br></p><p>Come early. Stay late.</p><p>Follow: @wearebodare</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol%20.1/WhatsApp%20Image%202026-10-05%20at%2012.46.32%20PM-1791184657789.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol%20.1/WhatsApp%20Image%202026-10-05%20at%2012.46.32%20PM-1791184657789.jpeg",
+      "description": "<h1><strong>ᴇᴍʙʀᴀᴄᴇ ᴛʜᴇ ᴄʜᴀᴏꜱ • ᴊᴏɪɴ ᴛʜᴇ ᴍᴏᴠᴇᴍᴇɴᴛ</strong></h1><p><br></p><h2>Fearless presents <strong>BODARE VOL. 1 </strong>- A true and gritty hip-hop experience bringing together different sounds, styles, identities and energies on one stage.</h2><p><br></p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Lotus Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 1:00 PM</p><p><br></p><p><strong>LINEUP</strong></p><p><br></p><p><strong>Reezy</strong></p><p><strong>Tikx Kooda</strong></p><p><strong>KK</strong></p><p><strong>AJ Leon</strong></p><p><strong>Sando</strong></p><p><strong>Lilvin999</strong></p><p><strong>Soul Distortion</strong></p><p><strong>Elorath and more</strong></p><p><br></p><p>TICKETS</p><p><br></p><p>Pre sale — LKR 4,000</p><p>At the Gate — LKR 5,000</p><p><br></p><p>Come early. Stay late.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
       "venue": "Grand Orient Hotel Colombo",
       "city": "666548e1a03df8fc2ac5a04a",
       "dateTime": "2026-12-19T11:30:00.000Z",
