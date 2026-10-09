@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-09T12:35:03.331Z",
+  "lastSyncTime": "2026-10-09T19:15:23.521Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 19,
@@ -90,7 +90,7 @@
       "minPrice": 2500,
       "maxPrice": 2500,
       "ticketLink": "https://oneticket.lk/event/genz-fest-2026",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Event",
