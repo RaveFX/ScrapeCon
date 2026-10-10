@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-10-09T23:48:35.322Z",
+  "lastSyncTime": "2026-10-10T04:21:48.699Z",
   "counts": {
-    "MyTickets": 21,
+    "MyTickets": 20,
     "OneTicket": 19,
     "TicketsMinistry": 52,
-    "Total": 92
+    "Total": 91
   },
   "concerts": [
-    {
-      "id": "mytickets-6a7daa07d556332fdf77addb",
-      "source": "MyTickets",
-      "name": "WAYO AT THE EDGE",
-      "description": "<h1><strong><u>WAYO AT THE EDGE has been rescheduled to 9th October 2026.</u></strong></h1><p><br></p><p><strong style=\"color: rgb(230, 0, 0);\">Refund requests will be accepted until 12:00 midnight on 1st October. Any requests submitted after the stated cut-off time will not be processed.</strong></p><p><strong style=\"color: rgb(230, 0, 0);\">This term applies only to customers who have already purchased tickets for the event originally scheduled for 25 September.</strong></p><p><br></p><p><br></p><p>WAYO AT THE EDGE - Music hits different at the Edge. 🎶🔥</p><p><em>Get ready for a night where live music, great food, chilled drinks, and good company all come together. Experience WAYO featuring Shihan &amp; Dhanith Sri live under the open sky, with the perfect atmosphere to sing, dance, grab a bite, raise a glass, and enjoy the night your way.</em></p><p><em>Bring your crew. Come for the music, stay for the vibe.</em> 🍻✨</p><p><br></p><p>📅 NEW DATE: 09 OCTOBER 2026</p><p>⏱️ 7 PM</p><p>📍 Waters Edge Outdoor Premises</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <em>( Beer Bench Free Seating for 8 person)</em> - 7,500 LKR / PP</p><p>GENERAL Access <em>(Beer Bench Free Seating for 8 person)</em> - 5000 LKR / PP</p><p><br></p><p><strong>Table Booking:</strong></p><p>To reserve a table, please select <strong>8 tickets from the same table number</strong>.</p><p><strong>Important:</strong> Once a table or seat reservation is confirmed, <strong>no changes, cancellations, or transfers will be permitted under any circumstances</strong>, in accordance with the <strong>MyTickets Ticket Policy</strong>.</p><p><br></p><p>Proudly presented by Madhi Events in collaboration with Rolling and Action Entertainment. See you at the edge — where memories happen.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/WAYO%20AT%20THE%20EDGE/1X1-1786630624468.jpg",
-      "venue": "Waters Edge Outdoor Car Park - Battaramulla",
-      "city": "666548e1a03df8fc2ac5a0e5",
-      "dateTime": "2026-10-09T13:30:00.000Z",
-      "originalDateStr": "Fri, Oct 9, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/wayo-at-the-edge/6a7daa07d556332fdf77addb",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9055,
-      "longitude": 79.9114
-    },
     {
       "id": "ticketsministry-1291",
       "source": "TicketsMinistry",
@@ -213,29 +191,6 @@
       "longitude": 80.525142
     },
     {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -257,6 +212,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1259",
+      "source": "TicketsMinistry",
+      "name": "THE GRAND FEST 2026",
+      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-10T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 100000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
+      "status": "sold-out",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
@@ -814,29 +792,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
       "id": "ticketsministry-1319",
       "source": "TicketsMinistry",
       "name": "NEGOMBO OKTOBERFEST 2026",
@@ -881,6 +836,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1244",
+      "source": "TicketsMinistry",
+      "name": "ADARANEEYA HENDAWAK",
+      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1286",
@@ -1137,29 +1115,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -1181,6 +1136,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
