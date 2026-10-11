@@ -1,56 +1,12 @@
 {
-  "lastSyncTime": "2026-10-10T21:09:59.438Z",
+  "lastSyncTime": "2026-10-11T00:40:24.935Z",
   "counts": {
-    "MyTickets": 20,
+    "MyTickets": 18,
     "OneTicket": 18,
     "TicketsMinistry": 50,
-    "Total": 88
+    "Total": 86
   },
   "concerts": [
-    {
-      "id": "mytickets-6a1952370caee981ed82a24d",
-      "source": "MyTickets",
-      "name": "Prema Rathriya - ප්‍රේම රාත්‍රිය ",
-      "description": "<p><strong>Prema Rathriya - ප්‍රේම රාත්‍රිය&nbsp;</strong></p><p><br></p><p>🔥 තව දවස් 30යි! 🔥</p><p>🎶 සංගීතයෙන්, රසවින්දනයෙන් පිරුණු අමතක නොවන රාත්‍රියකට ඔබ සූදානම්ද? 💜</p><p><br></p><p>🎤 Avatar Live Music Band</p><p>✨ Biggest Musical Night is coming!</p><p><br></p><p>📍 President School Ground – Minuwangoda</p><p>📅 October 10 | 7PM onwards</p><p><br></p><p>🎟️ Tickets දැන්ම වෙන් කරගන්න!</p><p>🎟️ Online Tickets: 900 LKR&nbsp;</p><p>https://mytickets.lk/events/6a1952370caee981ed82a24d</p><p>🎟️ At the Gate: 1000 LKR</p><p>🎟️VIP: 3000 LKR</p><p><br></p><p>📞 Contact for Info &amp; Tickets: 077 555 6568 / 0777 30 21 90</p><p>Proudly presented by MJ Entertainment</p><p>🔥 Friends එක්ක Share කරලා මේ Musical Night එක miss කරන්න එපා!</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Prema%20Rathriya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92%E0%B6%BA%20/1x1%20Mytickets.jpg%20(1)-1780044230450.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Prema%20Rathriya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%BB%E0%B7%8F%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92%E0%B6%BA%20/1x1%20Mytickets.jpg%20(1)-1780044230450.jpeg",
-      "venue": "Minuwangoda President College Ground",
-      "city": "666548e1a03df8fc2ac5a48f",
-      "dateTime": "2026-10-10T13:30:00.000Z",
-      "originalDateStr": "Sat, Oct 10, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 900,
-      "maxPrice": 3000,
-      "ticketLink": "https://mytickets.lk/event/prema-rathriya/6a1952370caee981ed82a24d",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.938550980392157,
-      "longitude": 79.89084705882352
-    },
-    {
-      "id": "mytickets-6a801f23e51fdb905424af0c",
-      "source": "MyTickets",
-      "name": "BnS Hadagasma -The Unplugged  Concert ",
-      "description": "<p>𝐁𝐧𝐒 𝐇𝐚𝐝𝐚𝐠𝐚𝐬𝐦𝐚: 𝐓𝐡𝐞 𝐔𝐧𝐩𝐥𝐮𝐠𝐠𝐞𝐝 𝐂𝐨𝐧𝐜𝐞𝐫𝐭</p><p><br></p><p>We’re bringing back the magic of 𝐇𝐚𝐝𝐚𝐠𝐚𝐬𝐦𝐚 an unplugged evening with Bathiya &amp; Santhush.</p><p><br></p><p>📅 Date: 10th October 2026</p><p>📍 Venue: Musaeus College, Auditorium&nbsp;</p><p>🕢 Time: 7:30 PM onwards</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%F0%9D%90%81%F0%9D%90%A7%F0%9D%90%92%20%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9A%20-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD/HADAGASMA%20NOVEMBER%202026%20mytickets.jpg-1786781134778.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%F0%9D%90%81%F0%9D%90%A7%F0%9D%90%92%20%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9A%F0%9D%90%A0%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A6%F0%9D%90%9A%20-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%9E%20%F0%9D%90%94%F0%9D%90%A7%F0%9D%90%A9%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%A0%F0%9D%90%9E%F0%9D%90%9D%20%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AD/HADAGASMA%20NOVEMBER%202026%20mytickets.jpg-1786781134778.jpeg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-10-10T14:00:00.000Z",
-      "originalDateStr": "Sat, Oct 10, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/bns-hadagasma-the-unplugged-concert/6a801f23e51fdb905424af0c",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
     {
       "id": "ticketsministry-1221",
       "source": "TicketsMinistry",
