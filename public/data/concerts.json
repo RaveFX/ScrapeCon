@@ -1,127 +1,12 @@
 {
-  "lastSyncTime": "2026-10-11T00:40:24.935Z",
+  "lastSyncTime": "2026-10-11T08:17:25.020Z",
   "counts": {
     "MyTickets": 18,
-    "OneTicket": 18,
-    "TicketsMinistry": 50,
-    "Total": 86
+    "OneTicket": 19,
+    "TicketsMinistry": 45,
+    "Total": 82
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1221",
-      "source": "TicketsMinistry",
-      "name": "SENSATION LIVE IN CONCERT ALAWWA",
-      "description": "<p>Outdoor music show</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202607211122-sensation-live-in-concert-alawwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/AffGKLFS7qCxngQKYEI1zVPgOj6UYsRI71wang8r.jpg",
-      "venue": "Alawwa Public Ground",
-      "city": "Alawwa",
-      "dateTime": "2026-10-10T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 10, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sensation-live-in-concert-alawwa/6a5f092c0ebf8",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.295998692711573,
-      "longitude": 80.22938217500008
-    },
-    {
-      "id": "ticketsministry-1301",
-      "source": "TicketsMinistry",
-      "name": "BAJAUWWA",
-      "description": "<p>Sing Along with Sudath Nawlage – A Night Full of Fun!</p><p>Enjoy an amazing outdoor concert with Sudath Nawlage’s popular songs and a special DJ performance.</p><p>Relax, enjoy delicious food and drinks, dance, and have a great time with your friends and family.</p><p>The hotel is located facing the beach, giving you the perfect beach vibe with the fresh sea breeze and beautiful surroundings.</p><p>Enjoy great music, tasty food, dancing, and a memorable night by the beach.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202609261330-bajauwwa-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202609261330-bajauwwa-thumbnail.jpg",
-      "venue": "Kay Jay Beach Front Hotel",
-      "city": "Uswetakeiyawa",
-      "dateTime": "2026-10-10T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 10, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 10000,
-      "maxPrice": 30000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/bajauwwa/6ab77b93aca6f",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Singalong concert"
-      ],
-      "latitude": 7.033562292968351,
-      "longitude": 79.85862737419039
-    },
-    {
-      "id": "ticketsministry-1259",
-      "source": "TicketsMinistry",
-      "name": "THE GRAND FEST 2026",
-      "description": "<p>Get ready for The Grand Fest 2026, an unforgettable night of live music and entertainment at Grandezza Hotel, Negombo.</p><p>📅 10th October 2026 | 7:00 PM onwards  </p><p>🎤 Featuring Daddy with Shihan Mihiranga</p><p>🍾 BYOB — Bring Your Own Booze! Food and other beverages will be available for purchase at the venue.</p><p>🎟️ VIP 10-Pax Table — LKR 100,000 (includes 1 complimentary bottle of liquor)  </p><p>🎟️ VIP Single — LKR 10,000  </p><p>🎟️ General 10-Pax — LKR 60,000  </p><p>🎟️ General Single — LKR 6,500</p><p>Bring your crew and get ready for The Grand Fest 2026 — a night of music, energy and celebration</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9BpibKq7P8WmKQP44kgOQZpyfgcPY6dLMUAiKMpm.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/HXItQnGC0n7LqljqnpIScVdNlLlItgUPon9BUU1b.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-10T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 10, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 100000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-grand-fest-2026/81e28c94-677f-41ff-9404-ee6710ed0b86",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
-      "id": "ticketsministry-1290",
-      "source": "TicketsMinistry",
-      "name": "HARMONY FOR HUMANITY",
-      "description": "<p>Lions Club of Matara Ruhunu Millennium proudly presents “Harmony for Humanity”, an unforgettable evening of music, entertainment and fellowship in support of a greater tomorrow.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6uhUFh9OewkGzD4wkiHoZHuKg4rBpepRBZ3GjWLz.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dmQwxuJ6N1qy2WP5DflgegkLfVGAO8an7x9CzBFK.jpg",
-      "venue": "Sanaya Mansion - Matara",
-      "city": "Matara",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/harmony-for-humanity/1ce1da37-9b47-494f-8f7b-b638412263a0",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.9442569999999995,
-      "longitude": 80.525142
-    },
-    {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>Adareta mathakayak</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608191042-adareta-mathakayak-thumbnail.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-10-10T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 11, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
-    },
     {
       "id": "mytickets-6a84384e8b28dae979bfe07d",
       "source": "MyTickets",
@@ -377,30 +262,6 @@
       ],
       "latitude": 6.904041176470589,
       "longitude": 79.87359215686274
-    },
-    {
-      "id": "oneticket-427",
-      "source": "OneTicket",
-      "name": "රම්බරී the concert",
-      "description": "රම්බරී the concert happening at Musaeus College. Date & Time: Sun, Oct 18, 2026, 12:30 AM. Tickets start from 4000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/79824949-513ce158-f10d-49cf-8d9d-d182653c710f.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/23830872-67d5accc-3d1d-4d0b-98eb-79d33e2dd59e.jpg",
-      "venue": "Musaeus College",
-      "city": "Musaeus College",
-      "dateTime": "2026-10-17T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 4000,
-      "ticketLink": "https://oneticket.lk/event/රමබර-the-concert",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
     },
     {
       "id": "ticketsministry-1278",
@@ -678,29 +539,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1319",
-      "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
-    },
-    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
@@ -722,6 +560,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1319",
+      "source": "TicketsMinistry",
+      "name": "NEGOMBO OKTOBERFEST 2026",
+      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
+      "venue": "Sentido Heritance Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 49000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.2347,
+      "longitude": 79.8413
     },
     {
       "id": "ticketsministry-1244",
@@ -792,29 +653,6 @@
       "longitude": 79.82370980392156
     },
     {
-      "id": "ticketsministry-1253",
-      "source": "TicketsMinistry",
-      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
-      "venue": "Radisson Blu Resort Galle",
-      "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 6.052549600000001,
-      "longitude": 80.1813931
-    },
-    {
       "id": "ticketsministry-1311",
       "source": "TicketsMinistry",
       "name": "HALLOWEEN PARTY",
@@ -836,6 +674,29 @@
       ],
       "latitude": 7.29323279271429,
       "longitude": 80.63580157500003
+    },
+    {
+      "id": "ticketsministry-1253",
+      "source": "TicketsMinistry",
+      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
+      "venue": "Radisson Blu Resort Galle",
+      "city": "Galle",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Oktoberfest"
+      ],
+      "latitude": 6.052549600000001,
+      "longitude": 80.1813931
     },
     {
       "id": "ticketsministry-1271",
@@ -1001,29 +862,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -1045,6 +883,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -1209,6 +1070,30 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "oneticket-427",
+      "source": "OneTicket",
+      "name": "රම්බරී the concert",
+      "description": "රම්බරී the concert happening at Musaeus College. Date & Time: Mon, Nov 16, 2026, 12:30 AM. Tickets start from 4000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/79824949-513ce158-f10d-49cf-8d9d-d182653c710f.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/23830872-67d5accc-3d1d-4d0b-98eb-79d33e2dd59e.jpg",
+      "venue": "Musaeus College",
+      "city": "Musaeus College",
+      "dateTime": "2026-11-15T19:00:00.000Z",
+      "originalDateStr": "Mon, Nov 16, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://oneticket.lk/event/රමබර-the-concert",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
     },
     {
       "id": "mytickets-6a82b47f95bb41016919efb8",
@@ -1602,30 +1487,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1279",
-      "source": "TicketsMinistry",
-      "name": "FOUR NOTES",
-      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1321",
       "source": "TicketsMinistry",
       "name": "MARIANS WITH NEWS",
@@ -1648,6 +1509,30 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1279",
+      "source": "TicketsMinistry",
+      "name": "FOUR NOTES",
+      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1247",
@@ -1718,6 +1603,30 @@
         "Indoor"
       ],
       "latitude": 6.896825490196079,
+      "longitude": 79.87453333333333
+    },
+    {
+      "id": "oneticket-461",
+      "source": "OneTicket",
+      "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
+      "description": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert happening at Viharamahadevi Outdoor. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/25957265-36f9b08b-212e-47bb-802e-24e798a7e7af.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/22870010-e53e1acc-d32b-4d5d-bac7-395a7473715b.jpg",
+      "venue": "Viharamahadevi Outdoor",
+      "city": "Viharamahadevi Outdoor",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/dopamine-heenayak-live-in-concert",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9335313725490195,
       "longitude": 79.87453333333333
     },
     {
@@ -1876,8 +1785,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 5.948262,
-      "longitude": 80.4715866
+      "latitude": 5.951581072363866,
+      "longitude": 80.42285450072872
     },
     {
       "id": "mytickets-6ac346cf1dd1050809b9ded1",
