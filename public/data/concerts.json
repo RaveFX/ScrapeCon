@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-10-12T00:58:13.734Z",
+  "lastSyncTime": "2026-10-12T08:36:56.616Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 18,
-    "TicketsMinistry": 44,
-    "Total": 78
+    "TicketsMinistry": 48,
+    "Total": 82
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1297",
-      "source": "TicketsMinistry",
-      "name": "ANANTHAYA PK MUSIC ACADEMY LIVE IN CONCERT",
-      "description": "<p>This is Live in concert.Feature Guest Artist Shashika Nisansala.So Backed By Pk music Academy Music Band.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/T6YhAAqQ8Vu4pXOndt7vZx6bU8ynqEd3ymx8xsYB.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/bfKxPi17nX2cFpSzsBnqdMVPMnFeqT8VGOs9EFMp.jpg",
-      "venue": "YMBA Auditorium",
-      "city": "Colombo 08",
-      "dateTime": "2026-10-11T18:30:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/ananthaya-pk-music-academy-live-in-concert/cd4547ea-1d5b-4e38-890b-648192ff007a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.91343269308608,
-      "longitude": 79.87461837524435
-    },
-    {
-      "id": "ticketsministry-1293",
-      "source": "TicketsMinistry",
-      "name": "KARL LUTCHMAYER IN RECITAL",
-      "description": "<p>The Chamber Music Society of Colombo (CMSC) is pleased to announce a distinguished piano recital by the internationally celebrated pianist and musicologist Dr. Karl Lutchmayer. The performance will be held on Sunday, 11th October 2026, at 7:00 PM at the Goethe-Institut Hall, Colombo.In addition to the recital, Dr. Lutchmayer will conduct a masterclass for advanced pianists on Saturday, 10th October 2026, offering a rare opportunity for serious students and emerging professionals to engage directly with an artist of global stature. This concert is made possible through the generous support of Baurs & Co., The Rukmini Tissanayagam Trust, the Tokyo Cement Group, and the Goethe-Institut.Equally renowned as a soloist, chamber musician, and academic, Karl Lutchmayer holds the distinction of being the first Steinway Artist of Indian origin. His international career spans performances across four continents, with collaborations alongside conductors such as Sir Andrew Davis, Lorin Maazel, Neil Thomson, and Peter Stark. He has appeared with major ensembles including the Philharmonia Orchestra and the National Youth Orchestra of Great Britain, and has been featured on BBC Television and Radio, Classic FM, and All India Radio.In the UK, Lutchmayer is widely celebrated for his Conversational Concerts series, through which he champions both rare and contemporary repertoire.He has given over 90 world premieres of works by composers including Henri Dutilleux, George Benjamin, and Thomas Adès. His 2025 Chandos recording of Busoni’s solo and duo piano music with Peter Donohoe received extensive critical acclaim, with International Piano describing their ensemble playing as “magnificent” and Gramophone praising his “artfully balanced” artistry.Lutchmayer trained at the Royal College of Music, where he was awarded the Hopkinson Medal by Queen Elizabeth, The Queen Mother, before pursuing advanced studies under Lev Naumov at the Moscow Conservatoire. He holds an MPhil in Musicology from the University of Oxford and a PhD from the University of Cambridge. In 2015, he was honored with the Bharat Gaurav (Pride of India) Lifetime Achievement Award in recognition of his enduring contribution to Western classical music in India.Commenting on the upcoming engagement, CMSC Artistic Director Lakshman Joseph-de Saram said:“We are honored to welcome Karl Lutchmayer to the Colombo stage. Karl is a fiery virtuoso and a master communicator who unites formidable technical command with intellectual insight. Presenting an artist of his international standing in Sri Lanka aligns directly with the CMSC’s core vision of bringing world-class musical experiences to our audience.”Recital ProgrammeBeethoven — Sonata in B-flat major, Op. 22Haydn — Sonata in C major, Hob. XVI:50Grieg — Notturno, Op. 54, No. 4Brahms — Drei Intermezzi, Op. 117Ravel — Ondine from Gaspard de la Nuit, M. 55Liszt — 3 Études from Grandes études de Paganini, S. 141</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/IHjtDsUeIlYPBgGufN77VVeDhoupMRfZMJFDmUfh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202609180057-karl-lutchmayer-in-recital-thumbnail.jpg",
-      "venue": "The Goethe Institute Colombo",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-11T19:00:00.000Z",
-      "originalDateStr": "Mon, Oct 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/karl-lutchmayer-in-recital/6aac401e88a39",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.9098561,
-      "longitude": 79.87089619999999
-    },
     {
       "id": "oneticket-440",
       "source": "OneTicket",
@@ -470,6 +424,29 @@
       "longitude": 79.8736
     },
     {
+      "id": "ticketsministry-1294",
+      "source": "TicketsMinistry",
+      "name": "SNEHAYE NAGARAYA KANDY 6.0",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
+    },
+    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -514,29 +491,6 @@
       ],
       "latitude": 7.2347,
       "longitude": 79.8413
-    },
-    {
-      "id": "ticketsministry-1294",
-      "source": "TicketsMinistry",
-      "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1286",
@@ -584,29 +538,6 @@
       "longitude": 79.82370980392156
     },
     {
-      "id": "ticketsministry-1253",
-      "source": "TicketsMinistry",
-      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
-      "venue": "Radisson Blu Resort Galle",
-      "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 6.052549600000001,
-      "longitude": 80.1813931
-    },
-    {
       "id": "ticketsministry-1311",
       "source": "TicketsMinistry",
       "name": "HALLOWEEN PARTY",
@@ -628,6 +559,29 @@
       ],
       "latitude": 7.29323279271429,
       "longitude": 80.63580157500003
+    },
+    {
+      "id": "ticketsministry-1253",
+      "source": "TicketsMinistry",
+      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
+      "venue": "Radisson Blu Resort Galle",
+      "city": "Galle",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Oktoberfest"
+      ],
+      "latitude": 6.052549600000001,
+      "longitude": 80.1813931
     },
     {
       "id": "ticketsministry-1271",
@@ -793,29 +747,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -837,6 +768,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -1673,6 +1627,28 @@
       "longitude": 79.8736
     },
     {
+      "id": "mytickets-6ac346cf1dd1050809b9ded1",
+      "source": "MyTickets",
+      "name": "Bodare Vol. 1",
+      "description": "<h1><strong>ᴇᴍʙʀᴀᴄᴇ ᴛʜᴇ ᴄʜᴀᴏꜱ • ᴊᴏɪɴ ᴛʜᴇ ᴍᴏᴠᴇᴍᴇɴᴛ</strong></h1><p><br></p><h2>Fearless presents <strong>BODARE VOL. 1 </strong>- A true and gritty hip-hop experience bringing together different sounds, styles, identities and energies on one stage.</h2><p><br></p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Lotus Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 1:00 PM</p><p><br></p><p><strong>LINEUP</strong></p><p><br></p><p><strong>Reezy</strong></p><p><strong>Tikx Kooda</strong></p><p><strong>KK</strong></p><p><strong>AJ Leon</strong></p><p><strong>Sando</strong></p><p><strong>Lilvin999</strong></p><p><strong>Soul Distortion</strong></p><p><strong>Elorath and more</strong></p><p><br></p><p>TICKETS</p><p><br></p><p>Pre sale — LKR 4,000</p><p>At the Gate — LKR 5,000</p><p><br></p><p>Come early. Stay late.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
+      "venue": "Grand Oriental Hotel Colombo",
+      "city": "666548e1a03df8fc2ac5a04a",
+      "dateTime": "2026-12-19T07:30:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 01:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://mytickets.lk/event/bodare-vol-1/6ac346cf1dd1050809b9ded1",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.901217647058823,
+      "longitude": 79.84347450980391
+    },
+    {
       "id": "ticketsministry-1333",
       "source": "TicketsMinistry",
       "name": "BLAZING ABYSS",
@@ -1694,28 +1670,6 @@
       ],
       "latitude": 5.951581072363866,
       "longitude": 80.42285450072872
-    },
-    {
-      "id": "mytickets-6ac346cf1dd1050809b9ded1",
-      "source": "MyTickets",
-      "name": "Bodare Vol. 1",
-      "description": "<h1><strong>ᴇᴍʙʀᴀᴄᴇ ᴛʜᴇ ᴄʜᴀᴏꜱ • ᴊᴏɪɴ ᴛʜᴇ ᴍᴏᴠᴇᴍᴇɴᴛ</strong></h1><p><br></p><h2>Fearless presents <strong>BODARE VOL. 1 </strong>- A true and gritty hip-hop experience bringing together different sounds, styles, identities and energies on one stage.</h2><p><br></p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Lotus Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 1:00 PM</p><p><br></p><p><strong>LINEUP</strong></p><p><br></p><p><strong>Reezy</strong></p><p><strong>Tikx Kooda</strong></p><p><strong>KK</strong></p><p><strong>AJ Leon</strong></p><p><strong>Sando</strong></p><p><strong>Lilvin999</strong></p><p><strong>Soul Distortion</strong></p><p><strong>Elorath and more</strong></p><p><br></p><p>TICKETS</p><p><br></p><p>Pre sale — LKR 4,000</p><p>At the Gate — LKR 5,000</p><p><br></p><p>Come early. Stay late.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
-      "venue": "Grand Orient Hotel Colombo",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-12-19T11:30:00.000Z",
-      "originalDateStr": "Sat, Dec 19, 2026, 05:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 4000,
-      "ticketLink": "https://mytickets.lk/event/bodare-vol-1/6ac346cf1dd1050809b9ded1",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.901217647058823,
-      "longitude": 79.84347450980391
     },
     {
       "id": "ticketsministry-1322",
@@ -1785,6 +1739,144 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1335",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON NUWARA ELIYA - 26TH DECEMBER",
+      "description": "<p>PUB LONDON PARANA PUB EKA - NUWARA ELIYA The best event this season is ready for you, the biggest pub in nuwara eliya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/JxxSvrG26Gk1lqiIkU9er7jqhCYargCcaQpcNDSU.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/R2O3DYXVrL5JcrXSmvdHcoXiaDjc5cZPVfZpx9Vm.png",
+      "venue": "Nuwara Eliya",
+      "city": "Nuwara Eliya",
+      "dateTime": "2026-12-26T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 27, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-26th-december/6acc6cf7a03b0",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9513662,
+      "longitude": 80.780947
+    },
+    {
+      "id": "ticketsministry-1336",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON NUWARA ELIYA 27TH DECEMBER",
+      "description": "<p>PUB LONDON PARANA PUB EKA - NUWARA ELIYA The best event this season is ready for you, the biggest pub in nuwara eliya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/RG7h5PSqQG2FAGVtRFLzu2z2bb4O6xFYEiHfqFL0.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SUUkK79iBSzT8rp0ihStCtg8Qt3jzpKWTcBHQL3U.png",
+      "venue": "Nuwara Eliya",
+      "city": "Nuwara Eliya",
+      "dateTime": "2026-12-27T19:00:00.000Z",
+      "originalDateStr": "Mon, Dec 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-27th-december/6acc71d2cb17b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9513662,
+      "longitude": 80.780947
+    },
+    {
+      "id": "ticketsministry-1337",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON NUWARA ELIYA 28TH DECEMBER",
+      "description": "<p>PUB LONDON PARANA PUB EKA - NUWARA ELIYA The best event this season is ready for you, the biggest pub in nuwara eliya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/CxqpvGZlcRuQeR9FZ52swem4wltYYvi2MJJMeozo.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/BiU7NoecQVslJVq8q0NdcjY6sOmjH1ArpZeSDNsk.png",
+      "venue": "Nuwara Eliya",
+      "city": "Nuwara Eliya",
+      "dateTime": "2026-12-28T19:00:00.000Z",
+      "originalDateStr": "Tue, Dec 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-28th-december/6acc721d192ef",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9513662,
+      "longitude": 80.780947
+    },
+    {
+      "id": "ticketsministry-1338",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON NUWARA ELIYA 29TH DECEMBER",
+      "description": "<p>PUB LONDON PARANA PUB EKA - NUWARA ELIYA The best event this season is ready for you, the biggest pub in nuwara eliya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/H4rZE0x7VGgq1azF46PS2ber1QDiPfN9IXZArKa5.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/tYy7RWZLXbJRPsYrpE9PN0LmSzM70LL2mpizdDVj.png",
+      "venue": "Nuwara Eliya",
+      "city": "Nuwara Eliya",
+      "dateTime": "2026-12-29T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 30, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-29th-december/6acc725dbdbcf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9513662,
+      "longitude": 80.780947
+    },
+    {
+      "id": "ticketsministry-1339",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON NUWARA ELIYA 30TH DECEMBER",
+      "description": "<p>PUB LONDON PARANA PUB EKA - NUWARA ELIYA The best event this season is ready for you, the biggest pub in nuwara eliya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/tzwqtXGNEuhtP2mVUTGN1OYZjjMgCJSIKDccYxQX.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/MR8tD5WJvvSboubFJXaaLsY5MRsF7XNHTPiwxUjI.png",
+      "venue": "Nuwara Eliya",
+      "city": "Nuwara Eliya",
+      "dateTime": "2026-12-30T19:00:00.000Z",
+      "originalDateStr": "Thu, Dec 31, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-30th-december/6acc729c56892",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9513662,
+      "longitude": 80.780947
+    },
+    {
+      "id": "ticketsministry-1340",
+      "source": "TicketsMinistry",
+      "name": "PUB LONDON NUWARA ELIYA 31ST DECEMBER",
+      "description": "<p>PUB LONDON PARANA PUB EKA - NUWARA ELIYA The best event this season is ready for you, the biggest pub in nuwara eliya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Aygr02zgqlWxLBP06078dZqyofRK2OTcHI1QH4aV.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qg161YSH4EkmBub14PVkuSHQIvtZ3evKVCETne7k.png",
+      "venue": "Nuwara Eliya",
+      "city": "Nuwara Eliya",
+      "dateTime": "2026-12-31T19:00:00.000Z",
+      "originalDateStr": "Fri, Jan 1, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 25000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-31st-december/6acc72cb747b0",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9513662,
+      "longitude": 80.780947
     },
     {
       "id": "oneticket-421",
