@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-12T08:36:56.616Z",
+  "lastSyncTime": "2026-10-12T19:37:07.022Z",
   "counts": {
-    "MyTickets": 16,
-    "OneTicket": 18,
+    "MyTickets": 17,
+    "OneTicket": 20,
     "TicketsMinistry": 48,
-    "Total": 82
+    "Total": 85
   },
   "concerts": [
     {
@@ -401,6 +401,28 @@
       "longitude": 79.84661176470588
     },
     {
+      "id": "mytickets-6ac8a553caa021d310bb8fc3",
+      "source": "MyTickets",
+      "name": "පුරාණය Reborn Live In Concert - Puranaya Reborn Live In Concert",
+      "description": "<h1><strong>පුරාණය Reborn Live In Concert&nbsp;</strong></h1><p><br></p><p>වසර විස්සකට පසුව සිරස සුපර් ස්ටාර් තරු තාරකාවන් මුල් වතාවට එකම වේදිකාවේ දී මුණ ගැසෙන දැවැන්තම සජීවී ප්‍රසංගය පුරාණය live in concert ඔක්තෝබර් 24 වෙනිදා රාත්‍රී 9 සිට&nbsp;රාගම බැසිලිකා විද්‍යාලීය ක්‍රීඩාංගණයේදී.&nbsp;</p><p><br></p><ul><li>සංගීතය තීක්ෂණ අනුරාධ ප්‍රමුඛ OCTAVE</li><li>සිරස සුපස්ටාර් අජිත් බණ්ඩාර</li><li>සුරේන්ද්‍ර පෙරේරා</li><li>අමිලා නදීෂානි</li><li>නිලන් හෙට්ටිආරච්චි</li><li>තීක්ෂණ අනුරාධ</li><li>ප්‍රියත් රාජපක්ෂ</li><li>නලින්ද රණසිංහ</li><li>නදිනී ප්‍රේමදාස</li><li>මොහාන් දර්ශන</li><li>බුද්ධික උෂාන් ගීතවත් වෙයි.</li></ul>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Puranaya%20-%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AB%E0%B6%BA%20/social%20meadia%20new.jpg-1791534096656.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Puranaya%20-%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AB%E0%B6%BA%20/social%20meadia%20new.jpg-1791534096656.jpg",
+      "venue": "Basilica College Ground,Ragama",
+      "city": "666548e1a03df8fc2ac5a5db",
+      "dateTime": "2026-10-24T13:30:00.000Z",
+      "originalDateStr": "Sat, Oct 24, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 2500,
+      "ticketLink": "https://mytickets.lk/event/reborn-live-in-concert-puranaya-reborn-live-in-concert/6ac8a553caa021d310bb8fc3",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.956119607843138,
+      "longitude": 79.8525725490196
+    },
+    {
       "id": "mytickets-6a6cb88cc0bde00160fa0120",
       "source": "MyTickets",
       "name": "Mathakaya Asurin - මතකය ඇසුරින්",
@@ -424,29 +446,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1294",
-      "source": "TicketsMinistry",
-      "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
-    },
-    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -468,6 +467,29 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
+    },
+    {
+      "id": "ticketsministry-1294",
+      "source": "TicketsMinistry",
+      "name": "SNEHAYE NAGARAYA KANDY 6.0",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 12000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1319",
@@ -996,7 +1018,8 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Outdoor Musical Concert",
+        "Featured"
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
@@ -1229,6 +1252,30 @@
         "Indoor"
       ],
       "latitude": 6.896198039215687,
+      "longitude": 79.87453333333333
+    },
+    {
+      "id": "oneticket-463",
+      "source": "OneTicket",
+      "name": "Yවර්ණ",
+      "description": "Yවර්ණ happening at Sahas Uyana. Date & Time: Sun, Nov 29, 2026, 12:30 AM. Tickets start from 2000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/65356175-33040836-5586-4504-8538-be046411c4c9.png",
+      "posterUrl": "https://storage.googleapis.com/oneticket/40573463-f8de4b6f-8652-48e9-b57d-4fd8c538e2fc.png",
+      "venue": "Sahas Uyana",
+      "city": "Sahas Uyana",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 2000,
+      "ticketLink": "https://oneticket.lk/event/yවරණ",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.934158823529412,
       "longitude": 79.87453333333333
     },
     {
@@ -1753,7 +1800,7 @@
       "originalDateStr": "Sun, Dec 27, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 25000,
+      "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-26th-december/6acc6cf7a03b0",
       "status": "active",
       "tags": [
@@ -1776,7 +1823,7 @@
       "originalDateStr": "Mon, Dec 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 25000,
+      "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-27th-december/6acc71d2cb17b",
       "status": "active",
       "tags": [
@@ -1799,7 +1846,7 @@
       "originalDateStr": "Tue, Dec 29, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 25000,
+      "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-28th-december/6acc721d192ef",
       "status": "active",
       "tags": [
@@ -1822,7 +1869,7 @@
       "originalDateStr": "Wed, Dec 30, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 25000,
+      "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-29th-december/6acc725dbdbcf",
       "status": "active",
       "tags": [
@@ -1845,7 +1892,7 @@
       "originalDateStr": "Thu, Dec 31, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 25000,
+      "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-30th-december/6acc729c56892",
       "status": "active",
       "tags": [
@@ -1868,7 +1915,7 @@
       "originalDateStr": "Fri, Jan 1, 2027, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
-      "maxPrice": 25000,
+      "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-nuwara-eliya-31st-december/6acc72cb747b0",
       "status": "active",
       "tags": [
@@ -1901,6 +1948,30 @@
       ],
       "latitude": 6.9197,
       "longitude": 79.8519
+    },
+    {
+      "id": "oneticket-464",
+      "source": "OneTicket",
+      "name": "Spirit of the Night",
+      "description": "Spirit of the Night happening at Ramadia Grand, Moratuwa. Date & Time: Fri, Jan 22, 2027, 01:30 AM. Tickets start from 6500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/90601150-a66fa8b1-c287-4f50-9602-2809dd750e25.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/52416950-81676c2c-2889-44cf-b29d-3731bc4aaad8.jpg",
+      "venue": "Ramadia Grand, Moratuwa",
+      "city": "Ramadia Grand, Moratuwa",
+      "dateTime": "2027-01-21T20:00:00.000Z",
+      "originalDateStr": "Fri, Jan 22, 2027, 01:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 6500,
+      "ticketLink": "https://oneticket.lk/event/spirit-of-the-night",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.934472549019608,
+      "longitude": 79.87453333333333
     }
   ]
 }
