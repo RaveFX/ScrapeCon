@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-14T14:53:07.743Z",
+  "lastSyncTime": "2026-10-14T19:58:08.684Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 20,
@@ -1149,7 +1149,7 @@
       "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 20000,
+      "maxPrice": 25000,
       "ticketLink": "https://www.ticketsministry.com/concerts/illusya/a04b175e-b31b-4f2a-83bb-7c07f524fd33",
       "status": "active",
       "tags": [
