@@ -1,36 +1,12 @@
 {
-  "lastSyncTime": "2026-10-15T03:13:40.021Z",
+  "lastSyncTime": "2026-10-15T08:51:17.968Z",
   "counts": {
-    "MyTickets": 17,
-    "OneTicket": 20,
-    "TicketsMinistry": 49,
-    "Total": 86
+    "MyTickets": 16,
+    "OneTicket": 19,
+    "TicketsMinistry": 48,
+    "Total": 83
   },
   "concerts": [
-    {
-      "id": "oneticket-440",
-      "source": "OneTicket",
-      "name": "AAYU Live in Concert",
-      "description": "AAYU Live in Concert happening at Dharmaloka Hall. Date & Time: Wed, Oct 14, 2026, 11:00 PM. Tickets start from 1000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/86914031-f5131d5d-c1c9-48b3-8c2f-5a48978b618e.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/62145342-33e82a2e-f206-4ce6-aa88-78db56e30e41.jpg",
-      "venue": "Dharmaloka Hall",
-      "city": "Dharmaloka Hall",
-      "dateTime": "2026-10-14T17:30:00.000Z",
-      "originalDateStr": "Wed, Oct 14, 2026, 11:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 1000,
-      "ticketLink": "https://oneticket.lk/event/aayu-live-in-concert",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.913766666666667,
-      "longitude": 79.87453333333333
-    },
     {
       "id": "mytickets-6a950d9dd0858700a832c42f",
       "source": "MyTickets",
@@ -58,7 +34,7 @@
       "source": "TicketsMinistry",
       "name": "UNFOUND WAREHOUSE EDITION",
       "description": "<p>An intimate, long-form progressive music experience built for those who come to truly listen. Inside Park Street Warehouse, A-JAY and Jayy Vibes lead an extended journey alongside Farshan, Zyklon and Samuel. From the opening movement to the final hours, the night will unfold through deep grooves, patient progression and carefully controlled energy. No oversized spectacle. No distractions. Just exceptional music, immersive sound and a raw warehouse atmosphere—shared by a limited crowd of 700. This is the first chapter of UNFOUND.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7RZk9rxf9MUaQ5jAYL0wIsLS3Vwo73qv7XSazXiA.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/DKbQHFs5ysvKGKg6li1639k4mX9qQUVuioy6I62U.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/4t4WoXsnqLw6Qk3npgbCUy7u9re3legs4PFeHy7X.jpg",
       "venue": "Park Street Warehouse - Restaurant & Pub",
       "city": "Colombo 02",
@@ -724,7 +700,7 @@
       "id": "oneticket-452",
       "source": "OneTicket",
       "name": "Uduravee",
-      "description": "Uduravee happening at Nidahas Mawatha. Date & Time: Sun, Nov 8, 2026, 12:00 AM. Tickets start from 3000 LKR.",
+      "description": "Uduravee happening at Nidahas Mawatha. Date & Time: Sun, Nov 8, 2026, 12:00 AM. Tickets start from 2000 LKR.",
       "bannerUrl": "https://storage.googleapis.com/oneticket/35377722-52c7d677-f080-4378-90aa-b0db62aec701.jpg",
       "posterUrl": "https://storage.googleapis.com/oneticket/75167512-131f3a01-52de-45b8-ac70-694faef0fb63.jpg",
       "venue": "Nidahas Mawatha",
@@ -732,8 +708,8 @@
       "dateTime": "2026-11-07T18:30:00.000Z",
       "originalDateStr": "Sun, Nov 8, 2026, 12:00 AM",
       "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
+      "minPrice": 2000,
+      "maxPrice": 2000,
       "ticketLink": "https://oneticket.lk/event/uduraweee",
       "status": "active",
       "tags": [
@@ -769,29 +745,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -813,6 +766,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>This is an event organized by the Lions Club of Galkissa, which focuses on fundraising for Humanitarian Services</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -1025,29 +1001,6 @@
       "longitude": 79.81500565289788
     },
     {
-      "id": "ticketsministry-1343",
-      "source": "TicketsMinistry",
-      "name": "PAHASARANI LIVE IN CONCERT",
-      "description": "<p>Pahasarani 2026 Live in Concert is an exciting musical event organized by the Management Students’ Union of the Faculty of Management, University of Peradeniya. The concert will feature popular Sri Lankan artists, including Chamara Weerasinghe, Shirley Waijayantha, Kaizer Kaiz, Dinesh Gamage, Kaveesha Kaviraj, and Sanka Dineth, with music by Yaka Crew and compering by Moksha Prasad. The event promises an unforgettable evening filled with live music, vibrant performances, and amazing entertainment on 20th November 2026, from 7.00 PM onwards, at the University Gymnasium, Peradeniya.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202610131548-pahasarani-live-in-concert-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202610131548-pahasarani-live-in-concert-thumbnail.jpg",
-      "venue": "Gymnasium - University of Peradeniya",
-      "city": "Kandy",
-      "dateTime": "2026-11-20T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pahasarani-live-in-concert/6ace05599fd0a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.255931292750765,
-      "longitude": 80.59250327499966
-    },
-    {
       "id": "mytickets-6ac7663f80fc380bf3925ecc",
       "source": "MyTickets",
       "name": "NYTFLY",
@@ -1090,28 +1043,6 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
-    },
-    {
-      "id": "mytickets-6a57140eaa5331ca7ddc7b43",
-      "source": "MyTickets",
-      "name": "Marians Unplugged 20th Anniversary ",
-      "description": "<p>Marians Unplugged 20th Anniversary&nbsp;- Matara</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/1x1.jpg%20(2)_2160x2160-1790133868117.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/1x1.jpg%20(2)_2160x2160-1790133868117.jpg",
-      "venue": "Rabindranath Tagore Memorial Auditorium",
-      "city": "666548e1a03df8fc2ac5a453",
-      "dateTime": "2026-11-21T13:30:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/marians-unplugged-20th-anniversary/6a57140eaa5331ca7ddc7b43",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9495313725490195,
-      "longitude": 79.85665098039216
     },
     {
       "id": "ticketsministry-1325",
@@ -1678,7 +1609,7 @@
       "id": "mytickets-6aa7dd39774525f787efc9ba",
       "source": "MyTickets",
       "name": "Rangira Maa - රන් ගිර මා ",
-      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>﻿හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 6.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
+      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 6.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "venue": "BMICH - COLOMBO",
