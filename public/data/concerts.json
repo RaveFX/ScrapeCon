@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-16T03:09:24.081Z",
+  "lastSyncTime": "2026-10-16T08:44:51.330Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 19,
@@ -1315,7 +1315,7 @@
       "originalDateStr": "Fri, Dec 4, 2026, 07:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 6000,
-      "maxPrice": 8000,
+      "maxPrice": 10000,
       "ticketLink": "https://mytickets.lk/event/koththamalli-live-in-concert/6ac61f255404c8ecf3d869cc",
       "status": "active",
       "tags": [
