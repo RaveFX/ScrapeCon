@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-16T19:18:02.958Z",
+  "lastSyncTime": "2026-10-16T22:31:20.641Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 18,
-    "TicketsMinistry": 49,
-    "Total": 83
+    "TicketsMinistry": 50,
+    "Total": 84
   },
   "concerts": [
     {
@@ -265,9 +265,9 @@
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608162129-newschoolcommunity-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608162129-newschoolcommunity-thumbnail.jpg",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 23rd October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
       "venue": "Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-10-23T18:00:00.000Z",
@@ -510,6 +510,29 @@
       ],
       "latitude": 6.914394117647059,
       "longitude": 79.82370980392156
+    },
+    {
+      "id": "ticketsministry-1348",
+      "source": "TicketsMinistry",
+      "name": "MIND YOUR MUSIC 2026 - ROMANTICS TO ROCK Mind ‘N’ ROLL - COLOMBO EDITION",
+      "description": "<p>The Trinity College Choir's Mind Your Music concert can be considered as a modest attempt to showcase the Choir's wide variety of repertoire, incorporating a broad array of music of different styles, genres and eras. In 'Romantics to Rock 'n Roll', we celebrate the great Romantic works, that have earned lasting reverence since the time of their composition, and explore, across the decades, the music that came to define entire generations. Through this concert, Choristers receive a greater sense of appreciation towards all forms and styles of music, distinguishing and appreciating the nuances and styles of each. The fact that almost all the music performed are specially arranged for the character of the Choir, save for those musical pieces composed by the Masters and recognized choral arrangements, helps the Choristers to absorb the experience fully.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610161453-mind-your-music-2026---romantics-to-rock-‘n’-roll---colombo-edition-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/oXmTa9fpn3SsVSa2JbKV6SRxbxjCXuuTNKLrhOoI.jpg",
+      "venue": "The Lionel Wendt",
+      "city": "Colombo 07",
+      "dateTime": "2026-10-29T18:30:00.000Z",
+      "originalDateStr": "Fri, Oct 30, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 3000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/mind-your-music-2026-romantics-to-rock-mind-n-roll-colombo-edition/6ad1ef4d86a8a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.906927065169236,
+      "longitude": 79.86040848895234
     },
     {
       "id": "ticketsministry-1253",
