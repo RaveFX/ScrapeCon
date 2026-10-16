@@ -1,9 +1,9 @@
 {
-  "lastSyncTime": "2026-10-16T08:44:51.330Z",
+  "lastSyncTime": "2026-10-16T14:31:27.227Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 19,
-    "TicketsMinistry": 48,
+    "OneTicket": 18,
+    "TicketsMinistry": 49,
     "Total": 83
   },
   "concerts": [
@@ -191,30 +191,6 @@
       ],
       "latitude": 6.929766666666667,
       "longitude": 79.84127843137254
-    },
-    {
-      "id": "oneticket-371",
-      "source": "OneTicket",
-      "name": "Twenty 2",
-      "description": "Twenty 2 happening at Musaeus College Auditorium. Date & Time: Sun, Oct 18, 2026, 11:30 PM. Tickets start from 5000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/55052559-ac1cfc7a-1cf2-4ba2-99d1-253fe14c4813.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/56655067-06f6bf3a-3aff-40f2-b13e-3701c9b16810.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Musaeus College Auditorium",
-      "dateTime": "2026-10-18T18:00:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 5000,
-      "ticketLink": "https://oneticket.lk/event/twenty-2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
     },
     {
       "id": "mytickets-6aad1eb848012dccf365931f",
@@ -999,6 +975,29 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "ticketsministry-1343",
+      "source": "TicketsMinistry",
+      "name": "PAHASARANI LIVE IN CONCERT",
+      "description": "<p>Pahasarani 2026 Live in Concert is an exciting musical event organized by the Management Students’ Union of the Faculty of Management, University of Peradeniya. The concert will feature popular Sri Lankan artists, including Chamara Weerasinghe, Shirley Waijayantha, Kaizer Kaiz, Dinesh Gamage, Kaveesha Kaviraj, and Sanka Dineth, with music by Yaka Crew and compering by Moksha Prasad. The event promises an unforgettable evening filled with live music, vibrant performances, and amazing entertainment on 20th November 2026, from 7.00 PM onwards, at the University Gymnasium, Peradeniya.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6MTTIio9rt1Poppmzd1uXdhtS0jTaFI6QzhLRTce.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/bLZIrXmfyEl8NRz5dmb15t8amvU70XR0nmPocsGf.jpg",
+      "venue": "Gymnasium - University of Peradeniya",
+      "city": "Kandy",
+      "dateTime": "2026-11-20T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 21, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/pahasarani-live-in-concert/6ace05599fd0a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.255931292750765,
+      "longitude": 80.59250327499966
     },
     {
       "id": "mytickets-6ac7663f80fc380bf3925ecc",
