@@ -1,36 +1,12 @@
 {
-  "lastSyncTime": "2026-10-17T16:49:57.126Z",
+  "lastSyncTime": "2026-10-17T20:07:37.132Z",
   "counts": {
     "MyTickets": 15,
-    "OneTicket": 19,
+    "OneTicket": 17,
     "TicketsMinistry": 49,
-    "Total": 83
+    "Total": 81
   },
   "concerts": [
-    {
-      "id": "oneticket-442",
-      "source": "OneTicket",
-      "name": "මා නිසා",
-      "description": "මා නිසා happening at Rabindranath Tagore Auditorium,University of Ruhuna. Date & Time: Sun, Oct 18, 2026, 12:00 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/60200774-a736354b-3349-4b5a-9c1a-764ce102e154.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/20544383-2e28aad4-b039-42ec-8429-64edc42b06b6.jpg",
-      "venue": "Rabindranath Tagore Auditorium,University of Ruhuna",
-      "city": "Rabindranath Tagore Auditorium,University of Ruhuna",
-      "dateTime": "2026-10-17T18:30:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/ම-නස",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 5.9381,
-      "longitude": 80.5762
-    },
     {
       "id": "ticketsministry-1278",
       "source": "TicketsMinistry",
@@ -77,30 +53,6 @@
       ],
       "latitude": 6.904041176470589,
       "longitude": 79.87359215686274
-    },
-    {
-      "id": "oneticket-456",
-      "source": "OneTicket",
-      "name": "මාතරට පිස්සුවක් Live in Concert - Chapter 01",
-      "description": "මාතරට පිස්සුවක් Live in Concert - Chapter 01 happening at Matara Fort Ground. Date & Time: Sun, Oct 18, 2026, 12:30 AM. Tickets start from 900 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/63614605-91c96c52-cd24-49d5-b091-2fe0376c9ea3.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/20942154-5247276f-8233-4217-835d-5d63d28e7d6f.jpg",
-      "venue": "Matara Fort Ground",
-      "city": "Matara Fort Ground",
-      "dateTime": "2026-10-17T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 900,
-      "maxPrice": 900,
-      "ticketLink": "https://oneticket.lk/event/meka-nam-pissuwak-live-in-concert",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.925374509803921,
-      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1240",
