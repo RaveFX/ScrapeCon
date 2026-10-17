@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-17T20:07:37.132Z",
+  "lastSyncTime": "2026-10-17T23:44:21.380Z",
   "counts": {
     "MyTickets": 15,
-    "OneTicket": 17,
+    "OneTicket": 16,
     "TicketsMinistry": 49,
-    "Total": 81
+    "Total": 80
   },
   "concerts": [
     {
@@ -29,30 +29,6 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
-    },
-    {
-      "id": "oneticket-397",
-      "source": "OneTicket",
-      "name": "හැන්දෑවක පුරාගමනය Anuradhapura",
-      "description": "හැන්දෑවක පුරාගමනය Anuradhapura happening at Anuradhapura. Date & Time: Sun, Oct 18, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/56390066-dd38404c-6eea-430f-b6b0-8e67b9df9369.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/99965006-e4c64197-c7d0-4bd0-9ac5-ffcad9721627.jpg",
-      "venue": "Anuradhapura",
-      "city": "Anuradhapura",
-      "dateTime": "2026-10-17T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/හනදවක-පරගමනය-anuradhapura",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.904041176470589,
-      "longitude": 79.87359215686274
     },
     {
       "id": "ticketsministry-1240",
