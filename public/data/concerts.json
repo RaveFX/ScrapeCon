@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-17T13:27:39.270Z",
+  "lastSyncTime": "2026-10-17T16:49:57.126Z",
   "counts": {
     "MyTickets": 15,
     "OneTicket": 19,
@@ -22,7 +22,7 @@
       "minPrice": 2500,
       "maxPrice": 2500,
       "ticketLink": "https://oneticket.lk/event/ම-නස",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Event",
@@ -93,7 +93,7 @@
       "minPrice": 900,
       "maxPrice": 900,
       "ticketLink": "https://oneticket.lk/event/meka-nam-pissuwak-live-in-concert",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Event",
