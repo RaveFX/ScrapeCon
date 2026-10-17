@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-10-17T03:00:56.342Z",
+  "lastSyncTime": "2026-10-17T08:15:21.470Z",
   "counts": {
     "MyTickets": 15,
-    "OneTicket": 18,
-    "TicketsMinistry": 50,
+    "OneTicket": 19,
+    "TicketsMinistry": 49,
     "Total": 83
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1273",
-      "source": "TicketsMinistry",
-      "name": "UNFOUND WAREHOUSE EDITION",
-      "description": "<p>An intimate, long-form progressive music experience built for those who come to truly listen. Inside Park Street Warehouse, A-JAY and Jayy Vibes lead an extended journey alongside Farshan, Zyklon and Samuel. From the opening movement to the final hours, the night will unfold through deep grooves, patient progression and carefully controlled energy. No oversized spectacle. No distractions. Just exceptional music, immersive sound and a raw warehouse atmosphere—shared by a limited crowd of 700. This is the first chapter of UNFOUND.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/DKbQHFs5ysvKGKg6li1639k4mX9qQUVuioy6I62U.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/4t4WoXsnqLw6Qk3npgbCUy7u9re3legs4PFeHy7X.jpg",
-      "venue": "Park Street Warehouse - Restaurant & Pub",
-      "city": "Colombo 02",
-      "dateTime": "2026-10-16T18:00:00.000Z",
-      "originalDateStr": "Fri, Oct 16, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/unfound-warehouse-edition/6aa0298687d1b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.917464718429467,
-      "longitude": 79.85621391129827
-    },
     {
       "id": "oneticket-442",
       "source": "OneTicket",
@@ -169,6 +146,30 @@
       ],
       "latitude": 6.929766666666667,
       "longitude": 79.84127843137254
+    },
+    {
+      "id": "oneticket-371",
+      "source": "OneTicket",
+      "name": "Twenty 2",
+      "description": "Twenty 2 happening at Musaeus College Auditorium. Date & Time: Sun, Oct 18, 2026, 11:30 PM. Tickets start from 5000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/55052559-ac1cfc7a-1cf2-4ba2-99d1-253fe14c4813.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/56655067-06f6bf3a-3aff-40f2-b13e-3701c9b16810.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Musaeus College Auditorium",
+      "dateTime": "2026-10-18T18:00:00.000Z",
+      "originalDateStr": "Sun, Oct 18, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://oneticket.lk/event/twenty-2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
     },
     {
       "id": "mytickets-6aad1eb848012dccf365931f",
@@ -771,7 +772,7 @@
       "id": "ticketsministry-1281",
       "source": "TicketsMinistry",
       "name": "AMARANEEYA SWARA EDITION 02",
-      "description": "<p>Amaraneeya swara edition 02</p>",
+      "description": "<p>Amaraneeya Swara -Chapter 2 Indoor concert එකේ Tickets වෙන් කරගන්න ලැබෙන අවසන් අවස්ථාව මෙය විය හැක.</p><p>🚨 ONLY FEW TICKETS LEFT!</p><p>• Balcony (LKR 4,000)</p><p>• Silver (LKR 6,000)</p><p>• Gold (LKR 7,500)</p><p>• Platinum (LKR 10,000)</p><p>• VIP (LKR 15,000)</p><p>📅 Nov 7, 2026 | 7:30 PM</p><p>📍 Musaeus College Auditorium</p><p>Don't wait! Secure your seats NOW 🤝</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/T6CkXbII7Zt6A8JZ6qze4B1daDpU5bUwSIEjVqye.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/E3KORCOPy0LXN2QkJzoxkPAngCub7eMqz9l5Jpeb.jpg",
       "venue": "Musaeus College Auditorium",
