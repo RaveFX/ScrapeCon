@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-18T03:02:58.842Z",
+  "lastSyncTime": "2026-10-18T08:32:38.551Z",
   "counts": {
     "MyTickets": 15,
     "OneTicket": 16,
@@ -7,29 +7,6 @@
     "Total": 80
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1278",
-      "source": "TicketsMinistry",
-      "name": "MARIANS AT WAVE AND LAKE",
-      "description": "<p>Marians at Wave & Lake promises an exciting live musical experience featuring the iconic Marians, energetic performances, DJs, and a vibrant concert atmosphere. What makes it special is the combination of live music, entertainment, and a unique lakeside venue, making it ideal for music lovers, friends, couples, families, and anyone looking for a memorable night out.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/2bhrp2z4vzjcvllvG9FoL3iUNMtASUU35t1gZ0b1.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/nqlGPYyT7PFfZmAWNbS1uDAZ34qrM1WnwAyKZCNZ.jpg",
-      "venue": "Wave n' Lake Navy Banquet Hall",
-      "city": "Ragama",
-      "dateTime": "2026-10-17T18:30:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/marians-at-wave-and-lake/c0bcce60-bb13-48a9-aabe-b75e6409f156",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
     {
       "id": "ticketsministry-1240",
       "source": "TicketsMinistry",
@@ -305,29 +282,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1319",
-      "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
-    },
-    {
       "id": "ticketsministry-1244",
       "source": "TicketsMinistry",
       "name": "ADARANEEYA HENDAWAK",
@@ -351,10 +305,33 @@
       "longitude": 80.02386807500172
     },
     {
+      "id": "ticketsministry-1319",
+      "source": "TicketsMinistry",
+      "name": "NEGOMBO OKTOBERFEST 2026",
+      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
+      "venue": "Sentido Heritance Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 49000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.2347,
+      "longitude": 79.8413
+    },
+    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව </p>",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව .</p><p>එතෙක් මෙතෙක් ඉතිහාසයේ ප්‍රථම වරට කන්ද උඩරටට රූකාන්ත ගුණතිලක , සුනිල් එදිරිසිංහ , අමරසිරි පීරිස් ,කසුන් කල්හාර එකට එකවන සැදෑව.</p><p>ප්‍රේක්ෂක ඔබගේ  දැඩි ඉල්ලීම මත නැවතත් ස්නේහයේ නගරය ප්‍රසංගය මහනුවරට.</p><p>සීමිත ප්‍රවේශපත්‍ ප්‍රමාණයක්  නිකුත් කෙරේ.</p><p>සුනිල් එදිරිසිංහ | අමරසිරි පීරිස් | රූකාන්ත ගුණතිලක  |කසුන් කල්හාර</p><p>Date : 24th October 2026</p><p>Venue : NICD Auditorium - Polgolla KANDY</p><p>Time: 7.00pm Onwards </p><p>Ticket Prices:</p><p>2500 balcony </p><p>5000 Silver (ODC)</p><p>6000 Gold (ODC)</p><p>10000 patinun (ODC)</p><p>12000 Vip (ODC)</p><p>ප්‍රේමණීය සිත් සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව 🌼  </p><p>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 - </p><p>0770729716</p><p>0711450334</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
       "venue": "NICD Auditorium Polgolla Kandy",
@@ -651,29 +628,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -695,6 +649,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -1185,6 +1162,29 @@
       "longitude": 81.07332407418981
     },
     {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
+    },
+    {
       "id": "ticketsministry-1280",
       "source": "TicketsMinistry",
       "name": "OBA MA HAMU VU LIVE IN CONCERT",
@@ -1278,30 +1278,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1279",
-      "source": "TicketsMinistry",
-      "name": "FOUR NOTES",
-      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1321",
       "source": "TicketsMinistry",
       "name": "MARIANS WITH NEWS",
@@ -1324,6 +1300,30 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1279",
+      "source": "TicketsMinistry",
+      "name": "FOUR NOTES",
+      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1247",
