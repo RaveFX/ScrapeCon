@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-18T08:32:38.551Z",
+  "lastSyncTime": "2026-10-18T13:46:06.108Z",
   "counts": {
     "MyTickets": 15,
     "OneTicket": 16,
-    "TicketsMinistry": 49,
-    "Total": 80
+    "TicketsMinistry": 50,
+    "Total": 81
   },
   "concerts": [
     {
@@ -351,6 +351,29 @@
       "longitude": 80.64616827419373
     },
     {
+      "id": "ticketsministry-1349",
+      "source": "TicketsMinistry",
+      "name": "VIDYARTHA DINNER DANCE 2026",
+      "description": "<p>Vidyartha Dinner Dance 2026 Wearing our college tie is not compulsory, but it will make the evening even more colourful and meaningful! 💙🩵💛 Dress Code 👔 Gentlemen: Lounge Suit with College Tie 👗 Ladies: Cocktail Dress or Saree 📅 Date: Saturday, 24th October 2026 ⏰ Time: 7:00 PM onwards 📍 Venue: Grand Kandyan Hotel 🐯 Let’s wear our colours with pride and make it a memorable night! 🎉</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610171345-vidyartha-dinner-dance-2026-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/4rYqOXTb31qrjc3IPDXwp9ZszjBogLTCGV4FrLPX.jpg",
+      "venue": "The Grand Kandyan Hotel",
+      "city": "Kandy",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 12500,
+      "maxPrice": 20000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vidyartha-dinner-dance-2026/6ad33bc207c08",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Dinner Dance"
+      ],
+      "latitude": 7.302767192704954,
+      "longitude": 80.63421377500008
+    },
+    {
       "id": "ticketsministry-1286",
       "source": "TicketsMinistry",
       "name": "ORDNANCE RHYTHM NIGHT 2026",
@@ -584,8 +607,8 @@
       "source": "OneTicket",
       "name": "Uduravee",
       "description": "Uduravee happening at Nidahas Mawatha. Date & Time: Sun, Nov 8, 2026, 12:00 AM. Tickets start from 2000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/35377722-52c7d677-f080-4378-90aa-b0db62aec701.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/75167512-131f3a01-52de-45b8-ac70-694faef0fb63.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/61506370-e73f6f86-5e97-4de5-8d66-aa18274708d8.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/86891624-22dceabd-e192-4745-b55a-4e5a07f92708.jpg",
       "venue": "Nidahas Mawatha",
       "city": "Nidahas Mawatha",
       "dateTime": "2026-11-07T18:30:00.000Z",
