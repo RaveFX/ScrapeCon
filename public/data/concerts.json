@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-19T09:35:28.080Z",
+  "lastSyncTime": "2026-10-19T16:47:35.156Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 15,
-    "TicketsMinistry": 50,
-    "Total": 82
+    "TicketsMinistry": 51,
+    "Total": 83
   },
   "concerts": [
     {
@@ -1898,6 +1898,29 @@
       ],
       "latitude": 6.934472549019608,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1347",
+      "source": "TicketsMinistry",
+      "name": "LEGENDS OF LOVE",
+      "description": "<p>A concert that fills you with love, a special evening taking you into a night filled with music, love and pure entertainment. Bring your friends or bring your other half. A night to live, love & enjoy.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/S0RvvBOjzC1mM73j40qB5dwQNbuxw7abnHzZleoc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/jxab576aa4aed4z3xR4CPOVWE5kmRj6bZiCmIf2O.jpg",
+      "venue": "Waters Edge Outdoor",
+      "city": "Battaramulla",
+      "dateTime": "2027-02-13T19:00:00.000Z",
+      "originalDateStr": "Sun, Feb 14, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 40000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/legends-of-love/6ad1ac9a87876",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.905563358876491,
+      "longitude": 79.91147419910696
     }
   ]
 }
