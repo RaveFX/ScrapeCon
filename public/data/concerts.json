@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-19T03:17:09.921Z",
+  "lastSyncTime": "2026-10-19T09:35:28.080Z",
   "counts": {
-    "MyTickets": 14,
-    "OneTicket": 16,
+    "MyTickets": 17,
+    "OneTicket": 15,
     "TicketsMinistry": 50,
-    "Total": 80
+    "Total": 82
   },
   "concerts": [
     {
@@ -29,30 +29,6 @@
       ],
       "latitude": 7.346411807372148,
       "longitude": 79.92045117422727
-    },
-    {
-      "id": "oneticket-371",
-      "source": "OneTicket",
-      "name": "Twenty 2",
-      "description": "Twenty 2 happening at Musaeus College Auditorium. Date & Time: Sun, Oct 18, 2026, 11:30 PM. Tickets start from 5000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/55052559-ac1cfc7a-1cf2-4ba2-99d1-253fe14c4813.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/56655067-06f6bf3a-3aff-40f2-b13e-3701c9b16810.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Musaeus College Auditorium",
-      "dateTime": "2026-10-18T18:00:00.000Z",
-      "originalDateStr": "Sun, Oct 18, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 5000,
-      "ticketLink": "https://oneticket.lk/event/twenty-2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
     },
     {
       "id": "mytickets-6aad1eb848012dccf365931f",
@@ -329,29 +305,6 @@
       "longitude": 80.64616827419373
     },
     {
-      "id": "ticketsministry-1349",
-      "source": "TicketsMinistry",
-      "name": "VIDYARTHA DINNER DANCE 2026",
-      "description": "<p>Vidyartha Dinner Dance 2026 Wearing our college tie is not compulsory, but it will make the evening even more colourful and meaningful! 💙🩵💛 Dress Code 👔 Gentlemen: Lounge Suit with College Tie 👗 Ladies: Cocktail Dress or Saree 📅 Date: Saturday, 24th October 2026 ⏰ Time: 7:00 PM onwards 📍 Venue: Grand Kandyan Hotel 🐯 Let’s wear our colours with pride and make it a memorable night! 🎉</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610171345-vidyartha-dinner-dance-2026-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/4rYqOXTb31qrjc3IPDXwp9ZszjBogLTCGV4FrLPX.jpg",
-      "venue": "The Grand Kandyan Hotel",
-      "city": "Kandy",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 12500,
-      "maxPrice": 20000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/vidyartha-dinner-dance-2026/6ad33bc207c08",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Dinner Dance"
-      ],
-      "latitude": 7.302767192704954,
-      "longitude": 80.63421377500008
-    },
-    {
       "id": "ticketsministry-1286",
       "source": "TicketsMinistry",
       "name": "ORDNANCE RHYTHM NIGHT 2026",
@@ -395,6 +348,28 @@
       ],
       "latitude": 6.914394117647059,
       "longitude": 79.82370980392156
+    },
+    {
+      "id": "mytickets-6ad1ef1fbbf48c27a861ce9c",
+      "source": "MyTickets",
+      "name": "Rhythm Of The Maroons ",
+      "description": "<p><strong><u>Rhythm Of The Maroons&nbsp;</u></strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Of%20The%20Maroons%20/WEB%20BANNER-1792142969634.png",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Of%20The%20Maroons%20/WEB%20BANNER-1792142969634.png",
+      "venue": "Sugathadasa Indoor Stadium",
+      "city": "666548e1a03df8fc2ac5a04a",
+      "dateTime": "2026-10-28T13:30:00.000Z",
+      "originalDateStr": "Wed, Oct 28, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/rhythm-of-the-maroons/6ad1ef1fbbf48c27a861ce9c",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.936041176470589,
+      "longitude": 79.83939607843136
     },
     {
       "id": "ticketsministry-1348",
@@ -1209,10 +1184,32 @@
       "longitude": 80.40448719999999
     },
     {
+      "id": "mytickets-6ad1e3497227da21e86fe514",
+      "source": "MyTickets",
+      "name": "Siyapath Yaya - සියපත් යාය ",
+      "description": "<p><strong><u>Siyapath Yaya - සියපත් යාය&nbsp;</u></strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Siyapath%20Yaya/WhatsApp%20Image%202026-10-16%20at%201.43.35%20PM-1792139864222.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Siyapath%20Yaya/WhatsApp%20Image%202026-10-16%20at%201.43.35%20PM-1792139864222.jpeg",
+      "venue": "Kandy Myst by Cinnamon Hotel",
+      "city": "666548e1a03df8fc2ac5a2fe",
+      "dateTime": "2026-11-29T12:30:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 06:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/siyapath-yaya/6ad1e3497227da21e86fe514",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.911884313725491,
+      "longitude": 79.86167058823528
+    },
+    {
       "id": "ticketsministry-1277",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA 5.0",
-      "description": "<p>ස්නේහයේ නගරය 5.0 LEGEND EDITION</p>",
+      "description": "<p>ප්‍රේමණීය සිත්සතන් ප්‍රේමයෙන් මුණගස්සන මායාකාරීය හවස්වරුව 🌼</p><p>ස්නේහයේනගරය 𝟓.𝟎 - 𝐋𝐞𝐠𝐞𝐧𝐝𝐬 𝐄𝐝𝐢𝐭𝐢𝐨𝐧 </p><p>𝐃𝐚𝐭𝐞 : 𝟐𝟗𝐭𝐡 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟐𝟎𝟐𝟔 </p><p>𝐕𝐞𝐧𝐮𝐞 : 𝐌𝐮𝐬𝐚𝐞𝐮𝐬 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐀𝐮𝐝𝐢𝐭𝐨𝐫𝐢𝐮𝐦  </p><p>𝐓𝐢𝐦𝐞 :𝟎𝟕 :𝟑𝟎 𝐏𝐌</p><p>සුනිල් එදිරිසිංහ | T.M.ජයරත්න |  අමරසිරි පීරිස් | කරුණාරත්න දිවුල්ගනේ | කීර්ති පැස්කුවල් | දයාන් විතාරණ</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/zWtAuRzggK6JtTEAv9C3S3dM2T30sNecYg7KXFSd.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/iF6JnJCIXr09JulUKtcccwk8ES0fUIngstmkxWZ3.jpg",
       "venue": "Musaeus College Auditorium",
@@ -1511,6 +1508,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1350",
+      "source": "TicketsMinistry",
+      "name": "COFFEE WITH SUNEERA BARNHOUSE EDITION",
+      "description": "<p>Coffee With Suneera Barnhouse Edition</p><p>Get ready to discover the person behind the voice, beyond the melodies, beyond the spotlight, with real stories, heartfelt conversation and moments you never seen before..</p><p></p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610191411-coffee-with-suneera-barnhouse-edition.-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/EkHGC6vzqH1iLRRHKjt2T30rZ94WemQEmQ8OTUdK.jpg",
+      "venue": "The Barnhouse",
+      "city": "Panadura",
+      "dateTime": "2026-12-12T16:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 09:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/coffee-with-suneera-barnhouse-edition/6ad5d800de32e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.7300084,
+      "longitude": 79.941921
     },
     {
       "id": "ticketsministry-1326",
@@ -1832,6 +1852,28 @@
       ],
       "latitude": 6.9197,
       "longitude": 79.8519
+    },
+    {
+      "id": "mytickets-6ad1e045dd16d3b5051eca3b",
+      "source": "MyTickets",
+      "name": "Punsanda Raata - පුන්සද රෑට ",
+      "description": "<p>Pundanda Raata - පුන්සද රෑට&nbsp;</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
+      "venue": "Nelum Pokuna Indoor Theater",
+      "city": "666548e1a03df8fc2ac5a050",
+      "dateTime": "2027-01-16T13:00:00.000Z",
+      "originalDateStr": "Sat, Jan 16, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 12500,
+      "ticketLink": "https://mytickets.lk/event/punsanda-raata/6ad1e045dd16d3b5051eca3b",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9089,
+      "longitude": 79.8676
     },
     {
       "id": "oneticket-464",
