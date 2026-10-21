@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-21T09:06:58.261Z",
+  "lastSyncTime": "2026-10-21T14:50:59.345Z",
   "counts": {
-    "MyTickets": 17,
+    "MyTickets": 16,
     "OneTicket": 15,
-    "TicketsMinistry": 51,
-    "Total": 83
+    "TicketsMinistry": 53,
+    "Total": 84
   },
   "concerts": [
     {
@@ -303,28 +303,6 @@
       ],
       "latitude": 6.723637500000001,
       "longitude": 80.0297969
-    },
-    {
-      "id": "mytickets-6aaa291d600f2801ef1ca5df",
-      "source": "MyTickets",
-      "name": "Purawurtha - පුරාවෘත්ත",
-      "description": "<p>Purawurtha - පුරාවෘත්ත</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Purawurtha%20-%20%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%98%E0%B6%AD%E0%B7%8A%E0%B6%AD/New-N.jpg-1789536165888.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Purawurtha%20-%20%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B7%80%E0%B7%98%E0%B6%AD%E0%B7%8A%E0%B6%AD/New-N.jpg-1789536165888.jpeg",
-      "venue": "Provincial Council Auditorium - Kurunegala",
-      "city": "666548e1a03df8fc2ac5a3aa",
-      "dateTime": "2026-10-25T12:30:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 06:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/purawurtha/6aaa291d600f2801ef1ca5df",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.914394117647059,
-      "longitude": 79.82370980392156
     },
     {
       "id": "mytickets-6ad1ef1fbbf48c27a861ce9c",
@@ -1589,7 +1567,7 @@
       "dateTime": "2026-12-19T07:30:00.000Z",
       "originalDateStr": "Sat, Dec 19, 2026, 01:00 PM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
+      "minPrice": 2000,
       "maxPrice": 4000,
       "ticketLink": "https://mytickets.lk/event/bodare-vol-1/6ac346cf1dd1050809b9ded1",
       "status": "active",
@@ -1667,6 +1645,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1355",
+      "source": "TicketsMinistry",
+      "name": "2FORTY2 PADURA",
+      "description": "<p>2FORTY2 PADURA is a unique live music experience that blends timeless Sri Lankan hits, traditional Padura vibes, and an intimate, vibrant atmosphere into one unforgettable night. </p><p>More than just a concert, 2FORTY2 PADURA is designed to create a journey where every beat, every classic sing-along melody, and every moment connects the audience through the power of music and shared rhythm. ​</p><p>Set within the charming ambiance of 80's Club (Colombo 07), this exclusive event brought to you by Epic Fusion Entertainment brings together music lovers, friends, and fans of classic tunes for a night filled with energy, nostalgia, and lasting memories. </p><p>From captivating live performances of your favorite Sri Lankan hits to a warm, engaging crowd atmosphere, 2FORTY2 PADURA is where music becomes a shared community celebration.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wUKbFSXR54wvZU2DjzdaMvrv1XqsDP8n1sTyU8WE.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/jxamni8Rzx3EQcqNQZCu8OAYyeMeHpwQodV5s4aP.jpg",
+      "venue": "80s Club - Colombo 07",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-19T19:30:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/2forty2-padura/6ad8a234d59eb",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9063550000000005,
+      "longitude": 79.8666235
     },
     {
       "id": "ticketsministry-1298",
@@ -1899,6 +1900,29 @@
       ],
       "latitude": 6.934472549019608,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1354",
+      "source": "TicketsMinistry",
+      "name": "CAMELLIA FESTIVAL EDITION",
+      "description": "<p>CAMELLIA FESTIVAL 2027 – WHERE MUSIC BLOOMS</p><p>Step into a magical world of music, art, creativity, and unforgettable experiences at Camellia Festival – Festival Edition, happening on 12th February 2027 at Viharamahadevi Park, Colombo.</p><p>Featuring an incredible lineup of artists:</p><p>Ridma | Supun | Yasas | Suneera | Damsara | Dilu | Mihiran & One Guest Artist </p><p>Get ready for a vibrant celebration where music meets nature and creativity comes alive.</p><p>Explore a variety of unique festival zones, including the </p><p>Main Stage, Rising Stage, Art Garden, Pottery Studio, Food Garden, Life Style, Library, Bloom Gate, and Memory Garden — each offering something special to discover.</p><p>Be part of a festival where every moment blooms into a memory.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/31woJhIEALlevihRFBXGWkHhhwcs90pdCJg4UapQ.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/31woJhIEALlevihRFBXGWkHhhwcs90pdCJg4UapQ.jpg",
+      "venue": "Viharamadevi Open Air Theatre - Colombo",
+      "city": "Colombo 07",
+      "dateTime": "2027-02-12T16:00:00.000Z",
+      "originalDateStr": "Fri, Feb 12, 2027, 09:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 9900,
+      "maxPrice": 9900,
+      "ticketLink": "https://www.ticketsministry.com/concerts/camellia-festival-edition/6ad88f61955bc",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.9128626,
+      "longitude": 79.8639658
     },
     {
       "id": "ticketsministry-1347",
