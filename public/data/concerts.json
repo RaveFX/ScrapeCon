@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-23T09:06:03.094Z",
+  "lastSyncTime": "2026-10-23T14:39:52.572Z",
   "counts": {
-    "MyTickets": 17,
+    "MyTickets": 18,
     "OneTicket": 15,
-    "TicketsMinistry": 54,
-    "Total": 86
+    "TicketsMinistry": 55,
+    "Total": 88
   },
   "concerts": [
     {
@@ -1020,6 +1020,28 @@
       "longitude": 79.81500565289788
     },
     {
+      "id": "mytickets-6adae3d75857bdbbae020b58",
+      "source": "MyTickets",
+      "name": "A Reason To Sing ",
+      "description": "<h2><strong>ASTERIA Female Voice Choir presents “A Reason To Sing” </strong></h2><p><br></p><p>A special concert in memory of its late founder and director, Mahen Peiris.</p><p><br></p><p>Directed and produced by Prashalini Peiris, the choir promises an exciting and diverse musical experience, featuring a vibrant repertoire of choral jazz, pop, ballads, semi-classical music, spirituals and a cappella items. The concert will also feature special guest performances by The De Lanerolle Brothers, Rukshan Perera, and a male TTBB ensemble comprising friends of the late Mahen.</p><p><br></p><p>In keeping with the spirit of this meaningful tribute, the net proceeds from the concert will go towards supporting the Paediatric Ward (Ward 5) of the Base Hospital, Valaichenai, making this a musical celebration with a heartfelt charitable purpose.</p><p><br></p><p>We warmly invite you to purchase your tickets and join us in supporting this worthy cause. Come, be part of an unforgettable evening of music, remembrance and compassion, as together we give ourselves “A Reason To Sing”.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/A%20Reason%20To%20Sing%20/web%20banner%201080x1080.jpg-1792729889696.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/A%20Reason%20To%20Sing%20/web%20banner%201080x1080.jpg-1792729889696.jpeg",
+      "venue": "Ladies' College Auditorium",
+      "city": "666548e1a03df8fc2ac5a04a",
+      "dateTime": "2026-11-28T13:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/a-reason-to-sing/6adae3d75857bdbbae020b58",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.906237254901961,
+      "longitude": 79.82214117647058
+    },
+    {
       "id": "oneticket-457",
       "source": "OneTicket",
       "name": "ඉස්සර මතක 2.0",
@@ -1621,6 +1643,29 @@
       ],
       "latitude": 5.951581072363866,
       "longitude": 80.42285450072872
+    },
+    {
+      "id": "ticketsministry-1353",
+      "source": "TicketsMinistry",
+      "name": "RHUTHM OF LANKA",
+      "description": "<p>Rhythm of Lanka 2026 is a unique international cultural celebration that brings Sri Lankans from around the world together to experience the beauty of our heritage, traditions, music and dance. The event promises spectacular cultural performances, traditional entertainment, fun activities and unforgettable experiences for the whole family. Designed especially for Sri Lankan children and families living overseas, as well as local audiences, Rhythm of Lanka creates a special opportunity to reconnect with Sri Lankan roots and celebrate our cultural identity. *What makes it truly special* is the opportunity to unite Sri Lankan communities from different countries on one stage, celebrating our shared heritage, talent and the spirit of Sri Lanka.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/ATyCQ74GW7r15t6nSw0UWfC6wu00eIrz5n7l9Ywr.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/C1158GVibWJVvcwRdT78WGXjkEXwPAeYSGkd9rvJ.jpg",
+      "venue": "Nelum Pokuna Mahinda Rajapaksha Theatre",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-19T18:19:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 11:49 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 20000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/rhuthm-of-lanka/6ad85f7bee1a3",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.910803193088671,
+      "longitude": 79.8608717749964
     },
     {
       "id": "ticketsministry-1322",
