@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-24T13:49:42.473Z",
+  "lastSyncTime": "2026-10-24T17:12:18.647Z",
   "counts": {
     "MyTickets": 16,
-    "OneTicket": 14,
+    "OneTicket": 15,
     "TicketsMinistry": 55,
-    "Total": 85
+    "Total": 86
   },
   "concerts": [
     {
@@ -45,7 +45,7 @@
       "minPrice": 4000,
       "maxPrice": 10000,
       "ticketLink": "https://www.ticketsministry.com/concerts/open-skies/6ac3a5e9e45eb",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "EDM"
@@ -258,29 +258,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1253",
-      "source": "TicketsMinistry",
-      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
-      "venue": "Radisson Blu Resort Galle",
-      "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 6.052549600000001,
-      "longitude": 80.1813931
-    },
-    {
       "id": "ticketsministry-1311",
       "source": "TicketsMinistry",
       "name": "HALLOWEEN PARTY",
@@ -302,6 +279,29 @@
       ],
       "latitude": 7.29323279271429,
       "longitude": 80.63580157500003
+    },
+    {
+      "id": "ticketsministry-1253",
+      "source": "TicketsMinistry",
+      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
+      "venue": "Radisson Blu Resort Galle",
+      "city": "Galle",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Oktoberfest"
+      ],
+      "latitude": 6.052549600000001,
+      "longitude": 80.1813931
     },
     {
       "id": "ticketsministry-1271",
@@ -375,7 +375,7 @@
       "id": "ticketsministry-1252",
       "source": "TicketsMinistry",
       "name": "MANDAKINI",
-      "description": "<p>Mandakini</p>",
+      "description": "<p>🎟️⚡මේ 𝐋𝐢𝐧𝐞-𝐮𝐩 එකට 𝐍𝐄𝐖𝐒 𝐁𝐚𝐜𝐤 කරනකම් බලන් හිටපු යාළුවාව 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 කරන්න! 🎸⚡</p><p>ආලෝකයේ වේගයෙන්... සංගීතයේ මන්දාකිණි වෙත! 🌌⚡</p><p>🔥 Phase 01 Tickets Out Now!</p><p>Mandakini </p><p>🎼 𝐓𝐇𝐄 𝐀𝐑𝐓𝐈𝐒𝐓 𝐋𝐈𝐍𝐄-𝐔𝐏:</p><p>▪️ Sarith Surith</p><p>▪️ Yasas Medagedara</p><p>▪️ Yashodha Medagedara</p><p>▪️ Supun Perera</p><p>▪️ Raveen Tharuka</p><p>▪️ Lakshitha Mihiran</p><p>▪️ Uvindu Ashcharya</p><p>▪️ Dilu Beats</p><p>▪️ Asantha Peiris</p><p>📍 Venue: BMICH Outdoor</p><p>📅 Date: November 06</p><p>📞 Inquiries & Reservations: Raveesha - 0702 399 555</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202608121644-mandakini-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608121644-mandakini-thumbnail.jpg",
       "venue": "BMICH Outdoor Premises",
@@ -384,7 +384,7 @@
       "originalDateStr": "Sat, Nov 7, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 2000,
-      "maxPrice": 30000,
+      "maxPrice": 40000,
       "ticketLink": "https://www.ticketsministry.com/concerts/mandakini/6a7c5581aa046",
       "status": "active",
       "tags": [
@@ -905,29 +905,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1257",
-      "source": "TicketsMinistry",
-      "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-27T18:00:00.000Z",
-      "originalDateStr": "Fri, Nov 27, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
-    {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
@@ -971,6 +948,29 @@
       ],
       "latitude": 6.906237254901961,
       "longitude": 79.82214117647058
+    },
+    {
+      "id": "ticketsministry-1257",
+      "source": "TicketsMinistry",
+      "name": "NEWSCHOOLCOMMUNITY",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
+      "venue": "Port City Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
     },
     {
       "id": "oneticket-457",
@@ -1068,29 +1068,6 @@
       "longitude": 80.40448719999999
     },
     {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
-    },
-    {
       "id": "ticketsministry-1309",
       "source": "TicketsMinistry",
       "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
@@ -1112,6 +1089,29 @@
       ],
       "latitude": 6.980700793020149,
       "longitude": 81.07332407418981
+    },
+    {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "mytickets-6ad1e3497227da21e86fe514",
@@ -1944,6 +1944,30 @@
       ],
       "latitude": 6.9128626,
       "longitude": 79.8639658
+    },
+    {
+      "id": "oneticket-468",
+      "source": "OneTicket",
+      "name": "හැන්දෑවක Valentine's Edition",
+      "description": "හැන්දෑවක Valentine's Edition happening at Colombo. Date & Time: Sun, Feb 14, 2027, 12:00 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/71047079-b7e10ae0-7a96-4aa6-b776-ea86d84d5407.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/56214504-9ecc687d-a884-4829-a348-e1ad18614b2d.jpg",
+      "venue": "Colombo",
+      "city": "Colombo",
+      "dateTime": "2027-02-13T18:30:00.000Z",
+      "originalDateStr": "Sun, Feb 14, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/hendewaka-valentines-edition",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
     },
     {
       "id": "ticketsministry-1347",
