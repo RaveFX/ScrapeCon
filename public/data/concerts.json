@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-24T03:18:42.365Z",
+  "lastSyncTime": "2026-10-24T08:39:56.481Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 14,
@@ -7,29 +7,6 @@
     "Total": 85
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1257",
-      "source": "TicketsMinistry",
-      "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 23rd October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-10-23T18:00:00.000Z",
-      "originalDateStr": "Fri, Oct 23, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
     {
       "id": "ticketsministry-1324",
       "source": "TicketsMinistry",
@@ -144,6 +121,29 @@
       "longitude": 79.8736
     },
     {
+      "id": "ticketsministry-1244",
+      "source": "TicketsMinistry",
+      "name": "ADARANEEYA HENDAWAK",
+      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-10-24T19:00:00.000Z",
+      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
+    },
+    {
       "id": "ticketsministry-1294",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA KANDY 6.0",
@@ -181,36 +181,13 @@
       "minPrice": 7000,
       "maxPrice": 49000,
       "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Oktoberfest"
       ],
       "latitude": 7.2347,
       "longitude": 79.8413
-    },
-    {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1286",
@@ -281,29 +258,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1311",
-      "source": "TicketsMinistry",
-      "name": "HALLOWEEN PARTY",
-      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
-      "venue": "Queens Hotel Kandy Royal Ball Room",
-      "city": "Kandy",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Halloween Party"
-      ],
-      "latitude": 7.29323279271429,
-      "longitude": 80.63580157500003
-    },
-    {
       "id": "ticketsministry-1253",
       "source": "TicketsMinistry",
       "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
@@ -325,6 +279,29 @@
       ],
       "latitude": 6.052549600000001,
       "longitude": 80.1813931
+    },
+    {
+      "id": "ticketsministry-1311",
+      "source": "TicketsMinistry",
+      "name": "HALLOWEEN PARTY",
+      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
+      "venue": "Queens Hotel Kandy Royal Ball Room",
+      "city": "Kandy",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 3500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Halloween Party"
+      ],
+      "latitude": 7.29323279271429,
+      "longitude": 80.63580157500003
     },
     {
       "id": "ticketsministry-1271",
@@ -926,6 +903,29 @@
       ],
       "latitude": 6.92631568627451,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1257",
+      "source": "TicketsMinistry",
+      "name": "NEWSCHOOLCOMMUNITY",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
+      "venue": "Port City Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-27T18:00:00.000Z",
+      "originalDateStr": "Fri, Nov 27, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
     },
     {
       "id": "ticketsministry-1260",
