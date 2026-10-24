@@ -1,81 +1,12 @@
 {
-  "lastSyncTime": "2026-10-23T22:53:18.322Z",
+  "lastSyncTime": "2026-10-24T03:18:42.365Z",
   "counts": {
-    "MyTickets": 18,
-    "OneTicket": 15,
+    "MyTickets": 16,
+    "OneTicket": 14,
     "TicketsMinistry": 55,
-    "Total": 88
+    "Total": 85
   },
   "concerts": [
-    {
-      "id": "mytickets-6aad1eb848012dccf365931f",
-      "source": "MyTickets",
-      "name": "Frequency At The Edge",
-      "description": "<p>Frequency At The Edge</p><p>🔥 𝘾𝙊𝙇𝙊𝙈𝘽𝙊… 𝙂𝙀𝙏 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙁𝙍𝙀𝙌𝙐𝙀𝙉𝘾𝙔! 🔥</p><p>This October, experience international-standard entertainment, electrifying performances and one unforgettable night.</p><p><br></p><p>SR PLUS EVENTS proudly presents</p><p>🎶 𝐂𝐎𝐋𝐎𝐌𝐁𝐎 𝐎𝐍 𝐎𝐍𝐄 — 𝐅𝐑𝐄𝐐𝐔𝐄𝐍𝐂𝐘 𝐀𝐓 𝐓𝐇𝐄 𝐄𝐃𝐆𝐄 🎶</p><p><br></p><p>𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 𝐁𝐧𝐒 | 𝐔𝐌𝐀𝐑𝐈𝐀 | 𝐅𝐀𝐋𝐋𝐄𝐍 𝐀𝐍𝐃𝐑𝐈𝐀 | 𝐒𝐀𝐉𝐈𝐓𝐇 𝐏𝐄𝐑𝐄𝐑𝐀</p><p><br></p><p>📅 23 OCTOBER 2026 📍 WATERS EDGE, BATTARAMULLA, OUTDOOR PREMISES</p><p><br></p><p>🎟️ 𝗧𝗜𝗖𝗞𝗘𝗧𝗦</p><p>🥈 𝗦𝗜𝗟𝗩𝗘𝗥 — Rs. 5,000 8-Pax Reserved Bench — Rs. 36,000</p><p><br></p><p>🥇 𝗚𝗢𝗟𝗗 — Rs. 7,500 8-Pax Reserved Bench — Rs. 55,000</p><p><br></p><p>BUY 8 TICKETS &amp; GET YOUR OWN RESERVED BENCH!</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Frequency%20At%20The%20Edge/Web-Post.jpg%20(1)-1790067992301.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Frequency%20At%20The%20Edge/Web-Post.jpg%20(1)-1790067992301.jpeg",
-      "venue": "Waters Edge Outdoor Premises",
-      "city": "666548e1a03df8fc2ac5a0e5",
-      "dateTime": "2026-10-23T13:30:00.000Z",
-      "originalDateStr": "Fri, Oct 23, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/frequency-at-the-edge/6aad1eb848012dccf365931f",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.9055,
-      "longitude": 79.9114
-    },
-    {
-      "id": "mytickets-6a955060bf50fa473bc83813",
-      "source": "MyTickets",
-      "name": "Angelic Melodies With Marians ",
-      "description": "<p>Angelic Melodies With Marians&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Angelic%20Melodies%20With%20Marians%20/MYTICKET-WEB-BANNER.jpg%20(1)-1788170147151.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Angelic%20Melodies%20With%20Marians%20/MYTICKET-WEB-BANNER.jpg%20(1)-1788170147151.jpeg",
-      "venue": "Space Park | Homagama",
-      "city": "666548e1a03df8fc2ac5a286",
-      "dateTime": "2026-10-23T13:30:00.000Z",
-      "originalDateStr": "Fri, Oct 23, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 7500,
-      "ticketLink": "https://mytickets.lk/event/angelic-melodies-with-marians/6a955060bf50fa473bc83813",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.914080392156863,
-      "longitude": 79.86574901960783
-    },
-    {
-      "id": "oneticket-341",
-      "source": "OneTicket",
-      "name": "Pathuman Live in Concert",
-      "description": "Pathuman Live in Concert happening at Arcade Independence Square. Date & Time: Fri, Oct 23, 2026, 11:30 PM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/99732616-8ac01bfd-d5cf-4cb2-8e6e-406dbf2c83c0.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/90232156-39dd7108-bda2-4582-8a2e-480fab082d2c.jpg",
-      "venue": "Arcade Independence Square",
-      "city": "Arcade Independence Square",
-      "dateTime": "2026-10-23T18:00:00.000Z",
-      "originalDateStr": "Fri, Oct 23, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/pathuman",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.933845098039216,
-      "longitude": 79.87327843137254
-    },
     {
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
