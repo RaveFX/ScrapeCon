@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-25T04:26:57.338Z",
+  "lastSyncTime": "2026-10-25T10:43:57.862Z",
   "counts": {
     "MyTickets": 13,
     "OneTicket": 15,
@@ -54,27 +54,27 @@
       "longitude": 79.8551343
     },
     {
-      "id": "ticketsministry-1294",
+      "id": "ticketsministry-1356",
       "source": "TicketsMinistry",
-      "name": "SNEHAYE NAGARAYA KANDY 6.0",
-      "description": "<p>ප්‍රේමණීය සිත්සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව .</p><p>එතෙක් මෙතෙක් ඉතිහාසයේ ප්‍රථම වරට කන්ද උඩරටට රූකාන්ත ගුණතිලක , සුනිල් එදිරිසිංහ , අමරසිරි පීරිස් ,කසුන් කල්හාර එකට එකවන සැදෑව.</p><p>ප්‍රේක්ෂක ඔබගේ  දැඩි ඉල්ලීම මත නැවතත් ස්නේහයේ නගරය ප්‍රසංගය මහනුවරට.</p><p>සීමිත ප්‍රවේශපත්‍ ප්‍රමාණයක්  නිකුත් කෙරේ.</p><p>සුනිල් එදිරිසිංහ | අමරසිරි පීරිස් | රූකාන්ත ගුණතිලක  |කසුන් කල්හාර</p><p>Date : 24th October 2026</p><p>Venue : NICD Auditorium - Polgolla KANDY</p><p>Time: 7.00pm Onwards </p><p>Ticket Prices:</p><p>2500 balcony </p><p>5000 Silver (ODC)</p><p>6000 Gold (ODC)</p><p>10000 patinun (ODC)</p><p>12000 Vip (ODC)</p><p>ප්‍රේමණීය සිත් සතන් ස්නේහයෙන් මුණගස්සන මායාකාරීය හවස් වරුව 🌼  </p><p>𝐂𝐨𝐧𝐭𝐚𝐜𝐭 - </p><p>0770729716</p><p>0711450334</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Nq3x8wpHZyyRXTqpj75TMb8maChgEUFYtnrj3XUS.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SkCgm7KhqqHyR6QPrZNjrlPUjXkSDuw64mgjvaUN.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-10-24T17:30:00.000Z",
-      "originalDateStr": "Sat, Oct 24, 2026, 11:00 PM",
+      "name": "KANDY AFTER DARK - THE HAUNTED CLUB HOUSE",
+      "description": "<p>Get ready for the ultimate Halloween celebration in Kandy! 🎃👻 Join us at Kandy Sports Club on 31st October for an electrifying Halloween DJ Night featuring Iman Cader, Tafari, and DJ Hash. Expect an unforgettable night of high-energy music, spooky vibes, incredible performances, and a dance floor that never stops. Put on your best Halloween costume, gather your crew, and experience a night of thrilling entertainment, great drinks, and unforgettable memories. Don't miss the biggest Halloween party in town! 🕸️🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610241635-kandy-after-dark---the-haunted-club-house-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/av5i7xjzIZjxzvxuQTOOWbAQjtGWHvLheKdXTgtU.jpg",
+      "venue": "Club House - Kandy Sports Club",
+      "city": "Kandy",
+      "dateTime": "2026-10-24T15:27:00.000Z",
+      "originalDateStr": "Sat, Oct 24, 2026, 08:57 PM",
       "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-kandy-60/6aad39b62ac6a",
-      "status": "sold-out",
+      "minPrice": 4000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kandy-after-dark-the-haunted-club-house/6add8237a3559",
+      "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert"
+        "Halloween Party"
       ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
+      "latitude": 6.88845976991535,
+      "longitude": 79.30359091798054
     },
     {
       "id": "ticketsministry-1319",
@@ -191,29 +191,6 @@
       "longitude": 79.86040848895234
     },
     {
-      "id": "ticketsministry-1311",
-      "source": "TicketsMinistry",
-      "name": "HALLOWEEN PARTY",
-      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
-      "venue": "Queens Hotel Kandy Royal Ball Room",
-      "city": "Kandy",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Halloween Party"
-      ],
-      "latitude": 7.29323279271429,
-      "longitude": 80.63580157500003
-    },
-    {
       "id": "ticketsministry-1253",
       "source": "TicketsMinistry",
       "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
@@ -235,6 +212,29 @@
       ],
       "latitude": 6.052549600000001,
       "longitude": 80.1813931
+    },
+    {
+      "id": "ticketsministry-1311",
+      "source": "TicketsMinistry",
+      "name": "HALLOWEEN PARTY",
+      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
+      "venue": "Queens Hotel Kandy Royal Ball Room",
+      "city": "Kandy",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 3500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Halloween Party"
+      ],
+      "latitude": 7.29323279271429,
+      "longitude": 80.63580157500003
     },
     {
       "id": "ticketsministry-1271",
@@ -400,29 +400,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -444,6 +421,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -838,6 +838,29 @@
       "longitude": 79.87453333333333
     },
     {
+      "id": "ticketsministry-1257",
+      "source": "TicketsMinistry",
+      "name": "NEWSCHOOLCOMMUNITY",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
+      "venue": "Port City Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-27T18:00:00.000Z",
+      "originalDateStr": "Fri, Nov 27, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
+    },
+    {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
@@ -881,29 +904,6 @@
       ],
       "latitude": 6.906237254901961,
       "longitude": 79.82214117647058
-    },
-    {
-      "id": "ticketsministry-1257",
-      "source": "TicketsMinistry",
-      "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
     },
     {
       "id": "oneticket-457",
@@ -978,29 +978,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1280",
-      "source": "TicketsMinistry",
-      "name": "OBA MA HAMU VU LIVE IN CONCERT",
-      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
-      "venue": "The Epitome Hotel Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.507550900000001,
-      "longitude": 80.40448719999999
-    },
-    {
       "id": "ticketsministry-1309",
       "source": "TicketsMinistry",
       "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
@@ -1047,6 +1024,29 @@
       "longitude": 80.36728060000002
     },
     {
+      "id": "ticketsministry-1280",
+      "source": "TicketsMinistry",
+      "name": "OBA MA HAMU VU LIVE IN CONCERT",
+      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
+      "venue": "The Epitome Hotel Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.507550900000001,
+      "longitude": 80.40448719999999
+    },
+    {
       "id": "mytickets-6ad1e3497227da21e86fe514",
       "source": "MyTickets",
       "name": "Siyapath Yaya - සියපත් යාය ",
@@ -1083,7 +1083,7 @@
       "minPrice": 4000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/snehaye-nagaraya-50/6a993c1f0b349",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert",
@@ -1139,30 +1139,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1321",
-      "source": "TicketsMinistry",
-      "name": "MARIANS WITH NEWS",
-      "description": "<p>MARIANS with NEWS - TWO GENERATIONS, ONE STAGE ✨For the first time ever, two of Sri Lanka’s most famous and loved bands, representing two generations of Sri Lankan music, come together for one BIG night of live entertainment!Get ready for an unforgettable evening with The Marians and News, sharing the same stage for the very first time. 🎤✨From timeless classics that have become part of Sri Lanka’s musical history to the sounds that have captivated a new generation, this is a rare opportunity to experience two iconic bands from two musical eras together on one stage.📅 December 4th⏰ 7:30 PM onwards📍 Water’s Edge – Outdoor Premises🎟️ Ticket PricesPlatinum – LKR 7,500/-Gold – LKR 5,000/-Bring your friends and family and get ready for a night filled with great music, unforgettable songs and an incredible live experience.✨ Two Famous Bands. Two Generations. One Stage. One Unforgettable Night. ✨Marians with News - Together on one stage for the first time.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nLYEnJvSkRMhlXq8auw5uMmxTXKTQsM5PRCr1hg9.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/bdpj2aMP3y9cKsRR6rx5vQRM4uXe14BdoBOd03qK.jpg",
-      "venue": "Waters Edge Outdoor",
-      "city": "Battaramulla",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/marians-with-news/6abdd9c560893",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.905563358876491,
-      "longitude": 79.91147419910696
-    },
-    {
       "id": "ticketsministry-1279",
       "source": "TicketsMinistry",
       "name": "FOUR NOTES",
@@ -1185,6 +1161,30 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1321",
+      "source": "TicketsMinistry",
+      "name": "MARIANS WITH NEWS",
+      "description": "<p>MARIANS with NEWS - TWO GENERATIONS, ONE STAGE ✨For the first time ever, two of Sri Lanka’s most famous and loved bands, representing two generations of Sri Lankan music, come together for one BIG night of live entertainment!Get ready for an unforgettable evening with The Marians and News, sharing the same stage for the very first time. 🎤✨From timeless classics that have become part of Sri Lanka’s musical history to the sounds that have captivated a new generation, this is a rare opportunity to experience two iconic bands from two musical eras together on one stage.📅 December 4th⏰ 7:30 PM onwards📍 Water’s Edge – Outdoor Premises🎟️ Ticket PricesPlatinum – LKR 7,500/-Gold – LKR 5,000/-Bring your friends and family and get ready for a night filled with great music, unforgettable songs and an incredible live experience.✨ Two Famous Bands. Two Generations. One Stage. One Unforgettable Night. ✨Marians with News - Together on one stage for the first time.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nLYEnJvSkRMhlXq8auw5uMmxTXKTQsM5PRCr1hg9.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/bdpj2aMP3y9cKsRR6rx5vQRM4uXe14BdoBOd03qK.jpg",
+      "venue": "Waters Edge Outdoor",
+      "city": "Battaramulla",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/marians-with-news/6abdd9c560893",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.905563358876491,
+      "longitude": 79.91147419910696
     },
     {
       "id": "ticketsministry-1247",
