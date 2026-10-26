@@ -1,127 +1,12 @@
 {
-  "lastSyncTime": "2026-10-26T03:14:54.228Z",
+  "lastSyncTime": "2026-10-26T09:42:12.448Z",
   "counts": {
     "MyTickets": 13,
-    "OneTicket": 15,
-    "TicketsMinistry": 55,
-    "Total": 83
+    "OneTicket": 16,
+    "TicketsMinistry": 51,
+    "Total": 80
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1324",
-      "source": "TicketsMinistry",
-      "name": "HUMOUR HUB",
-      "description": "<p>An evening of stand-up comedy and networking Who you'll meet: 120 working professionals from corporate offices, relaxed, laughing and ready to talk. Humour: Ninety minutes of live stand-up. No inbox, no agenda, just a room full of people laughing. Networking: Coffee and unhurried conversation with other professionals, once everyone has finally relaxed.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Wlyiyq4ullBwFp6MlnBUoNJpmd4vT52gTutbbPoR.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/CyYV7q0pbt6dUHZx7Oq1tsWerOBS3UOCDSDMGIgP.png",
-      "venue": "DHPL Lounge 42 Colombo 2",
-      "city": "Colombo 02",
-      "dateTime": "2026-10-23T19:30:00.000Z",
-      "originalDateStr": "Sat, Oct 24, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 2000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/humour-hub/6ac0b3b4bb3e5",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Standup Comedy"
-      ],
-      "latitude": 6.918538693081092,
-      "longitude": 79.8480048741891
-    },
-    {
-      "id": "ticketsministry-1328",
-      "source": "TicketsMinistry",
-      "name": "OPEN SKIES",
-      "description": "<p>☁️ OPEN SKIES 2026 — 24 OCTOBER Open Skies is a vibrant music and entertainment experience bringing together talented Sri Lankan artists and thousands of passionate music lovers. 🎶 Our vision is to create a space where artists and audiences connect, grow, and celebrate together. With stunning stage designs, beautiful decorations, high-energy performances, and an unforgettable atmosphere, Open Skies is set to deliver an incredible experience for everyone..</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/jd35fysWs7GaEwjjBg5aw4I5wQOSxXlDBJx0txzI.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/cDlJ0n6RviV5wPIiWYlccnhlPbsvNFyRXGVWrQs2.jpg",
-      "venue": "Nom Nom Thai",
-      "city": "Colombo 01",
-      "dateTime": "2026-10-24T08:00:00.000Z",
-      "originalDateStr": "Sat, Oct 24, 2026, 01:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/open-skies/6ac3a5e9e45eb",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.931257,
-      "longitude": 79.8551343
-    },
-    {
-      "id": "ticketsministry-1319",
-      "source": "TicketsMinistry",
-      "name": "NEGOMBO OKTOBERFEST 2026",
-      "description": "<p>Sentido Heritance Negombo brings the spirit of Oktoberfest to the coast this October, with D Major Band taking the stage to keep the party going all night long. </p><p>Think tasty bites, great beverage deals, fun games and live music under the stars — everything an Oktoberfest should be. </p><p>Mark your calendars: </p><p>24th October ; 7pm onwards. </p><p>Grab your friends, bring the energy and join us for a night of food, music and endless cheer.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/QN7ziuPP2ruTPQSnBAEddwNHD0BouB4LQNBVYrts.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zpBx9Sc70pCDbJEdnP4ct3uPp2r0RG70aOMNviXX.jpg",
-      "venue": "Sentido Heritance Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-10-24T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 24, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 49000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/negombo-oktoberfest-2026/85cf074e-8c72-4b5d-8084-6bc95e8b8d25",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 7.2347,
-      "longitude": 79.8413
-    },
-    {
-      "id": "ticketsministry-1244",
-      "source": "TicketsMinistry",
-      "name": "ADARANEEYA HENDAWAK",
-      "description": "<p>“Adaraneeya Handawak” is a memorable musical experience where love, music, and beautiful moments come together. Featuring captivating live performances and delightful entertainment, this special evening promises to create unforgettable memories for all music lovers to enjoy with their loved ones.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608081956-adaraneeya-hendawak-thumbnail.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-10-24T19:00:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adaraneeya-hendawak/6a773c984fbaf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
-      "id": "ticketsministry-1286",
-      "source": "TicketsMinistry",
-      "name": "ORDNANCE RHYTHM NIGHT 2026",
-      "description": "<p>Experience an unforgettable evening of live music, entertainment, and vibrant energy at ORDNANCE RHYTHM NIGHT 2026, proudly presented by the Sri Lanka Army Ordnance Corps. Featuring the popular band 2Forty2, this open-air concert promises an exciting night filled with great performances, lively entertainment, and memorable moments for music lovers of all ages. Join us at Pokunuwita Janasatha Ground on 24 October 2026 from 7:30 PM for an incredible celebration of music and community.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/rNRxIYudA9lFUXPkBGsxFSCwVpuJcR1gzo4QPKeJ.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/uT88h81WlqvPrOTddNE2o5iPYIi9mkU9KiCPGyvk.png",
-      "venue": "Pokunuwita Janasatha Ground",
-      "city": "Pokunuwita",
-      "dateTime": "2026-10-24T19:30:00.000Z",
-      "originalDateStr": "Sun, Oct 25, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 2000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/ordnance-rhythm-night-2026/6aa2599f186d8",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.723637500000001,
-      "longitude": 80.0297969
-    },
     {
       "id": "mytickets-6ad1ef1fbbf48c27a861ce9c",
       "source": "MyTickets",
@@ -166,6 +51,29 @@
       ],
       "latitude": 6.906927065169236,
       "longitude": 79.86040848895234
+    },
+    {
+      "id": "ticketsministry-1324",
+      "source": "TicketsMinistry",
+      "name": "HUMOUR HUB",
+      "description": "<p>An evening of stand-up comedy and networking Who you'll meet: 120 working professionals from corporate offices, relaxed, laughing and ready to talk. Humour: Ninety minutes of live stand-up. No inbox, no agenda, just a room full of people laughing. Networking: Coffee and unhurried conversation with other professionals, once everyone has finally relaxed.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aX4fsgd9ead1JSKeC2OsOsncTJ102htWYKx28oEt.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/VGfeihflArvOPVX0zx7jQEzshw1POLoVL2zWl0yh.jpg",
+      "venue": "DHPL Lounge 42 Colombo 2",
+      "city": "Colombo 02",
+      "dateTime": "2026-10-29T19:30:00.000Z",
+      "originalDateStr": "Fri, Oct 30, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 2000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/humour-hub/6ac0b3b4bb3e5",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Standup Comedy"
+      ],
+      "latitude": 6.918538693081092,
+      "longitude": 79.8480048741891
     },
     {
       "id": "ticketsministry-1253",
@@ -838,29 +746,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1257",
-      "source": "TicketsMinistry",
-      "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-27T18:00:00.000Z",
-      "originalDateStr": "Fri, Nov 27, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
-    {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
@@ -904,6 +789,29 @@
       ],
       "latitude": 6.906237254901961,
       "longitude": 79.82214117647058
+    },
+    {
+      "id": "ticketsministry-1257",
+      "source": "TicketsMinistry",
+      "name": "NEWSCHOOLCOMMUNITY",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
+      "venue": "Port City Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
     },
     {
       "id": "oneticket-457",
@@ -1001,29 +909,6 @@
       "longitude": 81.07332407418981
     },
     {
-      "id": "ticketsministry-1262",
-      "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
-    },
-    {
       "id": "ticketsministry-1280",
       "source": "TicketsMinistry",
       "name": "OBA MA HAMU VU LIVE IN CONCERT",
@@ -1045,6 +930,29 @@
       ],
       "latitude": 7.507550900000001,
       "longitude": 80.40448719999999
+    },
+    {
+      "id": "ticketsministry-1262",
+      "source": "TicketsMinistry",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "mytickets-6ad1e3497227da21e86fe514",
@@ -1139,30 +1047,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1279",
-      "source": "TicketsMinistry",
-      "name": "FOUR NOTES",
-      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1321",
       "source": "TicketsMinistry",
       "name": "MARIANS WITH NEWS",
@@ -1185,6 +1069,30 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1279",
+      "source": "TicketsMinistry",
+      "name": "FOUR NOTES",
+      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1247",
@@ -1553,6 +1461,30 @@
       ],
       "latitude": 7.213788892791915,
       "longitude": 79.83978457419244
+    },
+    {
+      "id": "oneticket-458",
+      "source": "OneTicket",
+      "name": "Fiona - Christmas Edition",
+      "description": "Fiona - Christmas Edition happening at Free Trade Zone Ground. Date & Time: Sun, Dec 20, 2026, 12:30 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/56047351-cc2ec2b8-927c-4644-9ad7-04f2b9aedfd0.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/39488238-652c4241-4cc6-4d18-83cd-4d738437365a.jpg",
+      "venue": "Free Trade Zone Ground",
+      "city": "Free Trade Zone Ground",
+      "dateTime": "2026-12-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/fiona-christmas-edition",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.926001960784314,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1292",
