@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-27T15:43:24.175Z",
+  "lastSyncTime": "2026-10-27T20:25:35.078Z",
   "counts": {
     "MyTickets": 14,
     "OneTicket": 16,
@@ -797,10 +797,10 @@
       "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚 𝐉𝐎𝐔𝐑𝐍𝐄𝐘! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/VlyKYEmzKZEtfZ9ZuwZWbq1FQbhq7eAEDa9Xim4L.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/fbvkMgEyCbfKYRxTufuBo2fA8KF4T31dQMHz6cCX.png",
-      "venue": "Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-28T11:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 04:30 PM",
+      "venue": "Mount Lavinia Hotel",
+      "city": "Mount Lavinia",
+      "dateTime": "2026-11-28T10:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 6000,
@@ -810,8 +810,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.921836877837569,
-      "longitude": 79.81500565289788
+      "latitude": 6.833142693164847,
+      "longitude": 79.85933297499568
     },
     {
       "id": "mytickets-6adae3d75857bdbbae020b58",
@@ -839,7 +839,7 @@
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 27th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 28th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
       "venue": "Port City Colombo",
