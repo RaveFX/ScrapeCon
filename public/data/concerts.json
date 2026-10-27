@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-27T03:44:23.402Z",
+  "lastSyncTime": "2026-10-27T09:36:01.428Z",
   "counts": {
-    "MyTickets": 13,
+    "MyTickets": 14,
     "OneTicket": 16,
-    "TicketsMinistry": 51,
-    "Total": 80
+    "TicketsMinistry": 52,
+    "Total": 82
   },
   "concerts": [
     {
@@ -213,6 +213,28 @@
       "longitude": 79.8656
     },
     {
+      "id": "mytickets-6ac8a553caa021d310bb8fc3",
+      "source": "MyTickets",
+      "name": "පුරාණය Reborn Live In Concert - Puranaya Reborn Live In Concert",
+      "description": "<h1><strong>පුරාණය Reborn Live In Concert&nbsp;</strong></h1><p><br></p><p>වසර විස්සකට පසුව සිරස සුපර් ස්ටාර් තරු තාරකාවන් මුල් වතාවට එකම වේදිකාවේ දී මුණ ගැසෙන දැවැන්තම සජීවී ප්‍රසංගය පුරාණය live in concert ඔක්තෝබර් 24 වෙනිදා රාත්‍රී 9 සිට&nbsp;රාගම බැසිලිකා විද්‍යාලීය ක්‍රීඩාංගණයේදී.&nbsp;</p><p><br></p><ul><li>සංගීතය තීක්ෂණ අනුරාධ ප්‍රමුඛ OCTAVE</li><li>සිරස සුපස්ටාර් අජිත් බණ්ඩාර</li><li>සුරේන්ද්‍ර පෙරේරා</li><li>අමිලා නදීෂානි</li><li>නිලන් හෙට්ටිආරච්චි</li><li>තීක්ෂණ අනුරාධ</li><li>ප්‍රියත් රාජපක්ෂ</li><li>නලින්ද රණසිංහ</li><li>නදිනී ප්‍රේමදාස</li><li>මොහාන් දර්ශන</li><li>බුද්ධික උෂාන් ගීතවත් වෙයි.</li></ul>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Puranaya%20-%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AB%E0%B6%BA%20/social%20meadia%20new.jpg-1791534096656.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Puranaya%20-%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AB%E0%B6%BA%20/social%20meadia%20new.jpg-1791534096656.jpg",
+      "venue": "Basilica College Ground,Ragama",
+      "city": "666548e1a03df8fc2ac5a5db",
+      "dateTime": "2026-11-06T15:30:00.000Z",
+      "originalDateStr": "Fri, Nov 6, 2026, 09:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 2500,
+      "ticketLink": "https://mytickets.lk/event/reborn-live-in-concert-puranaya-reborn-live-in-concert/6ac8a553caa021d310bb8fc3",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.956119607843138,
+      "longitude": 79.8525725490196
+    },
+    {
       "id": "ticketsministry-1252",
       "source": "TicketsMinistry",
       "name": "MANDAKINI",
@@ -308,29 +330,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -352,6 +351,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 24000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -744,6 +766,29 @@
       ],
       "latitude": 6.92631568627451,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "ticketsministry-1260",
@@ -1375,7 +1420,7 @@
       "id": "mytickets-6ac346cf1dd1050809b9ded1",
       "source": "MyTickets",
       "name": "Bodare Vol. 1",
-      "description": "<h1><strong>ᴇᴍʙʀᴀᴄᴇ ᴛʜᴇ ᴄʜᴀᴏꜱ • ᴊᴏɪɴ ᴛʜᴇ ᴍᴏᴠᴇᴍᴇɴᴛ</strong></h1><p><br></p><h2>Fearless presents <strong>BODARE VOL. 1 </strong>- A true and gritty hip-hop experience bringing together different sounds, styles, identities and energies on one stage.</h2><p><br></p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Lotus Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 1:00 PM</p><p><br></p><p><strong>LINEUP</strong></p><p><br></p><p><strong>Reezy</strong></p><p><strong>Tikx Kooda</strong></p><p><strong>KK</strong></p><p><strong>AJ Leon</strong></p><p><strong>Sando</strong></p><p><strong>Lilvin999</strong></p><p><strong>Soul Distortion</strong></p><p><strong>Elorath and more</strong></p><p><br></p><p>TICKETS</p><p><br></p><p>Pre sale — LKR 4,000</p><p>At the Gate — LKR 5,000</p><p><br></p><p>Come early. Stay late.</p>",
+      "description": "<h1><strong>ᴇᴍʙʀᴀᴄᴇ ᴛʜᴇ ᴄʜᴀᴏꜱ • ᴊᴏɪɴ ᴛʜᴇ ᴍᴏᴠᴇᴍᴇɴᴛ</strong></h1><p><br></p><h2><strong>Fearless presents BODARE VOL. 1 - A true and gritty hip-hop experience bringing together different sounds, styles, identities, and energies on one stage.</strong></h2><p><br></p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Lotus Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 1:00 PM</p><p><br></p><p>LINE UP</p><p><br></p><p>Reezy | Tikx Kooda | KK | AJ Leon | Sando | Lilvin999</p><p>Soul Distortion | Elorath</p><p><br></p><p>Chasindu | Arix | Deerose | Dope Sniff | Zyler | Mouly&nbsp;</p><p>Lvst Kingdom | Lil Tijer | Donzi | Wickszen</p><p><br></p><p><strong><u>TICKETS</u></strong></p><p><br></p><p>Early bird</p><p>General - LKR 2000</p><p>VIP - LKR 4000</p><p><br></p><p>At the Gate</p><p>General - LKR 3000</p><p>VIP - LKR 5000</p><p><br></p><p>VIP Benefits - Beverage (Alcohol), Priority Entrance, Merchandise, Backstage Access, VIP Party Lounge</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
       "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/Bodere%20Artists%20Post%201x1%20My%20Tix%20Version%202-1791538465153.png",
       "venue": "Grand Oriental Hotel Colombo",
@@ -1419,7 +1464,7 @@
     {
       "id": "ticketsministry-1353",
       "source": "TicketsMinistry",
-      "name": "RHUTHM OF LANKA",
+      "name": "RHYTHM OF LANKA",
       "description": "<p>Rhythm of Lanka 2026 is a unique international cultural celebration that brings Sri Lankans from around the world together to experience the beauty of our heritage, traditions, music and dance. The event promises spectacular cultural performances, traditional entertainment, fun activities and unforgettable experiences for the whole family. Designed especially for Sri Lankan children and families living overseas, as well as local audiences, Rhythm of Lanka creates a special opportunity to reconnect with Sri Lankan roots and celebrate our cultural identity. *What makes it truly special* is the opportunity to unite Sri Lankan communities from different countries on one stage, celebrating our shared heritage, talent and the spirit of Sri Lanka.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/ATyCQ74GW7r15t6nSw0UWfC6wu00eIrz5n7l9Ywr.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/C1158GVibWJVvcwRdT78WGXjkEXwPAeYSGkd9rvJ.jpg",
@@ -1430,7 +1475,7 @@
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 20000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/rhuthm-of-lanka/6ad85f7bee1a3",
+      "ticketLink": "https://www.ticketsministry.com/concerts/rhythm-of-lanka/6ad85f7bee1a3",
       "status": "active",
       "tags": [
         "Concert",
