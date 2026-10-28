@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-28T07:55:14.664Z",
+  "lastSyncTime": "2026-10-28T14:51:08.494Z",
   "counts": {
-    "MyTickets": 15,
+    "MyTickets": 16,
     "OneTicket": 17,
-    "TicketsMinistry": 52,
-    "Total": 84
+    "TicketsMinistry": 58,
+    "Total": 91
   },
   "concerts": [
     {
@@ -76,29 +76,6 @@
       "longitude": 79.8480048741891
     },
     {
-      "id": "ticketsministry-1253",
-      "source": "TicketsMinistry",
-      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
-      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
-      "venue": "Radisson Blu Resort Galle",
-      "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 8000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Oktoberfest"
-      ],
-      "latitude": 6.052549600000001,
-      "longitude": 80.1813931
-    },
-    {
       "id": "ticketsministry-1311",
       "source": "TicketsMinistry",
       "name": "HALLOWEEN PARTY",
@@ -120,6 +97,29 @@
       ],
       "latitude": 7.29323279271429,
       "longitude": 80.63580157500003
+    },
+    {
+      "id": "ticketsministry-1253",
+      "source": "TicketsMinistry",
+      "name": "Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle",
+      "description": "<p>Oktoberfest is coming to the beach! </p><p>Galle's Own Oktoberfest 2026 At Radisson Blu Resort Galle</p><p>Get ready for an evening of festive fun, delicious food, refreshing drinks, exciting games, and live entertainment with Daddy bringing their signature energy to the stage.Ticket Packages Include:</p><ul><li><p>Free Beverage + Bench Seating: 5000 LKR</p></li><li><p>Free Beverage + Appetizer + Main Meal + Desert + Bench Seating: 8000 LKR</p></li></ul><p> </p><p>Gather your friends and join us at Radisson Blu Resort Galle for a lively Oktoberfest celebration filled with great music, good food, and unforgettable moments by the sea. Raise your glasses. </p><p>Turn up the music. Let the Oktoberfest fun begin!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/PUDcNDBHpV3QbirFhvMZGzbtlahnSFsIYYRyi5Ty.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
+      "venue": "Radisson Blu Resort Galle",
+      "city": "Galle",
+      "dateTime": "2026-10-31T18:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 8000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galles-own-oktoberfest-2026-at-radisson-blu-resort-galle/02be6868-881a-4fd1-8eee-38cf70c17605",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Oktoberfest"
+      ],
+      "latitude": 6.052549600000001,
+      "longitude": 80.1813931
     },
     {
       "id": "ticketsministry-1356",
@@ -330,29 +330,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 24000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -374,6 +351,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 24000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -701,7 +701,7 @@
       "id": "ticketsministry-1254",
       "source": "TicketsMinistry",
       "name": "ILLUSYA",
-      "description": "<p>ILLUSYA</p>",
+      "description": "<p>ILLUSYA</p><p>More than a party. An experience shaped by music, atmosphere, and the people who make it special.</p><p>ILLUSYA brings together a carefully curated sound, immersive energy, and a community that lives for the music. From the first beat to the final moment, every detail is designed to create something worth remembering.</p><p>Come for the music. Stay for the feeling. Leave with memories.</p><p>Expect quality sounds, a unique atmosphere, and a dance floor that brings everyone together.</p><p>📍 Colombo, Sri Lanka</p><p>The experience begins here.</p><p>ILLUSYA — Not just another event. A feeling of its own.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/A8PXYIWVnrnkTl97IShkrwbqXEUsAIeuFIYNNtiK.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/qAcPeffBau5oD2ZwanU9UFIwrYQBmYPaJwcgiQym.jpg",
       "venue": "Colombo",
@@ -803,7 +803,7 @@
       "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 6000,
+      "maxPrice": 7000,
       "ticketLink": "https://www.ticketsministry.com/concerts/wonderland-2026/546633af-e2fe-4db6-bf39-fb47e5f297b3",
       "status": "active",
       "tags": [
@@ -1000,6 +1000,29 @@
       "longitude": 80.36728060000002
     },
     {
+      "id": "ticketsministry-1367",
+      "source": "TicketsMinistry",
+      "name": "VAZIAN'S NIGHT WITH MARIANS",
+      "description": "<p>🎶✨ **VAZIANS’ NIGHT 2026 – THE ULTIMATE MUSICAL EXPERIENCE!** ✨🎶</p><p> 🔥 One Night. One Stage. Unforgettable Memories! 🔥 </p><p>Get ready for an electrifying musical night with MARIANS featuring SAJITH PERERA, alongside an incredible lineup of talented artists! 🎤🎸💃 </p><p>📅 Date: 28th November 2026 </p><p>📍Venue: Grandezza, Negombo </p><p>⏰ Time: 8.00 PM onwards </p><p>🎟️ Tickets:LKR 6,000 </p><p></p><p>💙 Proudly organized by the Old Boys’ Association of St. Joseph Vaz College.</p><p> 🎉 Great Music | Great Friends | Great Memories 🎟️ Grab your tickets now </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610280935-vazian's-night-with-marians-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/Kxv1wV221Gh8xXC67cUyOE0JCOBZEogCF6xBGgaj.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-28T20:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 01:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vazians-night-with-marians/6ae1b91dbd5fe",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
+    },
+    {
       "id": "mytickets-6ad1e3497227da21e86fe514",
       "source": "MyTickets",
       "name": "Siyapath Yaya - සියපත් යාය ",
@@ -1091,28 +1114,27 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1321",
+      "id": "ticketsministry-1359",
       "source": "TicketsMinistry",
-      "name": "MARIANS WITH NEWS",
-      "description": "<p>MARIANS with NEWS - TWO GENERATIONS, ONE STAGE ✨For the first time ever, two of Sri Lanka’s most famous and loved bands, representing two generations of Sri Lankan music, come together for one BIG night of live entertainment!Get ready for an unforgettable evening with The Marians and News, sharing the same stage for the very first time. 🎤✨From timeless classics that have become part of Sri Lanka’s musical history to the sounds that have captivated a new generation, this is a rare opportunity to experience two iconic bands from two musical eras together on one stage.📅 December 4th⏰ 7:30 PM onwards📍 Water’s Edge – Outdoor Premises🎟️ Ticket PricesPlatinum – LKR 7,500/-Gold – LKR 5,000/-Bring your friends and family and get ready for a night filled with great music, unforgettable songs and an incredible live experience.✨ Two Famous Bands. Two Generations. One Stage. One Unforgettable Night. ✨Marians with News - Together on one stage for the first time.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nLYEnJvSkRMhlXq8auw5uMmxTXKTQsM5PRCr1hg9.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/bdpj2aMP3y9cKsRR6rx5vQRM4uXe14BdoBOd03qK.jpg",
-      "venue": "Waters Edge Outdoor",
-      "city": "Battaramulla",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "name": "GALU FUN BLAST CHAPTER 2",
+      "description": "<p>It is a special event for young generation & all galle croud .it is also the biggest event in the Galle .</p><p>Chamara Weerasingha | Damith Asanka | 6TH Line | Fill T | Wasthi | Hana | Amellia | Centigradze | Music By  AVATAR.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/5ZcjDSdPE2WoDqBmoVghCY2UHYp14Hk8TjDZSiZD.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/Ii9kIR1BbWfA3XaGeaMn3wkCiYDt161apFJHZDRS.jpg",
+      "venue": "Samanala Ground Galle",
+      "city": "Galle",
+      "dateTime": "2026-12-04T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/marians-with-news/6abdd9c560893",
+      "minPrice": 1000,
+      "maxPrice": 35000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/galu-fun-blast-chapter-2/6ae182e43213d",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
+        "Outdoor Musical Concert"
       ],
-      "latitude": 6.905563358876491,
-      "longitude": 79.91147419910696
+      "latitude": 6.030886499999999,
+      "longitude": 80.21436039999999
     },
     {
       "id": "ticketsministry-1279",
@@ -1137,6 +1159,30 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1321",
+      "source": "TicketsMinistry",
+      "name": "MARIANS WITH NEWS",
+      "description": "<p>MARIANS with NEWS - TWO GENERATIONS, ONE STAGE ✨For the first time ever, two of Sri Lanka’s most famous and loved bands, representing two generations of Sri Lankan music, come together for one BIG night of live entertainment!Get ready for an unforgettable evening with The Marians and News, sharing the same stage for the very first time. 🎤✨From timeless classics that have become part of Sri Lanka’s musical history to the sounds that have captivated a new generation, this is a rare opportunity to experience two iconic bands from two musical eras together on one stage.📅 December 4th⏰ 7:30 PM onwards📍 Water’s Edge – Outdoor Premises🎟️ Ticket PricesPlatinum – LKR 7,500/-Gold – LKR 5,000/-Bring your friends and family and get ready for a night filled with great music, unforgettable songs and an incredible live experience.✨ Two Famous Bands. Two Generations. One Stage. One Unforgettable Night. ✨Marians with News - Together on one stage for the first time.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nLYEnJvSkRMhlXq8auw5uMmxTXKTQsM5PRCr1hg9.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/bdpj2aMP3y9cKsRR6rx5vQRM4uXe14BdoBOd03qK.jpg",
+      "venue": "Waters Edge Outdoor",
+      "city": "Battaramulla",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/marians-with-news/6abdd9c560893",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.905563358876491,
+      "longitude": 79.91147419910696
     },
     {
       "id": "ticketsministry-1247",
@@ -1190,8 +1236,8 @@
       "source": "OneTicket",
       "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
       "description": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert happening at Viharamahadevi Outdoor. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/25957265-36f9b08b-212e-47bb-802e-24e798a7e7af.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/22870010-e53e1acc-d32b-4d5d-bac7-395a7473715b.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/13936395-336d6ad5-678c-44d7-9fa2-0674a9f6bc66.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/28908777-454cdb51-7642-42b0-a4e9-9220810938cd.jpg",
       "venue": "Viharamahadevi Outdoor",
       "city": "Viharamahadevi Outdoor",
       "dateTime": "2026-12-05T19:00:00.000Z",
@@ -1623,6 +1669,29 @@
       "longitude": 79.90873673105374
     },
     {
+      "id": "ticketsministry-1365",
+      "source": "TicketsMinistry",
+      "name": "RHYTHM OF CHRISTMAS",
+      "description": "<p>Rhythm of Christmas – Agbo Hotel Celebrate the magic of Christmas Eve at Agbo Hotel with Rhythm of Christmas, a festive evening filled with live music, delicious food, and joyful Christmas vibes. Enjoy an unforgettable night with family and friends, featuring live musical entertainment and a Christmas dinner buffet included in the ticket price. Guests can also enjoy bite-corner stalls, with a BYOB policy for hard liquor. Join us for a memorable Christmas celebration filled with music, food, and festive cheer! Children below 6 years of age can attend free of charge.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610271430-rhythm-of-christmas-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/3tUFweEA4hPcI4i7TgVevv48uU32Qn1efpVdfAfV.jpg",
+      "venue": "Agbo Hotel",
+      "city": "Giritale",
+      "dateTime": "2026-12-24T19:00:00.000Z",
+      "originalDateStr": "Fri, Dec 25, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/rhythm-of-christmas/6ae1a755e2670",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 8.006152992019866,
+      "longitude": 80.9214522750073
+    },
+    {
       "id": "ticketsministry-1298",
       "source": "TicketsMinistry",
       "name": "SUMIHIRI MATHAKAYAN LEGENDS UNPLUGGED",
@@ -1877,6 +1946,97 @@
       ],
       "latitude": 6.934472549019608,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "mytickets-6ae08a14e5c745f2f28db4d5",
+      "source": "MyTickets",
+      "name": "Sahajatha - සහජාත",
+      "description": "<p><strong><u>Sahajatha - සහජාත</u></strong></p><p><br></p><p><u><span class=\"ql-cursor\">﻿</span></u>“රන් හදැති පරපුරක අනුජාත දූ-පුතුන්ගේ මියැසි පෙළහර”</p><p><br></p><p>යුගයක් රසවත් කළ සොඳුරු කලාකරුවන්ගේ සංගීත උරුමය, ඔවුන්ගේම දූ-පුතුන්ගේ හඬින් එකම වේදිකාවක නැවත ජීවමාන වන විචිත්‍රවත් රාත්‍රියක්!</p><p><br></p><p>ඔබව ගීතයෙන් රසවත් කරන්නට:&nbsp;</p><p><br></p><p>විශාරද ගුණදාස කපුගේ උරුමය රැගෙන – මිත්‍ර කපුගේ</p><p>මාලනී බුලත්සිංහල – එච්. එම්. ජයවර්ධන උරුමය රැගෙන – කසුන් කල්හාර</p><p>පණ්ඩිත් ඩබ්ලිව්. ඩී. අමරදේව උරුමය රැගෙන – රංජන අමරදේව</p><p>අමරසිරි පීරිස් උරුමය රැගෙන – මාධව පීරිස්</p><p>ප්‍රියා සූරියසේන උරුමය රැගෙන– ලක්ෂිත සූරියසේන</p><p>ග්‍රේශන් ආනන්ද උරුමය රැගෙන – මාරියෝ ආනන්ද</p><p>ආචාර්ය අමරා රණතුංග – දයාරත්න රණතුංග උරුමය රැගෙන – රූපෂිකා රණතුංග</p><p>ප්‍රෙඩී සිල්වා උරුමය රැගෙන – ප්‍රගීත් සිල්වා</p><p><br></p><p>එසේම, ලාංකීය සංගීතයට නව මං විවර කළ ආචාර්ය ප්‍රේමසිරි කේමදාසයන්ගේ අමරණීය තනු නැවත වේදිකාව මත ප්‍රති නිර්මාණය කරන්නට - ගයත්‍රී කේමදාස විසින් මෙහෙයවන සංගීත සන්ද්වනියක් ද සමගින්..&nbsp;</p><p><br></p><p>විශාරද සිදත් සෝමසුන්දර විසින් හැඩවෙන සංගීතයෙන්..&nbsp;</p><p><br></p><p>සහජාත:</p><p>📅 2027 ජනවාරි 23</p><p>🕖 සවස 7.00</p><p>📍 බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාව</p><p><br></p><p>ආසන වෙන්කිරීම අන්තර්ජාලය හරහා පමණක් සිදු කෙරෙන අතර, QR කේතය සහිත ඩිජිටල් රිසිට්පත ප්‍රවේශයේදී වලංගු කෙරේ.</p><p><br></p><p>කරුණාකර සවස 6.45 ට පෙර අසුන් ගන්න.</p><p><br></p><p>සහජාත – A Legacy Echoed. A Future Foretold.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-10-25%20at%2011.33.16%20PM-1793100050193.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-10-25%20at%2011.33.16%20PM-1793100050193.jpeg",
+      "venue": "BMICH - COLOMBO",
+      "city": "666548e1a03df8fc2ac5a04e",
+      "dateTime": "2027-01-23T13:30:00.000Z",
+      "originalDateStr": "Sat, Jan 23, 2027, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://mytickets.lk/event/sahajatha/6ae08a14e5c745f2f28db4d5",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1357",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5500,
+      "maxPrice": 9000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.437218548360919,
+      "longitude": 79.56628623815175
+    },
+    {
+      "id": "ticketsministry-1370",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.437218548360919,
+      "longitude": 79.56628623815175
+    },
+    {
+      "id": "ticketsministry-1369",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - SATURDAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202610281815-sola-festival---friday-access-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202610281815-sola-festival---friday-access-thumbnail.jpg",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-30T13:00:00.000Z",
+      "originalDateStr": "Sat, Jan 30, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7500,
+      "maxPrice": 11000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-saturday-access/6ae1ee799357e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.437218548360919,
+      "longitude": 79.56628623815175
     },
     {
       "id": "ticketsministry-1354",
