@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-28T00:57:53.667Z",
+  "lastSyncTime": "2026-10-28T07:55:14.664Z",
   "counts": {
-    "MyTickets": 14,
-    "OneTicket": 16,
+    "MyTickets": 15,
+    "OneTicket": 17,
     "TicketsMinistry": 52,
-    "Total": 82
+    "Total": 84
   },
   "concerts": [
     {
@@ -216,13 +216,13 @@
       "id": "mytickets-6ac8a553caa021d310bb8fc3",
       "source": "MyTickets",
       "name": "පුරාණය Reborn Live In Concert - Puranaya Reborn Live In Concert",
-      "description": "<h1><strong>පුරාණය Reborn Live In Concert&nbsp;</strong></h1><p><br></p><p>වසර විස්සකට පසුව සිරස සුපර් ස්ටාර් තරු තාරකාවන් මුල් වතාවට එකම වේදිකාවේ දී මුණ ගැසෙන දැවැන්තම සජීවී ප්‍රසංගය පුරාණය live in concert ඔක්තෝබර් 24 වෙනිදා රාත්‍රී 9 සිට&nbsp;රාගම බැසිලිකා විද්‍යාලීය ක්‍රීඩාංගණයේදී.&nbsp;</p><p><br></p><ul><li>සංගීතය තීක්ෂණ අනුරාධ ප්‍රමුඛ OCTAVE</li><li>සිරස සුපස්ටාර් අජිත් බණ්ඩාර</li><li>සුරේන්ද්‍ර පෙරේරා</li><li>අමිලා නදීෂානි</li><li>නිලන් හෙට්ටිආරච්චි</li><li>තීක්ෂණ අනුරාධ</li><li>ප්‍රියත් රාජපක්ෂ</li><li>නලින්ද රණසිංහ</li><li>නදිනී ප්‍රේමදාස</li><li>මොහාන් දර්ශන</li><li>බුද්ධික උෂාන් ගීතවත් වෙයි.</li></ul>",
+      "description": "<h1><strong>පුරාණය Reborn Live In Concert&nbsp;</strong></h1><p><br></p><p>වසර විස්සකට පසුව සිරස සුපර් ස්ටාර් තරු තාරකාවන් මුල් වතාවට එකම වේදිකාවේ දී මුණ ගැසෙන දැවැන්තම සජීවී ප්‍රසංගය පුරාණය live in concert නොවැම්බර්&nbsp;06 වෙනිදා රාත්‍රී 8.30 සිට&nbsp;රාගම බැසිලිකා විද්‍යාලීය ක්‍රීඩාංගණයේදී.&nbsp;</p><p><br></p><ul><li>සංගීතය තීක්ෂණ අනුරාධ ප්‍රමුඛ OCTAVE</li><li>සිරස සුපස්ටාර් අජිත් බණ්ඩාර</li><li>සුරේන්ද්‍ර පෙරේරා</li><li>අමිලා නදීෂානි</li><li>නිලන් හෙට්ටිආරච්චි</li><li>තීක්ෂණ අනුරාධ</li><li>ප්‍රියත් රාජපක්ෂ</li><li>නලින්ද රණසිංහ</li><li>නදිනී ප්‍රේමදාස</li><li>මොහාන් දර්ශන</li><li>බුද්ධික උෂාන් ගීතවත් වෙයි.</li></ul>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Puranaya%20-%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AB%E0%B6%BA%20/social%20meadia%20new.jpg-1791534096656.jpg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Puranaya%20-%E0%B6%B4%E0%B7%94%E0%B6%BB%E0%B7%8F%E0%B6%AB%E0%B6%BA%20/social%20meadia%20new.jpg-1791534096656.jpg",
       "venue": "Basilica College Ground,Ragama",
       "city": "666548e1a03df8fc2ac5a5db",
-      "dateTime": "2026-11-06T15:30:00.000Z",
-      "originalDateStr": "Fri, Nov 6, 2026, 09:00 PM",
+      "dateTime": "2026-11-06T15:00:00.000Z",
+      "originalDateStr": "Fri, Nov 6, 2026, 08:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 1000,
       "maxPrice": 2500,
@@ -330,29 +330,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -374,6 +351,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -840,8 +840,8 @@
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
       "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 28th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/wzu59LES7xb5APKM9qY3uMvhVl7P9RgBmlzyjZ5C.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/azVErVYrQKXLX5d3ppeXe9d06sqPPZCd3aDT6NTe.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/55gilJn6TldpUiGAFBaSoAPi4V6VfAAWNHHVgaI4.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/moSjnNqHzjVXqIDp7nMhnbEIcCAfADjtEeWC1PxJ.jpg",
       "venue": "Port City Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-11-28T18:00:00.000Z",
@@ -931,29 +931,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.980700793020149,
-      "longitude": 81.07332407418981
-    },
-    {
       "id": "ticketsministry-1280",
       "source": "TicketsMinistry",
       "name": "OBA MA HAMU VU LIVE IN CONCERT",
@@ -975,6 +952,29 @@
       ],
       "latitude": 7.507550900000001,
       "longitude": 80.40448719999999
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
+      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.980700793020149,
+      "longitude": 81.07332407418981
     },
     {
       "id": "ticketsministry-1262",
@@ -1039,8 +1039,7 @@
       "status": "sold-out",
       "tags": [
         "Concert",
-        "Indoor Musical Concert",
-        "Featured"
+        "Indoor Musical Concert"
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
@@ -1092,30 +1091,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1279",
-      "source": "TicketsMinistry",
-      "name": "FOUR NOTES",
-      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-04T19:30:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1321",
       "source": "TicketsMinistry",
       "name": "MARIANS WITH NEWS",
@@ -1138,6 +1113,30 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1279",
+      "source": "TicketsMinistry",
+      "name": "FOUR NOTES",
+      "description": "<p>FOUR NOTES — A musical fusion that brings together four remarkable artists on one stage, blending their unique sounds into a single unforgettable harmony. </p><p>Experience an evening where rhythm meets emotion, melody meets soul, and every note tells a story.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aU4BALzoNZzndE2lwaoP8aTUYXjfrfT4TgIaWnVc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/IxfJ327kHrLUkgD519SmKL5QbfWmBtRdGyMLBIb3.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-04T19:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/four-notes/6a9fa571ce061",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1247",
@@ -1187,30 +1186,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "oneticket-428",
-      "source": "OneTicket",
-      "name": "Annites Breeze - Live with Marians",
-      "description": "Annites Breeze - Live with Marians happening at The Epitome Hotel. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 6000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/83487948-f54e8b62-02e7-498d-92c4-b4a2d268f4a4.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/59140498-88fb0719-661e-4352-8715-30fcc4e12c84.jpg",
-      "venue": "The Epitome Hotel",
-      "city": "The Epitome Hotel",
-      "dateTime": "2026-12-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://oneticket.lk/event/annites-breeze-live-with-marians",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.896825490196079,
-      "longitude": 79.87453333333333
-    },
-    {
       "id": "oneticket-461",
       "source": "OneTicket",
       "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
@@ -1235,6 +1210,30 @@
       "longitude": 79.87453333333333
     },
     {
+      "id": "oneticket-428",
+      "source": "OneTicket",
+      "name": "Annites Breeze - Live with Marians",
+      "description": "Annites Breeze - Live with Marians happening at The Epitome Hotel. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 6000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/83487948-f54e8b62-02e7-498d-92c4-b4a2d268f4a4.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/59140498-88fb0719-661e-4352-8715-30fcc4e12c84.jpg",
+      "venue": "The Epitome Hotel",
+      "city": "The Epitome Hotel",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://oneticket.lk/event/annites-breeze-live-with-marians",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.896825490196079,
+      "longitude": 79.87453333333333
+    },
+    {
       "id": "ticketsministry-1299",
       "source": "TicketsMinistry",
       "name": "TACENDA",
@@ -1256,6 +1255,29 @@
       ],
       "latitude": 7.480618437897388,
       "longitude": 80.31658034784374
+    },
+    {
+      "id": "mytickets-6adf277987bc5509f6ed465a",
+      "source": "MyTickets",
+      "name": "Joy To The World 2026",
+      "description": "<h2><strong>Joy To The World&nbsp;2025</strong></h2><p><br></p><p>The annual Christmas Carols Concert and musical extravaganza “Joy to the World,” jointly organized by the Archdiocese of Colombo and the Saint Joseph Vaz Trust, has been a much-awaited Yuletide event in past years. A fundraiser for poverty alleviation projects.</p><p><br></p><p><br></p><p>📍&nbsp;Venue:&nbsp;<a href=\"https://maps.app.goo.gl/Xr5gwKvv6Rr5pkAe8\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(26, 13, 171);\">Musaeus College Auditorium</a></p><p>📅&nbsp;Date:&nbsp;Dec 10, 2026</p><p>⏰&nbsp;Time:&nbsp;6.30 pm</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Joy%20To%20The%20World%202026/WhatsApp%20Image%202026-10-26%20at%204.08.49%20PM-1793013159901.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Joy%20To%20The%20World%202026/WhatsApp%20Image%202026-10-26%20at%204.08.49%20PM-1793013159901.jpeg",
+      "venue": "Musaeus College",
+      "city": "Colombo",
+      "dateTime": "2026-12-10T13:00:00.000Z",
+      "originalDateStr": "Thu, Dec 10, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 7000,
+      "ticketLink": "https://mytickets.lk/event/joy-to-the-world-2026/6adf277987bc5509f6ed465a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Hot Deal"
+      ],
+      "latitude": 6.9135,
+      "longitude": 79.8656
     },
     {
       "id": "ticketsministry-1317",
@@ -1398,7 +1420,7 @@
       "id": "mytickets-6aa7dd39774525f787efc9ba",
       "source": "MyTickets",
       "name": "Rangira Maa - රන් ගිර මා ",
-      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 6.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
+      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 7.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
       "venue": "BMICH - COLOMBO",
@@ -1648,6 +1670,30 @@
       "longitude": 80.780947
     },
     {
+      "id": "oneticket-465",
+      "source": "OneTicket",
+      "name": "Synergy Pulse",
+      "description": "Synergy Pulse happening at Waters Edge. Date & Time: Sun, Dec 27, 2026, 12:00 AM. Tickets start from 5000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/22570164-2a4af370-e770-4698-94b5-fb0c0c6b2420.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/92791390-921276ec-47b8-4497-bc9c-cca01832570e.jpg",
+      "venue": "Waters Edge",
+      "city": "Waters Edge",
+      "dateTime": "2026-12-26T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 27, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 5000,
+      "ticketLink": "https://oneticket.lk/event/synergy-pulse",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9055,
+      "longitude": 79.9114
+    },
+    {
       "id": "ticketsministry-1336",
       "source": "TicketsMinistry",
       "name": "PUB LONDON NUWARA ELIYA 27TH DECEMBER",
@@ -1790,7 +1836,7 @@
       "id": "mytickets-6ad1e045dd16d3b5051eca3b",
       "source": "MyTickets",
       "name": "Punsanda Raata - පුන්සද රෑට ",
-      "description": "<p>Pundanda Raata - පුන්සද රෑට&nbsp;</p>",
+      "description": "<p><strong><u>Pundanda Raata - පුන්සද රෑට&nbsp;</u></strong></p><p><br></p><p>ශ්‍රී ලාංකීය ගීත වංශයේ වර්ණවත් ගීත එකතුවක මතක මංපෙත් ඔස්සේ හෝරා තුනක්.....!</p><p>ප්‍රථම වරට, ප්‍රවීණ සහ යෞවන ගායක ගායිකාවන් 22 ක්,&nbsp;</p><p>25ක් දෙනෙකුගෙන් සමන්විත වාද්‍ය වෘන්දයක් සමඟින්...!</p><p><br></p><p>සංගීතවේදී ඔස්ටින් මුණසිංහ ගීතාවලෝකනය&nbsp;</p><p>\"පුන්සඳ රෑට”</p><p><br></p><p>2027 ජනවාරි මස 16 වැනිදා සවස 6:30ට&nbsp;</p><p>නෙළුම් පොකුණ රඟහලේදී...</p><p><br></p><p>ඔබේ අසුන අදම වෙන්කරවාගන්න.</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
       "venue": "Nelum Pokuna Indoor Theater",
