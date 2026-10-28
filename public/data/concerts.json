@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-10-28T14:51:08.494Z",
+  "lastSyncTime": "2026-10-28T20:46:02.507Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 17,
@@ -797,8 +797,8 @@
       "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚 𝐉𝐎𝐔𝐑𝐍𝐄𝐘! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/VlyKYEmzKZEtfZ9ZuwZWbq1FQbhq7eAEDa9Xim4L.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/fbvkMgEyCbfKYRxTufuBo2fA8KF4T31dQMHz6cCX.png",
-      "venue": "Mount Lavinia Hotel",
-      "city": "Mount Lavinia",
+      "venue": "TBA",
+      "city": "Colombo 07",
       "dateTime": "2026-11-28T10:00:00.000Z",
       "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
       "priceCurrency": "LKR",
@@ -810,8 +810,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.833142693164847,
-      "longitude": 79.85933297499568
+      "latitude": 7.857684999999999,
+      "longitude": 80.70625
     },
     {
       "id": "mytickets-6adae3d75857bdbbae020b58",
@@ -1989,8 +1989,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.437218548360919,
-      "longitude": 79.56628623815175
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
     },
     {
       "id": "ticketsministry-1370",
@@ -2012,8 +2012,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.437218548360919,
-      "longitude": 79.56628623815175
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
     },
     {
       "id": "ticketsministry-1369",
@@ -2035,8 +2035,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.437218548360919,
-      "longitude": 79.56628623815175
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
     },
     {
       "id": "ticketsministry-1354",
