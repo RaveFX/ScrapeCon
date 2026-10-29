@@ -1,34 +1,12 @@
 {
-  "lastSyncTime": "2026-10-28T20:46:02.507Z",
+  "lastSyncTime": "2026-10-29T01:32:46.543Z",
   "counts": {
-    "MyTickets": 16,
+    "MyTickets": 15,
     "OneTicket": 17,
     "TicketsMinistry": 58,
-    "Total": 91
+    "Total": 90
   },
   "concerts": [
-    {
-      "id": "mytickets-6ad1ef1fbbf48c27a861ce9c",
-      "source": "MyTickets",
-      "name": "Rhythm Of The Maroons ",
-      "description": "<p><strong><u>Rhythm Of The Maroons&nbsp;</u></strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Of%20The%20Maroons%20/WEB%20BANNER-1792142969634.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Rhythm%20Of%20The%20Maroons%20/WEB%20BANNER-1792142969634.png",
-      "venue": "Sugathadasa Indoor Stadium",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-10-28T13:30:00.000Z",
-      "originalDateStr": "Wed, Oct 28, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/rhythm-of-the-maroons/6ad1ef1fbbf48c27a861ce9c",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.936041176470589,
-      "longitude": 79.83939607843136
-    },
     {
       "id": "ticketsministry-1348",
       "source": "TicketsMinistry",
