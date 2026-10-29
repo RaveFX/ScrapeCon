@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-29T01:32:46.543Z",
+  "lastSyncTime": "2026-10-29T08:01:23.106Z",
   "counts": {
-    "MyTickets": 15,
+    "MyTickets": 16,
     "OneTicket": 17,
     "TicketsMinistry": 58,
-    "Total": 90
+    "Total": 91
   },
   "concerts": [
     {
@@ -126,7 +126,7 @@
       "id": "ticketsministry-1271",
       "source": "TicketsMinistry",
       "name": "NIGHT FOR SIGHT",
-      "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favourite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
+      "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favorite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Please Note That A Table Will Only Be Reserved If Purchased From The Table Package Catergory </p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/5wvHEfVVRZHrSzjrlR8D0eu61lSFk6ZoekKrr45N.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/kLSqUfs984M5Cu8mgqHxlKB7CjYQGWzSmT8LzTdD.jpg",
       "venue": "Cinnamon Lakeside Colombo",
@@ -492,6 +492,28 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "mytickets-6ae2c29f32b643e8eaacfbc9",
+      "source": "MyTickets",
+      "name": "Holi Festival",
+      "description": "<p>The faces are hidden. The excitement is real! 👀🔥</p><p><br></p><p>Can you guess who's bringing the beats?</p><p><br></p><p>4 Artists. One Massive Colour Explosion! 🌈</p><p><br></p><p>HOLI FESTIVAL 2026 – GAMPAHA</p><p><br></p><p>📅 15th November 2026</p><p>📍 Gampaha</p><p><br></p><p>The biggest surprises are yet to come!</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Holi%20Festival/Gemini_Generated_Image_8l91y78l91y78l91-1793245474842.jfif",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Holi%20Festival/Gemini_Generated_Image_8l91y78l91y78l91-1793245474842.jfif",
+      "venue": "Gampaha Main Town Area",
+      "city": "666548e1a03df8fc2ac5a1f3",
+      "dateTime": "2026-11-15T08:30:00.000Z",
+      "originalDateStr": "Sun, Nov 15, 2026, 02:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 1000,
+      "ticketLink": "https://mytickets.lk/event/holi-festival/6ae2c29f32b643e8eaacfbc9",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9056098039215685,
+      "longitude": 79.82684705882353
     },
     {
       "id": "ticketsministry-1323",
@@ -909,29 +931,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1280",
-      "source": "TicketsMinistry",
-      "name": "OBA MA HAMU VU LIVE IN CONCERT",
-      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
-      "venue": "The Epitome Hotel Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.507550900000001,
-      "longitude": 80.40448719999999
-    },
-    {
       "id": "ticketsministry-1309",
       "source": "TicketsMinistry",
       "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
@@ -953,6 +952,29 @@
       ],
       "latitude": 6.980700793020149,
       "longitude": 81.07332407418981
+    },
+    {
+      "id": "ticketsministry-1280",
+      "source": "TicketsMinistry",
+      "name": "OBA MA HAMU VU LIVE IN CONCERT",
+      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
+      "venue": "The Epitome Hotel Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.507550900000001,
+      "longitude": 80.40448719999999
     },
     {
       "id": "ticketsministry-1262",
@@ -982,8 +1004,8 @@
       "source": "TicketsMinistry",
       "name": "VAZIAN'S NIGHT WITH MARIANS",
       "description": "<p>🎶✨ **VAZIANS’ NIGHT 2026 – THE ULTIMATE MUSICAL EXPERIENCE!** ✨🎶</p><p> 🔥 One Night. One Stage. Unforgettable Memories! 🔥 </p><p>Get ready for an electrifying musical night with MARIANS featuring SAJITH PERERA, alongside an incredible lineup of talented artists! 🎤🎸💃 </p><p>📅 Date: 28th November 2026 </p><p>📍Venue: Grandezza, Negombo </p><p>⏰ Time: 8.00 PM onwards </p><p>🎟️ Tickets:LKR 6,000 </p><p></p><p>💙 Proudly organized by the Old Boys’ Association of St. Joseph Vaz College.</p><p> 🎉 Great Music | Great Friends | Great Memories 🎟️ Grab your tickets now </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610280935-vazian's-night-with-marians-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/Kxv1wV221Gh8xXC67cUyOE0JCOBZEogCF6xBGgaj.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9eRyGR7t0eFY2iMgf2RDxWAIvRrW8S6uVJaeMiVl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SzaJNZtI58i4D61iDStrsQJeuGllzawp9a314ESR.jpg",
       "venue": "Grandeeza Hotel Negombo",
       "city": "Negombo",
       "dateTime": "2026-11-28T20:00:00.000Z",
@@ -1049,7 +1071,7 @@
       "id": "mytickets-6ac61f255404c8ecf3d869cc",
       "source": "MyTickets",
       "name": "Koththamalli - කොත්තමල්ලි Live In Concert",
-      "description": "<p><strong><u>Koththamalli - කොත්තමල්ලි Live In Concert</u></strong></p>",
+      "description": "<p><strong><u>Koththamalli - කොත්තමල්ලි Live In Concert</u></strong></p><p><br></p><p><u><span class=\"ql-cursor\">﻿</span></u>🔥 දශක හයක සංගීත මතකයන්!</p><p>❤️ පරම්පරා තුනක්!</p><p>🔥 එකම අසහාය වේදිකාවක!</p><p><br></p><p>🔥 “KOTHTHAMALLI LIVE IN CONCERT” 🔥</p><p><br></p><p>සමහර ගීත කිසිදා මැකී නොයයි. සමහර මතකයන් සදාකාලිකයි. ❤️</p><p><br></p><p>දශක හයක සංගීත ඉතිහාසයක් සහ අමරණීය මතකයන් සමරමින් Gypsies ඔබ වෙත ගෙන එන අතිවිශිෂ්ට සංගීත අත්දැකීම විඳගැනීමට සූදානම් වන්න! 🎸✨</p><p><br></p><p>🌟 තරු පහක්. පරම්පරා තුනක්!</p><p><br></p><p>ශ්‍රී ලාංකීය සංගීතයේ පරම්පරා තුනක් නියෝජනය කරන අසමසම කලාකරුවන් පස්දෙනෙකු එකම වේදිකාවකට එක්වන මොහොත!</p><p><br></p><p>🎤 BNS – සංගීතයට නව ජවයක් එක්කරන සුසංයෝගී රිද්මය</p><p>🎤 චිත්‍රාල් සෝමපාල – රොක් සංගීතයේ අසහාය හඬ</p><p>🎤 උමාරියා සිංහවංශ – හදවත් වසඟ කරන මධුර හඬ</p><p>🎤 පියල් පෙරේරා – සදාතනික බයිලා සංගීතයේ ජීවය</p><p>🎤 ෂෙනාල් – නව පරම්පරාවේ සංගීත හඬ</p><p><br></p><p>🎵 සිත් ඇදගන්නා බයිලා රිද්මයේ සිට විදුලි වේගයෙන් හදවත් අවදි කරන රොක්, මනස පිනවන පොප් සහ උද්‍යෝගිමත් රෙගේ සංගීත රිද්මයන් දක්වා — සංගීතය, පරම්පරා සහ අමරණීය මතකයන් එකට එක්වන අසිරිමත් සැඳෑවකට සූදානම් වන්න!</p><p><br></p><p>🎶🔥 එකම වේදිකාවක… අසමසම සංගීත අත්දැකීමක්! 🔥🎶</p><p><br></p><p>🔥🔥 “KOTHTHAMALLI LIVE IN CONCERT” 🔥🔥</p><p><br></p><p>📅 2026 දෙසැම්බර් 04 වැනිදා</p><p>⏰ රාත්‍රී 7.30ට</p><p>📌 Taj Samudra Grand Marquee</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Koththamalli%20-%20%E0%B6%9A%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%92%20Live%20In%20Concert/my%20ticket%20pd.jpg%20(1)%20(1)-1791368992606.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Koththamalli%20-%20%E0%B6%9A%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%92%20Live%20In%20Concert/my%20ticket%20pd.jpg%20(1)%20(1)-1791368992606.jpeg",
       "venue": "The Grand Marquee - Taj Samudra",
