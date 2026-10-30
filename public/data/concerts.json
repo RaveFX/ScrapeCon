@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-10-30T04:24:26.538Z",
+  "lastSyncTime": "2026-10-30T12:08:43.002Z",
   "counts": {
     "MyTickets": 16,
     "OneTicket": 17,
-    "TicketsMinistry": 57,
-    "Total": 90
+    "TicketsMinistry": 58,
+    "Total": 91
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1348",
-      "source": "TicketsMinistry",
-      "name": "MIND YOUR MUSIC 2026 - ROMANTICS TO ROCK Mind ‘N’ ROLL - COLOMBO EDITION",
-      "description": "<p>The Trinity College Choir's Mind Your Music concert can be considered as a modest attempt to showcase the Choir's wide variety of repertoire, incorporating a broad array of music of different styles, genres and eras. In 'Romantics to Rock 'n Roll', we celebrate the great Romantic works, that have earned lasting reverence since the time of their composition, and explore, across the decades, the music that came to define entire generations. Through this concert, Choristers receive a greater sense of appreciation towards all forms and styles of music, distinguishing and appreciating the nuances and styles of each. The fact that almost all the music performed are specially arranged for the character of the Choir, save for those musical pieces composed by the Masters and recognized choral arrangements, helps the Choristers to absorb the experience fully.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610161453-mind-your-music-2026---romantics-to-rock-‘n’-roll---colombo-edition-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/oXmTa9fpn3SsVSa2JbKV6SRxbxjCXuuTNKLrhOoI.jpg",
-      "venue": "The Lionel Wendt",
-      "city": "Colombo 07",
-      "dateTime": "2026-10-29T17:30:00.000Z",
-      "originalDateStr": "Thu, Oct 29, 2026, 11:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mind-your-music-2026-romantics-to-rock-mind-n-roll-colombo-edition/6ad1ef4d86a8a",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.906927065169236,
-      "longitude": 79.86040848895234
-    },
     {
       "id": "ticketsministry-1253",
       "source": "TicketsMinistry",
@@ -285,29 +262,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 24000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -329,6 +283,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 24000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -908,29 +885,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.980700793020149,
-      "longitude": 81.07332407418981
-    },
-    {
       "id": "ticketsministry-1280",
       "source": "TicketsMinistry",
       "name": "OBA MA HAMU VU LIVE IN CONCERT",
@@ -952,6 +906,29 @@
       ],
       "latitude": 7.507550900000001,
       "longitude": 80.40448719999999
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
+      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.980700793020149,
+      "longitude": 81.07332407418981
     },
     {
       "id": "ticketsministry-1262",
@@ -1257,6 +1234,29 @@
       "longitude": 79.87453333333333
     },
     {
+      "id": "ticketsministry-1373",
+      "source": "TicketsMinistry",
+      "name": "PREMANIYA RAHASAK",
+      "description": "<p>\"Premaniya rahasak\" Memory Book In Concert. </p><p>උපන් දා සිට,</p><p>කාටවත් නොකියාම,</p><p>හිතේ හිරකරගෙන උන් ආදරණීය මතකවලට,</p><p>ආයෙමත් වතාවක්, ආදරයෙන් කතා කරන්න..❤️</p><p>ප්‍රේමය ,ආදරය සහ ජීවිතය එකම වේදිකාවක,</p><p>එකට මුණගැහෙන පලවෙනි concert එක තමා මේ..</p><p>ඇවිත්ම බලන්න...</p><p>ඒ හැමදේම </p><p>❤️\"ප්‍රේමණීය රහසක්...\"❤️</p><p></p><p>මේ ආදර කතාව,ප්‍රේම කතාවක් විතරක්ම නෙවෙයි.උපන්දා සිට ඔබ එකතු කරගත් ආදරණීය මතක පොතේ කතාවයි.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/LghTFbH2ZDwWG8glpp92ArrLS4riZsvGEzNnKQvD.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/GUvRu1SpmAwyX2AaG1RjLlMfHRHiCULgnY3vNIBL.jpg",
+      "venue": "Wave n' Lake Navy Banquet Hall",
+      "city": "Ragama",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaniya-rahasak/6ae2ee535693e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
+    },
+    {
       "id": "ticketsministry-1299",
       "source": "TicketsMinistry",
       "name": "TACENDA",
@@ -1496,7 +1496,7 @@
       "originalDateStr": "Sat, Dec 19, 2026, 03:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
-      "maxPrice": 60000,
+      "maxPrice": 98000,
       "ticketLink": "https://www.ticketsministry.com/concerts/blazing-abyss/6ac7895c772b1",
       "status": "active",
       "tags": [
@@ -1923,6 +1923,29 @@
       ],
       "latitude": 6.934472549019608,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1375",
+      "source": "TicketsMinistry",
+      "name": "ROOKA LEKHA",
+      "description": "<p>Experience an unforgettable evening of timeless melodies and musical brilliance with ROOKA LEKHA, featuring the legendary voices of Rookantha Goonatillake and Chandralekha Perera. </p><p>A celebration of love, nostalgia, and the songs that have touched generations, bringing two iconic artists together on one stage for a magical musical journey. Get ready to relive cherished memories and create new ones through the melodies you know and love.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/GQBMw2zn9i6oUEdnv380ucCh4SglOJrhYHWGIMu1.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/hK2xWcbgrqckJOQu0RV5WaEIfSrkE3KKuusqz9LM.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2027-01-22T19:00:00.000Z",
+      "originalDateStr": "Sat, Jan 23, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/rooka-lekha/6ae446c66ba5c",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "mytickets-6ae08a14e5c745f2f28db4d5",
