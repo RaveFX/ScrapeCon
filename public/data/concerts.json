@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-10-31T11:41:24.582Z",
+  "lastSyncTime": "2026-10-31T16:49:40.326Z",
   "counts": {
     "MyTickets": 17,
     "OneTicket": 17,
-    "TicketsMinistry": 59,
-    "Total": 93
+    "TicketsMinistry": 60,
+    "Total": 94
   },
   "concerts": [
     {
@@ -16,8 +16,8 @@
       "posterUrl": "https://cdn.ticketsministry.com/events/FDp8sBmbaryvGfbXOAhHR86JarQcVhzVAs5zBK3Z.jpg",
       "venue": "Radisson Blu Resort Galle",
       "city": "Galle",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
+      "dateTime": "2026-10-31T17:00:00.000Z",
+      "originalDateStr": "Sat, Oct 31, 2026, 10:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 8000,
@@ -54,6 +54,29 @@
       "longitude": 80.63580157500003
     },
     {
+      "id": "ticketsministry-1271",
+      "source": "TicketsMinistry",
+      "name": "NIGHT FOR SIGHT",
+      "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favorite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Please Note That A Table Will Only Be Reserved If Purchased From The Table Package Catergory </p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/5wvHEfVVRZHrSzjrlR8D0eu61lSFk6ZoekKrr45N.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/kLSqUfs984M5Cu8mgqHxlKB7CjYQGWzSmT8LzTdD.jpg",
+      "venue": "Cinnamon Lakeside Colombo",
+      "city": "Colombo 02",
+      "dateTime": "2026-10-31T18:30:00.000Z",
+      "originalDateStr": "Sun, Nov 1, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/night-for-sight/650d3de0-ed9c-435c-b2d7-eb8fdc3b87fc",
+      "status": "sold-out",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170399999999,
+      "longitude": 79.8492962
+    },
+    {
       "id": "ticketsministry-1356",
       "source": "TicketsMinistry",
       "name": "KANDY AFTER DARK - THE HAUNTED CLUB HOUSE",
@@ -68,36 +91,13 @@
       "minPrice": 4000,
       "maxPrice": 4000,
       "ticketLink": "https://www.ticketsministry.com/concerts/kandy-after-dark-the-haunted-club-house/6add8237a3559",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Halloween Party"
       ],
       "latitude": 6.88845976991535,
       "longitude": 79.30359091798054
-    },
-    {
-      "id": "ticketsministry-1271",
-      "source": "TicketsMinistry",
-      "name": "NIGHT FOR SIGHT",
-      "description": "<p>Night for Sight is a spectacular evening of live music, entertainment, and celebration, proudly presented by the Lion Ladies Committee of District 306 D4.</p><p>Featuring performances by Umaria, Bathiya & Santhush, Jaya Sri, and Sarith Surith with News, the event brings together some of Sri Lanka’s favorite artists for a memorable night at Cinnamon Lakeside Colombo – AC Marquee.</p><p>Most importantly, this event is held in support of a noble humanitarian cause, with contributions helping provide 1,000 free cataract surgeries for people in need.</p><p>Please Note That A Table Will Only Be Reserved If Purchased From The Table Package Catergory </p><p>Come enjoy an unforgettable night while helping bring the gift of sight to those who need it most.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/5wvHEfVVRZHrSzjrlR8D0eu61lSFk6ZoekKrr45N.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/kLSqUfs984M5Cu8mgqHxlKB7CjYQGWzSmT8LzTdD.jpg",
-      "venue": "Cinnamon Lakeside Colombo",
-      "city": "Colombo 02",
-      "dateTime": "2026-10-31T19:30:00.000Z",
-      "originalDateStr": "Sun, Nov 1, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/night-for-sight/650d3de0-ed9c-435c-b2d7-eb8fdc3b87fc",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170399999999,
-      "longitude": 79.8492962
     },
     {
       "id": "ticketsministry-1287",
@@ -722,6 +722,29 @@
       "longitude": 79.87453333333333
     },
     {
+      "id": "ticketsministry-1377",
+      "source": "TicketsMinistry",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
+    },
+    {
       "id": "ticketsministry-1376",
       "source": "TicketsMinistry",
       "name": "X CONCERT",
@@ -931,29 +954,6 @@
       "longitude": 81.07332407418981
     },
     {
-      "id": "ticketsministry-1280",
-      "source": "TicketsMinistry",
-      "name": "OBA MA HAMU VU LIVE IN CONCERT",
-      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
-      "venue": "The Epitome Hotel Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.507550900000001,
-      "longitude": 80.40448719999999
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -975,6 +975,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1280",
+      "source": "TicketsMinistry",
+      "name": "OBA MA HAMU VU LIVE IN CONCERT",
+      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
+      "venue": "The Epitome Hotel Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.507550900000001,
+      "longitude": 80.40448719999999
     },
     {
       "id": "ticketsministry-1367",
@@ -2109,28 +2132,28 @@
       "longitude": 79.8639658
     },
     {
-      "id": "oneticket-468",
+      "id": "oneticket-471",
       "source": "OneTicket",
       "name": "හැන්දෑවක Valentine's Edition",
-      "description": "හැන්දෑවක Valentine's Edition happening at Colombo. Date & Time: Sun, Feb 14, 2027, 12:00 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/71047079-b7e10ae0-7a96-4aa6-b776-ea86d84d5407.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/56214504-9ecc687d-a884-4829-a348-e1ad18614b2d.jpg",
-      "venue": "Colombo",
-      "city": "Colombo",
+      "description": "හැන්දෑවක Valentine's Edition happening at AIR FORCE GROUND. Date & Time: Sun, Feb 14, 2027, 12:00 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/83053497-9add0066-5e36-42b0-b12d-770c589a3e12.png",
+      "posterUrl": "https://storage.googleapis.com/oneticket/47662537-75c7df1c-e2d9-405d-bfe3-347dff84ce0e.png",
+      "venue": "AIR FORCE GROUND",
+      "city": "AIR FORCE GROUND",
       "dateTime": "2027-02-13T18:30:00.000Z",
       "originalDateStr": "Sun, Feb 14, 2027, 12:00 AM",
       "priceCurrency": "LKR",
       "minPrice": 3000,
       "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/hendewaka-valentines-edition",
+      "ticketLink": "https://oneticket.lk/event/හනදවක-valentines-edition",
       "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Event",
         "Indoor"
       ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
+      "latitude": 6.9197,
+      "longitude": 79.8519
     },
     {
       "id": "ticketsministry-1347",
