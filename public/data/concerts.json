@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-01T16:34:27.884Z",
+  "lastSyncTime": "2026-11-01T21:41:58.998Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 16,
@@ -227,7 +227,7 @@
       "originalDateStr": "Sat, Nov 14, 2026, 07:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 7000,
-      "maxPrice": 11000,
+      "maxPrice": 33000,
       "ticketLink": "https://www.ticketsministry.com/concerts/ancient-soul-with-friends-royal-white-party-yacht-edition33/6ae75e8886786",
       "status": "active",
       "tags": [
