@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-11-01T08:41:55.133Z",
+  "lastSyncTime": "2026-11-01T16:34:27.884Z",
   "counts": {
     "MyTickets": 18,
-    "OneTicket": 17,
-    "TicketsMinistry": 56,
-    "Total": 91
+    "OneTicket": 16,
+    "TicketsMinistry": 58,
+    "Total": 92
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1311",
-      "source": "TicketsMinistry",
-      "name": "HALLOWEEN PARTY",
-      "description": "<p>Step into the night at Enigma Entertainment’s Halloween Party! Expect music, magic, games, costumes, great food, and unforgettable moments. Dress up, bring your friends, and make October 31 a night to remember!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/eAI0kF8JNwZteYjhvOq6E1lsEAsYHWx2sLsOf14r.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/knlvhz6yW7rdPETeW2Jd4yGstOKdNW8nqIe8ssDT.jpg",
-      "venue": "Queens Hotel Kandy Royal Ball Room",
-      "city": "Kandy",
-      "dateTime": "2026-10-31T18:00:00.000Z",
-      "originalDateStr": "Sat, Oct 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/halloween-party/2e14ffee-d29d-4bbc-85c8-2ef050558317",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Halloween Party"
-      ],
-      "latitude": 7.29323279271429,
-      "longitude": 80.63580157500003
-    },
     {
       "id": "mytickets-6aa3deaff4566da151daf319",
       "source": "MyTickets",
@@ -146,30 +123,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "oneticket-444",
-      "source": "OneTicket",
-      "name": "කතාවක් – Film in Concert - UNTOLD STORY",
-      "description": "කතාවක් – Film in Concert - UNTOLD STORY happening at AIR FORCE GROUND. Date & Time: Sun, Nov 8, 2026, 12:30 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/20882423-9247a0f1-604b-40b1-afa9-3bd3e212509c.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/59437358-fde78e7b-c505-4581-a606-98f29b6afcd4.jpg",
-      "venue": "AIR FORCE GROUND",
-      "city": "AIR FORCE GROUND",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/කතවක-film-in-concert-untold-story",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9197,
-      "longitude": 79.8519
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -260,6 +213,29 @@
       ],
       "latitude": 6.9282072999999995,
       "longitude": 79.8482454
+    },
+    {
+      "id": "ticketsministry-1379",
+      "source": "TicketsMinistry",
+      "name": "ANCIENT SOUL WITH FRIENDS ROYAL WHITE PARTY — YACHT EDITION33",
+      "description": "<p>An exclusive sunset experience at sea. Good music, royal vibes, and unforgettable moments. 🎧 LINEUP (A–Z) • Ancient Soul • Anush B2B Professor • Gishan B2B Deshan • Kodii • Lahiru • Texter • Univ3rse – SL • Yazziru B2B Thaki ⚠️ LIMITED ENTRY — FIRST 40 PRE-REGISTRATIONS ONLY! 📅 November 14, 2026 📍 Mirissa Fisheries Harbour 🕑 Check-in: 2:00 PM 🛥️ Cruising at Sea: 2:30 PM – 7:30 PM ⚓ Harbour Session: 7:30 PM – 9:00 PM 🌙 After-party included! 🤍 DRESS CODE: All White Everything 🥂 BYOB: Bring Your Own Bottle — No Corkage Fee! 📞 Reservations & Inquiries: 078 120 2353 White fits. Sunset views. Underground sounds. Royal energy. 👑🌊 100 SPOTS. ONE YACHT. YOUR KIND OF NIGHT. 🛥️🤍</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611012100-ancient-soul-with-friends-royal-white-party-—-yacht-edition33-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ubdCwxrLQ24Ufyb5ccZGXPXIMWEeSGLALohHtidR.jpg",
+      "venue": "Mirissa Fisheries Harbor",
+      "city": "Mirissa",
+      "dateTime": "2026-11-14T14:00:00.000Z",
+      "originalDateStr": "Sat, Nov 14, 2026, 07:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 11000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/ancient-soul-with-friends-royal-white-party-yacht-edition33/6ae75e8886786",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 5.948156000000001,
+      "longitude": 80.4502143
     },
     {
       "id": "oneticket-449",
@@ -839,29 +815,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.980700793020149,
-      "longitude": 81.07332407418981
-    },
-    {
       "id": "ticketsministry-1280",
       "source": "TicketsMinistry",
       "name": "OBA MA HAMU VU LIVE IN CONCERT",
@@ -906,6 +859,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
+      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.980700793020149,
+      "longitude": 81.07332407418981
     },
     {
       "id": "ticketsministry-1367",
@@ -1140,30 +1116,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "oneticket-461",
-      "source": "OneTicket",
-      "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
-      "description": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert happening at Viharamahadevi Outdoor. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/13936395-336d6ad5-678c-44d7-9fa2-0674a9f6bc66.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/28908777-454cdb51-7642-42b0-a4e9-9220810938cd.jpg",
-      "venue": "Viharamahadevi Outdoor",
-      "city": "Viharamahadevi Outdoor",
-      "dateTime": "2026-12-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/dopamine-heenayak-live-in-concert",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9335313725490195,
-      "longitude": 79.87453333333333
-    },
-    {
       "id": "oneticket-428",
       "source": "OneTicket",
       "name": "Annites Breeze - Live with Marians",
@@ -1185,6 +1137,30 @@
         "Indoor"
       ],
       "latitude": 6.896825490196079,
+      "longitude": 79.87453333333333
+    },
+    {
+      "id": "oneticket-461",
+      "source": "OneTicket",
+      "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
+      "description": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert happening at Viharamahadevi Outdoor. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/13936395-336d6ad5-678c-44d7-9fa2-0674a9f6bc66.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/28908777-454cdb51-7642-42b0-a4e9-9220810938cd.jpg",
+      "venue": "Viharamahadevi Outdoor",
+      "city": "Viharamahadevi Outdoor",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/dopamine-heenayak-live-in-concert",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9335313725490195,
       "longitude": 79.87453333333333
     },
     {
@@ -1555,6 +1531,29 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "ticketsministry-1378",
+      "source": "TicketsMinistry",
+      "name": "AURA LIVE IN CONCERT",
+      "description": "<p> \"AURA 26\" Live in concert</p><p>𝖡𝖾𝗅𝗂𝖾𝗏𝖾... 𝖴𝗇𝗅𝖾𝖺𝗌𝗁 𝗒𝗈𝗎𝗋 𝗌𝗍𝗋𝖾𝗇𝗀𝗍𝗁𝗌... 𝖥𝗋𝖾𝖾 𝗍𝗁𝖾 𝗈𝖻𝗌𝗍𝖺𝖼𝗅𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗆𝗂𝗇𝖽... 𝖤𝗑𝗉𝖾𝗋𝗂𝖾𝗇𝖼𝖾 𝖺 𝖿𝖾𝗐 𝗋𝖾𝗅𝖺𝗑𝗂𝗇𝗀 𝗁𝗈𝗎𝗋𝗌 𝖺𝗆𝗂𝖽𝗌𝗍 𝖺 𝖻𝗎𝗌𝗒 𝗌𝖼𝗁𝖾𝖽𝗎𝗅𝖾, 𝖻𝗅𝖾𝗇𝖽𝖾𝖽 𝗐𝗂𝗍𝗁 𝗍𝗁𝖾 𝗆𝗈𝗈𝖽𝗌 𝗈𝖿 𝗆𝗎𝗌𝗂𝖼... </p><p>🌀𝗞𝘂𝗿𝘂𝗻𝗲𝗴𝗮𝗹𝗮 𝗚𝗲𝘁 𝗿𝗲𝗮𝗱𝘆 𝗳𝗼𝗿 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 𝟭𝟵𝘁𝗵.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/8Rlqvm2nYeoM86V59kj6U3xDfhkOXX5c2o5btBXw.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/iNczG7PFkaveLbK0CEfZtbHTCbm9gP6TASxY77UH.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-12-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/aura-live-in-concert/6ae7099e43a17",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
+    },
+    {
       "id": "ticketsministry-1355",
       "source": "TicketsMinistry",
       "name": "2FORTY2 PADURA",
@@ -1577,6 +1576,30 @@
       ],
       "latitude": 6.9063550000000005,
       "longitude": 79.8666235
+    },
+    {
+      "id": "ticketsministry-1368",
+      "source": "TicketsMinistry",
+      "name": "YUGANTHAYA CHAPTER 04",
+      "description": "<p>YO Entertainment presents “YUGANTHAYA – Chapter 4”, an unforgettable evening of live music, entertainment, and spectacular performances featuring some of Sri Lanka’s finest artists.</p><p>Get ready to experience the incredible voices and energy of Amarashiri Peiris, Nalin Perera, Kasun Kalhara, and Nadeeka Jayawardene, bringing together timeless melodies and unforgettable musical moments on one stage.</p><p>The evening will be hosted by Compere Sumiran, with live musical entertainment by Sugath Hettiarachchi.</p><p>📅 Date: 20 December 2026🕖 Time: 7:00 PM onwards📍 Venue: Musaeus College Auditorium, Colombo 07</p><h3>🎟️ Ticket Categories</h3><ul><li><p>Balcony – LKR 4,000</p></li><li><p>Bronze – LKR 6,000</p></li><li><p>Silver – LKR 7,500</p></li><li><p>Gold – LKR 10,000</p></li><li><p>Platinum – LKR 15,000</p></li></ul><p>Come be part of YUGANTHAYA – Chapter 4 and enjoy an extraordinary night of music, memories, and entertainment.</p><p>For more information: 071 261 6616</p><p>✨ One Stage. Legendary Voices. One Unforgettable Night.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/xBjJ2HdZmhe57vbkXKiIXvEj2XApVNsxJqEDAWty.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/kL1tXqikm5Ps1nXv5kks4vWCA26obKo2LqfzBVjs.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-20T19:00:00.000Z",
+      "originalDateStr": "Mon, Dec 21, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/yuganthaya-chapter-04/6ae1d8f97b806",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1351",
@@ -1833,20 +1856,20 @@
       "longitude": 79.8528862745098
     },
     {
-      "id": "oneticket-421",
+      "id": "oneticket-444",
       "source": "OneTicket",
-      "name": "CHAKRA 360 UNIVERSE",
-      "description": "CHAKRA 360 UNIVERSE happening at Air Force Ground - Colombo. Date & Time: Sun, Jan 10, 2027, 12:30 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/21308662-b6c97db4-9390-425c-906a-007f66009502.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/75698059-ab45a259-3acf-438b-84f9-5515ce208037.jpg",
-      "venue": "Air Force Ground - Colombo",
-      "city": "Air Force Ground - Colombo",
+      "name": "කතාවක් – Film in Concert - UNTOLD STORY",
+      "description": "කතාවක් – Film in Concert - UNTOLD STORY happening at AIR FORCE GROUND. Date & Time: Sun, Jan 10, 2027, 12:30 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/75249248-b8109d34-b302-428e-8217-b151ac083631.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/82554720-ef7dbfd5-2533-4356-9757-c9da135b8905.jpg",
+      "venue": "AIR FORCE GROUND",
+      "city": "AIR FORCE GROUND",
       "dateTime": "2027-01-09T19:00:00.000Z",
       "originalDateStr": "Sun, Jan 10, 2027, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 3000,
       "maxPrice": 3000,
-      "ticketLink": "https://oneticket.lk/event/chakra-360-universe",
+      "ticketLink": "https://oneticket.lk/event/කතවක-film-in-concert-untold-story",
       "status": "active",
       "tags": [
         "Concert",
@@ -1948,29 +1971,6 @@
       "longitude": 79.8736
     },
     {
-      "id": "ticketsministry-1370",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 10000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1357",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - FRIDAY ACCESS",
@@ -1985,6 +1985,29 @@
       "minPrice": 5500,
       "maxPrice": 9000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1370",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
       "status": "active",
       "tags": [
         "Concert",
