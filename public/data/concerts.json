@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-02T08:53:13.213Z",
+  "lastSyncTime": "2026-11-02T19:58:10.395Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 17,
@@ -123,29 +123,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 24000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1316",
       "source": "TicketsMinistry",
       "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
@@ -167,6 +144,29 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
+    },
+    {
+      "id": "ticketsministry-1305",
+      "source": "TicketsMinistry",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 24000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -839,29 +839,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.980700793020149,
-      "longitude": 81.07332407418981
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -883,6 +860,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
+      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.980700793020149,
+      "longitude": 81.07332407418981
     },
     {
       "id": "ticketsministry-1280",
@@ -1373,7 +1373,7 @@
       "id": "ticketsministry-1341",
       "source": "TicketsMinistry",
       "name": "ALL OF US",
-      "description": "<p>\"Outside\" is a premium, open-air Electronic Dance Music festival designed to deliver an internationally inspired entertainment experience for up to 1,500 attendees. It is specifically tailored for electronic music enthusiasts, primarily targeting a highly engaged 18–35 demographic. What makes \"Outside\" truly special is its unique fusion of world class production with the sophisticated, organic atmosphere of Num Num Thai Colombo. Featuring an extensive 11 artist lineup highlighted by international progressive house phenom Redspace the event promises an immersive journey of striking visual effects and unparalleled VIP hospitality, setting a new standard for music festivals.</p>",
+      "description": "<p>They never thought we would ever find them.</p><p>But somehow, we found a way.</p><p>THE SIGNAL HAS BEEN DETECTED.</p><p>13.12.2026 // COLOMBO</p><p>ALL OF US</p><p>Where We Become One.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/G46T2avmjTor5jWvNSevMPTcM7JlUvQuiOcRhuyb.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/pd4pVBlhahMjXfxNyLCrPkkF2DYZ1x2l1nELnJ18.jpg",
       "venue": "TBA",
