@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-04T00:22:34.122Z",
+  "lastSyncTime": "2026-11-04T08:36:46.218Z",
   "counts": {
-    "MyTickets": 19,
-    "OneTicket": 17,
+    "MyTickets": 20,
+    "OneTicket": 18,
     "TicketsMinistry": 62,
-    "Total": 98
+    "Total": 100
   },
   "concerts": [
     {
@@ -123,29 +123,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -167,6 +144,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -354,6 +354,28 @@
       "longitude": 79.82684705882353
     },
     {
+      "id": "mytickets-6ad9b1cd878014a8e5fd029c",
+      "source": "MyTickets",
+      "name": "Sing Along With Black",
+      "description": "<p><strong><u>Sing Along With Black</u></strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Sing%20Along%20With%20Black/Web2%20(1)-1792651562952.png",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Sing%20Along%20With%20Black/Web2%20(1)-1792651562952.png",
+      "venue": "BMICH - SAPPHIRE BANQUET HALL ",
+      "city": "666548e1a03df8fc2ac5a050",
+      "dateTime": "2026-11-15T13:30:00.000Z",
+      "originalDateStr": "Sun, Nov 15, 2026, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 7000,
+      "ticketLink": "https://mytickets.lk/event/sing-along-with-black/6ad9b1cd878014a8e5fd029c",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
+    },
+    {
       "id": "ticketsministry-1323",
       "source": "TicketsMinistry",
       "name": "KELE HANDA RUKMANI SWARNA GEE",
@@ -509,7 +531,8 @@
       "ticketLink": "https://mytickets.lk/event/rasogaya/6a72b00a3891a9c45bfe96d1",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
@@ -653,29 +676,6 @@
       "longitude": 79.84425677499648
     },
     {
-      "id": "ticketsministry-1376",
-      "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
-    },
-    {
       "id": "ticketsministry-1240",
       "source": "TicketsMinistry",
       "name": "CHILL THEORY AT GANGAARA",
@@ -699,27 +699,50 @@
       "longitude": 79.92045117422727
     },
     {
+      "id": "ticketsministry-1376",
+      "source": "TicketsMinistry",
+      "name": "X CONCERT",
+      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
+      "venue": "Avenra Gardens Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 120000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.21757919278823,
+      "longitude": 79.85283377499933
+    },
+    {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
       "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚 𝐉𝐎𝐔𝐑𝐍𝐄𝐘! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/TtvqgYw7LTc24WPgSCr8bWtvMc8bGQ7HYjhmQJLO.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/lff3V0aZtwrkCo04v0WIek0uTy7IWEGaOtK3KWTA.png",
-      "venue": "TBA",
-      "city": "Colombo 07",
+      "venue": "Mount Lavinia Hotel",
+      "city": "Mount Lavinia",
       "dateTime": "2026-11-28T10:00:00.000Z",
       "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 7000,
+      "maxPrice": 12000,
       "ticketLink": "https://www.ticketsministry.com/concerts/wonderland-2026/546633af-e2fe-4db6-bf39-fb47e5f297b3",
       "status": "active",
       "tags": [
         "Concert",
         "EDM"
       ],
-      "latitude": 7.857684999999999,
-      "longitude": 80.70625
+      "latitude": 6.833142693164847,
+      "longitude": 79.85933297499568
     },
     {
       "id": "mytickets-6adae3d75857bdbbae020b58",
@@ -839,27 +862,27 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1309",
+      "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
-      "city": "Badulla",
+      "name": "ADARETA MATHAKAYAK",
+      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
+      "venue": "Open Air Theatre Kurunegala",
+      "city": "Kurunegala",
       "dateTime": "2026-11-28T19:00:00.000Z",
       "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 3500,
+      "minPrice": 2500,
       "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
       "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 6.980700793020149,
-      "longitude": 81.07332407418981
+      "latitude": 7.491157400000002,
+      "longitude": 80.36728060000002
     },
     {
       "id": "ticketsministry-1280",
@@ -885,27 +908,27 @@
       "longitude": 80.40448719999999
     },
     {
-      "id": "ticketsministry-1262",
+      "id": "ticketsministry-1309",
       "source": "TicketsMinistry",
-      "name": "ADARETA MATHAKAYAK",
-      "description": "<p>ආදරේට මතකයක් | LIVE IN CONCERT </p><p>ආදරේට මතක අරන් ආදරෙන්ම හම්බෙන්න එන්න නොවැම්බර් 28 කුරුණෑගල එලිමන් රංගපීටයට </p><p>📅 28th November | 6PM Onwards</p><p>📍 Open Air Theater, Kurunegala</p><p>🎟️ Ticket Prices</p><p>💫 LKR 2,500</p><p>👥 LKR 4,500 – Together Pass</p><p>👑 LKR 5,000 – VIP</p><p>🎶 Backed by</p><p>DIVINE | Raveen Tharuka | Uvindu Ashcharya | Dilu Beats | Channuka</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B92ai5vq8y6NWa3X1QEbWkGf8gPtaXaXkjmrGRaP.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/gYTFzriFdpvqC2on9Va5eNAZTmlPJ7krrk1XKx4y.jpg",
-      "venue": "Open Air Theatre Kurunegala",
-      "city": "Kurunegala",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
+      "venue": "The Namunukula Open Air Theatre - Uva Wellassa University",
+      "city": "Badulla",
       "dateTime": "2026-11-28T19:00:00.000Z",
       "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 2500,
+      "minPrice": 3500,
       "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/adareta-mathakayak/6a853b4e82494",
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
       "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 7.491157400000002,
-      "longitude": 80.36728060000002
+      "latitude": 6.980700793020149,
+      "longitude": 81.07332407418981
     },
     {
       "id": "ticketsministry-1367",
@@ -1139,30 +1162,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "oneticket-461",
-      "source": "OneTicket",
-      "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
-      "description": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert happening at Viharamahadevi Outdoor. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 2500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/13936395-336d6ad5-678c-44d7-9fa2-0674a9f6bc66.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/28908777-454cdb51-7642-42b0-a4e9-9220810938cd.jpg",
-      "venue": "Viharamahadevi Outdoor",
-      "city": "Viharamahadevi Outdoor",
-      "dateTime": "2026-12-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://oneticket.lk/event/dopamine-heenayak-live-in-concert",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.9335313725490195,
-      "longitude": 79.87453333333333
-    },
-    {
       "id": "oneticket-428",
       "source": "OneTicket",
       "name": "Annites Breeze - Live with Marians",
@@ -1184,6 +1183,30 @@
         "Indoor"
       ],
       "latitude": 6.896825490196079,
+      "longitude": 79.87453333333333
+    },
+    {
+      "id": "oneticket-461",
+      "source": "OneTicket",
+      "name": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert",
+      "description": "ඩොපමීන් හීනයක් (Dopamine Heenayak) Live in Concert happening at Viharamahadevi Outdoor. Date & Time: Sun, Dec 6, 2026, 12:30 AM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/13936395-336d6ad5-678c-44d7-9fa2-0674a9f6bc66.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/28908777-454cdb51-7642-42b0-a4e9-9220810938cd.jpg",
+      "venue": "Viharamahadevi Outdoor",
+      "city": "Viharamahadevi Outdoor",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/dopamine-heenayak-live-in-concert",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9335313725490195,
       "longitude": 79.87453333333333
     },
     {
@@ -1233,6 +1256,30 @@
       "longitude": 80.31658034784374
     },
     {
+      "id": "oneticket-474",
+      "source": "OneTicket",
+      "name": "Geethanjalee 2026",
+      "description": "Geethanjalee 2026 happening at Gymnasium, University. Date & Time: Wed, Dec 9, 2026, 12:30 AM. Tickets start from 1500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/54763637-a4e4f4ff-fbec-4671-a0af-06ad3d7fb322.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/13591787-b1d22770-52f9-40f4-bdf2-d5d0dfbf252b.jpg",
+      "venue": "Gymnasium, University",
+      "city": "Gymnasium, University",
+      "dateTime": "2026-12-08T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 9, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 1500,
+      "ticketLink": "https://oneticket.lk/event/geethanjalee-2026",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.944198039215687,
+      "longitude": 79.87453333333333
+    },
+    {
       "id": "ticketsministry-1381",
       "source": "TicketsMinistry",
       "name": "GEETHANJALEE 2026",
@@ -1279,29 +1326,6 @@
       "longitude": 79.8656
     },
     {
-      "id": "ticketsministry-1382",
-      "source": "TicketsMinistry",
-      "name": "ON EAGLES WINGS FEATURING BNS",
-      "description": "<p>Choristers of St.Anthony's College Kandy, proudly present On Eagle's Wings featuring with Bathiya & Santhush @ Polgolla Mahinda Rajapakse Auditorium (NICD). With the participation of Kandy invited school choristers.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/5iSzWitOR7uvWiDT7GVQeYtvEIiWp1jDWdoVaRz2.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ilQs0WXZMjFhUN9KVsHKaywYgRrYU6v3HGEeCWAh.png",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-12-11T19:00:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/on-eagles-wings-featuring-bns/6ae96ad295e61",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
-    },
-    {
       "id": "ticketsministry-1317",
       "source": "TicketsMinistry",
       "name": "WAYO AT THE LAKE",
@@ -1323,6 +1347,29 @@
       ],
       "latitude": 6.929170393070663,
       "longitude": 79.8467212749966
+    },
+    {
+      "id": "ticketsministry-1382",
+      "source": "TicketsMinistry",
+      "name": "ON EAGLES WINGS FEATURING BNS",
+      "description": "<p>Choristers of St.Anthony's College Kandy, proudly present On Eagle's Wings featuring with Bathiya & Santhush @ Polgolla Mahinda Rajapakse Auditorium (NICD). With the participation of Kandy invited school choristers.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/5iSzWitOR7uvWiDT7GVQeYtvEIiWp1jDWdoVaRz2.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ilQs0WXZMjFhUN9KVsHKaywYgRrYU6v3HGEeCWAh.png",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
+      "dateTime": "2026-12-11T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/on-eagles-wings-featuring-bns/6ae96ad295e61",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1274",
@@ -1557,8 +1604,8 @@
       "source": "OneTicket",
       "name": "Fiona - Christmas Edition",
       "description": "Fiona - Christmas Edition happening at Free Trade Zone Ground. Date & Time: Sun, Dec 20, 2026, 12:30 AM. Tickets start from 3000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/56047351-cc2ec2b8-927c-4644-9ad7-04f2b9aedfd0.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/39488238-652c4241-4cc6-4d18-83cd-4d738437365a.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/26020080-758d4dfc-8f31-45dd-b486-fb71fe27ab5a.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/32012553-8fd21b31-04f5-4b66-9001-eeaac544e05b.jpg",
       "venue": "Free Trade Zone Ground",
       "city": "Free Trade Zone Ground",
       "dateTime": "2026-12-19T19:00:00.000Z",
@@ -2204,7 +2251,7 @@
       "id": "ticketsministry-1354",
       "source": "TicketsMinistry",
       "name": "CAMELLIA FESTIVAL EDITION",
-      "description": "<p>CAMELLIA FESTIVAL 2027 – WHERE MUSIC BLOOMS</p><p>Step into a magical world of music, art, creativity, and unforgettable experiences at Camellia Festival – Festival Edition, happening on 12th February 2027 at Viharamahadevi Park, Colombo.</p><p>Featuring an incredible lineup of artists:</p><p>Ridma | Supun | Yasas | Suneera | Damsara | Dilu | Mihiran & One Guest Artist </p><p>Get ready for a vibrant celebration where music meets nature and creativity comes alive.</p><p>Explore a variety of unique festival zones, including the </p><p>Main Stage, Rising Stage, Art Garden, Pottery Studio, Food Garden, Life Style, Library, Bloom Gate, and Memory Garden — each offering something special to discover.</p><p>Be part of a festival where every moment blooms into a memory.</p>",
+      "description": "<p>CAMELLIA – Festival Edition 2027</p><p>Where Music Blooms</p><p>📅 Friday, 12 February 2027 | 🕓 Gates open 10:00 AM</p><p>📍 Viharamahadevi Open Air Theatre, Colombo</p><p>After a sold-out first two editions, CAMELLIA returns as a full outdoor music, art and lifestyle festival. Spend an evening under the stars with Ridma, Supun, Suneera, Damsara, Dilu Beats and Mihiran, plus a special guest still to be revealed.</p><p>Before the main concert, wander the garden. Catch emerging artists on the Rising Stage, make something of your own in the Art Garden, Pottery Studio and Petal Mask Studio, and take photos in the Memory Garden. There’s also a curated Food Garden, a Lifestyle market and a quiet Library corner.</p><p>Refer the Catalogue: https://shorturl.at/amJLO</p><p>CONCERT PASSES (the main concert)</p><p>Petal Pass – LKR 4,000 (General Concert Access)</p><p>Blossom Pass – LKR 6,000 (VIP Concert Access)</p><p>Camellia Royale Pass – LKR 8,000 (VVIP Concert Access)</p><p>FESTIVAL ZONE PASSES (one creative studio session, concert not included)</p><p>Clay Garden Pass – LKR 1,500 (Pottery Studio Session)</p><p>Art Garden Pass – LKR 2,000 (Art Garden Session)</p><p>Petal Mask Pass – LKR 1,500 (Mask Painting Session)</p><p>FULL FESTIVAL PASSES (the concert plus all three studios, saving LKR 1,000)</p><p>Garden Explorer Pass – LKR 8,000 (General + All Studios)</p><p>Bloom Elite Pass – LKR 10,000 (VIP + All Studios)</p><p>Camellia Reserve Pass – LKR 12,000 (VVIP + All Studios)</p><p>Every pass includes the Rising Stage, Food Garden, Lifestyle market, Library and Memory Garden photo zones. Studio seats are limited, so book early.</p><p>📞 For more details: 071 221 3120</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/31woJhIEALlevihRFBXGWkHhhwcs90pdCJg4UapQ.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/31woJhIEALlevihRFBXGWkHhhwcs90pdCJg4UapQ.jpg",
       "venue": "Viharamadevi Open Air Theatre - Colombo",
@@ -2212,10 +2259,10 @@
       "dateTime": "2027-02-12T16:00:00.000Z",
       "originalDateStr": "Fri, Feb 12, 2027, 09:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 9900,
-      "maxPrice": 9900,
+      "minPrice": 1500,
+      "maxPrice": 12000,
       "ticketLink": "https://www.ticketsministry.com/concerts/camellia-festival-edition/6ad88f61955bc",
-      "status": "sold-out",
+      "status": "active",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
