@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-05T05:08:31.753Z",
+  "lastSyncTime": "2026-11-05T13:59:23.537Z",
   "counts": {
     "MyTickets": 20,
     "OneTicket": 20,
-    "TicketsMinistry": 63,
-    "Total": 103
+    "TicketsMinistry": 64,
+    "Total": 104
   },
   "concerts": [
     {
@@ -123,29 +123,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
       "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
       "name": "AFRO EMBASSY",
@@ -167,6 +144,29 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
+    },
+    {
+      "id": "ticketsministry-1316",
+      "source": "TicketsMinistry",
+      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
+      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
+      "venue": "BMICH - Sapphire Banquet Hall",
+      "city": "Colombo 07",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.901133268661735,
+      "longitude": 79.86998932406588
     },
     {
       "id": "ticketsministry-1281",
@@ -676,29 +676,6 @@
       "longitude": 79.84425677499648
     },
     {
-      "id": "ticketsministry-1376",
-      "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
-    },
-    {
       "id": "ticketsministry-1240",
       "source": "TicketsMinistry",
       "name": "CHILL THEORY AT GANGAARA",
@@ -720,6 +697,29 @@
       ],
       "latitude": 7.346411807372148,
       "longitude": 79.92045117422727
+    },
+    {
+      "id": "ticketsministry-1376",
+      "source": "TicketsMinistry",
+      "name": "X CONCERT",
+      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
+      "venue": "Avenra Gardens Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 120000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.21757919278823,
+      "longitude": 79.85283377499933
     },
     {
       "id": "ticketsministry-1260",
@@ -770,7 +770,7 @@
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 28th October 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 28th November 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/55gilJn6TldpUiGAFBaSoAPi4V6VfAAWNHHVgaI4.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/moSjnNqHzjVXqIDp7nMhnbEIcCAfADjtEeWC1PxJ.jpg",
       "venue": "Port City Colombo",
@@ -1378,7 +1378,7 @@
       "name": "ON EAGLES WINGS FEATURING BNS",
       "description": "<p>Choristers of St.Anthony's College Kandy, proudly present On Eagle's Wings featuring with Bathiya & Santhush @ Polgolla Mahinda Rajapakse Auditorium (NICD). With the participation of Kandy invited school choristers.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/5iSzWitOR7uvWiDT7GVQeYtvEIiWp1jDWdoVaRz2.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ilQs0WXZMjFhUN9KVsHKaywYgRrYU6v3HGEeCWAh.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/tqVHJt7SNqECCXlMYgTriIR9I2ngA128W8gceQ1W.jpg",
       "venue": "NICD Auditorium Polgolla Kandy",
       "city": "null",
       "dateTime": "2026-12-11T19:00:00.000Z",
@@ -1514,8 +1514,8 @@
       "source": "MyTickets",
       "name": "Rangira Maa - රන් ගිර මා ",
       "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 7.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/ChatGPT%20Image%20Sep%2014,%202026,%2004_59_36%20PM%20(1)-1789385771621.png",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/RANGIRA-MA-MYTICKET-001-1793869691690.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/RANGIRA-MA-MYTICKET-001-1793869691690.jpg",
       "venue": "BMICH - COLOMBO",
       "city": "666548e1a03df8fc2ac5a04e",
       "dateTime": "2026-12-13T13:30:00.000Z",
@@ -1840,8 +1840,8 @@
       "source": "OneTicket",
       "name": "Synergy Pulse",
       "description": "Synergy Pulse happening at Waters Edge. Date & Time: Sun, Dec 27, 2026, 12:00 AM. Tickets start from 5000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/22570164-2a4af370-e770-4698-94b5-fb0c0c6b2420.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/92791390-921276ec-47b8-4497-bc9c-cca01832570e.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/97649733-0b370566-1ab1-4e5b-9c98-38a3dc0056c5.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/50974686-74bb385b-dd9c-4f9e-bd44-406cf3210716.jpg",
       "venue": "Waters Edge",
       "city": "Waters Edge",
       "dateTime": "2026-12-26T18:30:00.000Z",
@@ -1858,6 +1858,29 @@
       ],
       "latitude": 6.9055,
       "longitude": 79.9114
+    },
+    {
+      "id": "ticketsministry-1384",
+      "source": "TicketsMinistry",
+      "name": "SYNERGY PULSE",
+      "description": "<p>Get ready for SYNERGY PULSE, the ultimate year-end celebration where music, energy and unforgettable moments come together! This 26th December, join us at Waters Edge, Colombo, for an electrifying night featuring some of Sri Lanka’s favourite artists, incredible live performances and an atmosphere filled with pure excitement. Bring your friends, bring your family, and get ready to sing, dance and celebrate. Let’s leave behind the ordinary and make the final Saturday of 2026 a night to remember! One Last Saturday. One Last Party. One Night to Remember.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611041535-synergy-pulse-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/3n5beeU8yLKWivE8p6NzI2YkdhuwSJxT1VpKF3mY.jpg",
+      "venue": "Waters Edge Outdoor",
+      "city": "Battaramulla",
+      "dateTime": "2026-12-26T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 27, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/synergy-pulse/6aeb17fcae577",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.905563358876491,
+      "longitude": 79.91147419910696
     },
     {
       "id": "ticketsministry-1336",
@@ -2162,9 +2185,9 @@
       "id": "mytickets-6ae08a14e5c745f2f28db4d5",
       "source": "MyTickets",
       "name": "Sahajatha - සහජාත",
-      "description": "<p><strong><u>Sahajatha - සහජාත</u></strong></p><p><br></p><p><u><span class=\"ql-cursor\">﻿</span></u>“රන් හදැති පරපුරක අනුජාත දූ-පුතුන්ගේ මියැසි පෙළහර”</p><p><br></p><p>යුගයක් රසවත් කළ සොඳුරු කලාකරුවන්ගේ සංගීත උරුමය, ඔවුන්ගේම දූ-පුතුන්ගේ හඬින් එකම වේදිකාවක නැවත ජීවමාන වන විචිත්‍රවත් රාත්‍රියක්!</p><p><br></p><p>ඔබව ගීතයෙන් රසවත් කරන්නට:&nbsp;</p><p><br></p><p>විශාරද ගුණදාස කපුගේ උරුමය රැගෙන – මිත්‍ර කපුගේ</p><p>මාලනී බුලත්සිංහල – එච්. එම්. ජයවර්ධන උරුමය රැගෙන – කසුන් කල්හාර</p><p>පණ්ඩිත් ඩබ්ලිව්. ඩී. අමරදේව උරුමය රැගෙන – රංජන අමරදේව</p><p>අමරසිරි පීරිස් උරුමය රැගෙන – මාධව පීරිස්</p><p>ප්‍රියා සූරියසේන උරුමය රැගෙන– ලක්ෂිත සූරියසේන</p><p>ග්‍රේශන් ආනන්ද උරුමය රැගෙන – මාරියෝ ආනන්ද</p><p>ආචාර්ය අමරා රණතුංග – දයාරත්න රණතුංග උරුමය රැගෙන – රූපෂිකා රණතුංග</p><p>ප්‍රෙඩී සිල්වා උරුමය රැගෙන – ප්‍රගීත් සිල්වා</p><p><br></p><p>එසේම, ලාංකීය සංගීතයට නව මං විවර කළ ආචාර්ය ප්‍රේමසිරි කේමදාසයන්ගේ අමරණීය තනු නැවත වේදිකාව මත ප්‍රති නිර්මාණය කරන්නට - ගයත්‍රී කේමදාස විසින් මෙහෙයවන සංගීත සන්ද්වනියක් ද සමගින්..&nbsp;</p><p><br></p><p>විශාරද සිදත් සෝමසුන්දර විසින් හැඩවෙන සංගීතයෙන්..&nbsp;</p><p><br></p><p>සහජාත:</p><p>📅 2027 ජනවාරි 23</p><p>🕖 සවස 7.00</p><p>📍 බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාව</p><p><br></p><p>ආසන වෙන්කිරීම අන්තර්ජාලය හරහා පමණක් සිදු කෙරෙන අතර, QR කේතය සහිත ඩිජිටල් රිසිට්පත ප්‍රවේශයේදී වලංගු කෙරේ.</p><p><br></p><p>කරුණාකර සවස 6.45 ට පෙර අසුන් ගන්න.</p><p><br></p><p>සහජාත – A Legacy Echoed. A Future Foretold.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-10-25%20at%2011.33.16%20PM-1793100050193.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-10-25%20at%2011.33.16%20PM-1793100050193.jpeg",
+      "description": "<p><strong><u>Sahajatha - සහජාත</u></strong></p><p><br></p><p><u>﻿</u>“රන් හදැති පරපුරක අනුජාත දූ-පුතුන්ගේ මියැසි පෙළහර”</p><p><br></p><p>යුගයක් රසවත් කළ සොඳුරු කලාකරුවන්ගේ සංගීත උරුමය, ඔවුන්ගේම දූ-පුතුන්ගේ හඬින් එකම වේදිකාවක නැවත ජීවමාන වන විචිත්‍රවත් රාත්‍රියක්!</p><p><br></p><p>ඔබව ගීතයෙන් රසවත් කරන්නට:&nbsp;</p><p><br></p><p>විශාරද ගුණදාස කපුගේ උරුමය රැගෙන – මිත්‍ර කපුගේ</p><p>මාලනී බුලත්සිංහල – එච්. එම්. ජයවර්ධන උරුමය රැගෙන – කසුන් කල්හාර</p><p>පණ්ඩිත් ඩබ්ලිව්. ඩී. අමරදේව උරුමය රැගෙන – රංජන අමරදේව</p><p>අමරසිරි පීරිස් උරුමය රැගෙන – මාධව පීරිස්</p><p>ප්‍රියා සූරියසේන උරුමය රැගෙන– ලක්ෂිත සූරියසේන</p><p>ග්‍රේශන් ආනන්ද උරුමය රැගෙන – මාරියෝ ආනන්ද</p><p>ආචාර්ය අමරා රණතුංග – දයාරත්න රණතුංග උරුමය රැගෙන – රූපෂිකා රණතුංග</p><p>ප්‍රෙඩී සිල්වා උරුමය රැගෙන – ප්‍රගීත් සිල්වා</p><p><br></p><p>එසේම, ලාංකීය සංගීතයට නව මං විවර කළ ආචාර්ය ප්‍රේමසිරි කේමදාසයන්ගේ අමරණීය තනු නැවත වේදිකාව මත ප්‍රති නිර්මාණය කරන්නට - ගයත්‍රී කේමදාස විසින් මෙහෙයවන සංගීත සන්ද්වනියක් ද සමගින්..&nbsp;</p><p><br></p><p>විශාරද සිදත් සෝමසුන්දර විසින් හැඩවෙන සංගීතයෙන්..&nbsp;</p><p><br></p><p>සහජාත:</p><p>📅 2027 ජනවාරි 23</p><p>🕖 සවස 7.00</p><p>📍 බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාව</p><p><br></p><p>ආසන වෙන්කිරීම අන්තර්ජාලය හරහා පමණක් සිදු කෙරෙන අතර, QR කේතය සහිත ඩිජිටල් රිසිට්පත ප්‍රවේශයේදී වලංගු කෙරේ.</p><p><br></p><p>කරුණාකර සවස 6.45 ට පෙර අසුන් ගන්න.</p><p><br></p><p>සහජාත – A Legacy Echoed. A Future Foretold.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-11-03%20at%2012.45.11%20AM-1793869027491.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-11-03%20at%2012.45.11%20AM-1793869027491.jpeg",
       "venue": "BMICH - COLOMBO",
       "city": "666548e1a03df8fc2ac5a04e",
       "dateTime": "2027-01-23T13:30:00.000Z",
@@ -2323,8 +2346,8 @@
       "source": "TicketsMinistry",
       "name": "CAMELLIA FESTIVAL EDITION",
       "description": "<p>CAMELLIA – Festival Edition 2027</p><p>Where Music Blooms</p><p>📅 Friday, 12 February 2027 | 🕓 Gates open 10:00 AM</p><p>📍 Viharamahadevi Open Air Theatre, Colombo</p><p>After a sold-out first two editions, CAMELLIA returns as a full outdoor music, art and lifestyle festival. Spend an evening under the stars with Ridma, Supun, Suneera, Damsara, Dilu Beats and Mihiran, plus a special guest still to be revealed.</p><p>Before the main concert, wander the garden. Catch emerging artists on the Rising Stage, make something of your own in the Art Garden, Pottery Studio and Petal Mask Studio, and take photos in the Memory Garden. There’s also a curated Food Garden, a Lifestyle market and a quiet Library corner.</p><p>Refer the Catalogue: https://shorturl.at/amJLO</p><p>CONCERT PASSES (the main concert)</p><p>Petal Pass – LKR 4,000 (General Concert Access)</p><p>Blossom Pass – LKR 6,000 (VIP Concert Access)</p><p>Camellia Royale Pass – LKR 8,000 (VVIP Concert Access)</p><p>FESTIVAL ZONE PASSES (one creative studio session, concert not included)</p><p>Clay Garden Pass – LKR 1,500 (Pottery Studio Session)</p><p>Art Garden Pass – LKR 2,000 (Art Garden Session)</p><p>Petal Mask Pass – LKR 1,500 (Mask Painting Session)</p><p>FULL FESTIVAL PASSES (the concert plus all three studios, saving LKR 1,000)</p><p>Garden Explorer Pass – LKR 8,000 (General + All Studios)</p><p>Bloom Elite Pass – LKR 10,000 (VIP + All Studios)</p><p>Camellia Reserve Pass – LKR 12,000 (VVIP + All Studios)</p><p>Every pass includes the Rising Stage, Food Garden, Lifestyle market, Library and Memory Garden photo zones. Studio seats are limited, so book early.</p><p>📞 For more details: 071 221 3120</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6amk2xXAkf5o980QJuhIEOJTbv9iOulyLcAYG8um.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/31woJhIEALlevihRFBXGWkHhhwcs90pdCJg4UapQ.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/1Dn9wqHE83IGhxxb37yj2Rf4WayAuvWAewlkn5lp.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/FmOsUDFPDzmnmDHj4sTXwjbcLtrGsg1hqAc00Ehx.png",
       "venue": "Viharamadevi Open Air Theatre - Colombo",
       "city": "Colombo 07",
       "dateTime": "2027-02-12T16:00:00.000Z",
