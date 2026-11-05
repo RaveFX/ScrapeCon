@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-04T23:12:20.969Z",
+  "lastSyncTime": "2026-11-05T05:08:31.753Z",
   "counts": {
     "MyTickets": 20,
-    "OneTicket": 19,
+    "OneTicket": 20,
     "TicketsMinistry": 63,
-    "Total": 102
+    "Total": 103
   },
   "concerts": [
     {
@@ -2179,6 +2179,30 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "oneticket-472",
+      "source": "OneTicket",
+      "name": "තිසා වැවේ අවාරෙක ආලේ",
+      "description": "තිසා වැවේ අවාරෙක ආලේ happening at The Lake Forest Hotel - Outdoor Garden. Date & Time: Mon, Jan 25, 2027, 12:00 AM. Tickets start from 3000 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/38564163-5b3bf47d-5a60-45b2-b3d6-42dceda71268.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/82773002-15030066-2b52-43f8-91a6-3c6fd8e19710.jpg",
+      "venue": "The Lake Forest Hotel - Outdoor Garden",
+      "city": "The Lake Forest Hotel - Outdoor Garden",
+      "dateTime": "2027-01-24T18:30:00.000Z",
+      "originalDateStr": "Mon, Jan 25, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 3000,
+      "ticketLink": "https://oneticket.lk/event/තස-වව-අවරක-ආල",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9435705882352945,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1370",
