@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-06T01:59:05.517Z",
+  "lastSyncTime": "2026-11-06T09:13:18.524Z",
   "counts": {
     "MyTickets": 20,
-    "OneTicket": 20,
-    "TicketsMinistry": 64,
-    "Total": 104
+    "OneTicket": 21,
+    "TicketsMinistry": 65,
+    "Total": 106
   },
   "concerts": [
     {
@@ -674,6 +674,29 @@
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
+    },
+    {
+      "id": "ticketsministry-1389",
+      "source": "TicketsMinistry",
+      "name": "PREMII OYA",
+      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
+      "venue": "Wave N' Lake Welisara",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1240",
@@ -1350,6 +1373,29 @@
       "longitude": 79.87453333333333
     },
     {
+      "id": "ticketsministry-1317",
+      "source": "TicketsMinistry",
+      "name": "WAYO AT THE LAKE",
+      "description": "<p>After 2 years, WAYO AT THE LAKE is back! A SPECIAL EDITION to relive the memories! After 2 years, WAYO AT THE LAKE is back! 🔥 A SPECIAL EDITION to relive the memories, sing your heart out and make new ones! 🎶✨ 📅 11th December 📍 Cinnamon Lakeside – AC Marquee</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/skXYCOLukfFmXZ8Zyea6BV1f1efYhiD2UWXrjnfF.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/mjNKRQckoTzoJFJDvPuB1k4tZIfCYDyXFW7KQLRE.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2026-12-11T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
+    },
+    {
       "id": "ticketsministry-1382",
       "source": "TicketsMinistry",
       "name": "ON EAGLES WINGS FEATURING BNS",
@@ -1371,29 +1417,6 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
-    },
-    {
-      "id": "ticketsministry-1317",
-      "source": "TicketsMinistry",
-      "name": "WAYO AT THE LAKE",
-      "description": "<p>After 2 years, WAYO AT THE LAKE is back! A SPECIAL EDITION to relive the memories! After 2 years, WAYO AT THE LAKE is back! 🔥 A SPECIAL EDITION to relive the memories, sing your heart out and make new ones! 🎶✨ 📅 11th December 📍 Cinnamon Lakeside – AC Marquee</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609301239-wayo-at-the-lake-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/a2E04V34YmAiDF8feCcnXkCUyOXPfwrMe9iVE8Bw.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2026-12-11T19:00:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
     },
     {
       "id": "ticketsministry-1274",
@@ -1462,6 +1485,30 @@
       ],
       "latitude": 6.7300084,
       "longitude": 79.941921
+    },
+    {
+      "id": "oneticket-466",
+      "source": "OneTicket",
+      "name": "Naada Chaya – Live in Concert",
+      "description": "Naada Chaya – Live in Concert happening at Municipal front yard. Date & Time: Sat, Dec 12, 2026, 11:30 PM. Tickets start from 2500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/79837288-e0ccbe96-ea0b-404c-b080-7e75d31796be.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/61126307-f7966fd9-89be-49a7-8be9-e6e19d2ce51e.jpg",
+      "venue": "Municipal front yard",
+      "city": "Municipal front yard",
+      "dateTime": "2026-12-12T18:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://oneticket.lk/event/naadachaaya",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.9351,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1326",
