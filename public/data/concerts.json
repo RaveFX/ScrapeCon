@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-06T17:10:24.752Z",
+  "lastSyncTime": "2026-11-06T22:43:02.591Z",
   "counts": {
     "MyTickets": 20,
-    "OneTicket": 21,
+    "OneTicket": 20,
     "TicketsMinistry": 65,
-    "Total": 106
+    "Total": 105
   },
   "concerts": [
     {
@@ -97,30 +97,6 @@
       ],
       "latitude": 5.9640125,
       "longitude": 80.6940156
-    },
-    {
-      "id": "oneticket-452",
-      "source": "OneTicket",
-      "name": "Uduravee",
-      "description": "Uduravee happening at Nidahas Mawatha. Date & Time: Sun, Nov 8, 2026, 12:00 AM. Tickets start from 2000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/61506370-e73f6f86-5e97-4de5-8d66-aa18274708d8.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/86891624-22dceabd-e192-4745-b55a-4e5a07f92708.jpg",
-      "venue": "Nidahas Mawatha",
-      "city": "Nidahas Mawatha",
-      "dateTime": "2026-11-07T18:30:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 2000,
-      "ticketLink": "https://oneticket.lk/event/uduraweee",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.924119607843138,
-      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1316",
@@ -450,8 +426,8 @@
       "source": "TicketsMinistry",
       "name": "PUB LONDON COLOMBO",
       "description": "<p>PUB LONDON – Ultimate Experience 🇬🇧🔥 </p><p>Get ready for an action-packed night featuring an incredible lineup of artists, live entertainment, and an unforgettable experience at Air Force Grounds, Colombo. </p><p>📅 20th November | 🕖 7:00 PM</p><p> 🎟️ Early Bird Tickets starting from LKR 2,000 & VVIP 6Pax Table Package gets a Beverage Tower Free 🍺 </p><p>Book your tickets now and be part of the ultimate Pub London experience!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/zTHgzQN5ySQwO7CSr3M0tEuHgLQtT93UzcfVRhkE.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ahaevj1XN5JpeBsTsosHHSiRne0A6viP4ne8rGrX.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Cy2WoaDXjDkMLjWXwME58HHBlgS1ctkRxGGtLKIG.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/ut85DfiCDGX6A19M8D6pQkrWqonl7DvXJSOPnZIR.jpg",
       "venue": "Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-11-20T19:00:00.000Z",
