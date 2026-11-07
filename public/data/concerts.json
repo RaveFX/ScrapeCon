@@ -1,58 +1,34 @@
 {
-  "lastSyncTime": "2026-11-07T04:40:52.278Z",
+  "lastSyncTime": "2026-11-07T12:27:57.068Z",
   "counts": {
     "MyTickets": 18,
     "OneTicket": 20,
-    "TicketsMinistry": 65,
-    "Total": 103
+    "TicketsMinistry": 62,
+    "Total": 100
   },
   "concerts": [
     {
-      "id": "ticketsministry-1252",
+      "id": "ticketsministry-1305",
       "source": "TicketsMinistry",
-      "name": "MANDAKINI",
-      "description": "<p>🎟️⚡මේ 𝐋𝐢𝐧𝐞-𝐮𝐩 එකට 𝐍𝐄𝐖𝐒 𝐁𝐚𝐜𝐤 කරනකම් බලන් හිටපු යාළුවාව 𝐌𝐞𝐧𝐭𝐢𝐨𝐧 කරන්න! 🎸⚡</p><p>ආලෝකයේ වේගයෙන්... සංගීතයේ මන්දාකිණි වෙත! 🌌⚡</p><p>🔥 Phase 01 Tickets Out Now!</p><p>Mandakini </p><p>🎼 𝐓𝐇𝐄 𝐀𝐑𝐓𝐈𝐒𝐓 𝐋𝐈𝐍𝐄-𝐔𝐏:</p><p>▪️ Sarith Surith</p><p>▪️ Yasas Medagedara</p><p>▪️ Yashodha Medagedara</p><p>▪️ Supun Perera</p><p>▪️ Raveen Tharuka</p><p>▪️ Lakshitha Mihiran</p><p>▪️ Uvindu Ashcharya</p><p>▪️ Dilu Beats</p><p>▪️ Asantha Peiris</p><p>📍 Venue: BMICH Outdoor</p><p>📅 Date: November 06</p><p>📞 Inquiries & Reservations: Raveesha - 0702 399 555</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608121644-mandakini-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608121644-mandakini-thumbnail.jpg",
-      "venue": "BMICH Outdoor Premises",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-06T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 7, 2026, 12:30 AM",
+      "name": "AFRO EMBASSY",
+      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
+      "venue": "Headquaters by W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-07T19:00:00.000Z",
+      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 40000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mandakini/6a7c5581aa046",
-      "status": "sold-out",
+      "minPrice": 5000,
+      "maxPrice": 24000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
+      "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
+        "EDM"
       ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
-      "id": "ticketsministry-1302",
-      "source": "TicketsMinistry",
-      "name": "MATHAKAYAN APE",
-      "description": "<p>මතකයන් අපේ ❤️මතක අරන් මහ ගෙදරට… 🎶Purple Range සංගීතය සමඟින්,හදවතට සමීප වූ ගීතත් එක්ක මතකයන් නැවත අලුත් කරගන්න එන්න…🎤 Chamara Weerasinghe🎤 Damith Asanka🎤 Indunil Andaramanna🎤 Kaweesha Kaviraj🎤 Sathuta Suranga🎤 Upul Jayan📅 නොවැම්බර් 06⏰ රාත්‍රී 09.00 සිට📍 දික්වැල්ල මහජන ක්‍රීඩාංගණයේදීමතකයන් අපේ ❤️මතක අරන් මහ ගෙදරට… 🎶</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202609261527-mathakayan-ape-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202609261527-mathakayan-ape-thumbnail.jpg",
-      "venue": "Dikwella Public Ground",
-      "city": "Dikwella",
-      "dateTime": "2026-11-06T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 7, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 750,
-      "maxPrice": 2000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/mathakayan-ape/6ab7971b38764",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.9640125,
-      "longitude": 80.6940156
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1316",
@@ -76,29 +52,6 @@
       ],
       "latitude": 6.901133268661735,
       "longitude": 79.86998932406588
-    },
-    {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 8, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 24000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1281",
@@ -631,29 +584,6 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1240",
-      "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
-    },
-    {
       "id": "ticketsministry-1376",
       "source": "TicketsMinistry",
       "name": "X CONCERT",
@@ -675,6 +605,29 @@
       ],
       "latitude": 7.21757919278823,
       "longitude": 79.85283377499933
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "ticketsministry-1260",
@@ -838,29 +791,6 @@
       ],
       "latitude": 6.934158823529412,
       "longitude": 79.87453333333333
-    },
-    {
-      "id": "ticketsministry-1280",
-      "source": "TicketsMinistry",
-      "name": "OBA MA HAMU VU LIVE IN CONCERT",
-      "description": "<p>OBA MA HAMU VU - ඔබ මා හමු වූ </p><p>An unforgettable evening of timeless music, cherished memories and human connection. </p><p>Featuring two of Sri Lanka’s most beloved voices, Karunarathna Divulgane and Deepika Priyadarshani, this is more than a concert—it is an emotional journey through the songs and memories that have shaped our lives. </p><p>The evening will feature musical direction by Suresh Maliyadde, accompanied by a 15-piece professional live band with dedicated string and brass sections, bringing a rich and powerful live sound to these timeless songs. </p><p>Dilshan Pathirathna will guide the evening as Compere. </p><p>Experience an evening where every song brings back a story, a person, or a moment close to your heart. </p><p>ඔබ මා හමු වූ - මතක ඇහිඳින හැන්දෑව</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/B1z6P15S4ON8hwNB2o2DfIS436wqK4aOJPMirRdU.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VgR37JjCZl1bS3ZyOIJGz8YtrZs0sjqBxqKFsFlH.jpg",
-      "venue": "The Epitome Hotel Kurunegala",
-      "city": "Kurunegala",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/oba-ma-hamu-vu-live-in-concert/59a1fe50-b721-4076-9a00-73fbae6b0744",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.507550900000001,
-      "longitude": 80.40448719999999
     },
     {
       "id": "ticketsministry-1262",
@@ -1725,7 +1655,7 @@
       "id": "ticketsministry-1351",
       "source": "TicketsMinistry",
       "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
-      "description": "<p>It is a special Christmas musical celebration that will bring together music lovers and families for a memorable evening of entertainment, featuring some of Sri Lanka’s popular musical artists, including Rukantha Gunathilaka, Falan Andrea, Sajith Perera and Keerthi Kumarathunga, together with Nalin Perera and the Marians band. The event is planned as a festive, family-oriented musical celebration, combining the spirit of Christmas with quality live entertainment. The event will also offer a BYOB (Bring Your Own Bottle) facility, a dinner buffet, and special arrangements to ensure a comfortable and enjoyable experience for all participants.</p><p>\"10 TICKETS PACK = FREE 1 WHISKEY BOTTLE\"</p><p>Individual ticket benefits.</p><p>Welcome drink 🍷 </p><p>Chasers & mixers </p><p>Signature Bites </p><p>Liquor as per category </p><p>Grand dinner buffet </p><p>Access to all live performances </p><p>Free photo booth & 360°</p><p>Gift from Santa </p><p>Christmas celebration 🎊 </p><p>Co - operate free company promotion </p><p>Free venue branding </p><p>Free main video wall added 3 times during the event with  endorsement.</p>",
+      "description": "<p>𝐉𝐈𝐍𝐆𝐋𝐄 & 𝐇𝐀𝐑𝐌𝐎𝐍𝐘 𝐖𝐈𝐓𝐇 𝐌𝐀𝐑𝐈𝐀𝐍𝐒 𝐚𝐭 𝐖𝐀𝐕𝐄 𝐍' 𝐋𝐀𝐊𝐄 , 𝐖𝐄𝐋𝐈𝐒𝐀𝐑𝐀</p><p>GET READY FOR THE BIGGEST CHRISTMAS MUSICAL NIGHT! </p><p>This Christmas, get ready for an unforgettable night filled with spectacular music, festive vibes, delicious food and endless entertainment! ❤️</p><p>🎙️ Featuring amazing performances by: </p><p>Rookantha Goonatillake </p><p>Nalin Perera</p><p>Sajith Perera</p><p>Falan Andrea</p><p>Keerthi </p><p>With the legendary MARIANS!</p><p>🎁 SPECIAL CHRISTMAS TREATS! </p><p>🥂 𝐅𝐑𝐄𝐄 𝐂𝐡𝐚𝐬𝐞𝐫𝐬 & 𝐁𝐢𝐭𝐞𝐬  </p><p>🍽️ 𝐆𝐫𝐚𝐧𝐝 𝐃𝐢𝐧𝐧𝐞𝐫 𝐁𝐮𝐟𝐟𝐞𝐭  </p><p>🎅 𝐒𝐚𝐧𝐭𝐚'𝐬 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐆𝐢𝐟𝐭𝐬 𝐀𝐧𝐝 𝐌𝐚𝐧𝐲 𝐌𝐨𝐫𝐞 𝐒𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬!</p><p>𝐅𝐫𝐞𝐞 𝟏 𝐖𝐡𝐢𝐬𝐤𝐞𝐲 𝐁𝐨𝐭𝐭𝐥𝐞 𝐅𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐖𝐡𝐨 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝟏𝟎 𝐕𝐢𝐩 𝐎𝐫 𝐕𝐕𝐈𝐏 𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐀𝐭 𝐎𝐧𝐜𝐞 (𝟏𝟎 𝐏𝐚𝐜𝐤 - 𝐎𝐧𝐞 𝐓𝐢𝐦𝐞 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞  𝐎𝐧𝐥𝐲).</p><p>🍾 BYOB – Bring Your Own Bottle! </p><p>Free Photo Booth & 360</p><p>Date :- 22nd December 2026 (Pre Poya Day)</p><p>Venue :- Wave N' Lake, Navy Hall, Welisara</p><p>💃 Special performances by Angel Dance Team</p><p>🎧 DJ CANDI</p><p>🎤 Compere by Sandro Bandara</p><p>🎁 Don't miss this amazing opportunity to celebrate Christmas with your favourite artists and enjoy a magical musical experience!</p><p>📞 BOOK YOUR TICKETS NOW!</p><p>☎️ Chrishantha - 0777393718</p><p>☎️ Sudarshana - 0761199755</p><p>☎️ Madushani - 0778198959</p><p>🎟️ KOKO Payments Available!</p><p>❤️ Seats are limited, so reserve your tickets early!</p><p>Make this Christmas unforgettable with JINGLE & HARMONY!</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/Krd3amBr9UmfLMgQEeICOAko1bGHVP1TeSPXhtoy.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/6Hdc0aWFOU7FC2nL2S9Bo44DmYRX664i8gzQcmQU.jpg",
       "venue": "Wave N' Lake Welisara",
@@ -2207,29 +2137,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1357",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5500,
-      "maxPrice": 9000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1370",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - TWO DAY ACCESS",
@@ -2244,6 +2151,29 @@
       "minPrice": 10000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1357",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5500,
+      "maxPrice": 9000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
       "status": "active",
       "tags": [
         "Concert",
