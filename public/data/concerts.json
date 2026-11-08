@@ -1,58 +1,12 @@
 {
-  "lastSyncTime": "2026-11-08T04:29:04.235Z",
+  "lastSyncTime": "2026-11-08T12:46:19.422Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 20,
-    "TicketsMinistry": 61,
-    "Total": 100
+    "TicketsMinistry": 59,
+    "Total": 98
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1316",
-      "source": "TicketsMinistry",
-      "name": "SINGALONG ANNESLY AND CORRINE WITH SUPER CHIMES",
-      "description": "<p>Enjoy timeless hits with Annesley, Corrine, and Super Chimes in a nostalgic singalong concert, raising funds for humanitarian services through the Lions Club of Galkissa. </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/7rrORXBfh8HgSlKnb14FDZKzxsOeVNvQxKcvixIX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/X3VO77r8oIGM3O2dMfeQEBraZL1R4JvnFni7jiCk.jpg",
-      "venue": "BMICH - Sapphire Banquet Hall",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-07T07:00:00.000Z",
-      "originalDateStr": "Sat, Nov 7, 2026, 12:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/singalong-annesly-and-corrine-with-super-chimes/a9c8f65f-cfde-4b77-8bd8-719fc5d197bf",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.901133268661735,
-      "longitude": 79.86998932406588
-    },
-    {
-      "id": "ticketsministry-1305",
-      "source": "TicketsMinistry",
-      "name": "AFRO EMBASSY",
-      "description": "<p>RHYTHM BECOMES RITUAL </p><p>Afro Embassy brings the sound and energy of Afro House to Colombo. Inspired by African rhythms, movement, and culture, the night will take you through Afro House, deep grooves, and melodic sounds, bringing people together through music. </p><p>Expect a limited crowd, a setting designed for the music, and a night built around rhythm.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TqSnJiHaAIF0rhDZaS9UhHaVer5XGuK50FG3tAhw.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9kX6QpQUiE4ww099SAL0CKWNlP1cCD2Yz4vTi2cl.png",
-      "venue": "Headquaters by W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-07T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 7, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 24000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/afro-embassy/ef2eef26-9c56-43c2-9922-9b022fd97589",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
     {
       "id": "ticketsministry-1329",
       "source": "TicketsMinistry",
@@ -561,29 +515,6 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1240",
-      "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
-    },
-    {
       "id": "ticketsministry-1376",
       "source": "TicketsMinistry",
       "name": "X CONCERT",
@@ -605,6 +536,29 @@
       ],
       "latitude": 7.21757919278823,
       "longitude": 79.85283377499933
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "ticketsministry-1260",
@@ -1234,29 +1188,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1382",
-      "source": "TicketsMinistry",
-      "name": "ON EAGLES WINGS FEATURING BNS",
-      "description": "<p>Choristers of St.Anthony's College Kandy, proudly present On Eagle's Wings featuring with Bathiya & Santhush @ Polgolla Mahinda Rajapakse Auditorium (NICD). With the participation of Kandy invited school choristers.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/5iSzWitOR7uvWiDT7GVQeYtvEIiWp1jDWdoVaRz2.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/tqVHJt7SNqECCXlMYgTriIR9I2ngA128W8gceQ1W.jpg",
-      "venue": "NICD Auditorium Polgolla Kandy",
-      "city": "null",
-      "dateTime": "2026-12-11T19:00:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/on-eagles-wings-featuring-bns/6ae96ad295e61",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.32538739268285,
-      "longitude": 80.64616827419373
-    },
-    {
       "id": "ticketsministry-1317",
       "source": "TicketsMinistry",
       "name": "WAYO AT THE LAKE",
@@ -1278,6 +1209,29 @@
       ],
       "latitude": 6.929170393070663,
       "longitude": 79.8467212749966
+    },
+    {
+      "id": "ticketsministry-1382",
+      "source": "TicketsMinistry",
+      "name": "ON EAGLES WINGS FEATURING BNS",
+      "description": "<p>Choristers of St.Anthony's College Kandy, proudly present On Eagle's Wings featuring with Bathiya & Santhush @ Polgolla Mahinda Rajapakse Auditorium (NICD). With the participation of Kandy invited school choristers.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/5iSzWitOR7uvWiDT7GVQeYtvEIiWp1jDWdoVaRz2.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/tqVHJt7SNqECCXlMYgTriIR9I2ngA128W8gceQ1W.jpg",
+      "venue": "NICD Auditorium Polgolla Kandy",
+      "city": "null",
+      "dateTime": "2026-12-11T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/on-eagles-wings-featuring-bns/6ae96ad295e61",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.32538739268285,
+      "longitude": 80.64616827419373
     },
     {
       "id": "ticketsministry-1274",
@@ -2261,7 +2215,7 @@
       "dateTime": "2027-02-12T16:00:00.000Z",
       "originalDateStr": "Fri, Feb 12, 2027, 09:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 1500,
+      "minPrice": 4000,
       "maxPrice": 12000,
       "ticketLink": "https://www.ticketsministry.com/concerts/camellia-festival-edition/6ad88f61955bc",
       "status": "active",
