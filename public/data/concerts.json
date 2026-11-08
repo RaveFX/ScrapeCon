@@ -1,9 +1,9 @@
 {
-  "lastSyncTime": "2026-11-08T12:46:19.422Z",
+  "lastSyncTime": "2026-11-08T18:38:51.046Z",
   "counts": {
     "MyTickets": 19,
-    "OneTicket": 20,
-    "TicketsMinistry": 59,
+    "OneTicket": 19,
+    "TicketsMinistry": 60,
     "Total": 98
   },
   "concerts": [
@@ -722,30 +722,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "oneticket-463",
-      "source": "OneTicket",
-      "name": "Yවර්ණ",
-      "description": "Yවර්ණ happening at Sahas Uyana. Date & Time: Sun, Nov 29, 2026, 12:30 AM. Tickets start from 2000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/65356175-33040836-5586-4504-8538-be046411c4c9.png",
-      "posterUrl": "https://storage.googleapis.com/oneticket/40573463-f8de4b6f-8652-48e9-b57d-4fd8c538e2fc.png",
-      "venue": "Sahas Uyana",
-      "city": "Sahas Uyana",
-      "dateTime": "2026-11-28T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 2000,
-      "ticketLink": "https://oneticket.lk/event/yවරණ",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.934158823529412,
-      "longitude": 79.87453333333333
-    },
-    {
       "id": "ticketsministry-1262",
       "source": "TicketsMinistry",
       "name": "ADARETA MATHAKAYAK",
@@ -881,6 +857,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1391",
+      "source": "TicketsMinistry",
+      "name": "KENDARE",
+      "description": "<p>Kendare with We Plus Artists - Seree Batagoda Yasas Madagedara Piyath Rajapaksha Ravi Jay with Yuki Jaya Sri Venue - Negambo Cricket Arena Kadolkale Ground</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611081811-kendare-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/XO8cvZmGodszBJOn11gg0lYgUPDoyTvig0q2MMN2.jpg",
+      "venue": "Kadolkale Ground Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-12-04T18:30:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/kendare/6af073c5ada38",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.201768592803714,
+      "longitude": 79.84071897419228
     },
     {
       "id": "ticketsministry-1359",
@@ -1188,29 +1187,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1317",
-      "source": "TicketsMinistry",
-      "name": "WAYO AT THE LAKE",
-      "description": "<p>After 2 years, WAYO AT THE LAKE is back! A SPECIAL EDITION to relive the memories! After 2 years, WAYO AT THE LAKE is back! 🔥 A SPECIAL EDITION to relive the memories, sing your heart out and make new ones! 🎶✨ 📅 11th December 📍 Cinnamon Lakeside – AC Marquee</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/skXYCOLukfFmXZ8Zyea6BV1f1efYhiD2UWXrjnfF.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/mjNKRQckoTzoJFJDvPuB1k4tZIfCYDyXFW7KQLRE.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2026-12-11T19:00:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
-    },
-    {
       "id": "ticketsministry-1382",
       "source": "TicketsMinistry",
       "name": "ON EAGLES WINGS FEATURING BNS",
@@ -1232,6 +1208,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1317",
+      "source": "TicketsMinistry",
+      "name": "WAYO AT THE LAKE",
+      "description": "<p>After 2 years, WAYO AT THE LAKE is back! A SPECIAL EDITION to relive the memories! After 2 years, WAYO AT THE LAKE is back! 🔥 A SPECIAL EDITION to relive the memories, sing your heart out and make new ones! 🎶✨ 📅 11th December 📍 Cinnamon Lakeside – AC Marquee</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/skXYCOLukfFmXZ8Zyea6BV1f1efYhiD2UWXrjnfF.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/mjNKRQckoTzoJFJDvPuB1k4tZIfCYDyXFW7KQLRE.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2026-12-11T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
     },
     {
       "id": "ticketsministry-1274",
