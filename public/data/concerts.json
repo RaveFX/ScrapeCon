@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-09T04:41:39.953Z",
+  "lastSyncTime": "2026-11-09T15:12:14.241Z",
   "counts": {
     "MyTickets": 19,
     "OneTicket": 19,
@@ -405,7 +405,7 @@
       "description": "<p>ILLUSYA</p><p>More than a party. An experience shaped by music, atmosphere, and the people who make it special.</p><p>ILLUSYA brings together a carefully curated sound, immersive energy, and a community that lives for the music. From the first beat to the final moment, every detail is designed to create something worth remembering.</p><p>Come for the music. Stay for the feeling. Leave with memories.</p><p>Expect quality sounds, a unique atmosphere, and a dance floor that brings everyone together.</p><p>📍 Colombo, Sri Lanka</p><p>The experience begins here.</p><p>ILLUSYA — Not just another event. A feeling of its own.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/A8PXYIWVnrnkTl97IShkrwbqXEUsAIeuFIYNNtiK.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/qAcPeffBau5oD2ZwanU9UFIwrYQBmYPaJwcgiQym.jpg",
-      "venue": "Colombo",
+      "venue": "Port City Colombo",
       "city": "Colombo 01",
       "dateTime": "2026-11-21T16:00:00.000Z",
       "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
@@ -418,8 +418,8 @@
         "Concert",
         "EDM"
       ],
-      "latitude": 6.921836877837569,
-      "longitude": 79.81500565289788
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
     },
     {
       "id": "ticketsministry-1304",
@@ -862,7 +862,7 @@
       "id": "ticketsministry-1391",
       "source": "TicketsMinistry",
       "name": "KENDARE",
-      "description": "<p>Kendare with We Plus & Red Band Artists - Seree Batagoda Yasas Madagedara Piyath Rajapaksha Ravi Jay with Yuki Jaya Sri Venue - Negambo Cricket Arena Kadolkale Ground</p>",
+      "description": "<p>Kendare with We Plus & Red Band Artists - Sereena Batagoda Yasas Madagedara Piyath Rajapaksha Ravi Jay with Yuki Jaya Sri Venue - Negambo Cricket Arena Kadolkale Ground</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611081811-kendare-listing-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/XO8cvZmGodszBJOn11gg0lYgUPDoyTvig0q2MMN2.jpg",
       "venue": "Kadolkale Ground Negombo",
