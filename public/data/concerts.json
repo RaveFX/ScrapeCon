@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-11T04:44:05.904Z",
+  "lastSyncTime": "2026-11-11T13:33:50.389Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 19,
-    "TicketsMinistry": 63,
-    "Total": 103
+    "TicketsMinistry": 65,
+    "Total": 105
   },
   "concerts": [
     {
@@ -411,7 +411,7 @@
       "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 25000,
+      "maxPrice": 104900,
       "ticketLink": "https://www.ticketsministry.com/concerts/illusya/a04b175e-b31b-4f2a-83bb-7c07f524fd33",
       "status": "active",
       "tags": [
@@ -469,29 +469,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
       "name": "PREMII OYA",
@@ -513,6 +490,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1377",
+      "source": "TicketsMinistry",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1240",
@@ -628,6 +628,29 @@
       "longitude": 79.82214117647058
     },
     {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
+      "venue": "Capital City Hotel Badulla",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.984783217600755,
+      "longitude": 81.0560030112985
+    },
+    {
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
@@ -649,29 +672,6 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
-    },
-    {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "Capital City Hotel Badulla",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.984783217600755,
-      "longitude": 81.0560030112985
     },
     {
       "id": "oneticket-457",
@@ -1161,6 +1161,29 @@
       ],
       "latitude": 6.9135,
       "longitude": 79.8656
+    },
+    {
+      "id": "ticketsministry-1392",
+      "source": "TicketsMinistry",
+      "name": "DREADORA 26",
+      "description": "<p>DREADORA’26 – The Biggest University Halloween Experience! Get ready for an unforgettable Halloween celebration at CINEC Campus! </p><p>DREADORA’26 brings together thrilling Halloween vibes, spectacular decorations, exciting attractions, and non-stop entertainment. </p><p>As night falls, get ready for an electrifying EDM Party featuring renowned DJ artists Iman Cader, ARIXX, and DJ Mass, bringing you an extraordinary night of music, energy, and unforgettable memories. </p><p>The evening kicks off with an exciting Halloween Costume Pageant, presented in collaboration with Model With Ruki, celebrating creativity, style, and Halloween spirit. Experience the ultimate Halloween atmosphere where creativity, entertainment, and excitement come together. Don't miss Sri Lanka's biggest university Halloween experience!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/6gdnS24JgEgPhtNxtCeuRiXYlMdMqmF3xf3ct4Mm.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/jMh1U9WmB2aVWfDHK40fU84seVWi3X4hOtcYAs4P.jpg",
+      "venue": "CINEC Campus Car Park",
+      "city": "Malabe",
+      "dateTime": "2026-12-10T15:30:00.000Z",
+      "originalDateStr": "Thu, Dec 10, 2026, 09:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 9000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/dreadora-26/6af2fe5e9880c",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9153352,
+      "longitude": 79.95996699999999
     },
     {
       "id": "oneticket-475",
@@ -2086,6 +2109,29 @@
       "longitude": 79.8467212749966
     },
     {
+      "id": "ticketsministry-1330",
+      "source": "TicketsMinistry",
+      "name": "SOBASARA LIVE IN CONCERT 2027",
+      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/o2z7pYQ885vRK1POCDE2usFUFV8yNUsHUgDRk0I8.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yaRzcmPP8160uF7d9XAsA0c3YMaQnj9wIpMw7c8B.jpg",
+      "venue": "Holy Cross College Auditorium Gampaha",
+      "city": "Gampaha",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.088022577256503,
+      "longitude": 80.0026606708474
+    },
+    {
       "id": "oneticket-464",
       "source": "OneTicket",
       "name": "Spirit of the Night",
@@ -2321,8 +2367,8 @@
       "source": "TicketsMinistry",
       "name": "CAMELLIA FESTIVAL EDITION",
       "description": "<p>CAMELLIA – Festival Edition 2027</p><p>Where Music Blooms</p><p>📅 Friday, 12 February 2027 | 🕓 Gates open 10:00 AM</p><p>📍 Viharamahadevi Open Air Theatre, Colombo</p><p>After a sold-out first two editions, CAMELLIA returns as a full outdoor music, art and lifestyle festival. Spend an evening under the stars with Ridma, Supun, Suneera, Damsara, Dilu Beats and Mihiran, plus a special guest still to be revealed.</p><p>Before the main concert, wander the garden. Catch emerging artists on the Rising Stage, make something of your own in the Art Garden, Pottery Studio and Petal Mask Studio, and take photos in the Memory Garden. There’s also a curated Food Garden, a Lifestyle market and a quiet Library corner.</p><p>Refer the Catalogue: https://shorturl.at/amJLO</p><p>CONCERT PASSES (the main concert)</p><p>Petal Pass – LKR 4,000 (General Concert Access)</p><p>Blossom Pass – LKR 6,000 (VIP Concert Access)</p><p>Camellia Royale Pass – LKR 8,000 (VVIP Concert Access)</p><p>FESTIVAL ZONE PASSES (one creative studio session, concert not included)</p><p>Clay Garden Pass – LKR 1,500 (Pottery Studio Session)</p><p>Art Garden Pass – LKR 2,000 (Art Garden Session)</p><p>Petal Mask Pass – LKR 1,500 (Mask Painting Session)</p><p>FULL FESTIVAL PASSES (the concert plus all three studios, saving LKR 1,000)</p><p>Garden Explorer Pass – LKR 8,000 (General + All Studios)</p><p>Bloom Elite Pass – LKR 10,000 (VIP + All Studios)</p><p>Camellia Reserve Pass – LKR 12,000 (VVIP + All Studios)</p><p>Every pass includes the Rising Stage, Food Garden, Lifestyle market, Library and Memory Garden photo zones. Studio seats are limited, so book early.</p><p>📞 For more details: 071 221 3120</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/1Dn9wqHE83IGhxxb37yj2Rf4WayAuvWAewlkn5lp.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/FmOsUDFPDzmnmDHj4sTXwjbcLtrGsg1hqAc00Ehx.png",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aa262NPHdqLJ08FIfQGIgSHZIOcQKCNUsZMPCGjU.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/uerbqp2W9zHmFlcpnLcF2nt67jOQICFfqbyDrWBa.png",
       "venue": "Viharamadevi Open Air Theatre - Colombo",
       "city": "Colombo 07",
       "dateTime": "2027-02-12T16:00:00.000Z",
