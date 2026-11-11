@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-10T22:50:38.401Z",
+  "lastSyncTime": "2026-11-11T04:44:05.904Z",
   "counts": {
     "MyTickets": 21,
     "OneTicket": 19,
-    "TicketsMinistry": 61,
-    "Total": 101
+    "TicketsMinistry": 63,
+    "Total": 103
   },
   "concerts": [
     {
@@ -515,29 +515,6 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1376",
-      "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
-    },
-    {
       "id": "ticketsministry-1240",
       "source": "TicketsMinistry",
       "name": "CHILL THEORY AT GANGAARA",
@@ -559,6 +536,29 @@
       ],
       "latitude": 7.346411807372148,
       "longitude": 79.92045117422727
+    },
+    {
+      "id": "ticketsministry-1376",
+      "source": "TicketsMinistry",
+      "name": "X CONCERT",
+      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
+      "venue": "Avenra Gardens Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 120000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.21757919278823,
+      "longitude": 79.85283377499933
     },
     {
       "id": "ticketsministry-1260",
@@ -628,29 +628,6 @@
       "longitude": 79.82214117647058
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
-      "venue": "Capital City Hotel Badulla",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.984783217600755,
-      "longitude": 81.0560030112985
-    },
-    {
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
@@ -672,6 +649,29 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yUZBhwawMW3JIZBhtf714sKwzuxT9yGBPRIOnQAQ.jpg",
+      "venue": "Capital City Hotel Badulla",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.984783217600755,
+      "longitude": 81.0560030112985
     },
     {
       "id": "oneticket-457",
@@ -1187,29 +1187,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1317",
-      "source": "TicketsMinistry",
-      "name": "WAYO AT THE LAKE",
-      "description": "<p>After 2 years, WAYO AT THE LAKE is back! A SPECIAL EDITION to relive the memories! After 2 years, WAYO AT THE LAKE is back! 🔥 A SPECIAL EDITION to relive the memories, sing your heart out and make new ones! 🎶✨ 📅 11th December 📍 Cinnamon Lakeside – AC Marquee</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/skXYCOLukfFmXZ8Zyea6BV1f1efYhiD2UWXrjnfF.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/mjNKRQckoTzoJFJDvPuB1k4tZIfCYDyXFW7KQLRE.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2026-12-11T19:00:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
-    },
-    {
       "id": "ticketsministry-1382",
       "source": "TicketsMinistry",
       "name": "ON EAGLES WINGS FEATURING BNS",
@@ -1231,6 +1208,29 @@
       ],
       "latitude": 7.32538739268285,
       "longitude": 80.64616827419373
+    },
+    {
+      "id": "ticketsministry-1317",
+      "source": "TicketsMinistry",
+      "name": "WAYO AT THE LAKE",
+      "description": "<p>After 2 years, WAYO AT THE LAKE is back! A SPECIAL EDITION to relive the memories! After 2 years, WAYO AT THE LAKE is back! 🔥 A SPECIAL EDITION to relive the memories, sing your heart out and make new ones! 🎶✨ 📅 11th December 📍 Cinnamon Lakeside – AC Marquee</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/skXYCOLukfFmXZ8Zyea6BV1f1efYhiD2UWXrjnfF.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/mjNKRQckoTzoJFJDvPuB1k4tZIfCYDyXFW7KQLRE.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2026-12-11T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 12, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
     },
     {
       "id": "ticketsministry-1274",
@@ -1325,29 +1325,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1326",
-      "source": "TicketsMinistry",
-      "name": "SANDAKAN WASSANAYA",
-      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
-      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
-      "city": "Matara",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.937981700000001,
-      "longitude": 80.5734152
-    },
-    {
       "id": "ticketsministry-1393",
       "source": "TicketsMinistry",
       "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
@@ -1369,6 +1346,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1326",
+      "source": "TicketsMinistry",
+      "name": "SANDAKAN WASSANAYA",
+      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
+      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
+      "city": "Matara",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.937981700000001,
+      "longitude": 80.5734152
     },
     {
       "id": "ticketsministry-1341",
@@ -1436,6 +1436,29 @@
       ],
       "latitude": 6.902158823529412,
       "longitude": 79.86323921568628
+    },
+    {
+      "id": "ticketsministry-1394",
+      "source": "TicketsMinistry",
+      "name": "WEPLUS WITH MIDLANE",
+      "description": "<p>Get ready for an unforgettable night of live music at 𝗪𝗘𝗣𝗟𝗨𝗦 𝗪𝗜𝗧𝗛 𝗠𝗜𝗗𝗟𝗔𝗡𝗘 on 𝟭𝟴𝗧𝗛 𝗗𝗘𝗖𝗘𝗠𝗕𝗘𝗥 𝟮𝟬𝟮𝟲 at 𝗘𝗣𝗜𝗧𝗢𝗠𝗘, 𝗞𝗨𝗥𝗨𝗡𝗘𝗚𝗔𝗟𝗔! 🎶🔥 Experience electrifying live performances by 𝗪𝗘𝗣𝗟𝗨𝗦, 𝗠𝗜𝗗𝗟𝗔𝗡𝗘, 𝗖𝗘𝗡𝗧𝗜𝗚𝗥𝗔𝗗𝗭, 𝗝𝗔𝗬𝗔 𝗦𝗥𝗜, 𝗣𝗜𝗬𝗔𝗧𝗛, 𝗗𝗜𝗡𝗘𝗦𝗛, 𝗞𝗔𝗜𝗭𝗘𝗥, 𝗖𝗛𝗔𝗠𝗠𝗔 & 𝗩𝗜𝗡𝗨𝗝𝗔, bringing your favourite hits to life on one incredible stage! 🎟️ 𝗗𝗢𝗡'𝗧 𝗠𝗜𝗦𝗦 𝗢𝗨𝗧! Grab your tickets now, reserve your preferred seats, and get ready for an extraordinary night of music and entertainment!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611110103-weplus-with-midlane-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vCn7l78xhgG9XPwiOnOx8vkXtHRooUSqiUFvh1Qu.jpg",
+      "venue": "The Epitome Hotel Kurunegala",
+      "city": "Kurunegala",
+      "dateTime": "2026-12-18T19:00:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/weplus-with-midlane/6af3e54f97ef1",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.507550900000001,
+      "longitude": 80.40448719999999
     },
     {
       "id": "mytickets-6ac346cf1dd1050809b9ded1",
@@ -1989,7 +2012,8 @@
       "ticketLink": "https://mytickets.lk/event/santhana-nagare/6af1976e4816274cf66588ac",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.95831568627451,
       "longitude": 79.85382745098039
@@ -2110,6 +2134,29 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "ticketsministry-1395",
+      "source": "TicketsMinistry",
+      "name": "HELLO KANDY – SECOND CALL",
+      "description": "<p>On Saturday, 23 January 2027, HELLO KANDY – SECOND CALL brings electronic music and Kandyan heritage together in Sri Lanka’s hill capital. Inspired by Kandyan folklore, The Enchanted Call tells the story of a mysterious guardian whose invitation leads back to Kandy. Bring your crew and join us on the dance floor.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/8mrKVSRm1JvB3UJeLnNbiBm3bDBO243fnxyt40wW.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/BtO5MR2hXpt6nkDtVLjIE0tnVbRCMmjgJ6QOxpXy.jpg",
+      "venue": "Kandy",
+      "city": "Kandy",
+      "dateTime": "2027-01-23T11:00:00.000Z",
+      "originalDateStr": "Sat, Jan 23, 2027, 04:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/hello-kandy-second-call/6af3e7fca3e03",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 7.2945434344322715,
+      "longitude": 80.58458160381763
+    },
+    {
       "id": "mytickets-6ae08a14e5c745f2f28db4d5",
       "source": "MyTickets",
       "name": "Sahajatha - සහජාත",
@@ -2156,29 +2203,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1370",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 10000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1357",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - FRIDAY ACCESS",
@@ -2193,6 +2217,29 @@
       "minPrice": 5500,
       "maxPrice": 9000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1370",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
       "status": "active",
       "tags": [
         "Concert",
