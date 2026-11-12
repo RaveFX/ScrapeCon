@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-12T02:40:57.033Z",
+  "lastSyncTime": "2026-11-12T12:10:39.631Z",
   "counts": {
-    "MyTickets": 21,
+    "MyTickets": 23,
     "OneTicket": 19,
     "TicketsMinistry": 65,
-    "Total": 105
+    "Total": 107
   },
   "concerts": [
     {
@@ -92,7 +92,7 @@
       "minPrice": 3500,
       "maxPrice": 3500,
       "ticketLink": "https://oneticket.lk/event/abhi-live-in-concert-ampara",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Event",
@@ -469,29 +469,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1389",
-      "source": "TicketsMinistry",
-      "name": "PREMII OYA",
-      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
       "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
       "name": "FREQUENCY AT THE TAJ",
@@ -515,27 +492,27 @@
       "longitude": 79.84425677499648
     },
     {
-      "id": "ticketsministry-1240",
+      "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
+      "name": "PREMII OYA",
+      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
+      "venue": "Wave N' Lake Welisara",
       "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Indoor Musical Concert"
       ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1376",
@@ -559,6 +536,29 @@
       ],
       "latitude": 7.21757919278823,
       "longitude": 79.85283377499933
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "ticketsministry-1260",
@@ -1529,6 +1529,28 @@
       "longitude": 80.42285450072872
     },
     {
+      "id": "mytickets-6af3fd5af6163bf592474e1e",
+      "source": "MyTickets",
+      "name": "Ridee Rayak - රිදී රැයක් ",
+      "description": "<p><strong>රිදී රැයක් 2026 - 25 වන රිදී සැමරුම</strong></p><p><strong>වසර 25ක අභිමානය... එකම වේදිකාවක... අමතක නොවන රැයක!</strong></p><p><br></p><p>ශ්‍රී ලාංකේය සිනමා වංශකතාවේ අභිමානවත් සන්ධිස්ථානයක් සනිටුහන් කරමින්, සිනෙස්ටාර් පදනම විසින් වසර 25ක් පුරා අඛණ්ඩව සංවිධානය කරගෙන එනු ලබන කලාකරුවන්ගේ සුබසාධනය අරමුණු කරගත් “රිදී රැයක්” ප්‍රසංග මාලාවේ 25 වන සංවත්සරික ප්‍රසංගය <strong>“රිදී රැයක් 25”</strong> මෙවර අති උත්කර්ෂවත් ලෙස ඔබ වෙත ගෙන එයි.</p><p><br></p><p>හෙළ සිනමාවේ පරම්පරා ගණනාවක් නියෝජනය කරන ප්‍රවීණ සහ ජනප්‍රිය කලා තරු රැසක් එකම වේදිකාවකදී හමුවන මෙම රාත්‍රිය, මනරම් නර්තන අංගයන්ගෙන්, මියුරු සංගීතයෙන්, විශිෂ්ට රංගන ඉදිරිපත් කිරීම්වලින් සහ අතිනවීන වේදිකා නිර්මාණයන්ගෙන් විචිත්‍රවත් වනු ඇත.</p><p><br></p><p>අතීතයේ සුන්දර සිනමා මතකයන් යළි අවදි කරමින්, වර්තමාන කලාත්මක නිර්මාණයන් සමඟින් එක්වන මෙම මහා කලා මංගල්‍යය, හෙළ සිනමාවේ අභිමානය එකම රාත්‍රියකදී අත්විඳීමට ඔබට ලැබෙන සුවිශේෂී අවස්ථාවකි.</p><p><br></p><p><strong>වසර 25ක මතකයන්... කලා තරු රැසකගේ එකතුව... අභිමානවත් සැමරුමක්!</strong></p><p><br></p><p><strong>EVENT DETAILS</strong></p><p><strong>Event:</strong> රිදී රැයක් 25</p><p><strong>Date:</strong> Saturday, 19 December 2026</p><p><strong>Time:</strong> 6.30 PM onwards</p><p><strong>Venue:</strong> BMICH – Indoor Theatre, Colombo</p><p><strong>Organised by:</strong> Cine Star Foundation</p><p><br></p><p><strong>BE A PART OF THIS HISTORIC CELEBRATION!</strong></p><p>හෙළ සිනමාවේ දීප්තිමත් තාරකාවන් එකම වේදිකාවකදී හමුවන මෙම අසිරිමත් රාත්‍රියට ඔබත් එක්වන්න.</p><p><br></p><p><strong>ඔබේ ප්‍රවේශපත්‍රය අදම වෙන්කරවා ගන්න!</strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Ridee%20Rayak%20-%20%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%93%20%E0%B6%BB%E0%B7%90%E0%B6%BA%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-11-10%20at%203.33.43%20PM-1794375504797.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Ridee%20Rayak%20-%20%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%93%20%E0%B6%BB%E0%B7%90%E0%B6%BA%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-11-10%20at%203.33.43%20PM-1794375504797.jpeg",
+      "venue": "BMICH - COLOMBO",
+      "city": "666548e1a03df8fc2ac5a04e",
+      "dateTime": "2026-12-19T13:00:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 12000,
+      "ticketLink": "https://mytickets.lk/event/ridee-rayak/6af3fd5af6163bf592474e1e",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9011,
+      "longitude": 79.8736
+    },
+    {
       "id": "oneticket-458",
       "source": "OneTicket",
       "name": "Fiona - Christmas Edition",
@@ -2085,29 +2107,6 @@
       "longitude": 79.8676
     },
     {
-      "id": "ticketsministry-1383",
-      "source": "TicketsMinistry",
-      "name": "THE CLUB MEMBERS",
-      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 62000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
-    },
-    {
       "id": "ticketsministry-1330",
       "source": "TicketsMinistry",
       "name": "SOBASARA LIVE IN CONCERT 2027",
@@ -2129,6 +2128,29 @@
       ],
       "latitude": 7.088022577256503,
       "longitude": 80.0026606708474
+    },
+    {
+      "id": "ticketsministry-1383",
+      "source": "TicketsMinistry",
+      "name": "THE CLUB MEMBERS",
+      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 62000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
     },
     {
       "id": "oneticket-464",
@@ -2360,6 +2382,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "mytickets-6af44114eafc4ab33b8f3eb4",
+      "source": "MyTickets",
+      "name": "Valentine's Day Candlelight Dinner Concert",
+      "description": "<p><strong><u>Valentine's Day Candlelight Dinner Concert</u></strong></p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Valentine's%20Day%20Candlelight%20Dinner%20Concert/WhatsApp%20Image%202026-11-11%20at%203.36.10%20PM-1794392184411.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Valentine's%20Day%20Candlelight%20Dinner%20Concert/WhatsApp%20Image%202026-11-11%20at%203.36.10%20PM-1794392184411.jpeg",
+      "venue": "The Grand Maitland",
+      "city": "666548e1a03df8fc2ac5a050",
+      "dateTime": "2027-02-12T13:30:00.000Z",
+      "originalDateStr": "Fri, Feb 12, 2027, 07:00 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 15000,
+      "ticketLink": "https://mytickets.lk/event/valentines-day-candlelight-dinner-concert/6af44114eafc4ab33b8f3eb4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Hot Deal"
+      ],
+      "latitude": 6.918158823529412,
+      "longitude": 79.83908235294118
     },
     {
       "id": "ticketsministry-1354",
