@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-12T12:10:39.631Z",
+  "lastSyncTime": "2026-11-12T21:17:53.578Z",
   "counts": {
     "MyTickets": 23,
     "OneTicket": 19,
-    "TicketsMinistry": 65,
-    "Total": 107
+    "TicketsMinistry": 67,
+    "Total": 109
   },
   "concerts": [
     {
@@ -628,29 +628,6 @@
       "longitude": 79.82214117647058
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
-      "venue": "Capital City Hotel Badulla",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.984783217600755,
-      "longitude": 81.0560030112985
-    },
-    {
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
@@ -672,6 +649,29 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/oxvxnR9cAt73nnPJn6nuzSUaetKIVkuXe68pRqB3.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
+      "venue": "Capital City Hotel Badulla",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.984783217600755,
+      "longitude": 81.0560030112985
     },
     {
       "id": "oneticket-457",
@@ -1518,7 +1518,7 @@
       "originalDateStr": "Sat, Dec 19, 2026, 03:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
-      "maxPrice": 98000,
+      "maxPrice": 112000,
       "ticketLink": "https://www.ticketsministry.com/concerts/blazing-abyss/6ac7895c772b1",
       "status": "active",
       "tags": [
@@ -2107,29 +2107,6 @@
       "longitude": 79.8676
     },
     {
-      "id": "ticketsministry-1330",
-      "source": "TicketsMinistry",
-      "name": "SOBASARA LIVE IN CONCERT 2027",
-      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/o2z7pYQ885vRK1POCDE2usFUFV8yNUsHUgDRk0I8.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yaRzcmPP8160uF7d9XAsA0c3YMaQnj9wIpMw7c8B.jpg",
-      "venue": "Holy Cross College Auditorium Gampaha",
-      "city": "Gampaha",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.088022577256503,
-      "longitude": 80.0026606708474
-    },
-    {
       "id": "ticketsministry-1383",
       "source": "TicketsMinistry",
       "name": "THE CLUB MEMBERS",
@@ -2151,6 +2128,29 @@
       ],
       "latitude": 6.929170393070663,
       "longitude": 79.8467212749966
+    },
+    {
+      "id": "ticketsministry-1330",
+      "source": "TicketsMinistry",
+      "name": "SOBASARA LIVE IN CONCERT 2027",
+      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/o2z7pYQ885vRK1POCDE2usFUFV8yNUsHUgDRk0I8.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yaRzcmPP8160uF7d9XAsA0c3YMaQnj9wIpMw7c8B.jpg",
+      "venue": "Holy Cross College Auditorium Gampaha",
+      "city": "Gampaha",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.088022577256503,
+      "longitude": 80.0026606708474
     },
     {
       "id": "oneticket-464",
@@ -2244,6 +2244,29 @@
       ],
       "latitude": 6.9011,
       "longitude": 79.8736
+    },
+    {
+      "id": "ticketsministry-1327",
+      "source": "TicketsMinistry",
+      "name": "SWARA MADHUDHARA",
+      "description": "<p>Indoor classical music concert to be held at Ave Maria convent auditorium with the participation of veteran artists Karunathna Divulgane | Suneera Sumanga | Shashik Nisansala | Chandana Liyanarachchi.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/ReknlemhxoQlBzyAOxdPErj5R13pGNbOEzrk9bl6.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JHlBiwq67mFURM1M1ThZ3BfAS2kQx6Uzh1eu8Fy2.jpg",
+      "venue": "Ave Maria Convent Auditorium Negombo",
+      "city": "Negombo",
+      "dateTime": "2027-01-23T19:30:00.000Z",
+      "originalDateStr": "Sun, Jan 24, 2027, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/swara-madhudhara/6ac39a9d1e395",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.213788892791915,
+      "longitude": 79.83978457419244
     },
     {
       "id": "oneticket-472",
@@ -2475,6 +2498,29 @@
       ],
       "latitude": 6.905563358876491,
       "longitude": 79.91147419910696
+    },
+    {
+      "id": "ticketsministry-1388",
+      "source": "TicketsMinistry",
+      "name": "PREMAWALOKA LOVE IN CONCERT",
+      "description": "<p>Where love meets timeless melodies. ❤️ප්‍රේමාවලෝක – Love in Concert 202714 February 2027 | 7 PM | Musaeus College Auditorium</p><p>Sunil Edirisinghe | Amarasiri Pieris | Karunarathne Diulgane | Abhisheka Wimalaweera</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202611051445-premawaloka-love-in-concert-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202611051445-premawaloka-love-in-concert-thumbnail.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2027-02-14T19:00:00.000Z",
+      "originalDateStr": "Mon, Feb 15, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premawaloka-love-in-concert/6aed94aa44b9c",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     }
   ]
 }
