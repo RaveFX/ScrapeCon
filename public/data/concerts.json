@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-13T11:51:19.544Z",
+  "lastSyncTime": "2026-11-13T19:12:38.181Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 18,
-    "TicketsMinistry": 67,
-    "Total": 109
+    "TicketsMinistry": 69,
+    "Total": 111
   },
   "concerts": [
     {
@@ -445,29 +445,6 @@
       "longitude": 79.86148949999999
     },
     {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
       "name": "PREMII OYA",
@@ -491,27 +468,27 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1240",
+      "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Indoor Musical Concert"
       ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1376",
@@ -535,6 +512,29 @@
       ],
       "latitude": 7.21757919278823,
       "longitude": 79.85283377499933
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "ticketsministry-1260",
@@ -1073,7 +1073,7 @@
       "name": "TACENDA",
       "description": "<p>After creating something unforgettable the first time, Dayfall returns with TACENDA — taking the experience a step further and creating a day you’ll remember for a very long time.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/FRXWkBj0MsRXAubdZWo2QmgMksLmU0xcwmSspSqZ.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/Fm1RqAu2DRpBCsmlK2U40RMhiCHJDlqrtqr3T2qz.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qMAUEn0tsiurR3ceTsBootILyqgLRGLetb8xri2s.png",
       "venue": "Kurunegala",
       "city": "Kurunegala",
       "dateTime": "2026-12-06T11:00:00.000Z",
@@ -1738,6 +1738,29 @@
       "longitude": 79.90873673105374
     },
     {
+      "id": "ticketsministry-1399",
+      "source": "TicketsMinistry",
+      "name": "Salli - Aaley Daddy with News",
+      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
+    },
+    {
       "id": "ticketsministry-1365",
       "source": "TicketsMinistry",
       "name": "RHYTHM OF CHRISTMAS",
@@ -2013,6 +2036,29 @@
       ],
       "latitude": 6.888982352941177,
       "longitude": 79.8528862745098
+    },
+    {
+      "id": "ticketsministry-1400",
+      "source": "TicketsMinistry",
+      "name": "RUM JUNGLE",
+      "description": "<p>Rum Jungle are coming to Sri Lanka — for the first time. </p><p>The Australian indie four-piece make their Sri Lankan debut at The Doctor's House on Saturday 9 January 2027, on their January Asia tour — and this is a night worth clearing your calendar for. They arrive off the back of second album Marginalia, which debuted at #2 on the ARIA Albums Chart, and a year of touring across Australia, North America, the UK and Europe. </p><p>Returning to Asia with new music and plenty of familiar favourites — after shows in Singapore, Bali and Tokyo — Rum Jungle are ready to reconnect with old fans and win over new ones. Raw alternative rock, jangling indie guitars and emotionally charged songwriting: music that sits somewhere between euphoria and uncertainty. </p><p>Add festival sets at Austin City Limits, Shaky Knees, Spilt Milk, Japan's CUEW Showcase and the Singapore F1 Grand Prix, and you have a band at the top of their rise. </p><p>One night. Sri Lanka's premier live music venue. First time, no second chances. </p><p>Tickets are on sale online now — book early, this will sell out fast.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/uTJz7O3RorL84ZoxyLJPJZMbqv4Z0Mvu2wJ6FyTv.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/eRxzQQ3JTYoFPxA6qani56jCxj6KJshBjEflRDeU.jpg",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-09T18:00:00.000Z",
+      "originalDateStr": "Sat, Jan 9, 2027, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 7000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/rum-jungle/6af75b8d156b0",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
     },
     {
       "id": "oneticket-444",
@@ -2291,29 +2337,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1357",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5500,
-      "maxPrice": 9000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1370",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - TWO DAY ACCESS",
@@ -2328,6 +2351,29 @@
       "minPrice": 10000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1357",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5500,
+      "maxPrice": 9000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
       "status": "active",
       "tags": [
         "Concert",
