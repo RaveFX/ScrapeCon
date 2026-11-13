@@ -1,8 +1,8 @@
 {
-  "lastSyncTime": "2026-11-13T02:22:42.929Z",
+  "lastSyncTime": "2026-11-13T11:51:19.544Z",
   "counts": {
-    "MyTickets": 23,
-    "OneTicket": 19,
+    "MyTickets": 24,
+    "OneTicket": 18,
     "TicketsMinistry": 67,
     "Total": 109
   },
@@ -379,7 +379,7 @@
       "id": "ticketsministry-1325",
       "source": "TicketsMinistry",
       "name": "DREAM WAVES AQUALIC YACHT PARTY",
-      "description": "<p>DREAM WAVES – AQUALIC YACHT PARTY </p><p>THE ULTIMATE YACHT EXPERIENCE The Club Events & Tri Tone Events Present DREAM WAVES – WHERE MUSIC MEETS THE OCEAN! </p><p>Get ready to sail into an unforgettable evening of music, luxury, and endless vibes! Experience an extraordinary 5-hour luxury yacht party across the breathtaking waters of Mirissa Beach & Weligama Bay. </p><p>Get ready for spectacular ocean views, electrifying beats, refreshing sea breezes, and an atmosphere like no other. </p><p>FEATURING TOP INTERNATIONAL & LOCAL DJs 🔥 Good music & incredible party vibes 🚢 Luxury yacht experience 🌅 Stunning sunset views & breathtaking ocean scenery 🥂 An unforgettable atmosphere on the open sea 🌴 Good music, great people & endless memories.</p><p>DATE: 21 NOVEMBER 2026 </p><p>LOCATION: Mirissa Fisheries Harbour </p><p>Don't miss your chance to be part of an extraordinary experience on the ocean. Gather your crew, feel the rhythm, and let the waves take you away! </p>",
+      "description": "<p>DREAM WAVES – AQUALIC YACHT PARTY </p><p>Good Music, Great People & Endless Memories With Back</p><p></p><p>DREAM WAVES  AQULIC YACHT PARTY</p><p></p><p>The Club Events  & TriTone Events  Present</p><p></p><p>FEATURING:</p><p></p><p>⛵ Secret Guest Artist | DA KIND | DLC | EZRA BENJAMIN (Female Dj)</p><p></p><p>Get ready to sail into an unforgettable evening of music, luxury, and endless vibes!</p><p></p><p>Experience an extraordinary 5-hour luxury yacht party across the breathtaking waters of Mirissa Beach & Weligama Bay. Get ready for spectacular ocean views, electrifying beats, refreshing sea breezes, and an atmosphere like no other.</p><p></p><p>Checking 1.30 pm</p><p></p><p>Sailing 2.30 pm to 7.30 pm</p><p></p><p>🌴After party @ surf bar mirissa 7.30 pm onwards</p><p></p><p>Including:</p><p>After party surf bar entrance | BYOB</p><p>🍻 Bring your own drinks! Bring your favorite bottles or beer and get ready to chill.</p><p>🌊🎶 Let’s enjoy a real yacht party with great music, amazing vibes, and unforgettable memories!</p><p>PARTY RESPONSIBLY. NO DRUGS. JUST GOOD VIBES! 🚢🔥</p><p></p><p>More Details 075 550 5055</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/ulHqbAqmR8trQNztxBMV1GX3l4TC3vCiKVQjhWaL.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/qQIuci4Jh2KW9heiiZWFXajFGuEbj9dzzFQ0QgDr.jpg",
       "venue": "Mirissa Fisheries Harbor",
@@ -443,30 +443,6 @@
       ],
       "latitude": 6.9206978,
       "longitude": 79.86148949999999
-    },
-    {
-      "id": "oneticket-459",
-      "source": "OneTicket",
-      "name": "Sewanali",
-      "description": "Sewanali happening at Viharamahadevi Open Air theater. Date & Time: Sun, Nov 22, 2026, 12:30 AM. Tickets start from 1000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/14337960-c6860f8b-38c4-4286-aea1-06f02d949b3e.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/11587481-cc0d0fb4-0ac7-45b4-b670-8478b098b1f7.jpg",
-      "venue": "Viharamahadevi Open Air theater",
-      "city": "Viharamahadevi Open Air theater",
-      "dateTime": "2026-11-21T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 22, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 1000,
-      "ticketLink": "https://oneticket.lk/event/sewanali",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.92631568627451,
-      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1377",
@@ -950,6 +926,28 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "mytickets-6af69ceab9a1e8f3319bb9bb",
+      "source": "MyTickets",
+      "name": "Eda Wage Adath Live In Concert With Ranil Mallawarachchi",
+      "description": "<p><strong>Eda Wage Adath Live In Concert With Ranil Mallawarachchi</strong></p><p><strong>﻿</strong></p><p>පරම්පරා ගණනාවක හදවත් බැඳගත් මිල්ටන්ගේ අමරණීය ගී මතක, රනිල්ගේ ළයාන්විත හඬින් කොළඹ අහස යට යළිත් රැව්දෙන සොඳුරු රාත්‍රියට ඔබත් සූදානම්ද? ❤️🎶 පසන් සන්දීපගේ මියුරු සංගීතයෙන් හැඩවෙන, Midlane සංගීත කණ්ඩායමේ ආරාධිත ගායනයෙන් රසවත් වන, වසන්ත දුක්ගන්නාරාළගේ ආකර්ෂණීය කථනයෙන් පිරි \"එදා වගේ අදත්\" සජීවී ප්‍රසංගය දෙසැම්බර් 05 වැනිදා සවස 6.30ට කොළඹ නෙළුම් කුලුන පරිශ්‍රයේදී පැවැත්වේ. ✨🎤 මතකයන් අලුත් කරගන්න, හදවතින්ම ගී රසය විඳගන්න, ඒ ආදරණීය හැන්දෑවේ කොටස්කරුවෙකු වන්න ඔබත් <strong>\"එදා වගේ අදත්\"</strong>&nbsp;එන්න.</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Eda%20Wage%20Adath%20Live%20In%20Concert%20With%20Ranil%20Mallawarachchi/MYTICKETS-EDA-WAGE-ADATH-02.jpg-1794546644921.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Eda%20Wage%20Adath%20Live%20In%20Concert%20With%20Ranil%20Mallawarachchi/MYTICKETS-EDA-WAGE-ADATH-02.jpg-1794546644921.jpeg",
+      "venue": "Nelum Kuluna Outdoor Premises",
+      "city": "666548e1a03df8fc2ac5a053",
+      "dateTime": "2026-12-05T13:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 5000,
+      "ticketLink": "https://mytickets.lk/event/eda-wage-adath-live-in-concert-with-ranil-mallawarachchi/6af69ceab9a1e8f3319bb9bb",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.944825490196079,
+      "longitude": 79.87045490196078
     },
     {
       "id": "ticketsministry-1247",
