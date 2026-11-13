@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-12T21:17:53.578Z",
+  "lastSyncTime": "2026-11-13T02:22:42.929Z",
   "counts": {
     "MyTickets": 23,
     "OneTicket": 19,
@@ -515,29 +515,6 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1376",
-      "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
-    },
-    {
       "id": "ticketsministry-1240",
       "source": "TicketsMinistry",
       "name": "CHILL THEORY AT GANGAARA",
@@ -559,6 +536,29 @@
       ],
       "latitude": 7.346411807372148,
       "longitude": 79.92045117422727
+    },
+    {
+      "id": "ticketsministry-1376",
+      "source": "TicketsMinistry",
+      "name": "X CONCERT",
+      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
+      "venue": "Avenra Gardens Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 120000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.21757919278823,
+      "longitude": 79.85283377499933
     },
     {
       "id": "ticketsministry-1260",
@@ -628,29 +628,6 @@
       "longitude": 79.82214117647058
     },
     {
-      "id": "ticketsministry-1257",
-      "source": "TicketsMinistry",
-      "name": "NEWSCHOOLCOMMUNITY",
-      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 28th November 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/55gilJn6TldpUiGAFBaSoAPi4V6VfAAWNHHVgaI4.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/moSjnNqHzjVXqIDp7nMhnbEIcCAfADjtEeWC1PxJ.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
-    {
       "id": "ticketsministry-1309",
       "source": "TicketsMinistry",
       "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
@@ -672,6 +649,29 @@
       ],
       "latitude": 6.984783217600755,
       "longitude": 81.0560030112985
+    },
+    {
+      "id": "ticketsministry-1257",
+      "source": "TicketsMinistry",
+      "name": "NEWSCHOOLCOMMUNITY",
+      "description": "<p>NEWSCHOOLCOMMUNITY </p><p>Cheers to a night in its own dimension. 🥂🌇✨</p><p>🗓️ 28th November 2026</p><p>⏰ 6PM to Dawn</p><p>📍Colombo, Sri Lanka</p><p>#NEWCHOOLCOMMUNITY #DimuthK #Kyotto #AllNightLong #GLOBALPRESENCE #BerniTurletti #INTHEMOMENT #THEMEMBERSONLY</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/55gilJn6TldpUiGAFBaSoAPi4V6VfAAWNHHVgaI4.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/moSjnNqHzjVXqIDp7nMhnbEIcCAfADjtEeWC1PxJ.jpg",
+      "venue": "Port City Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 80000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/newschoolcommunity/6a81de7039645",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
     },
     {
       "id": "oneticket-457",
@@ -1247,7 +1247,7 @@
       "minPrice": 5000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
