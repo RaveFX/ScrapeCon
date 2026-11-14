@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-14T08:36:19.792Z",
+  "lastSyncTime": "2026-11-14T16:22:07.274Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 18,
@@ -105,7 +105,7 @@
       "id": "ticketsministry-1320",
       "source": "TicketsMinistry",
       "name": "NIMNADA",
-      "description": "<p>NIMNADA a concert organized by the Pushpadana College Old Girls </p>",
+      "description": "<p>NIMNADA a concert organized by the Pushpadana College Old Girls on the 14th of November at The Dharmaraja College Auditorium Kandy. </p><p></p><p>Grab your seats now. </p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/KZVzPMFpgk1m8yZyyCueVy4iQ8NJ5JU4gaNEhBA4.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/RZnWgx08bAAv0gZWPx4KbEZIQ3RLOnCOYzK9rCsV.png",
       "venue": "Dharmaraja College Auditorium Kandy",
@@ -116,7 +116,7 @@
       "minPrice": 1000,
       "maxPrice": 5000,
       "ticketLink": "https://www.ticketsministry.com/concerts/nimnada/37664856-ee58-4ec1-ba88-c7b9ae8c97e4",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -491,29 +491,6 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1240",
-      "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
-    },
-    {
       "id": "ticketsministry-1376",
       "source": "TicketsMinistry",
       "name": "X CONCERT",
@@ -535,6 +512,29 @@
       ],
       "latitude": 7.21757919278823,
       "longitude": 79.85283377499933
+    },
+    {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
     },
     {
       "id": "ticketsministry-1260",
@@ -1715,29 +1715,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1351",
-      "source": "TicketsMinistry",
-      "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
-      "description": "<p>𝐉𝐈𝐍𝐆𝐋𝐄 & 𝐇𝐀𝐑𝐌𝐎𝐍𝐘 𝐖𝐈𝐓𝐇 𝐌𝐀𝐑𝐈𝐀𝐍𝐒 𝐚𝐭 𝐖𝐀𝐕𝐄 𝐍' 𝐋𝐀𝐊𝐄 , 𝐖𝐄𝐋𝐈𝐒𝐀𝐑𝐀</p><p>GET READY FOR THE BIGGEST CHRISTMAS MUSICAL NIGHT! </p><p>This Christmas, get ready for an unforgettable night filled with spectacular music, festive vibes, delicious food and endless entertainment! ❤️</p><p>🎙️ Featuring amazing performances by: </p><p>Rookantha Goonatillake </p><p>Nalin Perera</p><p>Sajith Perera</p><p>Falan Andrea</p><p>Keerthi </p><p>With the legendary MARIANS!</p><p>🎁 SPECIAL CHRISTMAS TREATS! </p><p>🥂 𝐅𝐑𝐄𝐄 𝐂𝐡𝐚𝐬𝐞𝐫𝐬 & 𝐁𝐢𝐭𝐞𝐬  </p><p>🍽️ 𝐆𝐫𝐚𝐧𝐝 𝐃𝐢𝐧𝐧𝐞𝐫 𝐁𝐮𝐟𝐟𝐞𝐭  </p><p>🎅 𝐒𝐚𝐧𝐭𝐚'𝐬 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐆𝐢𝐟𝐭𝐬 𝐀𝐧𝐝 𝐌𝐚𝐧𝐲 𝐌𝐨𝐫𝐞 𝐒𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬!</p><p>𝐅𝐫𝐞𝐞 𝟏 𝐖𝐡𝐢𝐬𝐤𝐞𝐲 𝐁𝐨𝐭𝐭𝐥𝐞 𝐅𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐖𝐡𝐨 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝟏𝟎 𝐕𝐢𝐩 𝐎𝐫 𝐕𝐕𝐈𝐏 𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐀𝐭 𝐎𝐧𝐜𝐞 (𝟏𝟎 𝐏𝐚𝐜𝐤 - 𝐎𝐧𝐞 𝐓𝐢𝐦𝐞 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞  𝐎𝐧𝐥𝐲).</p><p>🍾 BYOB – Bring Your Own Bottle! </p><p>Free Photo Booth & 360</p><p>Date :- 22nd December 2026 (Pre Poya Day)</p><p>Venue :- Wave N' Lake, Navy Hall, Welisara</p><p>💃 Special performances by Angel Dance Team</p><p>🎧 DJ CANDI</p><p>🎤 Compere by Sandro Bandara</p><p>🎁 Don't miss this amazing opportunity to celebrate Christmas with your favourite artists and enjoy a magical musical experience!</p><p>📞 BOOK YOUR TICKETS NOW!</p><p>☎️ Chrishantha - 0777393718</p><p>☎️ Sudarshana - 0761199755</p><p>☎️ Madushani - 0778198959</p><p>🎟️ KOKO Payments Available!</p><p>❤️ Seats are limited, so reserve your tickets early!</p><p>Make this Christmas unforgettable with JINGLE & HARMONY!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Krd3amBr9UmfLMgQEeICOAko1bGHVP1TeSPXhtoy.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/6Hdc0aWFOU7FC2nL2S9Bo44DmYRX664i8gzQcmQU.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/jingles-and-harmony-christmas-musical-gala-2026/6ad744b970e2f",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
       "id": "ticketsministry-1399",
       "source": "TicketsMinistry",
       "name": "Salli - Aaley Daddy with News",
@@ -1759,6 +1736,29 @@
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
+    },
+    {
+      "id": "ticketsministry-1351",
+      "source": "TicketsMinistry",
+      "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
+      "description": "<p>𝐉𝐈𝐍𝐆𝐋𝐄 & 𝐇𝐀𝐑𝐌𝐎𝐍𝐘 𝐖𝐈𝐓𝐇 𝐌𝐀𝐑𝐈𝐀𝐍𝐒 𝐚𝐭 𝐖𝐀𝐕𝐄 𝐍' 𝐋𝐀𝐊𝐄 , 𝐖𝐄𝐋𝐈𝐒𝐀𝐑𝐀</p><p>GET READY FOR THE BIGGEST CHRISTMAS MUSICAL NIGHT! </p><p>This Christmas, get ready for an unforgettable night filled with spectacular music, festive vibes, delicious food and endless entertainment! ❤️</p><p>🎙️ Featuring amazing performances by: </p><p>Rookantha Goonatillake </p><p>Nalin Perera</p><p>Sajith Perera</p><p>Falan Andrea</p><p>Keerthi </p><p>With the legendary MARIANS!</p><p>🎁 SPECIAL CHRISTMAS TREATS! </p><p>🥂 𝐅𝐑𝐄𝐄 𝐂𝐡𝐚𝐬𝐞𝐫𝐬 & 𝐁𝐢𝐭𝐞𝐬  </p><p>🍽️ 𝐆𝐫𝐚𝐧𝐝 𝐃𝐢𝐧𝐧𝐞𝐫 𝐁𝐮𝐟𝐟𝐞𝐭  </p><p>🎅 𝐒𝐚𝐧𝐭𝐚'𝐬 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐆𝐢𝐟𝐭𝐬 𝐀𝐧𝐝 𝐌𝐚𝐧𝐲 𝐌𝐨𝐫𝐞 𝐒𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬!</p><p>𝐅𝐫𝐞𝐞 𝟏 𝐖𝐡𝐢𝐬𝐤𝐞𝐲 𝐁𝐨𝐭𝐭𝐥𝐞 𝐅𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐖𝐡𝐨 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝟏𝟎 𝐕𝐢𝐩 𝐎𝐫 𝐕𝐕𝐈𝐏 𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐀𝐭 𝐎𝐧𝐜𝐞 (𝟏𝟎 𝐏𝐚𝐜𝐤 - 𝐎𝐧𝐞 𝐓𝐢𝐦𝐞 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞  𝐎𝐧𝐥𝐲).</p><p>🍾 BYOB – Bring Your Own Bottle! </p><p>Free Photo Booth & 360</p><p>Date :- 22nd December 2026 (Pre Poya Day)</p><p>Venue :- Wave N' Lake, Navy Hall, Welisara</p><p>💃 Special performances by Angel Dance Team</p><p>🎧 DJ CANDI</p><p>🎤 Compere by Sandro Bandara</p><p>🎁 Don't miss this amazing opportunity to celebrate Christmas with your favourite artists and enjoy a magical musical experience!</p><p>📞 BOOK YOUR TICKETS NOW!</p><p>☎️ Chrishantha - 0777393718</p><p>☎️ Sudarshana - 0761199755</p><p>☎️ Madushani - 0778198959</p><p>🎟️ KOKO Payments Available!</p><p>❤️ Seats are limited, so reserve your tickets early!</p><p>Make this Christmas unforgettable with JINGLE & HARMONY!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Krd3amBr9UmfLMgQEeICOAko1bGHVP1TeSPXhtoy.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/6Hdc0aWFOU7FC2nL2S9Bo44DmYRX664i8gzQcmQU.jpg",
+      "venue": "Wave N' Lake Welisara",
+      "city": "Negombo",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/jingles-and-harmony-christmas-musical-gala-2026/6ad744b970e2f",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1365",
