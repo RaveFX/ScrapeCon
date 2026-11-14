@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-14T00:39:25.329Z",
+  "lastSyncTime": "2026-11-14T08:36:19.792Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 18,
@@ -445,29 +445,6 @@
       "longitude": 79.86148949999999
     },
     {
-      "id": "ticketsministry-1389",
-      "source": "TicketsMinistry",
-      "name": "PREMII OYA",
-      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
       "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
       "name": "FREQUENCY AT THE TAJ",
@@ -491,27 +468,27 @@
       "longitude": 79.84425677499648
     },
     {
-      "id": "ticketsministry-1376",
+      "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
+      "name": "PREMII OYA",
+      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
+      "venue": "Wave N' Lake Welisara",
       "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
       "status": "active",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1240",
@@ -535,6 +512,29 @@
       ],
       "latitude": 7.346411807372148,
       "longitude": 79.92045117422727
+    },
+    {
+      "id": "ticketsministry-1376",
+      "source": "TicketsMinistry",
+      "name": "X CONCERT",
+      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
+      "venue": "Avenra Gardens Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 120000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.21757919278823,
+      "longitude": 79.85283377499933
     },
     {
       "id": "ticketsministry-1260",
@@ -564,8 +564,8 @@
       "source": "MyTickets",
       "name": "Teens On Fire Live In Concert",
       "description": "<p><strong>Teens On Fire Live In Concert</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/teens%20on%20fire1-1793980649361.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/teens%20on%20fire1-1793980649361.jpeg",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/IMG-20261114-WA0015-1794639814506.jpg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/IMG-20261114-WA0015-1794639814506.jpg",
       "venue": "Gampaha District Secretariat Auditorium",
       "city": "666548e1a03df8fc2ac5a1f3",
       "dateTime": "2026-11-28T13:00:00.000Z",
@@ -953,7 +953,7 @@
       "id": "ticketsministry-1247",
       "source": "TicketsMinistry",
       "name": "FDY 0",
-      "description": "<p>Flying Dust Festival 2026 Year-0</p>",
+      "description": "<p>Flying Dust Festival 2026 Year-0 </p><p>Artist - Mariano Mellino | Noiyse Project | Ultra | Kyotto | Maze 28</p><p>Date - 05th December 2026</p><p>Location - Port City Colombo Sri Lanka</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-banner.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-thumbnail.jpg",
       "venue": "Colombo",
@@ -977,8 +977,8 @@
       "source": "OneTicket",
       "name": "Saptha Swara -සප්ත ස්වර - මීළඟ ස්වරය",
       "description": "Saptha Swara -සප්ත ස්වර - මීළඟ ස්වරය happening at Musaeus College,Colombo. Date & Time: Sun, Dec 6, 2026, 12:00 AM. Tickets start from 3500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/52292365-07e91273-30b2-4f4a-b4bd-78e1855b8243.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/56738809-45c16a93-548f-4359-ac19-08ddee6d30c5.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/57411967-fb7a922a-ad4b-41cd-b9c6-5a581b990db5.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/40867490-6b1c45f0-f4ca-4a96-96a1-af05baf7fe26.jpg",
       "venue": "Musaeus College,Colombo",
       "city": "Musaeus College,Colombo",
       "dateTime": "2026-12-05T18:30:00.000Z",
@@ -1346,29 +1346,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1393",
-      "source": "TicketsMinistry",
-      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
-      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Dance Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -1390,6 +1367,29 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "ticketsministry-1393",
+      "source": "TicketsMinistry",
+      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
+      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Dance Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1341",
