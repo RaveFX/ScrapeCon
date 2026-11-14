@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-14T16:22:07.274Z",
+  "lastSyncTime": "2026-11-14T21:58:05.628Z",
   "counts": {
     "MyTickets": 24,
-    "OneTicket": 18,
+    "OneTicket": 17,
     "TicketsMinistry": 69,
-    "Total": 111
+    "Total": 110
   },
   "concerts": [
     {
@@ -75,30 +75,6 @@
         "Indoor"
       ],
       "latitude": 6.916590196078432,
-      "longitude": 79.87453333333333
-    },
-    {
-      "id": "oneticket-443",
-      "source": "OneTicket",
-      "name": "Abhi Live In Concert Ampara",
-      "description": "Abhi Live In Concert Ampara happening at Municipal Council Public Garden. Date & Time: Sat, Nov 14, 2026, 11:30 PM. Tickets start from 3500 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/22660538-8b8ed691-8a93-4e31-99af-753a7529d1fb.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/32107377-c8f3f992-5f9f-4cd8-bb9f-930f85bef13f.jpg",
-      "venue": "Municipal Council Public Garden",
-      "city": "Municipal Council Public Garden",
-      "dateTime": "2026-11-14T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 14, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 3500,
-      "ticketLink": "https://oneticket.lk/event/abhi-live-in-concert-ampara",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.914707843137255,
       "longitude": 79.87453333333333
     },
     {
