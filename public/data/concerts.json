@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-11-16T04:46:37.668Z",
+  "lastSyncTime": "2026-11-16T14:48:09.779Z",
   "counts": {
     "MyTickets": 24,
     "OneTicket": 16,
-    "TicketsMinistry": 71,
-    "Total": 110
+    "TicketsMinistry": 67,
+    "Total": 106
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1329",
-      "source": "TicketsMinistry",
-      "name": "ISAI SAAMRAIYAM",
-      "description": "<p>Isai Saamrajyam is the biggest tamil dj music event of the year. Three indian dj artists are going to play on one stage. This event is for the people who love tamil music and people who love to dance and enjoy good music.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610060905-isai-saamrajyam-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/9mTOb7eBJgYxWAucWALsDwA0d9aibWjmW5SY5i0O.jpg",
-      "venue": "Air Force Ground Colombo",
-      "city": "Colombo 02",
-      "dateTime": "2026-11-13T20:30:00.000Z",
-      "originalDateStr": "Sat, Nov 14, 2026, 02:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 12000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/isai-saamraiyam/6ac477d3ad3a3",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.9282072999999995,
-      "longitude": 79.8482454
-    },
     {
       "id": "ticketsministry-1379",
       "source": "TicketsMinistry",
@@ -54,29 +31,6 @@
       "longitude": 80.4502143
     },
     {
-      "id": "ticketsministry-1320",
-      "source": "TicketsMinistry",
-      "name": "NIMNADA",
-      "description": "<p>NIMNADA a concert organized by the Pushpadana College Old Girls on the 14th of November at The Dharmaraja College Auditorium Kandy. </p><p></p><p>Grab your seats now. </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/KZVzPMFpgk1m8yZyyCueVy4iQ8NJ5JU4gaNEhBA4.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/RZnWgx08bAAv0gZWPx4KbEZIQ3RLOnCOYzK9rCsV.png",
-      "venue": "Dharmaraja College Auditorium Kandy",
-      "city": "Kandy",
-      "dateTime": "2026-11-14T18:30:00.000Z",
-      "originalDateStr": "Sun, Nov 15, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/nimnada/37664856-ee58-4ec1-ba88-c7b9ae8c97e4",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.290259100000001,
-      "longitude": 80.64774369999999
-    },
-    {
       "id": "ticketsministry-1289",
       "source": "TicketsMinistry",
       "name": "SUMIHIRI MATHAKAYAN LEGENDS UNPLUGGED",
@@ -98,30 +52,6 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
-    },
-    {
-      "id": "ticketsministry-1323",
-      "source": "TicketsMinistry",
-      "name": "KELE HANDA RUKMANI SWARNA GEE",
-      "description": "<p>A concert that was meant to be her next musical celebration — but became a tribute to a legend. </p><p>“Kele Handa Rukmani Swarna Gee” revives the music of Rukmani Devi, the legendary actress, singer and first female superstar of Sri Lankan cinema, whose extraordinary voice and timeless artistry left an everlasting mark on generations. </p><p>This concert carries a special place in Sri Lankan musical history. It was originally scheduled to be performed by Rukmani Devi herself, but sadly, she passed away before that long-awaited performance could take place. </p><p>Decades later, her unfinished musical journey is brought back to the stage as a heartfelt tribute to the woman who helped shape the golden era of Sri Lankan music and cinema.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610021321-kele-handa---rukmani-swarna-gee-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/qNza0cGALae5Y9jrUSd6gyx6s8OlY6JxXnXtI3Kx.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-11-15T06:30:00.000Z",
-      "originalDateStr": "Sun, Nov 15, 2026, 12:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/kele-handa-rukmani-swarna-gee/6abf8fb34c01e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
     },
     {
       "id": "mytickets-6a82b47f95bb41016919efb8",
@@ -173,7 +103,7 @@
       "id": "ticketsministry-1315",
       "source": "TicketsMinistry",
       "name": "PUB LONDON COLOMBO",
-      "description": "<p>PUB LONDON – Ultimate Experience 🇬🇧🔥 </p><p>Get ready for an action-packed night featuring an incredible lineup of artists, live entertainment, and an unforgettable experience at Air Force Grounds, Colombo. </p><p>📅 20th November | 🕖 7:00 PM</p><p> 🎟️ Early Bird Tickets starting from LKR 2,000 & VVIP 6Pax Table Package gets a Beverage Tower Free 🍺 </p><p>Book your tickets now and be part of the ultimate Pub London experience!</p>",
+      "description": "<p>PUB LONDON – Ultimate Experience 🇬🇧🔥 </p><p>Get ready for an action-packed night featuring an incredible lineup of artists, live entertainment, and an unforgettable experience at Air Force Grounds, Colombo. </p><p>📅 20th November | 🕖 7:00 PM</p><p> 🎟️ Tickets starting from LKR 2,500 & VVIP 6Pax Table Package gets a Beverage Tower Free 🍺 </p><p>Book your tickets now and be part of the ultimate Pub London experience!</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/Cy2WoaDXjDkMLjWXwME58HHBlgS1ctkRxGGtLKIG.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/ut85DfiCDGX6A19M8D6pQkrWqonl7DvXJSOPnZIR.jpg",
       "venue": "Colombo",
@@ -287,9 +217,9 @@
       "id": "ticketsministry-1325",
       "source": "TicketsMinistry",
       "name": "DREAM WAVES AQUALIC YACHT PARTY",
-      "description": "<p>DREAM WAVES – AQUALIC YACHT PARTY </p><p>Good Music, Great People & Endless Memories With Back</p><p></p><p>DREAM WAVES  AQULIC YACHT PARTY</p><p></p><p>The Club Events  & TriTone Events  Present</p><p></p><p>FEATURING:</p><p></p><p>⛵ Secret Guest Artist | DA KIND | DLC | EZRA BENJAMIN (Female Dj)</p><p></p><p>Get ready to sail into an unforgettable evening of music, luxury, and endless vibes!</p><p></p><p>Experience an extraordinary 5-hour luxury yacht party across the breathtaking waters of Mirissa Beach & Weligama Bay. Get ready for spectacular ocean views, electrifying beats, refreshing sea breezes, and an atmosphere like no other.</p><p></p><p>Checking 1.30 pm</p><p></p><p>Sailing 2.30 pm to 7.30 pm</p><p></p><p>🌴After party @ surf bar mirissa 7.30 pm onwards</p><p></p><p>Including:</p><p>After party surf bar entrance | BYOB</p><p>🍻 Bring your own drinks! Bring your favorite bottles or beer and get ready to chill.</p><p>🌊🎶 Let’s enjoy a real yacht party with great music, amazing vibes, and unforgettable memories!</p><p>PARTY RESPONSIBLY. NO DRUGS. JUST GOOD VIBES! 🚢🔥</p><p></p><p>More Details 075 550 5055</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/ulHqbAqmR8trQNztxBMV1GX3l4TC3vCiKVQjhWaL.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/qQIuci4Jh2KW9heiiZWFXajFGuEbj9dzzFQ0QgDr.jpg",
+      "description": "<p>DREAM WAVES – AQUALIC YACHT PARTY </p><p>Good Music, Great People & Endless Memories With Back</p><p></p><p>DREAM WAVES  AQULIC YACHT PARTY</p><p></p><p>The Club Events  & TriTone Events  Present</p><p></p><p>FEATURING:</p><p></p><p>⛵ Tali Muss | DA KIND | DLC | EZRA BENJAMIN (Female Dj)</p><p></p><p>Get ready to sail into an unforgettable evening of music, luxury, and endless vibes!</p><p></p><p>Experience an extraordinary 5-hour luxury yacht party across the breathtaking waters of Mirissa Beach & Weligama Bay. Get ready for spectacular ocean views, electrifying beats, refreshing sea breezes, and an atmosphere like no other.</p><p></p><p>Checking 1.30 pm</p><p></p><p>Sailing 2.30 pm to 7.30 pm</p><p></p><p>🌴After party @ surf bar mirissa 7.30 pm onwards</p><p></p><p>Including:</p><p>After party surf bar entrance | BYOB</p><p>🍻 Bring your own drinks! Bring your favorite bottles or beer and get ready to chill.</p><p>🌊🎶 Let’s enjoy a real yacht party with great music, amazing vibes, and unforgettable memories!</p><p>PARTY RESPONSIBLY. NO DRUGS. JUST GOOD VIBES! 🚢🔥</p><p></p><p>More Details 075 550 5055</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/hw8TkXEs9lOHtQeaSpG1i2vhkfqNlK3FWkSWcfXE.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/3sK7mQl607RBXfRQ4T9VAglFEjytfZCvddq96V5D.jpg",
       "venue": "Mirissa Fisheries Harbor",
       "city": "Mirissa",
       "dateTime": "2026-11-21T14:00:00.000Z",
@@ -353,29 +283,6 @@
       "longitude": 79.86148949999999
     },
     {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
       "name": "PREMII OYA",
@@ -399,27 +306,27 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1240",
+      "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Indoor Musical Concert"
       ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1376",
@@ -445,6 +352,29 @@
       "longitude": 79.85283377499933
     },
     {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
+    },
+    {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
@@ -460,29 +390,6 @@
       "maxPrice": 20000,
       "ticketLink": "https://www.ticketsministry.com/concerts/wonderland-2026/546633af-e2fe-4db6-bf39-fb47e5f297b3",
       "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.833142693164847,
-      "longitude": 79.85933297499568
-    },
-    {
-      "id": "ticketsministry-1387",
-      "source": "TicketsMinistry",
-      "name": "WONDERLAND 2026",
-      "description": "<p>Get ready for 𝐨𝐧𝐞 𝐡𝐞𝐥𝐥 𝐨𝐟 𝐚 𝐉𝐎𝐔𝐑𝐍𝐄𝐘! 🔥</p><p>On 28th November 2026, Colombo is about to experience an electrifying EDM designed for true ravers. Expect mind-blowing music, incredible vibes, great energy, & an unforgettable experience from start to finish.</p><p>🎧 The Artists? That’s a surprise. 👀The lineup will be revealed at a later date.</p><p>Save the date. Come hungry. Leave unforgettable. 🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TtvqgYw7LTc24WPgSCr8bWtvMc8bGQ7HYjhmQJLO.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/lff3V0aZtwrkCo04v0WIek0uTy7IWEGaOtK3KWTA.png",
-      "venue": "Mount Lavinia Hotel",
-      "city": "Mount Lavinia",
-      "dateTime": "2026-11-28T10:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 03:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/wonderland-2026/6aec21f9b3d4b",
-      "status": "sold-out",
       "tags": [
         "Concert",
         "EDM"
@@ -1299,29 +1206,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1393",
-      "source": "TicketsMinistry",
-      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
-      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Dance Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -1343,6 +1227,29 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "ticketsministry-1393",
+      "source": "TicketsMinistry",
+      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
+      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Dance Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1341",
@@ -1393,7 +1300,7 @@
       "id": "mytickets-6af1adc57d39afd53dad2fbd",
       "source": "MyTickets",
       "name": "SANDASWARA - සඳැස්වර",
-      "description": "<p>SANDASWARA - සඳැස්වර</p>",
+      "description": "<p><strong>SANDASWARA - සඳැස්වර</strong></p><p><br></p><p>කවි සීපද ඇහෙන රෑට..</p><p>කුරහන්මල් පිපුනු රෑට.. 🌾🌙</p><p><br></p><p>සඳ රෑට රෑට</p><p>තරු විමනට තරු අරන් යන්න... ✨⭐</p><p><br></p><p>කවදාද&nbsp;ආයෙ එන්නේ හමුවන්න... 💫</p><p><br></p><p>🌸 <strong><em>ඔබ අප හමුවන දිනය දෙසැම්බර් 18!!!.</em></strong> 🌸</p><p><br></p><p>ලයාන්විත හඬ ත්‍රිත්වයකින් රස කලතන,</p><p><br></p><p>සප්තස්වරයේ මිහිර අතර ඔබ මා ඒකාන්මික කරන,</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;🎶🌙<strong> සඳැස්වර</strong> …</p><p><br></p><p>&nbsp;&nbsp;<strong><em>සිත් සනසන ස්වර සිත්තම</em></strong> ✨</p><p><br></p><p>හෘදයාංගමව ඔබට පිදෙන වගයි!!!! 🧡</p><p><br></p><p>━━━━━━━━━━━━━━━━━━━━━━</p><p>🎤 ගායනය</p><p><br></p><p>🔹 විශාරද ෂර්ලි වෛජයන්ත&nbsp;මහතා</p><p>🔹 චන්දන ලියනාරච්චි මහතා</p><p>🔹 ශෂිකා නිසංසලා මහත්මිය</p><p><br></p><p>━━━━━━━━━━━━━━━━━━━━━━</p><p>🎻 වාදනය</p><p><br></p><p>🎼 ප්‍රණීත් සාරංග මහතා ප්‍රමුඛ වාද්‍ය වෘන්දය</p><p><br></p><p>━━━━━━━━━━━━━━━━━━━━━━</p><p>🎙️ කථනය</p><p><br></p><p>✨ කැලුම් ශ්‍රීමාල් මහතා</p><p><br></p><p><br></p><p>&nbsp;<strong><em>නොවැරදීම ඔබත් එන්න !!&nbsp;</em></strong></p><p><strong><em>&nbsp;අතීත ආදර මතක අතර මොහොතක් තනිවෙන්න!!! </em></strong>🧡</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/SADHA%20SWARA%20-%20%E0%B7%83%E0%B7%90%E0%B6%AF%E0%B7%90%20%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BB/WhatsApp%20Image%202026-11-10%20at%2010.53.38-1794291979507.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/SADHA%20SWARA%20-%20%E0%B7%83%E0%B7%90%E0%B6%AF%E0%B7%90%20%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BB/WhatsApp%20Image%202026-11-10%20at%2010.53.38-1794291979507.jpeg",
       "venue": "Central College Auditorium Piliyandala",
@@ -1519,7 +1426,6 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Event",
         "Indoor"
       ],
       "latitude": 6.926001960784314,
@@ -1668,29 +1574,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1399",
-      "source": "TicketsMinistry",
-      "name": "Salli - Aaley Daddy with News",
-      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1351",
       "source": "TicketsMinistry",
       "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
@@ -1712,6 +1595,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1399",
+      "source": "TicketsMinistry",
+      "name": "Salli - Aaley Daddy with News",
+      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1365",
@@ -2107,7 +2013,7 @@
     {
       "id": "mytickets-6ad1e045dd16d3b5051eca3b",
       "source": "MyTickets",
-      "name": "Punsanda Raata - පුන්සද රෑට ",
+      "name": "Pun sanda Raata - පුන්සද රෑට ",
       "description": "<p><strong><u>Pundanda Raata - පුන්සද රෑට&nbsp;</u></strong></p><p><br></p><p>ශ්‍රී ලාංකීය ගීත වංශයේ වර්ණවත් ගීත එකතුවක මතක මංපෙත් ඔස්සේ හෝරා තුනක්.....!</p><p>ප්‍රථම වරට, ප්‍රවීණ සහ යෞවන ගායක ගායිකාවන් 22 ක්,&nbsp;</p><p>25ක් දෙනෙකුගෙන් සමන්විත වාද්‍ය වෘන්දයක් සමඟින්...!</p><p><br></p><p>සංගීතවේදී ඔස්ටින් මුණසිංහ ගීතාවලෝකනය&nbsp;</p><p>\"පුන්සඳ රෑට”</p><p><br></p><p>2027 ජනවාරි මස 16 වැනිදා සවස 6:30ට&nbsp;</p><p>නෙළුම් පොකුණ රඟහලේදී...</p><p><br></p><p>ඔබේ අසුන අදම වෙන්කරවාගන්න.</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
@@ -2118,36 +2024,13 @@
       "priceCurrency": "LKR",
       "minPrice": 3000,
       "maxPrice": 12500,
-      "ticketLink": "https://mytickets.lk/event/punsanda-raata/6ad1e045dd16d3b5051eca3b",
+      "ticketLink": "https://mytickets.lk/event/pun-sanda-raata/6ad1e045dd16d3b5051eca3b",
       "status": "active",
       "tags": [
         "Concert"
       ],
       "latitude": 6.9089,
       "longitude": 79.8676
-    },
-    {
-      "id": "ticketsministry-1330",
-      "source": "TicketsMinistry",
-      "name": "SOBASARA LIVE IN CONCERT 2027",
-      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/o2z7pYQ885vRK1POCDE2usFUFV8yNUsHUgDRk0I8.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yaRzcmPP8160uF7d9XAsA0c3YMaQnj9wIpMw7c8B.jpg",
-      "venue": "Holy Cross College Auditorium Gampaha",
-      "city": "Gampaha",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.088022577256503,
-      "longitude": 80.0026606708474
     },
     {
       "id": "ticketsministry-1383",
@@ -2171,6 +2054,29 @@
       ],
       "latitude": 6.929170393070663,
       "longitude": 79.8467212749966
+    },
+    {
+      "id": "ticketsministry-1330",
+      "source": "TicketsMinistry",
+      "name": "SOBASARA LIVE IN CONCERT 2027",
+      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/o2z7pYQ885vRK1POCDE2usFUFV8yNUsHUgDRk0I8.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/yaRzcmPP8160uF7d9XAsA0c3YMaQnj9wIpMw7c8B.jpg",
+      "venue": "Holy Cross College Auditorium Gampaha",
+      "city": "Gampaha",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.088022577256503,
+      "longitude": 80.0026606708474
     },
     {
       "id": "oneticket-464",
