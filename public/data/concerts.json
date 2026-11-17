@@ -1,35 +1,12 @@
 {
-  "lastSyncTime": "2026-11-17T07:31:53.038Z",
+  "lastSyncTime": "2026-11-17T17:22:32.325Z",
   "counts": {
-    "MyTickets": 24,
+    "MyTickets": 1,
     "OneTicket": 16,
-    "TicketsMinistry": 68,
-    "Total": 107
+    "TicketsMinistry": 67,
+    "Total": 84
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1379",
-      "source": "TicketsMinistry",
-      "name": "ANCIENT SOUL WITH FRIENDS ROYAL WHITE PARTY — YACHT EDITION33",
-      "description": "<p>An exclusive sunset experience at sea. Good music, royal vibes, and unforgettable moments. 🎧 LINEUP (A–Z) • Ancient Soul • Anush B2B Professor • Gishan B2B Deshan • Kodii • Lahiru • Texter • Univ3rse – SL • Yazziru B2B Thaki ⚠️ LIMITED ENTRY — FIRST 40 PRE-REGISTRATIONS ONLY! 📅 November 14, 2026 📍 Mirissa Fisheries Harbour 🕑 Check-in: 2:00 PM 🛥️ Cruising at Sea: 2:30 PM – 7:30 PM ⚓ Harbour Session: 7:30 PM – 9:00 PM 🌙 After-party included! 🤍 DRESS CODE: All White Everything 🥂 BYOB: Bring Your Own Bottle — No Corkage Fee! 📞 Reservations & Inquiries: 078 120 2353 White fits. Sunset views. Underground sounds. Royal energy. 👑🌊 100 SPOTS. ONE YACHT. YOUR KIND OF NIGHT. 🛥️🤍</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611012100-ancient-soul-with-friends-royal-white-party-—-yacht-edition33-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ubdCwxrLQ24Ufyb5ccZGXPXIMWEeSGLALohHtidR.jpg",
-      "venue": "Mirissa Fisheries Harbor",
-      "city": "Mirissa",
-      "dateTime": "2026-11-14T14:00:00.000Z",
-      "originalDateStr": "Sat, Nov 14, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 33000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/ancient-soul-with-friends-royal-white-party-yacht-edition33/6ae75e8886786",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 5.948156000000001,
-      "longitude": 80.4502143
-    },
     {
       "id": "ticketsministry-1289",
       "source": "TicketsMinistry",
@@ -52,28 +29,6 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
-    },
-    {
-      "id": "mytickets-6a82b47f95bb41016919efb8",
-      "source": "MyTickets",
-      "name": "Prema Nagaraya - ප්‍රේම නගරය ",
-      "description": "<p>Prema Nagaraya - ප්‍රේම නගරය&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Prema%20Nagaraya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%B1%E0%B6%9C%E0%B6%BB%E0%B6%BA%20/WhatsApp%20Image%202026-08-21%20at%2017.16.04-1787328946078.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Prema%20Nagaraya%20-%20%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%9A%E0%B6%B8%20%E0%B6%B1%E0%B6%9C%E0%B6%BB%E0%B6%BA%20/WhatsApp%20Image%202026-08-21%20at%2017.16.04-1787328946078.jpeg",
-      "venue": "District Secretariat Kandy Auditorium",
-      "city": "666548e1a03df8fc2ac5a2fe",
-      "dateTime": "2026-11-20T11:15:00.000Z",
-      "originalDateStr": "Fri, Nov 20, 2026, 04:45 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/prema-nagaraya/6a82b47f95bb41016919efb8",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.953609803921569,
-      "longitude": 79.88300392156863
     },
     {
       "id": "oneticket-473",
@@ -106,8 +61,8 @@
       "description": "<p>PUB LONDON – Ultimate Experience 🇬🇧🔥 </p><p>Get ready for an action-packed night featuring an incredible lineup of artists, live entertainment, and an unforgettable experience at Air Force Grounds, Colombo. </p><p>📅 20th November | 🕖 7:00 PM</p><p> 🎟️ Tickets starting from LKR 2,500 & VVIP 6Pax Table Package gets a Beverage Tower Free 🍺 </p><p>Book your tickets now and be part of the ultimate Pub London experience!</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/Cy2WoaDXjDkMLjWXwME58HHBlgS1ctkRxGGtLKIG.jpg",
       "posterUrl": "https://cdn.ticketsministry.com/events/ut85DfiCDGX6A19M8D6pQkrWqonl7DvXJSOPnZIR.jpg",
-      "venue": "Colombo",
-      "city": "Colombo 01",
+      "venue": "Air Force Ground Colombo",
+      "city": "Colombo 02",
       "dateTime": "2026-11-20T19:00:00.000Z",
       "originalDateStr": "Sat, Nov 21, 2026, 12:30 AM",
       "priceCurrency": "LKR",
@@ -120,8 +75,8 @@
         "Outdoor Musical Concert",
         "Featured"
       ],
-      "latitude": 6.921836877837569,
-      "longitude": 79.81500565289788
+      "latitude": 6.9282072999999995,
+      "longitude": 79.8482454
     },
     {
       "id": "ticketsministry-1343",
@@ -145,73 +100,6 @@
       ],
       "latitude": 7.255931292750765,
       "longitude": 80.59250327499966
-    },
-    {
-      "id": "mytickets-6ac7663f80fc380bf3925ecc",
-      "source": "MyTickets",
-      "name": "NYTFLY",
-      "description": "<h1><strong>\"NYTFLY\"</strong></h1><p><br></p><p><strong>MORE THAN A CONCERT.</strong></p><p><br></p><p>එක රැයක්…</p><p>සංගීතමය හැඟීම් පහක්…</p><p>ජීවිතයට අමතක නොවන අපූරු ගමනක්…</p><p><br></p><p>සංගීතය කියන්නේ ඇසෙන දෙයක් විතරමද?</p><p>නැත්නම් අපේ හදවතේ ගැඹුරටම දැනෙන හැඟීමක්ද?</p><p><br></p><p>ආදරය, ආශාව, මතකයන්, නිහඬ බව, උද්වේගය සහ ජීවිතයේ අලුත් පිබිදීම…</p><p><br></p><p>මේ හැම හැඟීමක්ම එකම රාත්‍රියක අත්විඳින්නට ලැබුණොත්?</p><p><br></p><p>AWAKEN • DESIRE • DEPTH • CHAOS • IGNITE</p><p><br></p><p>ඔබේම හැඟීම් අතරින් ඔබව රැගෙන යන අසමසම සංගීත චාරිකාව…</p><p><br></p><p>NYTFLY – FLIGHT 001</p><p><br></p><p>&nbsp;SANUKA × WINDY</p><p>&nbsp;DANITH SRI</p><p>&nbsp;WASTHI</p><p>&nbsp;HOOMBAR LIVE</p><p><br></p><p>සංගීතයේ වෙනස්ම ලෝක පහක්…</p><p>එකම වේදිකාවක, එකම රාත්‍රියක…</p><p><br></p><p>📅 2026 නොවැම්බර් 21 සෙනසුරාදා</p><p>🕡 සවස 6.30 සිට</p><p>📍 De Mazenod College Auditorium, Kandana</p><p><br></p><p>🎟️ Tickets from Rs. 2,500/-</p><p><br></p><p>මෙය තවත් එක් ප්‍රසංගයක් පමණක් නොවේ…</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/NYTFLY/Final%20hooombar%20poster%201080x1080_page-0001-1791451678596.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/NYTFLY/Final%20hooombar%20poster%201080x1080_page-0001-1791451678596.jpg",
-      "venue": "De Mazenod College",
-      "city": "666548e1a03df8fc2ac5a2f7",
-      "dateTime": "2026-11-21T13:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/nytfly/6ac7663f80fc380bf3925ecc",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.899021568627451,
-      "longitude": 79.84849411764705
-    },
-    {
-      "id": "mytickets-6a72b00a3891a9c45bfe96d1",
-      "source": "MyTickets",
-      "name": "Rasogaya - රසෝඝය",
-      "description": "<h2><em>තුන් ඈඳුතු ප්‍රේමණිය ගීතාවලියක</em></h2><h2><em>මතක රස ගෙන එන හොරා තුනක්...</em></h2><p>කරුණාරත්න දිවුල්ගනේ,&nbsp;</p><p>චන්දන ලියනාරච්චි සමගින්&nbsp;</p><p>සියුමිනි ඔපයන්ගි....</p><p>තුන් ඈඳුතු ප්‍රේමණිය ගීතාවලිය...</p><h1><strong><em>“රසෝඝය”</em></strong></h1><p>සාර්ථක ඕස්ට්‍රෙලියා සහ නවසිලන්ත සංචාරයෙන් පසු</p><p>නොවැම්බර් 21 අවසන් ප්‍රසංගය....</p><p>කොළඹ මියුසියස් විද්‍යාලයීය රංග ශාලාවේදී......</p><p><br></p><p>ඔබේ අසුන අදම වෙන්කරවාගන්න....</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Rasogaya%20-%20%E0%B6%BB%E0%B7%83%E0%B7%9D%E0%B6%9D%E0%B6%BA/my%20tickets%20lk%201x1-1793715478497.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Rasogaya%20-%20%E0%B6%BB%E0%B7%83%E0%B7%9D%E0%B6%9D%E0%B6%BA/my%20tickets%20lk%201x1-1793715478497.jpg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-11-21T13:30:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/rasogaya/6a72b00a3891a9c45bfe96d1",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
-    },
-    {
-      "id": "mytickets-6a57140eaa5331ca7ddc7b43",
-      "source": "MyTickets",
-      "name": "Marians Unplugged 20th Anniversary ",
-      "description": "<p>Marians Unplugged 20th Anniversary&nbsp;- Matara</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/1x1.jpg%20(2)_2160x2160-1790133868117.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Marians%20Unplugged%2020th%20Anniversary%20/1x1.jpg%20(2)_2160x2160-1790133868117.jpg",
-      "venue": "Rabindranath Tagore Memorial Auditorium",
-      "city": "666548e1a03df8fc2ac5a453",
-      "dateTime": "2026-11-21T13:30:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/marians-unplugged-20th-anniversary/6a57140eaa5331ca7ddc7b43",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9495313725490195,
-      "longitude": 79.85665098039216
     },
     {
       "id": "ticketsministry-1325",
@@ -283,29 +171,6 @@
       "longitude": 79.86148949999999
     },
     {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
       "name": "PREMII OYA",
@@ -329,27 +194,27 @@
       "longitude": 79.90873673105374
     },
     {
-      "id": "ticketsministry-1240",
+      "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Concert"
+        "Indoor Musical Concert"
       ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1376",
@@ -375,6 +240,29 @@
       "longitude": 79.85283377499933
     },
     {
+      "id": "ticketsministry-1240",
+      "source": "TicketsMinistry",
+      "name": "CHILL THEORY AT GANGAARA",
+      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
+      "venue": "Avenra Gangaara Wennappuwa",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 4000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.346411807372148,
+      "longitude": 79.92045117422727
+    },
+    {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
       "name": "WONDERLAND 2026",
@@ -398,48 +286,27 @@
       "longitude": 79.85933297499568
     },
     {
-      "id": "mytickets-6aedf97d24c3087c74b89c92",
-      "source": "MyTickets",
-      "name": "Teens On Fire Live In Concert",
-      "description": "<p><strong>Teens On Fire Live In Concert</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/IMG-20261114-WA0015-1794639814506.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Teens%20On%20Fire%20Live%20In%20Concert/IMG-20261114-WA0015-1794639814506.jpg",
-      "venue": "Gampaha District Secretariat Auditorium",
-      "city": "666548e1a03df8fc2ac5a1f3",
-      "dateTime": "2026-11-28T13:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 06:30 PM",
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/JAN0KlktHnATHCyaO9oKT4iBAerjfPgtcJACK4ae.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
+      "venue": "Capital City Hotel Badulla",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
       "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/teens-on-fire-live-in-concert/6aedf97d24c3087c74b89c92",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.934786274509804,
-      "longitude": 79.86637647058824
-    },
-    {
-      "id": "mytickets-6adae3d75857bdbbae020b58",
-      "source": "MyTickets",
-      "name": "A Reason To Sing ",
-      "description": "<h2><strong>ASTERIA Female Voice Choir presents “A Reason To Sing” </strong></h2><p><br></p><p>A special concert in memory of its late founder and director, Mahen Peiris.</p><p><br></p><p>Directed and produced by Prashalini Peiris, the choir promises an exciting and diverse musical experience, featuring a vibrant repertoire of choral jazz, pop, ballads, semi-classical music, spirituals and a cappella items. The concert will also feature special guest performances by The De Lanerolle Brothers, Rukshan Perera, and a male TTBB ensemble comprising friends of the late Mahen.</p><p><br></p><p>In keeping with the spirit of this meaningful tribute, the net proceeds from the concert will go towards supporting the Paediatric Ward (Ward 5) of the Base Hospital, Valaichenai, making this a musical celebration with a heartfelt charitable purpose.</p><p><br></p><p>We warmly invite you to purchase your tickets and join us in supporting this worthy cause. Come, be part of an unforgettable evening of music, remembrance and compassion, as together we give ourselves “A Reason To Sing”.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/A%20Reason%20To%20Sing%20/web%20banner%201080x1080.jpg-1792729889696.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/A%20Reason%20To%20Sing%20/web%20banner%201080x1080.jpg-1792729889696.jpeg",
-      "venue": "Ladies' College Auditorium",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-11-28T13:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
+      "minPrice": 3500,
       "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/a-reason-to-sing/6adae3d75857bdbbae020b58",
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Outdoor Musical Concert"
       ],
-      "latitude": 6.906237254901961,
-      "longitude": 79.82214117647058
+      "latitude": 6.984783217600755,
+      "longitude": 81.0560030112985
     },
     {
       "id": "ticketsministry-1257",
@@ -463,29 +330,6 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
-    },
-    {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/JAN0KlktHnATHCyaO9oKT4iBAerjfPgtcJACK4ae.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
-      "venue": "Capital City Hotel Badulla",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.984783217600755,
-      "longitude": 81.0560030112985
     },
     {
       "id": "oneticket-457",
@@ -627,28 +471,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "mytickets-6ac61f255404c8ecf3d869cc",
-      "source": "MyTickets",
-      "name": "Koththamalli - කොත්තමල්ලි Live In Concert",
-      "description": "<p><strong><u>Koththamalli - කොත්තමල්ලි Live In Concert</u></strong></p><p><br></p><p><u><span class=\"ql-cursor\">﻿</span></u>🔥 දශක හයක සංගීත මතකයන්!</p><p>❤️ පරම්පරා තුනක්!</p><p>🔥 එකම අසහාය වේදිකාවක!</p><p><br></p><p>🔥 “KOTHTHAMALLI LIVE IN CONCERT” 🔥</p><p><br></p><p>සමහර ගීත කිසිදා මැකී නොයයි. සමහර මතකයන් සදාකාලිකයි. ❤️</p><p><br></p><p>දශක හයක සංගීත ඉතිහාසයක් සහ අමරණීය මතකයන් සමරමින් Gypsies ඔබ වෙත ගෙන එන අතිවිශිෂ්ට සංගීත අත්දැකීම විඳගැනීමට සූදානම් වන්න! 🎸✨</p><p><br></p><p>🌟 තරු පහක්. පරම්පරා තුනක්!</p><p><br></p><p>ශ්‍රී ලාංකීය සංගීතයේ පරම්පරා තුනක් නියෝජනය කරන අසමසම කලාකරුවන් පස්දෙනෙකු එකම වේදිකාවකට එක්වන මොහොත!</p><p><br></p><p>🎤 BNS – සංගීතයට නව ජවයක් එක්කරන සුසංයෝගී රිද්මය</p><p>🎤 චිත්‍රාල් සෝමපාල – රොක් සංගීතයේ අසහාය හඬ</p><p>🎤 උමාරියා සිංහවංශ – හදවත් වසඟ කරන මධුර හඬ</p><p>🎤 පියල් පෙරේරා – සදාතනික බයිලා සංගීතයේ ජීවය</p><p>🎤 ෂෙනාල් – නව පරම්පරාවේ සංගීත හඬ</p><p><br></p><p>🎵 සිත් ඇදගන්නා බයිලා රිද්මයේ සිට විදුලි වේගයෙන් හදවත් අවදි කරන රොක්, මනස පිනවන පොප් සහ උද්‍යෝගිමත් රෙගේ සංගීත රිද්මයන් දක්වා — සංගීතය, පරම්පරා සහ අමරණීය මතකයන් එකට එක්වන අසිරිමත් සැඳෑවකට සූදානම් වන්න!</p><p><br></p><p>🎶🔥 එකම වේදිකාවක… අසමසම සංගීත අත්දැකීමක්! 🔥🎶</p><p><br></p><p>🔥🔥 “KOTHTHAMALLI LIVE IN CONCERT” 🔥🔥</p><p><br></p><p>📅 2026 දෙසැම්බර් 04 වැනිදා</p><p>⏰ රාත්‍රී 7.30ට</p><p>📌 Taj Samudra Grand Marquee</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Koththamalli%20-%20%E0%B6%9A%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%92%20Live%20In%20Concert/my%20ticket%20pd.jpg%20(1)%20(1)-1791368992606.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Koththamalli%20-%20%E0%B6%9A%E0%B7%9C%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%B8%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%92%20Live%20In%20Concert/my%20ticket%20pd.jpg%20(1)%20(1)-1791368992606.jpeg",
-      "venue": "The Grand Marquee - Taj Samudra",
-      "city": "666548e1a03df8fc2ac5a04c",
-      "dateTime": "2026-12-04T14:00:00.000Z",
-      "originalDateStr": "Fri, Dec 4, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/koththamalli-live-in-concert/6ac61f255404c8ecf3d869cc",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.8877274509803925,
-      "longitude": 79.82841568627451
-    },
-    {
       "id": "oneticket-453",
       "source": "OneTicket",
       "name": "Alen Bandi (ආලෙන් බැඳී) Live in Concert by Mahiru Senarathne",
@@ -766,28 +588,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "mytickets-6af69ceab9a1e8f3319bb9bb",
-      "source": "MyTickets",
-      "name": "Eda Wage Adath Live In Concert With Ranil Mallawarachchi",
-      "description": "<p><strong>Eda Wage Adath Live In Concert With Ranil Mallawarachchi</strong></p><p><strong>﻿</strong></p><p>පරම්පරා ගණනාවක හදවත් බැඳගත් මිල්ටන්ගේ අමරණීය ගී මතක, රනිල්ගේ ළයාන්විත හඬින් කොළඹ අහස යට යළිත් රැව්දෙන සොඳුරු රාත්‍රියට ඔබත් සූදානම්ද? ❤️🎶 පසන් සන්දීපගේ මියුරු සංගීතයෙන් හැඩවෙන, Midlane සංගීත කණ්ඩායමේ ආරාධිත ගායනයෙන් රසවත් වන, වසන්ත දුක්ගන්නාරාළගේ ආකර්ෂණීය කථනයෙන් පිරි \"එදා වගේ අදත්\" සජීවී ප්‍රසංගය දෙසැම්බර් 05 වැනිදා සවස 6.30ට කොළඹ නෙළුම් කුලුන පරිශ්‍රයේදී පැවැත්වේ. ✨🎤 මතකයන් අලුත් කරගන්න, හදවතින්ම ගී රසය විඳගන්න, ඒ ආදරණීය හැන්දෑවේ කොටස්කරුවෙකු වන්න ඔබත් <strong>\"එදා වගේ අදත්\"</strong>&nbsp;එන්න.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Eda%20Wage%20Adath%20Live%20In%20Concert%20With%20Ranil%20Mallawarachchi/MYTICKETS-EDA-WAGE-ADATH-02.jpg-1794546644921.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Eda%20Wage%20Adath%20Live%20In%20Concert%20With%20Ranil%20Mallawarachchi/MYTICKETS-EDA-WAGE-ADATH-02.jpg-1794546644921.jpeg",
-      "venue": "Nelum Kuluna Outdoor Premises",
-      "city": "666548e1a03df8fc2ac5a053",
-      "dateTime": "2026-12-05T13:00:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 1500,
-      "maxPrice": 5000,
-      "ticketLink": "https://mytickets.lk/event/eda-wage-adath-live-in-concert-with-ranil-mallawarachchi/6af69ceab9a1e8f3319bb9bb",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.944825490196079,
-      "longitude": 79.87045490196078
-    },
-    {
       "id": "ticketsministry-1247",
       "source": "TicketsMinistry",
       "name": "FDY 0",
@@ -800,7 +600,7 @@
       "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 7000,
-      "maxPrice": 15000,
+      "maxPrice": 45000,
       "ticketLink": "https://www.ticketsministry.com/concerts/fdy-0/6a7ab6e294f3b",
       "status": "active",
       "tags": [
@@ -965,7 +765,7 @@
       "originalDateStr": "Wed, Dec 9, 2026, 12:30 AM",
       "priceCurrency": "LKR",
       "minPrice": 1500,
-      "maxPrice": 4000,
+      "maxPrice": 5000,
       "ticketLink": "https://www.ticketsministry.com/concerts/geethanjalee-2026/6ae964d982891",
       "status": "active",
       "tags": [
@@ -974,29 +774,6 @@
       ],
       "latitude": 7.255931292750765,
       "longitude": 80.59250327499966
-    },
-    {
-      "id": "mytickets-6adf277987bc5509f6ed465a",
-      "source": "MyTickets",
-      "name": "Joy To The World 2026",
-      "description": "<h2><strong>Joy To The World&nbsp;2025</strong></h2><p><br></p><p>The annual Christmas Carols Concert and musical extravaganza “Joy to the World,” jointly organized by the Archdiocese of Colombo and the Saint Joseph Vaz Trust, has been a much-awaited Yuletide event in past years. A fundraiser for poverty alleviation projects.</p><p><br></p><p><br></p><p>📍&nbsp;Venue:&nbsp;<a href=\"https://maps.app.goo.gl/Xr5gwKvv6Rr5pkAe8\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(26, 13, 171);\">Musaeus College Auditorium</a></p><p>📅&nbsp;Date:&nbsp;Dec 10, 2026</p><p>⏰&nbsp;Time:&nbsp;6.30 pm</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Joy%20To%20The%20World%202026/WhatsApp%20Image%202026-10-26%20at%204.08.49%20PM-1793013159901.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Joy%20To%20The%20World%202026/WhatsApp%20Image%202026-10-26%20at%204.08.49%20PM-1793013159901.jpeg",
-      "venue": "Musaeus College",
-      "city": "Colombo",
-      "dateTime": "2026-12-10T13:00:00.000Z",
-      "originalDateStr": "Thu, Dec 10, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 7000,
-      "ticketLink": "https://mytickets.lk/event/joy-to-the-world-2026/6adf277987bc5509f6ed465a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.9135,
-      "longitude": 79.8656
     },
     {
       "id": "ticketsministry-1392",
@@ -1115,50 +892,6 @@
       "longitude": 80.23375474611859
     },
     {
-      "id": "mytickets-6af5852e30f8ee9109b4a7c5",
-      "source": "MyTickets",
-      "name": "SOSL - Christmas Concert 2026",
-      "description": "<p><strong><u>SOSL - Christmas Concert</u></strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/SOSL%20-%20Christmas%20Concert/WhatsApp%20Image%202026-11-12%20at%204.43.25%20PM-1794482046019.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/SOSL%20-%20Christmas%20Concert/WhatsApp%20Image%202026-11-12%20at%204.43.25%20PM-1794482046019.jpeg",
-      "venue": "Ladies' College Auditorium",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-12-12T13:30:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 8500,
-      "ticketLink": "https://mytickets.lk/event/sosl-christmas-concert-2026/6af5852e30f8ee9109b4a7c5",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.939178431372549,
-      "longitude": 79.84535686274509
-    },
-    {
-      "id": "mytickets-6abdea0023148d826b01c02f",
-      "source": "MyTickets",
-      "name": "Wahi Wahala - වැහි වැහැලා ",
-      "description": "<p><strong>Wahi Wahala - වැහි වැහැලා&nbsp;</strong></p><p><br></p><p><span class=\"ql-cursor\">﻿</span>​සිංහල සුභාවිත ගීත කලාව පෝෂණය කරන්නට තම පෑනෙන් අසිරිමත් නිර්මාණ දායාද කළ, සිංහල ගීතයේ \"සපුතන්ත්‍රි සලකුණ\" — ප්‍රවීණ ගීත රචක කුමාරදාස සපුතන්ත්‍රි-</p><p><br></p><p>​එතුමාගේ පෑනෙන් උපන් ඒ අමරණීය ගී පේළි, ප්‍රවීණ සහ නවක කලාකරුවන් රැසකගේ හඬින් ඔබේ හදවත සසල කරන ඒ අසිරිමත් රාත්‍රිය&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 වැහි වැහැලා 🎶</p><p>&nbsp;🎵කුමාරදාස සපුතන්ත්‍රී&nbsp;පන්හිඳක සත්සර අභිමන්🎵</p><p>දශක ගණනාවක් අපේ හදවත් සසල කළ,&nbsp;ඒ අතිශය සුමධුර ගීතාවලිය... එකම වේදිකාවකදී යළි පණ ලබන වගයි! 🎻🎵</p><p>ඉන්ද්‍රසිරි සුරවීර කථනයෙන්</p><p>සුගත් හෙට්ටිආරච්චි⁣ සංගීත අධ්‍යක්ෂණ⁣යෙන්&nbsp;</p><p>🎤 සුනිල් එදිරිසිංහ</p><p>🎤 එඩ්වඩ් ජයකොඩි</p><p>🎤 රවීන් කනිෂ්ක</p><p>🎤 මියුරු සෝමරත්න</p><p>🎤 නුවන්දිකා සේනාරත්න</p><p>එදිනට ගීතවත් වේ.</p><p><br></p><p><br></p><p>එන්න...</p><p>හදවත රැඳි සදාතනික සුන්දර මතකයන්&nbsp;අවදිවන ඒ සුන්දර රාත්‍රිය විඳගන්න. 🎶</p><p><br></p><p>📅 2026 දෙසැම්බර් 12</p><p>📍 BMICH, Colombo</p><p>🕖 ප.ව. 7.00 සිට</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Wahi%20Wahala%20-%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%92%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%90%E0%B6%BD%E0%B7%8F%20/WhatsApp%20Image%202026-09-30%20at%206.55.09%20PM-1790830219318.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Wahi%20Wahala%20-%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%92%20%E0%B7%80%E0%B7%90%E0%B7%84%E0%B7%90%E0%B6%BD%E0%B7%8F%20/WhatsApp%20Image%202026-09-30%20at%206.55.09%20PM-1790830219318.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-12-12T13:30:00.000Z",
-      "originalDateStr": "Sat, Dec 12, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/wahi-wahala/6abdea0023148d826b01c02f",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
       "id": "ticketsministry-1350",
       "source": "TicketsMinistry",
       "name": "COFFEE WITH SUNEERA BARNHOUSE EDITION",
@@ -1206,29 +939,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1393",
-      "source": "TicketsMinistry",
-      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
-      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Dance Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -1252,6 +962,29 @@
       "longitude": 80.5734152
     },
     {
+      "id": "ticketsministry-1393",
+      "source": "TicketsMinistry",
+      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
+      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Dance Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
+    },
+    {
       "id": "ticketsministry-1341",
       "source": "TicketsMinistry",
       "name": "ALL OF US",
@@ -1264,7 +997,7 @@
       "originalDateStr": "Sun, Dec 13, 2026, 03:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 5000,
-      "maxPrice": 5000,
+      "maxPrice": 6000,
       "ticketLink": "https://www.ticketsministry.com/concerts/all-of-us/6accbc29ea54b",
       "status": "active",
       "tags": [
@@ -1275,58 +1008,14 @@
       "longitude": 80.70625
     },
     {
-      "id": "mytickets-6aa7dd39774525f787efc9ba",
-      "source": "MyTickets",
-      "name": "Rangira Maa - රන් ගිර මා ",
-      "description": "<h2><strong><em>රන් ගිර මා....</em></strong></h2><p><em>මා නොගැයූ මගේ ගී...&nbsp;</em></p><p><br></p><p>හෙළ සංගීත ක්ෂේත්‍රයේ සදා නොමැකෙන ගීත රාශියක් නිර්මාණය කළ ප්‍රවීණ සංගීතඥ මහින්ද බණ්ඩාර ගී නිර්මාණ, අඩසියවසකටත් වැඩි තම සංගීත දිවියේ ප්‍රථම ප්‍රසංගය “මා නොගැයූ මගේ ගී”&nbsp;</p><p>ගායන ශිල්පීන් 20 දෙනෙකුගේ ගායනයෙන්, ප්‍රවීණතම වාද්‍ය ශිල්පීන් 30 දෙනෙකුගේ වාදනයෙන්, ඉන්ද්‍රජිත් මිරිහාන සංගීත අධ්‍යක්ෂණයෙන් හැඩගැන්වෙන ආදරණීය රාත්‍රිය “රන්ගිර මා”</p><p><br></p><p>දෙසැම්බර් 13 වනදා සවස 7.00 ට BMICH හිදී.</p><p><br></p><p>අමරසිරි පීරිස්</p><p>අතුල අධිකාරී</p><p>සමිතා මුදුන්කොටුව&nbsp;</p><p>නිරෝෂා විරාජිනී</p><p>දීපිකා ප්‍රියදර්ශනී</p><p>කසුන් කල්හාර&nbsp;</p><p>ඉඳ්‍රචාප ලියනගේ</p><p>චඳ්‍රලේඛා පෙරේරා</p><p>චන්දන ලියනආරච්චි&nbsp;</p><p>අසංක ප්‍රියමන්ත පීරිස්</p><p>අමල් පෙරේරා</p><p>ධම්මිකා බණ්ඩාර</p><p>කීර්ති පැස්කුවෙල්&nbsp;</p><p>රජිව් සෙබස්තියන්&nbsp;</p><p>ඉමාන් පෙරේරා</p><p>නාමල් උඩුගම&nbsp;</p><p>කරුණාරත්න දිවුල්ගනේ</p><p>නීල් වර්ණකුලසූරිය&nbsp;</p><p>චරිතා ප්‍රියදර්ශනී</p><p>ප්‍රදීපා ධර්මදාස</p><p>ඉන්දික ලියනගේ</p><p><br></p><p><em>﻿</em></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/RANGIRA-MA-MYTICKET-001-1793869691690.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Rangira%20Maa%20-%20%E0%B6%BB%E0%B6%B1%E0%B7%8A%20%E0%B6%9C%E0%B7%92%E0%B6%BB%20%E0%B6%B8%E0%B7%8F%20/RANGIRA-MA-MYTICKET-001-1793869691690.jpg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-12-13T13:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 12500,
-      "ticketLink": "https://mytickets.lk/event/rangira-maa/6aa7dd39774525f787efc9ba",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
-      "id": "mytickets-6af1adc57d39afd53dad2fbd",
-      "source": "MyTickets",
-      "name": "SANDASWARA - සඳැස්වර",
-      "description": "<p><strong>SANDASWARA - සඳැස්වර</strong></p><p><br></p><p>කවි සීපද ඇහෙන රෑට..</p><p>කුරහන්මල් පිපුනු රෑට.. 🌾🌙</p><p><br></p><p>සඳ රෑට රෑට</p><p>තරු විමනට තරු අරන් යන්න... ✨⭐</p><p><br></p><p>කවදාද&nbsp;ආයෙ එන්නේ හමුවන්න... 💫</p><p><br></p><p>🌸 <strong><em>ඔබ අප හමුවන දිනය දෙසැම්බර් 18!!!.</em></strong> 🌸</p><p><br></p><p>ලයාන්විත හඬ ත්‍රිත්වයකින් රස කලතන,</p><p><br></p><p>සප්තස්වරයේ මිහිර අතර ඔබ මා ඒකාන්මික කරන,</p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;🎶🌙<strong> සඳැස්වර</strong> …</p><p><br></p><p>&nbsp;&nbsp;<strong><em>සිත් සනසන ස්වර සිත්තම</em></strong> ✨</p><p><br></p><p>හෘදයාංගමව ඔබට පිදෙන වගයි!!!! 🧡</p><p><br></p><p>━━━━━━━━━━━━━━━━━━━━━━</p><p>🎤 ගායනය</p><p><br></p><p>🔹 විශාරද ෂර්ලි වෛජයන්ත&nbsp;මහතා</p><p>🔹 චන්දන ලියනාරච්චි මහතා</p><p>🔹 ශෂිකා නිසංසලා මහත්මිය</p><p><br></p><p>━━━━━━━━━━━━━━━━━━━━━━</p><p>🎻 වාදනය</p><p><br></p><p>🎼 ප්‍රණීත් සාරංග මහතා ප්‍රමුඛ වාද්‍ය වෘන්දය</p><p><br></p><p>━━━━━━━━━━━━━━━━━━━━━━</p><p>🎙️ කථනය</p><p><br></p><p>✨ කැලුම් ශ්‍රීමාල් මහතා</p><p><br></p><p><br></p><p>&nbsp;<strong><em>නොවැරදීම ඔබත් එන්න !!&nbsp;</em></strong></p><p><strong><em>&nbsp;අතීත ආදර මතක අතර මොහොතක් තනිවෙන්න!!! </em></strong>🧡</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/SADHA%20SWARA%20-%20%E0%B7%83%E0%B7%90%E0%B6%AF%E0%B7%90%20%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BB/WhatsApp%20Image%202026-11-10%20at%2010.53.38-1794291979507.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/SADHA%20SWARA%20-%20%E0%B7%83%E0%B7%90%E0%B6%AF%E0%B7%90%20%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B6%BB/WhatsApp%20Image%202026-11-10%20at%2010.53.38-1794291979507.jpeg",
-      "venue": "Central College Auditorium Piliyandala",
-      "city": "666548e1a03df8fc2ac5a5a5",
-      "dateTime": "2026-12-18T13:00:00.000Z",
-      "originalDateStr": "Fri, Dec 18, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/sandaswara/6af1adc57d39afd53dad2fbd",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.902158823529412,
-      "longitude": 79.86323921568628
-    },
-    {
       "id": "ticketsministry-1402",
       "source": "TicketsMinistry",
       "name": "KELANI VIBES",
       "description": "<p>Kelani Vibes event in kelaniya ground. Best event to kelaniya after awhile. </p><p>Get your gets now and pay through KoKo and Credit Card Installment Payments As well  </p><p>Hurry up and grab your tickets. </p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/kOpjCGT3U6tS9Mgws9uxyr2n9a6sUdaqOvrVpRRK.png",
       "posterUrl": "https://cdn.ticketsministry.com/events/FgsZzMhsiIfZTIiMtzrBnj4Ea6XoSt9jOuqFHHuD.png",
-      "venue": "TBA",
-      "city": "Colombo 07",
+      "venue": "Fortuna Football Ground - Kelaniya",
+      "city": "Kelaniya",
       "dateTime": "2026-12-18T18:00:00.000Z",
       "originalDateStr": "Fri, Dec 18, 2026, 11:30 PM",
       "priceCurrency": "LKR",
@@ -1338,8 +1027,8 @@
         "Concert",
         "Outdoor Musical Concert"
       ],
-      "latitude": 7.857684999999999,
-      "longitude": 80.70625
+      "latitude": 6.961586299999999,
+      "longitude": 79.92074199999999
     },
     {
       "id": "ticketsministry-1394",
@@ -1365,28 +1054,6 @@
       "longitude": 80.40448719999999
     },
     {
-      "id": "mytickets-6ac346cf1dd1050809b9ded1",
-      "source": "MyTickets",
-      "name": "Bodare Vol. 1",
-      "description": "<h2><strong>Fearless presents BODARE VOL. 1 - A true and gritty hip-hop experience bringing together different sounds, styles, identities, and energies on one stage.</strong></h2><p><br></p><p>From the true underground energy to some of the most exciting names in the scene, බෝඩරේ is where different worlds meet through music.</p><p><br></p><p>📍 Lotus Ballroom, Grand Oriental Hotel, Colombo 02</p><p>📅 Saturday, 19 December 2026</p><p>🚪 Doors Open: 1:00 PM</p><p><br></p><p>LINE UP</p><p><br></p><p>Reezy | Tikx Kooda | KK | AJ Leon | Sando | Lilvin999</p><p>Soul Distortion | Elorath</p><p><br></p><p>Chasindu | Arix | Deerose | Dope Sniff | Zyler | Mouly&nbsp;</p><p>Lvst Kingdom | Lil Tijer | Donzi | Wickszen</p><p><br></p><p><strong><u>TICKETS</u></strong></p><p><br></p><p>Early bird</p><p>General - LKR 2000</p><p>VIP - LKR 4000</p><p><br></p><p>At the Gate</p><p>General - LKR 3000</p><p>VIP - LKR 5000</p><p><br></p><p>VIP Benefits - Beverage (Alcohol), Priority Entrance, Merchandise, Backstage Access, VIP Party Lounge</p><p><br></p><p>Call your favorite artist or call 077 6487472 for more information.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/WhatsApp%20Image%202026-10-27%20at%203.06.50%20PM-1793093852979.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Bodare%20Vol.%201/WhatsApp%20Image%202026-10-27%20at%203.06.50%20PM-1793093852979.jpeg",
-      "venue": "Grand Oriental Hotel Colombo",
-      "city": "666548e1a03df8fc2ac5a04a",
-      "dateTime": "2026-12-19T07:30:00.000Z",
-      "originalDateStr": "Sat, Dec 19, 2026, 01:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 4000,
-      "ticketLink": "https://mytickets.lk/event/bodare-vol-1/6ac346cf1dd1050809b9ded1",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.901217647058823,
-      "longitude": 79.84347450980391
-    },
-    {
       "id": "ticketsministry-1333",
       "source": "TicketsMinistry",
       "name": "BLAZING ABYSS",
@@ -1408,28 +1075,6 @@
       ],
       "latitude": 5.951581072363866,
       "longitude": 80.42285450072872
-    },
-    {
-      "id": "mytickets-6af3fd5af6163bf592474e1e",
-      "source": "MyTickets",
-      "name": "Ridee Rayak - රිදී රැයක් ",
-      "description": "<p><strong>රිදී රැයක් 2026 - 25 වන රිදී සැමරුම</strong></p><p><strong>වසර 25ක අභිමානය... එකම වේදිකාවක... අමතක නොවන රැයක!</strong></p><p><br></p><p>ශ්‍රී ලාංකේය සිනමා වංශකතාවේ අභිමානවත් සන්ධිස්ථානයක් සනිටුහන් කරමින්, සිනෙස්ටාර් පදනම විසින් වසර 25ක් පුරා අඛණ්ඩව සංවිධානය කරගෙන එනු ලබන කලාකරුවන්ගේ සුබසාධනය අරමුණු කරගත් “රිදී රැයක්” ප්‍රසංග මාලාවේ 25 වන සංවත්සරික ප්‍රසංගය <strong>“රිදී රැයක් 25”</strong> මෙවර අති උත්කර්ෂවත් ලෙස ඔබ වෙත ගෙන එයි.</p><p><br></p><p>හෙළ සිනමාවේ පරම්පරා ගණනාවක් නියෝජනය කරන ප්‍රවීණ සහ ජනප්‍රිය කලා තරු රැසක් එකම වේදිකාවකදී හමුවන මෙම රාත්‍රිය, මනරම් නර්තන අංගයන්ගෙන්, මියුරු සංගීතයෙන්, විශිෂ්ට රංගන ඉදිරිපත් කිරීම්වලින් සහ අතිනවීන වේදිකා නිර්මාණයන්ගෙන් විචිත්‍රවත් වනු ඇත.</p><p><br></p><p>අතීතයේ සුන්දර සිනමා මතකයන් යළි අවදි කරමින්, වර්තමාන කලාත්මක නිර්මාණයන් සමඟින් එක්වන මෙම මහා කලා මංගල්‍යය, හෙළ සිනමාවේ අභිමානය එකම රාත්‍රියකදී අත්විඳීමට ඔබට ලැබෙන සුවිශේෂී අවස්ථාවකි.</p><p><br></p><p><strong>වසර 25ක මතකයන්... කලා තරු රැසකගේ එකතුව... අභිමානවත් සැමරුමක්!</strong></p><p><br></p><p><strong>EVENT DETAILS</strong></p><p><strong>Event:</strong> රිදී රැයක් 25</p><p><strong>Date:</strong> Saturday, 19 December 2026</p><p><strong>Time:</strong> 6.30 PM onwards</p><p><strong>Venue:</strong> BMICH – Indoor Theatre, Colombo</p><p><strong>Organised by:</strong> Cine Star Foundation</p><p><br></p><p><strong>BE A PART OF THIS HISTORIC CELEBRATION!</strong></p><p>හෙළ සිනමාවේ දීප්තිමත් තාරකාවන් එකම වේදිකාවකදී හමුවන මෙම අසිරිමත් රාත්‍රියට ඔබත් එක්වන්න.</p><p><br></p><p><strong>ඔබේ ප්‍රවේශපත්‍රය අදම වෙන්කරවා ගන්න!</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Ridee%20Rayak%20-%20%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%93%20%E0%B6%BB%E0%B7%90%E0%B6%BA%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-11-10%20at%203.33.43%20PM-1794375504797.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Ridee%20Rayak%20-%20%E0%B6%BB%E0%B7%92%E0%B6%AF%E0%B7%93%20%E0%B6%BB%E0%B7%90%E0%B6%BA%E0%B6%9A%E0%B7%8A%20/WhatsApp%20Image%202026-11-10%20at%203.33.43%20PM-1794375504797.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2026-12-19T13:00:00.000Z",
-      "originalDateStr": "Sat, Dec 19, 2026, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 12000,
-      "ticketLink": "https://mytickets.lk/event/ridee-rayak/6af3fd5af6163bf592474e1e",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
     },
     {
       "id": "oneticket-458",
@@ -1921,28 +1566,6 @@
       "longitude": 80.5153909
     },
     {
-      "id": "mytickets-6ae49f4ee2319bc2fad013c3",
-      "source": "MyTickets",
-      "name": "Yugathra - යුගාත්‍රා - කොළඹ අහසට",
-      "description": "<p>යුගාත්‍රා - කොළඹ අහසට</p><p><br></p><p>සංගීතයෙන් යුග යුග යා කරන “යුගාත්‍රා”, ශ්‍රී ලංකාවේ අංක 1 ප්‍රාසංගික නාලිකාව වන TV දෙරණ ඔස්සේ විකාශය වන සම්මානනීය සහ අතිශය ජනප්‍රිය සංගීත වැඩසටහනකි.</p><p><br></p><p>රූපවාහිනී තිරයෙන් ඔබ අත්විඳි ඒ සොඳුරු සංගීත අත්දැකීම, ප්‍රථම වරට එළිමහන් ප්‍රසංගයක් ලෙස ඔබ වෙත සමීප කරමින් “යුගාත්‍රා - කොළඹ අහසට” ඔබ වෙත ගෙන එයි.</p><p><br></p><p>මෙහි ඇති සුවිශේෂීත්වය වන්නේ ජනප්‍රිය ප්‍රවීණ ගායන ශිල්පීන් සහ නව පරපුරේ විශිෂ්ටයින් එකම වේදිකාවකදී එකිනෙකාගේ ගීත එක්ව ගායනා කිරීමයි. පරම්පරා අතර සංගීතයෙන් බැඳෙන, හැඟීම් දහසක් එකට එක්වන මේ සුවිශේෂී රාත්‍රිය ඔබට මින් පෙර නොවිඳි සංගීත අත්දැකීමක් තිළිණ කරනු ඇත.</p><p><br></p><p>ජනප්‍රිය Shiksha සංගීත කණ්ඩායමේ සජීවී සංගීතයෙන් හැඩවන මෙම ප්‍රසංගයේ නිවේදන කටයුතු මෙහෙයවනු ලබන්නේ මනුරංග විජේසේකර විසිනි.</p><p><br></p><p>එන්න… කොළඹ අහස යට, සංගීතයෙන් යුග යා කරන ඒ සොඳුරු අත්දැකීම විඳගන්න!</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/%20-%20%E0%B6%BA%E0%B7%8Au%E0%B7%94%E0%B6%9C%E0%B7%8Aa%E0%B7%8F%E0%B6%A7%E0%B7%8Ar%E0%B6%AD%E0%B7%8Aa%E2%80%8D%E0%B6%BB%E0%B7%8F/IMG_4938-1793367684333.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/%20-%20%E0%B6%BA%E0%B7%8Au%E0%B7%94%E0%B6%9C%E0%B7%8Aa%E0%B7%8F%E0%B6%A7%E0%B7%8Ar%E0%B6%AD%E0%B7%8Aa%E2%80%8D%E0%B6%BB%E0%B7%8F/IMG_4938-1793367684333.jpeg",
-      "venue": "Viharamaha Devi Open Air Theater",
-      "city": "Colombo",
-      "dateTime": "2027-01-09T14:00:00.000Z",
-      "originalDateStr": "Sat, Jan 9, 2027, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://mytickets.lk/event/yugathra/6ae49f4ee2319bc2fad013c3",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.888982352941177,
-      "longitude": 79.8528862745098
-    },
-    {
       "id": "ticketsministry-1400",
       "source": "TicketsMinistry",
       "name": "RUM JUNGLE",
@@ -1988,72 +1611,6 @@
       ],
       "latitude": 6.9197,
       "longitude": 79.8519
-    },
-    {
-      "id": "mytickets-6af1976e4816274cf66588ac",
-      "source": "MyTickets",
-      "name": "Santhana Nagare - සන්තාන නගරේ ",
-      "description": "<p>Santhana Nagare - සන්තාන නගරේ&nbsp;</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Santhana%20Nagare%20-%20%E0%B7%83%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B7%8F%E0%B6%B1%20%E0%B6%B1%E0%B6%9C%E0%B6%BB%E0%B7%9A%20/SANTHANA%201080x1080.jpg%20(1)-1794221981624.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Santhana%20Nagare%20-%20%E0%B7%83%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B7%8F%E0%B6%B1%20%E0%B6%B1%E0%B6%9C%E0%B6%BB%E0%B7%9A%20/SANTHANA%201080x1080.jpg%20(1)-1794221981624.jpg",
-      "venue": "Polgolla Mahinda Rajapakshe Theater Kandy",
-      "city": "666548e1a03df8fc2ac5a2fe",
-      "dateTime": "2027-01-15T13:30:00.000Z",
-      "originalDateStr": "Fri, Jan 15, 2027, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/santhana-nagare/6af1976e4816274cf66588ac",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.95831568627451,
-      "longitude": 79.85382745098039
-    },
-    {
-      "id": "mytickets-6a9bcb2bcd343abf74ea8773",
-      "source": "MyTickets",
-      "name": "Kele Show Eka - කැලේ Show එක ",
-      "description": "<h2><em>\"කැලේ Show එක\"</em></h2><p>වෙනස් විදිහේ වැඩක්...</p><p>වෙනස් විදිහේ තැනක....</p><p><br></p><p>රිද්ම වීරවර්ධන&nbsp;</p><p>ජෝ පෙරේරා&nbsp;</p><p>නිපුනි හේරත්</p><p>මහිරු සේනාරත්න&nbsp;</p><p>යශෝධා මැදගෙදර&nbsp;</p><p>රනුධි ද සොයිසා&nbsp;සමගින්....</p><p><br></p><p>සුන්දර <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a> එළිමහනේදී...</p><p><br></p><p>📅 - 4th October 2026,</p><p>📍- <a href=\"https://share.google/3Q3j5nbSEBHd5gjZt\" rel=\"noopener noreferrer\" target=\"_blank\">BarnHouse</a></p><p>⏱️ - 4:30 PM</p><p><br></p><p>🎟️ - Tickets on sale now</p><p>VIP <strong><em>(Front Raw Barn Couch Seating)</em></strong> - <strong>10,000 LKR</strong> (Limited Slots Only)</p><p>Lawn Area <strong><em>(Barn Chair Seating)</em></strong> - <strong>6000 LKR</strong></p><p>Cocktail Table Area <strong><em>(Standing)</em></strong> - <strong>5000 LKR</strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Kele%20Show%20Eka%20-%20%E0%B6%9A%E0%B7%90%E0%B6%BD%E0%B7%9A%20Show%20%E0%B6%91%E0%B6%9A%20/IMG_3770-1788593694123.jpg",
-      "venue": "The Barnhouse - Sri Lanka",
-      "city": "666548e1a03df8fc2ac5a55a",
-      "dateTime": "2027-01-16T11:00:00.000Z",
-      "originalDateStr": "Sat, Jan 16, 2027, 04:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/kele-show-eka-show/6a9bcb2bcd343abf74ea8773",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.966472549019608,
-      "longitude": 79.84065098039216
-    },
-    {
-      "id": "mytickets-6ad1e045dd16d3b5051eca3b",
-      "source": "MyTickets",
-      "name": "Pun sanda Raata - පුන්සද රෑට ",
-      "description": "<p><strong><u>Pundanda Raata - පුන්සද රෑට&nbsp;</u></strong></p><p><br></p><p>ශ්‍රී ලාංකීය ගීත වංශයේ වර්ණවත් ගීත එකතුවක මතක මංපෙත් ඔස්සේ හෝරා තුනක්.....!</p><p>ප්‍රථම වරට, ප්‍රවීණ සහ යෞවන ගායක ගායිකාවන් 22 ක්,&nbsp;</p><p>25ක් දෙනෙකුගෙන් සමන්විත වාද්‍ය වෘන්දයක් සමඟින්...!</p><p><br></p><p>සංගීතවේදී ඔස්ටින් මුණසිංහ ගීතාවලෝකනය&nbsp;</p><p>\"පුන්සඳ රෑට”</p><p><br></p><p>2027 ජනවාරි මස 16 වැනිදා සවස 6:30ට&nbsp;</p><p>නෙළුම් පොකුණ රඟහලේදී...</p><p><br></p><p>ඔබේ අසුන අදම වෙන්කරවාගන්න.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Punsanda%20Raata%20-%20%E0%B6%B4%E0%B7%94%E0%B6%B1%E0%B7%8A%E0%B7%83%E0%B6%AF%20%E0%B6%BB%E0%B7%91%E0%B6%A7%20/WhatsApp%20Image%202026-10-16%20at%207.19.26%20PM-1792389828942.jpeg",
-      "venue": "Nelum Pokuna Indoor Theater",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2027-01-16T13:00:00.000Z",
-      "originalDateStr": "Sat, Jan 16, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 12500,
-      "ticketLink": "https://mytickets.lk/event/pun-sanda-raata/6ad1e045dd16d3b5051eca3b",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9089,
-      "longitude": 79.8676
     },
     {
       "id": "ticketsministry-1383",
@@ -2173,28 +1730,6 @@
       "longitude": 80.58458160381763
     },
     {
-      "id": "mytickets-6ae08a14e5c745f2f28db4d5",
-      "source": "MyTickets",
-      "name": "Sahajatha - සහජාත",
-      "description": "<p><strong><u>Sahajatha - සහජාත</u></strong></p><p><br></p><p><u>﻿</u>“රන් හදැති පරපුරක අනුජාත දූ-පුතුන්ගේ මියැසි පෙළහර”</p><p><br></p><p>යුගයක් රසවත් කළ සොඳුරු කලාකරුවන්ගේ සංගීත උරුමය, ඔවුන්ගේම දූ-පුතුන්ගේ හඬින් එකම වේදිකාවක නැවත ජීවමාන වන විචිත්‍රවත් රාත්‍රියක්!</p><p><br></p><p>ඔබව ගීතයෙන් රසවත් කරන්නට:&nbsp;</p><p><br></p><p>විශාරද ගුණදාස කපුගේ උරුමය රැගෙන – මිත්‍ර කපුගේ</p><p>මාලනී බුලත්සිංහල – එච්. එම්. ජයවර්ධන උරුමය රැගෙන – කසුන් කල්හාර</p><p>පණ්ඩිත් ඩබ්ලිව්. ඩී. අමරදේව උරුමය රැගෙන – රංජන අමරදේව</p><p>අමරසිරි පීරිස් උරුමය රැගෙන – මාධව පීරිස්</p><p>ප්‍රියා සූරියසේන උරුමය රැගෙන– ලක්ෂිත සූරියසේන</p><p>ග්‍රේශන් ආනන්ද උරුමය රැගෙන – මාරියෝ ආනන්ද</p><p>ආචාර්ය අමරා රණතුංග – දයාරත්න රණතුංග උරුමය රැගෙන – රූපෂිකා රණතුංග</p><p>ප්‍රෙඩී සිල්වා උරුමය රැගෙන – ප්‍රගීත් සිල්වා</p><p><br></p><p>එසේම, ලාංකීය සංගීතයට නව මං විවර කළ ආචාර්ය ප්‍රේමසිරි කේමදාසයන්ගේ අමරණීය තනු නැවත වේදිකාව මත ප්‍රති නිර්මාණය කරන්නට - ගයත්‍රී කේමදාස විසින් මෙහෙයවන සංගීත සන්ද්වනියක් ද සමගින්..&nbsp;</p><p><br></p><p>විශාරද සිදත් සෝමසුන්දර විසින් හැඩවෙන සංගීතයෙන්..&nbsp;</p><p><br></p><p>සහජාත:</p><p>📅 2027 ජනවාරි 23</p><p>🕖 සවස 7.00</p><p>📍 බණ්ඩාරනායක සම්මන්ත්‍රණ ශාලාව</p><p><br></p><p>ආසන වෙන්කිරීම අන්තර්ජාලය හරහා පමණක් සිදු කෙරෙන අතර, QR කේතය සහිත ඩිජිටල් රිසිට්පත ප්‍රවේශයේදී වලංගු කෙරේ.</p><p><br></p><p>කරුණාකර සවස 6.45 ට පෙර අසුන් ගන්න.</p><p><br></p><p>සහජාත – A Legacy Echoed. A Future Foretold.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-11-03%20at%2012.45.11%20AM-1793869027491.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Sahajatha%20-%20%E0%B7%83%E0%B7%84%E0%B6%A2%E0%B7%8F%E0%B6%AD/WhatsApp%20Image%202026-11-03%20at%2012.45.11%20AM-1793869027491.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2027-01-23T13:30:00.000Z",
-      "originalDateStr": "Sat, Jan 23, 2027, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/sahajatha/6ae08a14e5c745f2f28db4d5",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
       "id": "ticketsministry-1327",
       "source": "TicketsMinistry",
       "name": "SWARA MADHUDHARA",
@@ -2242,29 +1777,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1357",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5500,
-      "maxPrice": 9000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1370",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - TWO DAY ACCESS",
@@ -2279,6 +1791,29 @@
       "minPrice": 10000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1357",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5500,
+      "maxPrice": 9000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
       "status": "active",
       "tags": [
         "Concert",
@@ -2332,51 +1867,6 @@
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
-    },
-    {
-      "id": "mytickets-6ae1d19732b643e8eaaccbac",
-      "source": "MyTickets",
-      "name": "Baiscope Sindu - බයිස්කෝප් සින්දු ",
-      "description": "<p><strong><u>Baiscope Sindu - බයිස්කෝප් සින්දු&nbsp;</u></strong></p><p><br></p><p><u>﻿</u>බයිස්කෝප් සින්දු - LIVE WITH MARIANS - වැඩි විස්තර මෙතනින්.....</p><p><br></p><p>මහානාම විද්‍යාලයීය ආදි ශිෂ්‍ය සංගමයේ 2002 කණ්ඩායම ඉදිරිපත් කරන සංගීත ප්‍රසංගය. \"බයිස්කෝප් සින්දු\"</p><p><br></p><p>සිනමා රසිකයන්ගේ සිත් සතන් තුළ අදටත් නොමැකී රැඳී ඇති අමරණීය චිත්‍රපට ගී රැසක්</p><p><br></p><p>ජනප්‍රිය Marians සංගීත කණ්ඩායම සමඟ සජීවීව</p><p><br></p><p>ආරාධිත ගායිකා උරේෂා රවිහාරි සමඟ හැඩවූ සුන්දර සංගීත සන්ධ්‍යාවක්</p><p><br></p><p>2027 ජනවාරි 31 ඉරිදා රාත්‍රී 7:00 ට</p><p>කොළඹ බණ්ඩාරනායක අනුස්මරණ ජාත්‍යන්තර සම්මන්ත්‍රණ ශාලාවේදී (BMICH).</p><p><br></p><p>ප්‍රවේශපත්‍ර මිල ගණන්</p><p>රු. 15,000 | රු. 10,000 | රු. 7,500 | රු. 6,000 | රු. 5,000 | රු. 4,000 | රු. 2,500 (බැල්කනිය)</p><p><br></p><p>ප්‍රසංගය සඳහා ආසන වෙන්කිරීම අන්තර්ජාලය හරහා පමණක් සිදුවන අතර ආසන වෙන්කිරීම් ඩිජිටල් රිසිට්පත (QR කේතය සහිත) ශාලාවට ඇතුළත් කිරීමේදී ඩිජිටල් ක්‍රමවේදය අනුව වලංගු කෙරේ.</p><p>ආසන සීමිත බැවින් කලින්ම ඔබේ ආසනය වෙන්කරවා ගන්න.</p><p>සවස 6:45 ට පෙර අසුන්ගන්න.</p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Baiscope%20Sindu%20-%20%E0%B6%B6%E0%B6%BA%E0%B7%92%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B7%8A%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B7%94%20/WhatsApp%20Image%202026-10-28%20at%2010.14.26%20AM-1793183911352.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Baiscope%20Sindu%20-%20%E0%B6%B6%E0%B6%BA%E0%B7%92%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B7%9D%E0%B6%B4%E0%B7%8A%20%E0%B7%83%E0%B7%92%E0%B6%B1%E0%B7%8A%E0%B6%AF%E0%B7%94%20/WhatsApp%20Image%202026-10-28%20at%2010.14.26%20AM-1793183911352.jpeg",
-      "venue": "BMICH - COLOMBO",
-      "city": "666548e1a03df8fc2ac5a04e",
-      "dateTime": "2027-01-31T13:30:00.000Z",
-      "originalDateStr": "Sun, Jan 31, 2027, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/baiscope-sindu/6ae1d19732b643e8eaaccbac",
-      "status": "active",
-      "tags": [
-        "Concert"
-      ],
-      "latitude": 6.9011,
-      "longitude": 79.8736
-    },
-    {
-      "id": "mytickets-6af44114eafc4ab33b8f3eb4",
-      "source": "MyTickets",
-      "name": "Valentine's Day Candlelight Dinner Concert",
-      "description": "<p><strong><u>Valentine's Day Candlelight Dinner Concert</u></strong></p>",
-      "bannerUrl": "https://assets.mytickets.lk/images/events/Valentine's%20Day%20Candlelight%20Dinner%20Concert/WhatsApp%20Image%202026-11-11%20at%203.36.10%20PM-1794392184411.jpeg",
-      "posterUrl": "https://assets.mytickets.lk/images/events/Valentine's%20Day%20Candlelight%20Dinner%20Concert/WhatsApp%20Image%202026-11-11%20at%203.36.10%20PM-1794392184411.jpeg",
-      "venue": "The Grand Maitland",
-      "city": "666548e1a03df8fc2ac5a050",
-      "dateTime": "2027-02-12T13:30:00.000Z",
-      "originalDateStr": "Fri, Feb 12, 2027, 07:00 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 10000,
-      "maxPrice": 15000,
-      "ticketLink": "https://mytickets.lk/event/valentines-day-candlelight-dinner-concert/6af44114eafc4ab33b8f3eb4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Hot Deal"
-      ],
-      "latitude": 6.918158823529412,
-      "longitude": 79.83908235294118
     },
     {
       "id": "ticketsministry-1354",
