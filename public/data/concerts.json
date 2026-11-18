@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-18T09:44:07.792Z",
+  "lastSyncTime": "2026-11-18T18:38:33.403Z",
   "counts": {
-    "MyTickets": 0,
+    "MyTickets": 1,
     "OneTicket": 16,
     "TicketsMinistry": 68,
-    "Total": 84
+    "Total": 85
   },
   "concerts": [
     {
@@ -1076,6 +1076,28 @@
       ],
       "latitude": 5.951581072363866,
       "longitude": 80.42285450072872
+    },
+    {
+      "id": "mytickets-6af749401fd63d788f523809",
+      "source": "MyTickets",
+      "name": "Commando Maroons Night ",
+      "description": "<p>Commando Maroons Night</p>",
+      "bannerUrl": "https://assets.mytickets.lk/images/events/Commando%20Maroons%20Night%20(sample)/IMG_5035-1795008113576.jpeg",
+      "posterUrl": "https://assets.mytickets.lk/images/events/Commando%20Maroons%20Night%20(sample)/IMG_5035-1795008113576.jpeg",
+      "venue": "Wave n' Lake Navy Hall - Ragama",
+      "city": "666548e1a03df8fc2ac5a61d",
+      "dateTime": "2026-12-19T14:00:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 07:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 10000,
+      "ticketLink": "https://mytickets.lk/event/commando-maroons-night/6af749401fd63d788f523809",
+      "status": "active",
+      "tags": [
+        "Concert"
+      ],
+      "latitude": 6.9175313725490195,
+      "longitude": 79.82496470588235
     },
     {
       "id": "oneticket-458",
