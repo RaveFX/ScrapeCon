@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-19T09:53:12.861Z",
+  "lastSyncTime": "2026-11-19T18:51:29.522Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 16,
-    "TicketsMinistry": 69,
-    "Total": 86
+    "TicketsMinistry": 73,
+    "Total": 90
   },
   "concerts": [
     {
@@ -449,6 +449,29 @@
       "longitude": 79.86020890635984
     },
     {
+      "id": "ticketsministry-1411",
+      "source": "TicketsMinistry",
+      "name": "BOOMTOWN WITH ISKOLE MAGE 2026",
+      "description": "<p>Experience an unforgettable musical night! Organized by PPA CCK, \"Iskole Mage 2026\" proudly features the spectacular FM Derana BOOM TOWN concert. Enjoy an electrifying live performance by AVATAR on November 28th, from 8:00 PM onwards, at the Kuliyapitiya Technical College Ground. Secure your tickets today and join us for a premier evening of outstanding live entertainment!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191843-boomtown-with-iskole-mage-2026-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/fCowKBShuwxf1ObPOV2Sf6azm1hoTnp0RfvSJHMM.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-11-28T20:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 01:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/boomtown-with-iskole-mage-2026/6aff1b8a33ab1",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
+    },
+    {
       "id": "ticketsministry-1277",
       "source": "TicketsMinistry",
       "name": "SNEHAYE NAGARAYA 5.0",
@@ -501,14 +524,14 @@
       "name": "KENDARE",
       "description": "<p>Kendare with We Plus & Red Band Artists - Sereena Batagoda Yasas Madagedara Piyath Rajapaksha Ravi Jay with Yuki Jaya Sri Venue - Negambo Cricket Arena Kadolkale Ground</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611081811-kendare-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/XO8cvZmGodszBJOn11gg0lYgUPDoyTvig0q2MMN2.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/iyNc6eaXDlwHqHJ1i2gF7iSszBZxEcJogawdnPEU.jpg",
       "venue": "Kadolkale Ground Negombo",
       "city": "Negombo",
       "dateTime": "2026-12-04T18:30:00.000Z",
       "originalDateStr": "Sat, Dec 5, 2026, 12:00 AM",
       "priceCurrency": "LKR",
       "minPrice": 2500,
-      "maxPrice": 2500,
+      "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/kendare/6af073c5ada38",
       "status": "active",
       "tags": [
@@ -659,6 +682,29 @@
       "longitude": 79.8656
     },
     {
+      "id": "ticketsministry-1407",
+      "source": "TicketsMinistry",
+      "name": "SAPTHA SWARA",
+      "description": "<p>යුග යුග යා වෙන......ස්වර සුගායනයක ගුරුපාට හැන්දෑව...🎶✨ සප්ත ස්වර Live in Concert - </p><p>Featuring: Karunarathna Divulgane | Shirley Waijayantha | Somasiri Madagedara | Chandana Liyanarachchi | Supun Perera | Suneera Sumanga | Sereena Batagoda </p><p>🗓️ දෙසැම්බර් මස 5 වන දින </p><p>⏰ සවස 6.30 සිට </p><p>📍මියුසියස් විද්‍යාලීය ශ්‍රවණාගරයේදි </p><p>වැඩි විස්තර සඳහා: </p><p>074 269 9814 |  070 525 2333 | 071 081 0123 </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/eS3BUlnJnz5PQ7a0KqkKWNtMl5w806ehstLILIf3.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/uB1qW7RMJ6mqFPrbCFI29idTLP0RftB6CEqdytcP.png",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-05T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/saptha-swara/6afe7b7c18282",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
+    },
+    {
       "id": "oneticket-428",
       "source": "OneTicket",
       "name": "Annites Breeze - Live with Marians",
@@ -705,6 +751,29 @@
       ],
       "latitude": 6.9335313725490195,
       "longitude": 79.87453333333333
+    },
+    {
+      "id": "ticketsministry-1410",
+      "source": "TicketsMinistry",
+      "name": "YAKSHAGAMANAYA",
+      "description": "<p>YAKSHĀGAMANAYA 2026 | යක්ෂාගමනය 🎶🌴 The Ultimate Beachside Musical Experience in Chilaw! Get ready for an unforgettable night of live music, entertainment, and incredible beachside vibes as YAKSHĀGAMANAYA 2026 takes over the beautiful shores of Chilaw! Proudly presented by OAPEC (Pvt) Ltd, this spectacular musical evening brings together some of Sri Lanka's most loved performers for one extraordinary night. 🎤 LIVE ARTIST LINEUP ⭐ Chamara Ranawaka ⭐ Falan Andrea ⭐ Romesh Sugathapala ⭐ Bachi Susan ⭐ Chanuka Mora 🥁 Live Music by YAKA CREW Experience your favourite hits, powerful live performances, and an electrifying concert atmosphere under the stars, right by the ocean. 📅 Date: Saturday, 05 December 2026 🕖 Time: 7:00 PM onwards 📍 Venue: Chilaw Beach, Sri Lanka 🎟️ TICKET CATEGORIES 🎫 Standing - LKR 1,000 🎫 VIP Seating - LKR 3,000 🎫 VVIP Seating - LKR 5,000 (Includes complimentary benefits) 📞 Ticket Inquiries: 077 447 6823 | 071 282 2823 🌊 Feel the ocean breeze, enjoy the rhythm of live music, and celebrate an incredible night with friends and family. One Beach. One Night. One Unforgettable Musical Experience. YAKSHĀGAMANAYA 2026 - Be There!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191431-yakshāgamanaya-|-යක්ෂාගමනය-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vTw47ggGKrpMTTOkHvOBDqVfQ16mZOKzDZZSED8o.jpg",
+      "venue": "Chilaw Beach Ground",
+      "city": "Chilaw",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/yakshagamanaya/6afedc10cb80b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Conert"
+      ],
+      "latitude": 7.586576946137536,
+      "longitude": 79.76695824074423
     },
     {
       "id": "ticketsministry-1373",
@@ -963,29 +1032,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1326",
-      "source": "TicketsMinistry",
-      "name": "SANDAKAN WASSANAYA",
-      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
-      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
-      "city": "Matara",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.937981700000001,
-      "longitude": 80.5734152
-    },
-    {
       "id": "ticketsministry-1393",
       "source": "TicketsMinistry",
       "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
@@ -1007,6 +1053,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1326",
+      "source": "TicketsMinistry",
+      "name": "SANDAKAN WASSANAYA",
+      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
+      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
+      "city": "Matara",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.937981700000001,
+      "longitude": 80.5734152
     },
     {
       "id": "ticketsministry-1341",
@@ -1082,8 +1151,8 @@
       "source": "TicketsMinistry",
       "name": "BLAZING ABYSS",
       "description": "<p>Blazing Abyss 2026 is a spectacular outdoor electronic music festival, bringing together international and local artists to promote tourism, celebrate music, and establish Sri Lanka’s southern coast as an entertainment destination.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/S1AXcArNhuRUEm6uy9livfEFPoJivyOaVzYKW7PX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/YG9RAbta834K5KnksmGdvXYbOtxqqvOCwtQf1eWs.jpg",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/iVqFHnvuvrJoxRnZePzxFNBHE2IQNX6CqABJdZUG.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/Ab0SMrnkylxEnxy8g7FjdwBKxT2HweuNHZDpbVtC.jpg",
       "venue": "Mirissa",
       "city": "Mirissa",
       "dateTime": "2026-12-19T10:00:00.000Z",
@@ -1288,29 +1357,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1399",
-      "source": "TicketsMinistry",
-      "name": "Salli - Aaley Daddy with News",
-      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1351",
       "source": "TicketsMinistry",
       "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
@@ -1332,6 +1378,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1399",
+      "source": "TicketsMinistry",
+      "name": "Salli - Aaley Daddy with News",
+      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1365",
@@ -1612,6 +1681,29 @@
       "longitude": 80.5153909
     },
     {
+      "id": "ticketsministry-1409",
+      "source": "TicketsMinistry",
+      "name": "GUARDIANS 31ST",
+      "description": "<p>Welcome 2027 in style! ✨ Get ready for an unforgettable New Year’s Eve at GUARDIAN’S 31ST. An exciting night filled with live music, great vibes, delicious food, and unforgettable moments as we count down to a brand-new year. Let’s celebrate, make memories, and welcome 2027 together! 31st December 2026 | GUARDIAN’S 31ST 🥂</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/zMjuM0Yyig8xRS0XyGZnfFJjtOlUCV7kjRxX1sZr.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/NLUxwrd4WZ8jbYxg2V8s2zoeZzAU793P5vyjISta.jpg",
+      "venue": "Hotel Grand Guardian",
+      "city": "Ratnapura",
+      "dateTime": "2026-12-31T19:00:00.000Z",
+      "originalDateStr": "Fri, Jan 1, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2000,
+      "maxPrice": 2000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/guardians-31st/6afed3b82f8e8",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.743000593253266,
+      "longitude": 80.37678187499496
+    },
+    {
       "id": "ticketsministry-1400",
       "source": "TicketsMinistry",
       "name": "RUM JUNGLE",
@@ -1659,29 +1751,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1383",
-      "source": "TicketsMinistry",
-      "name": "THE CLUB MEMBERS",
-      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 62000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
-    },
-    {
       "id": "ticketsministry-1330",
       "source": "TicketsMinistry",
       "name": "SOBASARA LIVE IN CONCERT 2027",
@@ -1703,6 +1772,29 @@
       ],
       "latitude": 7.088022577256503,
       "longitude": 80.0026606708474
+    },
+    {
+      "id": "ticketsministry-1383",
+      "source": "TicketsMinistry",
+      "name": "THE CLUB MEMBERS",
+      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 62000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
     },
     {
       "id": "oneticket-464",
@@ -1823,29 +1915,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1370",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 10000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1357",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - FRIDAY ACCESS",
@@ -1860,6 +1929,29 @@
       "minPrice": 5500,
       "maxPrice": 9000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1370",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
       "status": "active",
       "tags": [
         "Concert",
