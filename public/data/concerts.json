@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-20T01:38:50.674Z",
+  "lastSyncTime": "2026-11-20T09:40:27.984Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 16,
@@ -93,7 +93,7 @@
       "minPrice": 2000,
       "maxPrice": 13000,
       "ticketLink": "https://www.ticketsministry.com/concerts/pahasarani-live-in-concert/6ace05599fd0a",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -194,29 +194,6 @@
       "longitude": 79.86148949999999
     },
     {
-      "id": "ticketsministry-1389",
-      "source": "TicketsMinistry",
-      "name": "PREMII OYA",
-      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
       "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
       "name": "FREQUENCY AT THE TAJ",
@@ -238,6 +215,29 @@
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
+    },
+    {
+      "id": "ticketsministry-1389",
+      "source": "TicketsMinistry",
+      "name": "PREMII OYA",
+      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
+      "venue": "Wave N' Lake Welisara",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1376",
@@ -309,29 +309,6 @@
       "longitude": 79.85933297499568
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/JAN0KlktHnATHCyaO9oKT4iBAerjfPgtcJACK4ae.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
-      "venue": "Capital City Hotel Badulla",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.984783217600755,
-      "longitude": 81.0560030112985
-    },
-    {
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
@@ -353,6 +330,29 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/JAN0KlktHnATHCyaO9oKT4iBAerjfPgtcJACK4ae.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
+      "venue": "Capital City Hotel Badulla",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.984783217600755,
+      "longitude": 81.0560030112985
     },
     {
       "id": "oneticket-457",
@@ -426,29 +426,6 @@
       "longitude": 80.36728060000002
     },
     {
-      "id": "ticketsministry-1367",
-      "source": "TicketsMinistry",
-      "name": "VAZIAN'S NIGHT WITH MARIANS",
-      "description": "<p>🎶✨ **VAZIANS’ NIGHT 2026 – THE ULTIMATE MUSICAL EXPERIENCE!** ✨🎶</p><p> 🔥 One Night. One Stage. Unforgettable Memories! 🔥 </p><p>Get ready for an electrifying musical night with MARIANS featuring SAJITH PERERA, alongside an incredible lineup of talented artists! 🎤🎸💃 </p><p>📅 Date: 28th November 2026 </p><p>📍Venue: Grandezza, Negombo </p><p>⏰ Time: 8.00 PM onwards </p><p>🎟️ Tickets:LKR 6,000 </p><p></p><p>💙 Proudly organized by the Old Boys’ Association of St. Joseph Vaz College.</p><p> 🎉 Great Music | Great Friends | Great Memories 🎟️ Grab your tickets now </p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/9eRyGR7t0eFY2iMgf2RDxWAIvRrW8S6uVJaeMiVl.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SzaJNZtI58i4D61iDStrsQJeuGllzawp9a314ESR.jpg",
-      "venue": "Grandeeza Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-28T20:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 01:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 6000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/vazians-night-with-marians/6ae1b91dbd5fe",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.182460707392528,
-      "longitude": 79.86020890635984
-    },
-    {
       "id": "ticketsministry-1411",
       "source": "TicketsMinistry",
       "name": "BOOMTOWN WITH ISKOLE MAGE 2026",
@@ -470,6 +447,29 @@
       ],
       "latitude": 7.465291992546237,
       "longitude": 80.02386807500172
+    },
+    {
+      "id": "ticketsministry-1367",
+      "source": "TicketsMinistry",
+      "name": "VAZIAN'S NIGHT WITH MARIANS",
+      "description": "<p>🎶✨ **VAZIANS’ NIGHT 2026 – THE ULTIMATE MUSICAL EXPERIENCE!** ✨🎶</p><p> 🔥 One Night. One Stage. Unforgettable Memories! 🔥 </p><p>Get ready for an electrifying musical night with MARIANS featuring SAJITH PERERA, alongside an incredible lineup of talented artists! 🎤🎸💃 </p><p>📅 Date: 28th November 2026 </p><p>📍Venue: Grandezza, Negombo </p><p>⏰ Time: 8.00 PM onwards </p><p>🎟️ Tickets:LKR 6,000 </p><p></p><p>💙 Proudly organized by the Old Boys’ Association of St. Joseph Vaz College.</p><p> 🎉 Great Music | Great Friends | Great Memories 🎟️ Grab your tickets now </p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/9eRyGR7t0eFY2iMgf2RDxWAIvRrW8S6uVJaeMiVl.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SzaJNZtI58i4D61iDStrsQJeuGllzawp9a314ESR.jpg",
+      "venue": "Grandeeza Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-28T20:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 01:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 6000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/vazians-night-with-marians/6ae1b91dbd5fe",
+      "status": "sold-out",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.182460707392528,
+      "longitude": 79.86020890635984
     },
     {
       "id": "ticketsministry-1277",
@@ -612,29 +612,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1405",
-      "source": "TicketsMinistry",
-      "name": "ROOF OVER HER HEAD",
-      "description": "<p>A ROOF OVER HER HEAD. A FUTURE FOR HER CHILDREN. </p><p>Behind this charity concert is the story of a young mother and her two little sons, survivors of domestic violence, who are now left without a home or a support system to turn to. This December, Sisters-at-Law, with the generous support of Dr. Manella Joseph, invites you to be part of an evening of music, love and giving. </p><p>Join us for a special Sing-Along Musical Evening featuring Dr. Manella Joseph, a renowned singer and retired histopathologist attached to Sri Jayawardenepura General Hospital, as she performs her own original songs alongside much-loved old favourites. Come enjoy the music, sing along and be part of a meaningful cause! Every ticket purchased will contribute towards purchasing a piece of land on which a safe and permanent home can be built for this young mother and her children. </p><p>Your presence can help turn a story of hardship into one of hope, security and new beginnings. </p><p>📅 Date: 5th December 2026</p><p>🕡 Time: 6.30 PM Onwards </p><p>📍 Venue: Sri Lanka Medical Association Auditorium </p><p>🎟️ Ticket Price: Rs. 2,500/- </p><p>Come for the music. Sing for a cause. Help build a home. Organized by Sisters-at-Law, with the generous support of Dr. Manella Joseph.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/DTWgKB9buN4zfXjzJdTbUHYS5YzRrD6DzFXYsRUO.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/3e0CQdZ0e1gjBCkEef9lj7tyAzfMFia42AjjfjAn.jpg",
-      "venue": "Sri Lanka Medical Association Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-05T18:00:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/roof-over-her-head/6afd46016a089",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.915855099999999,
-      "longitude": 79.8689539
-    },
-    {
       "id": "ticketsministry-1247",
       "source": "TicketsMinistry",
       "name": "FDY 0",
@@ -656,6 +633,29 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "ticketsministry-1405",
+      "source": "TicketsMinistry",
+      "name": "ROOF OVER HER HEAD",
+      "description": "<p>A ROOF OVER HER HEAD. A FUTURE FOR HER CHILDREN. </p><p>Behind this charity concert is the story of a young mother and her two little sons, survivors of domestic violence, who are now left without a home or a support system to turn to. This December, Sisters-at-Law, with the generous support of Dr. Manella Joseph, invites you to be part of an evening of music, love and giving. </p><p>Join us for a special Sing-Along Musical Evening featuring Dr. Manella Joseph, a renowned singer and retired histopathologist attached to Sri Jayawardenepura General Hospital, as she performs her own original songs alongside much-loved old favourites. Come enjoy the music, sing along and be part of a meaningful cause! Every ticket purchased will contribute towards purchasing a piece of land on which a safe and permanent home can be built for this young mother and her children. </p><p>Your presence can help turn a story of hardship into one of hope, security and new beginnings. </p><p>📅 Date: 5th December 2026</p><p>🕡 Time: 6.30 PM Onwards </p><p>📍 Venue: Sri Lanka Medical Association Auditorium </p><p>🎟️ Ticket Price: Rs. 2,500/- </p><p>Come for the music. Sing for a cause. Help build a home. Organized by Sisters-at-Law, with the generous support of Dr. Manella Joseph.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/DTWgKB9buN4zfXjzJdTbUHYS5YzRrD6DzFXYsRUO.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/3e0CQdZ0e1gjBCkEef9lj7tyAzfMFia42AjjfjAn.jpg",
+      "venue": "Sri Lanka Medical Association Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-05T18:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/roof-over-her-head/6afd46016a089",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.915855099999999,
+      "longitude": 79.8689539
     },
     {
       "id": "oneticket-437",
@@ -753,29 +753,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1410",
-      "source": "TicketsMinistry",
-      "name": "YAKSHAGAMANAYA",
-      "description": "<p>YAKSHĀGAMANAYA 2026 | යක්ෂාගමනය 🎶🌴 The Ultimate Beachside Musical Experience in Chilaw! Get ready for an unforgettable night of live music, entertainment, and incredible beachside vibes as YAKSHĀGAMANAYA 2026 takes over the beautiful shores of Chilaw! Proudly presented by OAPEC (Pvt) Ltd, this spectacular musical evening brings together some of Sri Lanka's most loved performers for one extraordinary night. 🎤 LIVE ARTIST LINEUP ⭐ Chamara Ranawaka ⭐ Falan Andrea ⭐ Romesh Sugathapala ⭐ Bachi Susan ⭐ Chanuka Mora 🥁 Live Music by YAKA CREW Experience your favourite hits, powerful live performances, and an electrifying concert atmosphere under the stars, right by the ocean. 📅 Date: Saturday, 05 December 2026 🕖 Time: 7:00 PM onwards 📍 Venue: Chilaw Beach, Sri Lanka 🎟️ TICKET CATEGORIES 🎫 Standing - LKR 1,000 🎫 VIP Seating - LKR 3,000 🎫 VVIP Seating - LKR 5,000 (Includes complimentary benefits) 📞 Ticket Inquiries: 077 447 6823 | 071 282 2823 🌊 Feel the ocean breeze, enjoy the rhythm of live music, and celebrate an incredible night with friends and family. One Beach. One Night. One Unforgettable Musical Experience. YAKSHĀGAMANAYA 2026 - Be There!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191431-yakshāgamanaya-|-යක්ෂාගමනය-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vTw47ggGKrpMTTOkHvOBDqVfQ16mZOKzDZZSED8o.jpg",
-      "venue": "Chilaw Beach Ground",
-      "city": "Chilaw",
-      "dateTime": "2026-12-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/yakshagamanaya/6afedc10cb80b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Conert"
-      ],
-      "latitude": 7.586576946137536,
-      "longitude": 79.76695824074423
-    },
-    {
       "id": "ticketsministry-1373",
       "source": "TicketsMinistry",
       "name": "PREMANIYA RAHASAK",
@@ -797,6 +774,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1410",
+      "source": "TicketsMinistry",
+      "name": "YAKSHAGAMANAYA",
+      "description": "<p>YAKSHĀGAMANAYA 2026 | යක්ෂාගමනය 🎶🌴 The Ultimate Beachside Musical Experience in Chilaw! Get ready for an unforgettable night of live music, entertainment, and incredible beachside vibes as YAKSHĀGAMANAYA 2026 takes over the beautiful shores of Chilaw! Proudly presented by OAPEC (Pvt) Ltd, this spectacular musical evening brings together some of Sri Lanka's most loved performers for one extraordinary night. 🎤 LIVE ARTIST LINEUP ⭐ Chamara Ranawaka ⭐ Falan Andrea ⭐ Romesh Sugathapala ⭐ Bachi Susan ⭐ Chanuka Mora 🥁 Live Music by YAKA CREW Experience your favourite hits, powerful live performances, and an electrifying concert atmosphere under the stars, right by the ocean. 📅 Date: Saturday, 05 December 2026 🕖 Time: 7:00 PM onwards 📍 Venue: Chilaw Beach, Sri Lanka 🎟️ TICKET CATEGORIES 🎫 Standing - LKR 1,000 🎫 VIP Seating - LKR 3,000 🎫 VVIP Seating - LKR 5,000 (Includes complimentary benefits) 📞 Ticket Inquiries: 077 447 6823 | 071 282 2823 🌊 Feel the ocean breeze, enjoy the rhythm of live music, and celebrate an incredible night with friends and family. One Beach. One Night. One Unforgettable Musical Experience. YAKSHĀGAMANAYA 2026 - Be There!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191431-yakshāgamanaya-|-යක්ෂාගමනය-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vTw47ggGKrpMTTOkHvOBDqVfQ16mZOKzDZZSED8o.jpg",
+      "venue": "Chilaw Beach Ground",
+      "city": "Chilaw",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/yakshagamanaya/6afedc10cb80b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Conert"
+      ],
+      "latitude": 7.586576946137536,
+      "longitude": 79.76695824074423
     },
     {
       "id": "ticketsministry-1299",
@@ -952,7 +952,7 @@
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/76ae7fb2-d199-4c53-b440-d88bc17f3e6d",
+      "ticketLink": "https://www.ticketsministry.com/concerts/wayo-at-the-lake/6afffcec4ad87",
       "status": "sold-out",
       "tags": [
         "Concert",
@@ -1477,8 +1477,8 @@
       "source": "OneTicket",
       "name": "Synergy Pulse",
       "description": "Synergy Pulse happening at Waters Edge. Date & Time: Sun, Dec 27, 2026, 12:00 AM. Tickets start from 5000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/97649733-0b370566-1ab1-4e5b-9c98-38a3dc0056c5.jpg",
-      "posterUrl": "https://storage.googleapis.com/oneticket/50974686-74bb385b-dd9c-4f9e-bd44-406cf3210716.jpg",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/29992915-20fa5627-250c-43ed-88c3-4f37d81c9d71.png",
+      "posterUrl": "https://storage.googleapis.com/oneticket/22703618-373cc8b8-73e9-40c7-aa9a-83d879c1f381.png",
       "venue": "Waters Edge",
       "city": "Waters Edge",
       "dateTime": "2026-12-26T18:30:00.000Z",
@@ -1502,7 +1502,7 @@
       "name": "SYNERGY PULSE",
       "description": "<p>Get ready for SYNERGY PULSE, the ultimate year-end celebration where music, energy and unforgettable moments come together! This 26th December, join us at Waters Edge, Colombo, for an electrifying night featuring some of Sri Lanka’s favourite artists, incredible live performances and an atmosphere filled with pure excitement. Bring your friends, bring your family, and get ready to sing, dance and celebrate. Let’s leave behind the ordinary and make the final Saturday of 2026 a night to remember! One Last Saturday. One Last Party. One Night to Remember.</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611041535-synergy-pulse-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/3n5beeU8yLKWivE8p6NzI2YkdhuwSJxT1VpKF3mY.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/1FQjIJo7L4EhSoDzRwAUnJfEzr9f3RwhKTtxmp8o.jpg",
       "venue": "Waters Edge Outdoor",
       "city": "Battaramulla",
       "dateTime": "2026-12-26T19:00:00.000Z",
@@ -1756,7 +1756,7 @@
       "name": "SOBASARA LIVE IN CONCERT 2027",
       "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
       "bannerUrl": "https://cdn.ticketsministry.com/events/o2z7pYQ885vRK1POCDE2usFUFV8yNUsHUgDRk0I8.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/yaRzcmPP8160uF7d9XAsA0c3YMaQnj9wIpMw7c8B.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/tPgtZ0g1Y0KM2sqPPQnLWn5f6yebUUfoED5jHzVL.jpg",
       "venue": "Holy Cross College Auditorium Gampaha",
       "city": "Gampaha",
       "dateTime": "2027-01-16T18:30:00.000Z",
