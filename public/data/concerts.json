@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-20T18:18:20.630Z",
+  "lastSyncTime": "2026-11-21T01:04:42.989Z",
   "counts": {
     "MyTickets": 1,
-    "OneTicket": 16,
-    "TicketsMinistry": 75,
-    "Total": 92
+    "OneTicket": 15,
+    "TicketsMinistry": 73,
+    "Total": 89
   },
   "concerts": [
     {
@@ -29,77 +29,6 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
-    },
-    {
-      "id": "ticketsministry-1343",
-      "source": "TicketsMinistry",
-      "name": "PAHASARANI LIVE IN CONCERT",
-      "description": "<p>Pahasarani 2026 Live in Concert is an exciting musical event organized by the Management Students’ Union of the Faculty of Management, University of Peradeniya. The concert will feature popular Sri Lankan artists, including Chamara Weerasinghe, Shirley Waijayantha, Kaizer Kaiz, Dinesh Gamage, Kaveesha Kaviraj, and Sanka Dineth, with music by Yaka Crew and compering by Moksha Prasad. The event promises an unforgettable evening filled with live music, vibrant performances, and amazing entertainment on 20th November 2026, from 7.00 PM onwards, at the University Gymnasium, Peradeniya.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/6MTTIio9rt1Poppmzd1uXdhtS0jTaFI6QzhLRTce.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/bLZIrXmfyEl8NRz5dmb15t8amvU70XR0nmPocsGf.jpg",
-      "venue": "Gymnasium - University of Peradeniya",
-      "city": "Kandy",
-      "dateTime": "2026-11-20T07:00:00.000Z",
-      "originalDateStr": "Fri, Nov 20, 2026, 12:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 13000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pahasarani-live-in-concert/6ace05599fd0a",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.255931292750765,
-      "longitude": 80.59250327499966
-    },
-    {
-      "id": "ticketsministry-1315",
-      "source": "TicketsMinistry",
-      "name": "PUB LONDON COLOMBO",
-      "description": "<p>PUB LONDON – Ultimate Experience 🇬🇧🔥 </p><p>Get ready for an action-packed night featuring an incredible lineup of artists, live entertainment, and an unforgettable experience at Air Force Grounds, Colombo. </p><p>📅 20th November | 🕖 7:00 PM</p><p> 🎟️ Tickets starting from LKR 2,500 & VVIP 6Pax Table Package gets a Beverage Tower Free 🍺 </p><p>Book your tickets now and be part of the ultimate Pub London experience!!!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Cy2WoaDXjDkMLjWXwME58HHBlgS1ctkRxGGtLKIG.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/ut85DfiCDGX6A19M8D6pQkrWqonl7DvXJSOPnZIR.jpg",
-      "venue": "Air Force Ground Colombo",
-      "city": "Colombo 02",
-      "dateTime": "2026-11-20T17:00:00.000Z",
-      "originalDateStr": "Fri, Nov 20, 2026, 10:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2000,
-      "maxPrice": 35000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/pub-london-colombo/84260338-2788-4500-bc6a-b14fe4bc5de7",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.9282072999999995,
-      "longitude": 79.8482454
-    },
-    {
-      "id": "oneticket-473",
-      "source": "OneTicket",
-      "name": "දඹුල්ලට පිස්සුවක් Live In Concert",
-      "description": "දඹුල්ලට පිස්සුවක් Live In Concert happening at Dambulla ගම්උදා Ground. Date & Time: Fri, Nov 20, 2026, 11:30 PM. Tickets start from 900 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/71992610-f1bc0dbb-106c-4627-8454-9d62892d63f1.png",
-      "posterUrl": "https://storage.googleapis.com/oneticket/98279797-9b8744c3-0e1f-4c52-99b2-3f0ac8ca4d18.png",
-      "venue": "Dambulla ගම්උදා Ground",
-      "city": "Dambulla ගම්උදා Ground",
-      "dateTime": "2026-11-20T18:00:00.000Z",
-      "originalDateStr": "Fri, Nov 20, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 900,
-      "maxPrice": 900,
-      "ticketLink": "https://oneticket.lk/event/දඹලලට-පසසවක-live-in-concert",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Event",
-        "Indoor"
-      ],
-      "latitude": 6.943884313725491,
-      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1404",
@@ -1357,29 +1286,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1399",
-      "source": "TicketsMinistry",
-      "name": "Salli - Aaley Daddy with News",
-      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1351",
       "source": "TicketsMinistry",
       "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
@@ -1401,6 +1307,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1399",
+      "source": "TicketsMinistry",
+      "name": "Salli - Aaley Daddy with News",
+      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1365",
