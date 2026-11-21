@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-21T01:04:42.989Z",
+  "lastSyncTime": "2026-11-21T09:12:09.570Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 15,
@@ -7,29 +7,6 @@
     "Total": 89
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1289",
-      "source": "TicketsMinistry",
-      "name": "SUMIHIRI MATHAKAYAN LEGENDS UNPLUGGED",
-      "description": "<p>SUMIHIRI MATHAKAYAN - LEGENDS UNPLUGGEDදකුණු ලක ප්‍රේක්ෂක ඔබගේ දැඩි ඉල්ලීම පරිදි \"සුමිහිරි මතකයන්\" ප්‍රසංගය රුහුණු විශ්වවිද්‍යාලීය රබින්ද්‍රනාත් තාගෝර් ශ්‍රවණාගාරයේදී....</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/UzmfiQzbh0LbkBp9mVP3irBZ4oggV3N4xJjQNtr0.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/x7GoBcfySsjNwon8SKmD6jxoaR8wR0zSjsryIiqT.jpg",
-      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
-      "city": "Matara",
-      "dateTime": "2026-11-14T19:00:00.000Z",
-      "originalDateStr": "Sun, Nov 15, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sumihiri-mathakayan-legends-unplugged/6aa3e7afaab0a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.937981700000001,
-      "longitude": 80.5734152
-    },
     {
       "id": "ticketsministry-1404",
       "source": "TicketsMinistry",
@@ -68,7 +45,7 @@
       "minPrice": 15000,
       "maxPrice": 25000,
       "ticketLink": "https://www.ticketsministry.com/concerts/dream-waves-aqualic-yacht-party/6ac2419ce124d",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Yacht Party"
@@ -123,29 +100,6 @@
       "longitude": 79.86148949999999
     },
     {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
       "name": "PREMII OYA",
@@ -167,6 +121,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1377",
+      "source": "TicketsMinistry",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1376",
@@ -541,29 +518,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1247",
-      "source": "TicketsMinistry",
-      "name": "FDY 0",
-      "description": "<p>Flying Dust Festival 2026 Year-0 </p><p>Artist - Mariano Mellino | Noiyse Project | Ultra | Kyotto | Maze 28</p><p>Date - 05th December 2026</p><p>Location - Port City Colombo Sri Lanka</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-thumbnail.jpg",
-      "venue": "Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-12-05T18:00:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/fdy-0/6a7ab6e294f3b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.921836877837569,
-      "longitude": 79.81500565289788
-    },
-    {
       "id": "ticketsministry-1405",
       "source": "TicketsMinistry",
       "name": "ROOF OVER HER HEAD",
@@ -585,6 +539,29 @@
       ],
       "latitude": 6.915855099999999,
       "longitude": 79.8689539
+    },
+    {
+      "id": "ticketsministry-1247",
+      "source": "TicketsMinistry",
+      "name": "FDY 0",
+      "description": "<p>Flying Dust Festival 2026 Year-0 </p><p>Artist - Mariano Mellino | Noiyse Project | Ultra | Kyotto | Maze 28</p><p>Date - 05th December 2026</p><p>Location - Port City Colombo Sri Lanka</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/202608111115-fdy-0-thumbnail.jpg",
+      "venue": "Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-12-05T18:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 45000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/fdy-0/6a7ab6e294f3b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.921836877837569,
+      "longitude": 79.81500565289788
     },
     {
       "id": "oneticket-437",
@@ -682,29 +659,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1410",
-      "source": "TicketsMinistry",
-      "name": "YAKSHAGAMANAYA",
-      "description": "<p>YAKSHĀGAMANAYA 2026 | යක්ෂාගමනය 🎶🌴 The Ultimate Beachside Musical Experience in Chilaw! Get ready for an unforgettable night of live music, entertainment, and incredible beachside vibes as YAKSHĀGAMANAYA 2026 takes over the beautiful shores of Chilaw! Proudly presented by OAPEC (Pvt) Ltd, this spectacular musical evening brings together some of Sri Lanka's most loved performers for one extraordinary night. 🎤 LIVE ARTIST LINEUP ⭐ Chamara Ranawaka ⭐ Falan Andrea ⭐ Romesh Sugathapala ⭐ Bachi Susan ⭐ Chanuka Mora 🥁 Live Music by YAKA CREW Experience your favourite hits, powerful live performances, and an electrifying concert atmosphere under the stars, right by the ocean. 📅 Date: Saturday, 05 December 2026 🕖 Time: 7:00 PM onwards 📍 Venue: Chilaw Beach, Sri Lanka 🎟️ TICKET CATEGORIES 🎫 Standing - LKR 1,000 🎫 VIP Seating - LKR 3,000 🎫 VVIP Seating - LKR 5,000 (Includes complimentary benefits) 📞 Ticket Inquiries: 077 447 6823 | 071 282 2823 🌊 Feel the ocean breeze, enjoy the rhythm of live music, and celebrate an incredible night with friends and family. One Beach. One Night. One Unforgettable Musical Experience. YAKSHĀGAMANAYA 2026 - Be There!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191431-yakshāgamanaya-|-යක්ෂාගමනය-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vTw47ggGKrpMTTOkHvOBDqVfQ16mZOKzDZZSED8o.jpg",
-      "venue": "Chilaw Beach Ground",
-      "city": "Chilaw",
-      "dateTime": "2026-12-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/yakshagamanaya/6afedc10cb80b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Conert"
-      ],
-      "latitude": 7.586576946137536,
-      "longitude": 79.76695824074423
-    },
-    {
       "id": "ticketsministry-1373",
       "source": "TicketsMinistry",
       "name": "PREMANIYA RAHASAK",
@@ -726,6 +680,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1410",
+      "source": "TicketsMinistry",
+      "name": "YAKSHAGAMANAYA",
+      "description": "<p>YAKSHĀGAMANAYA 2026 | යක්ෂාගමනය 🎶🌴 The Ultimate Beachside Musical Experience in Chilaw! Get ready for an unforgettable night of live music, entertainment, and incredible beachside vibes as YAKSHĀGAMANAYA 2026 takes over the beautiful shores of Chilaw! Proudly presented by OAPEC (Pvt) Ltd, this spectacular musical evening brings together some of Sri Lanka's most loved performers for one extraordinary night. 🎤 LIVE ARTIST LINEUP ⭐ Chamara Ranawaka ⭐ Falan Andrea ⭐ Romesh Sugathapala ⭐ Bachi Susan ⭐ Chanuka Mora 🥁 Live Music by YAKA CREW Experience your favourite hits, powerful live performances, and an electrifying concert atmosphere under the stars, right by the ocean. 📅 Date: Saturday, 05 December 2026 🕖 Time: 7:00 PM onwards 📍 Venue: Chilaw Beach, Sri Lanka 🎟️ TICKET CATEGORIES 🎫 Standing - LKR 1,000 🎫 VIP Seating - LKR 3,000 🎫 VVIP Seating - LKR 5,000 (Includes complimentary benefits) 📞 Ticket Inquiries: 077 447 6823 | 071 282 2823 🌊 Feel the ocean breeze, enjoy the rhythm of live music, and celebrate an incredible night with friends and family. One Beach. One Night. One Unforgettable Musical Experience. YAKSHĀGAMANAYA 2026 - Be There!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191431-yakshāgamanaya-|-යක්ෂාගමනය-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vTw47ggGKrpMTTOkHvOBDqVfQ16mZOKzDZZSED8o.jpg",
+      "venue": "Chilaw Beach Ground",
+      "city": "Chilaw",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/yakshagamanaya/6afedc10cb80b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Conert"
+      ],
+      "latitude": 7.586576946137536,
+      "longitude": 79.76695824074423
     },
     {
       "id": "ticketsministry-1299",
@@ -1238,6 +1215,29 @@
       "longitude": 80.36728060000002
     },
     {
+      "id": "ticketsministry-1414",
+      "source": "TicketsMinistry",
+      "name": "COLOMBO EXPRESS",
+      "description": "<p>COLOMBO EXPRESS </p><p>Colombo Express is a Kollywood × Bollywood DJ night by Mix Culture Entertainment, bringing Tamil and Hindi music together on one dance floor. From South Indian kuthu beats to Bollywood favourites, nostalgic film hits and contemporary remixes, the night celebrates the music and cinema that bring people together. </p><p>Six DJs take the stage—DJ RJ, DJ ARUN, DJ KAITY, DJ KEVIN, DJ BAASH and SL BRUH—each bringing their own style to the decks for a journey through both worlds of music. </p><p>Join us at Headquarters by W15, Colombo, on Saturday, 19 December 2026, from 7:00 PM until 5:00 AM the following morning.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611211329-colombo-express-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/37ss9DFHkJMibC0j63hHLncgN4zLAwdnSSCQ3jub.png",
+      "venue": "Headquarters By W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-12-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/colombo-express/6b015055082e5",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
+    },
+    {
       "id": "ticketsministry-1355",
       "source": "TicketsMinistry",
       "name": "2FORTY2 PADURA",
@@ -1286,29 +1286,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1351",
-      "source": "TicketsMinistry",
-      "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
-      "description": "<p>𝐉𝐈𝐍𝐆𝐋𝐄 & 𝐇𝐀𝐑𝐌𝐎𝐍𝐘 𝐖𝐈𝐓𝐇 𝐌𝐀𝐑𝐈𝐀𝐍𝐒 𝐚𝐭 𝐖𝐀𝐕𝐄 𝐍' 𝐋𝐀𝐊𝐄 , 𝐖𝐄𝐋𝐈𝐒𝐀𝐑𝐀</p><p>GET READY FOR THE BIGGEST CHRISTMAS MUSICAL NIGHT! </p><p>This Christmas, get ready for an unforgettable night filled with spectacular music, festive vibes, delicious food and endless entertainment! ❤️</p><p>🎙️ Featuring amazing performances by: </p><p>Rookantha Goonatillake </p><p>Nalin Perera</p><p>Sajith Perera</p><p>Falan Andrea</p><p>Keerthi </p><p>With the legendary MARIANS!</p><p>🎁 SPECIAL CHRISTMAS TREATS! </p><p>🥂 𝐅𝐑𝐄𝐄 𝐂𝐡𝐚𝐬𝐞𝐫𝐬 & 𝐁𝐢𝐭𝐞𝐬  </p><p>🍽️ 𝐆𝐫𝐚𝐧𝐝 𝐃𝐢𝐧𝐧𝐞𝐫 𝐁𝐮𝐟𝐟𝐞𝐭  </p><p>🎅 𝐒𝐚𝐧𝐭𝐚'𝐬 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐆𝐢𝐟𝐭𝐬 𝐀𝐧𝐝 𝐌𝐚𝐧𝐲 𝐌𝐨𝐫𝐞 𝐒𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬!</p><p>𝐅𝐫𝐞𝐞 𝟏 𝐖𝐡𝐢𝐬𝐤𝐞𝐲 𝐁𝐨𝐭𝐭𝐥𝐞 𝐅𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐖𝐡𝐨 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝟏𝟎 𝐕𝐢𝐩 𝐎𝐫 𝐕𝐕𝐈𝐏 𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐀𝐭 𝐎𝐧𝐜𝐞 (𝟏𝟎 𝐏𝐚𝐜𝐤 - 𝐎𝐧𝐞 𝐓𝐢𝐦𝐞 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞  𝐎𝐧𝐥𝐲).</p><p>🍾 BYOB – Bring Your Own Bottle! </p><p>Free Photo Booth & 360</p><p>Date :- 22nd December 2026 (Pre Poya Day)</p><p>Venue :- Wave N' Lake, Navy Hall, Welisara</p><p>💃 Special performances by Angel Dance Team</p><p>🎧 DJ CANDI</p><p>🎤 Compere by Sandro Bandara</p><p>🎁 Don't miss this amazing opportunity to celebrate Christmas with your favourite artists and enjoy a magical musical experience!</p><p>📞 BOOK YOUR TICKETS NOW!</p><p>☎️ Chrishantha - 0777393718</p><p>☎️ Sudarshana - 0761199755</p><p>☎️ Madushani - 0778198959</p><p>🎟️ KOKO Payments Available!</p><p>❤️ Seats are limited, so reserve your tickets early!</p><p>Make this Christmas unforgettable with JINGLE & HARMONY!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Krd3amBr9UmfLMgQEeICOAko1bGHVP1TeSPXhtoy.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/6Hdc0aWFOU7FC2nL2S9Bo44DmYRX664i8gzQcmQU.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/jingles-and-harmony-christmas-musical-gala-2026/6ad744b970e2f",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
       "id": "ticketsministry-1399",
       "source": "TicketsMinistry",
       "name": "Salli - Aaley Daddy with News",
@@ -1330,6 +1307,29 @@
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
+    },
+    {
+      "id": "ticketsministry-1351",
+      "source": "TicketsMinistry",
+      "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
+      "description": "<p>𝐉𝐈𝐍𝐆𝐋𝐄 & 𝐇𝐀𝐑𝐌𝐎𝐍𝐘 𝐖𝐈𝐓𝐇 𝐌𝐀𝐑𝐈𝐀𝐍𝐒 𝐚𝐭 𝐖𝐀𝐕𝐄 𝐍' 𝐋𝐀𝐊𝐄 , 𝐖𝐄𝐋𝐈𝐒𝐀𝐑𝐀</p><p>GET READY FOR THE BIGGEST CHRISTMAS MUSICAL NIGHT! </p><p>This Christmas, get ready for an unforgettable night filled with spectacular music, festive vibes, delicious food and endless entertainment! ❤️</p><p>🎙️ Featuring amazing performances by: </p><p>Rookantha Goonatillake </p><p>Nalin Perera</p><p>Sajith Perera</p><p>Falan Andrea</p><p>Keerthi </p><p>With the legendary MARIANS!</p><p>🎁 SPECIAL CHRISTMAS TREATS! </p><p>🥂 𝐅𝐑𝐄𝐄 𝐂𝐡𝐚𝐬𝐞𝐫𝐬 & 𝐁𝐢𝐭𝐞𝐬  </p><p>🍽️ 𝐆𝐫𝐚𝐧𝐝 𝐃𝐢𝐧𝐧𝐞𝐫 𝐁𝐮𝐟𝐟𝐞𝐭  </p><p>🎅 𝐒𝐚𝐧𝐭𝐚'𝐬 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐆𝐢𝐟𝐭𝐬 𝐀𝐧𝐝 𝐌𝐚𝐧𝐲 𝐌𝐨𝐫𝐞 𝐒𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬!</p><p>𝐅𝐫𝐞𝐞 𝟏 𝐖𝐡𝐢𝐬𝐤𝐞𝐲 𝐁𝐨𝐭𝐭𝐥𝐞 𝐅𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐖𝐡𝐨 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞 𝟏𝟎 𝐕𝐢𝐩 𝐎𝐫 𝐕𝐕𝐈𝐏 𝐓𝐢𝐜𝐤𝐞𝐭𝐬 𝐀𝐭 𝐎𝐧𝐜𝐞 (𝟏𝟎 𝐏𝐚𝐜𝐤 - 𝐎𝐧𝐞 𝐓𝐢𝐦𝐞 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞  𝐎𝐧𝐥𝐲).</p><p>🍾 BYOB – Bring Your Own Bottle! </p><p>Free Photo Booth & 360</p><p>Date :- 22nd December 2026 (Pre Poya Day)</p><p>Venue :- Wave N' Lake, Navy Hall, Welisara</p><p>💃 Special performances by Angel Dance Team</p><p>🎧 DJ CANDI</p><p>🎤 Compere by Sandro Bandara</p><p>🎁 Don't miss this amazing opportunity to celebrate Christmas with your favourite artists and enjoy a magical musical experience!</p><p>📞 BOOK YOUR TICKETS NOW!</p><p>☎️ Chrishantha - 0777393718</p><p>☎️ Sudarshana - 0761199755</p><p>☎️ Madushani - 0778198959</p><p>🎟️ KOKO Payments Available!</p><p>❤️ Seats are limited, so reserve your tickets early!</p><p>Make this Christmas unforgettable with JINGLE & HARMONY!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Krd3amBr9UmfLMgQEeICOAko1bGHVP1TeSPXhtoy.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/6Hdc0aWFOU7FC2nL2S9Bo44DmYRX664i8gzQcmQU.jpg",
+      "venue": "Wave N' Lake Welisara",
+      "city": "Negombo",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/jingles-and-harmony-christmas-musical-gala-2026/6ad744b970e2f",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
     },
     {
       "id": "ticketsministry-1365",
