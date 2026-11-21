@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-21T09:12:09.570Z",
+  "lastSyncTime": "2026-11-21T17:05:44.970Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 15,
-    "TicketsMinistry": 73,
-    "Total": 89
+    "TicketsMinistry": 74,
+    "Total": 90
   },
   "concerts": [
     {
@@ -77,6 +77,29 @@
       "longitude": 79.82232014775676
     },
     {
+      "id": "ticketsministry-1366",
+      "source": "TicketsMinistry",
+      "name": "ILLUSYA",
+      "description": "<p>ILLUSYA</p><p>More than a party. An experience shaped by music, atmosphere, and the people who make it special.</p><p>ILLUSYA brings together a carefully curated sound, immersive energy, and a community that lives for the music. From the first beat to the final moment, every detail is designed to create something worth remembering.</p><p>Come for the music. Stay for the feeling. Leave with memories.</p><p>Expect quality sounds, a unique atmosphere, and a dance floor that brings everyone together.</p><p>📍 Colombo, Sri Lanka</p><p>The experience begins here.</p><p>ILLUSYA — Not just another event. A feeling of its own.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/A8PXYIWVnrnkTl97IShkrwbqXEUsAIeuFIYNNtiK.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/qAcPeffBau5oD2ZwanU9UFIwrYQBmYPaJwcgiQym.jpg",
+      "venue": "Port City Colombo",
+      "city": "Colombo 01",
+      "dateTime": "2026-11-21T16:00:00.000Z",
+      "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 7000,
+      "maxPrice": 7000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/illusya/6ae1aefa13f0f",
+      "status": "sold-out",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.93209148908351,
+      "longitude": 79.82232014775676
+    },
+    {
       "id": "ticketsministry-1304",
       "source": "TicketsMinistry",
       "name": "THE SAMBAR SYNDICATE",
@@ -91,7 +114,7 @@
       "minPrice": 4000,
       "maxPrice": 80000,
       "ticketLink": "https://www.ticketsministry.com/concerts/the-sambar-syndicate/bca26ee4-a586-46d5-9a97-a879203cd5e3",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Outdoor Musical Concert"
@@ -659,29 +682,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1373",
-      "source": "TicketsMinistry",
-      "name": "PREMANIYA RAHASAK",
-      "description": "<p>\"Premaniya rahasak\" Memory Book In Concert. </p><p>උපන් දා සිට,</p><p>කාටවත් නොකියාම,</p><p>හිතේ හිරකරගෙන උන් ආදරණීය මතකවලට,</p><p>ආයෙමත් වතාවක්, ආදරයෙන් කතා කරන්න..❤️</p><p>ප්‍රේමය ,ආදරය සහ ජීවිතය එකම වේදිකාවක,</p><p>එකට මුණගැහෙන පලවෙනි concert එක තමා මේ..</p><p>ඇවිත්ම බලන්න...</p><p>ඒ හැමදේම </p><p>❤️\"ප්‍රේමණීය රහසක්...\"❤️</p><p></p><p>මේ ආදර කතාව,ප්‍රේම කතාවක් විතරක්ම නෙවෙයි.උපන්දා සිට ඔබ එකතු කරගත් ආදරණීය මතක පොතේ කතාවයි.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mpFyfTYdQL7vR3uCes47FXpHDpwzKAaLom2FDvXU.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/OoF5BMW2pmU1WTj4KMOmbVhhUbf5eO2UFSyFSiJT.jpg",
-      "venue": "Wave n' Lake Navy Banquet Hall",
-      "city": "Ragama",
-      "dateTime": "2026-12-05T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premaniya-rahasak/6ae2ee535693e",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
       "id": "ticketsministry-1410",
       "source": "TicketsMinistry",
       "name": "YAKSHAGAMANAYA",
@@ -705,6 +705,29 @@
       "longitude": 79.76695824074423
     },
     {
+      "id": "ticketsministry-1373",
+      "source": "TicketsMinistry",
+      "name": "PREMANIYA RAHASAK",
+      "description": "<p>\"Premaniya rahasak\" Memory Book In Concert. </p><p>උපන් දා සිට,</p><p>කාටවත් නොකියාම,</p><p>හිතේ හිරකරගෙන උන් ආදරණීය මතකවලට,</p><p>ආයෙමත් වතාවක්, ආදරයෙන් කතා කරන්න..❤️</p><p>ප්‍රේමය ,ආදරය සහ ජීවිතය එකම වේදිකාවක,</p><p>එකට මුණගැහෙන පලවෙනි concert එක තමා මේ..</p><p>ඇවිත්ම බලන්න...</p><p>ඒ හැමදේම </p><p>❤️\"ප්‍රේමණීය රහසක්...\"❤️</p><p></p><p>මේ ආදර කතාව,ප්‍රේම කතාවක් විතරක්ම නෙවෙයි.උපන්දා සිට ඔබ එකතු කරගත් ආදරණීය මතක පොතේ කතාවයි.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mpFyfTYdQL7vR3uCes47FXpHDpwzKAaLom2FDvXU.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/OoF5BMW2pmU1WTj4KMOmbVhhUbf5eO2UFSyFSiJT.jpg",
+      "venue": "Wave n' Lake Navy Banquet Hall",
+      "city": "Ragama",
+      "dateTime": "2026-12-05T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 6, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/premaniya-rahasak/6ae2ee535693e",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.02161270833638,
+      "longitude": 79.90873673105374
+    },
+    {
       "id": "ticketsministry-1299",
       "source": "TicketsMinistry",
       "name": "TACENDA",
@@ -717,7 +740,7 @@
       "originalDateStr": "Sun, Dec 6, 2026, 04:30 PM",
       "priceCurrency": "LKR",
       "minPrice": 4000,
-      "maxPrice": 12000,
+      "maxPrice": 170000,
       "ticketLink": "https://www.ticketsministry.com/concerts/tacenda/d804f22b-ef50-4f23-85f0-b410deed9361",
       "status": "active",
       "tags": [
@@ -938,29 +961,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1326",
-      "source": "TicketsMinistry",
-      "name": "SANDAKAN WASSANAYA",
-      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
-      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
-      "city": "Matara",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.937981700000001,
-      "longitude": 80.5734152
-    },
-    {
       "id": "ticketsministry-1393",
       "source": "TicketsMinistry",
       "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
@@ -982,6 +982,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1326",
+      "source": "TicketsMinistry",
+      "name": "SANDAKAN WASSANAYA",
+      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
+      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
+      "city": "Matara",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.937981700000001,
+      "longitude": 80.5734152
     },
     {
       "id": "ticketsministry-1341",
@@ -1078,8 +1101,8 @@
     {
       "id": "mytickets-6af749401fd63d788f523809",
       "source": "MyTickets",
-      "name": "Commando Maroons Night ",
-      "description": "<p>Commando Maroons Night</p>",
+      "name": "Commando Maroons Night With Avatar",
+      "description": "<p><strong><u>Commando Maroons Night With Avatar</u></strong></p><p><br></p><p>1. VVIP Table: Reservation fee of Rs. 100,000.00, including 10 VVIP seats, 1 bottle of foreign whisky (Famous Grouse), 1 bottle of red wine, chasers, finger foods, and BYOB.</p><p><br></p><p>2. VIP Table: Reservation fee of Rs. 80,000.00, including 10 VIP seats, 1 bottle of foreign whisky (Label 5), chasers, finger foods, and BYOB.</p><p><br></p><p>3. Standard: Reservation fee of Rs. 50,000.00, including a 10% discount off the full amount and BYOB.</p>",
       "bannerUrl": "https://assets.mytickets.lk/images/events/Commando%20Maroons%20Night%20(sample)/IMG_5035-1795008113576.jpeg",
       "posterUrl": "https://assets.mytickets.lk/images/events/Commando%20Maroons%20Night%20(sample)/IMG_5035-1795008113576.jpeg",
       "venue": "Wave n' Lake Navy Hall - Ragama",
@@ -1089,10 +1112,11 @@
       "priceCurrency": "LKR",
       "minPrice": 5000,
       "maxPrice": 10000,
-      "ticketLink": "https://mytickets.lk/event/commando-maroons-night/6af749401fd63d788f523809",
+      "ticketLink": "https://mytickets.lk/event/commando-maroons-night-with-avatar/6af749401fd63d788f523809",
       "status": "active",
       "tags": [
-        "Concert"
+        "Concert",
+        "Hot Deal"
       ],
       "latitude": 6.9175313725490195,
       "longitude": 79.82496470588235
@@ -1192,6 +1216,29 @@
       "longitude": 79.86562587418905
     },
     {
+      "id": "ticketsministry-1414",
+      "source": "TicketsMinistry",
+      "name": "COLOMBO EXPRESS",
+      "description": "<p>COLOMBO EXPRESS </p><p>Colombo Express is a Kollywood × Bollywood DJ night by Mix Culture Entertainment, bringing Tamil and Hindi music together on one dance floor. From South Indian kuthu beats to Bollywood favourites, nostalgic film hits and contemporary remixes, the night celebrates the music and cinema that bring people together. </p><p>Six DJs take the stage—DJ RJ, DJ ARUN, DJ KAITY, DJ KEVIN, DJ BAASH and SL BRUH—each bringing their own style to the decks for a journey through both worlds of music. </p><p>Join us at Headquarters by W15, Colombo, on Saturday, 19 December 2026, from 7:00 PM until 5:00 AM the following morning.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611211329-colombo-express-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zvYGUwfucHG3oxosWyIaZJs8VSw3J9yai7IYmv7A.png",
+      "venue": "Headquarters By W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-12-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/colombo-express/6b015055082e5",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
+    },
+    {
       "id": "ticketsministry-1378",
       "source": "TicketsMinistry",
       "name": "AURA LIVE IN CONCERT",
@@ -1213,29 +1260,6 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
-    },
-    {
-      "id": "ticketsministry-1414",
-      "source": "TicketsMinistry",
-      "name": "COLOMBO EXPRESS",
-      "description": "<p>COLOMBO EXPRESS </p><p>Colombo Express is a Kollywood × Bollywood DJ night by Mix Culture Entertainment, bringing Tamil and Hindi music together on one dance floor. From South Indian kuthu beats to Bollywood favourites, nostalgic film hits and contemporary remixes, the night celebrates the music and cinema that bring people together. </p><p>Six DJs take the stage—DJ RJ, DJ ARUN, DJ KAITY, DJ KEVIN, DJ BAASH and SL BRUH—each bringing their own style to the decks for a journey through both worlds of music. </p><p>Join us at Headquarters by W15, Colombo, on Saturday, 19 December 2026, from 7:00 PM until 5:00 AM the following morning.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611211329-colombo-express-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/37ss9DFHkJMibC0j63hHLncgN4zLAwdnSSCQ3jub.png",
-      "venue": "Headquarters By W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-12-19T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/colombo-express/6b015055082e5",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1355",
@@ -1286,29 +1310,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1399",
-      "source": "TicketsMinistry",
-      "name": "Salli - Aaley Daddy with News",
-      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1351",
       "source": "TicketsMinistry",
       "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
@@ -1330,6 +1331,29 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1399",
+      "source": "TicketsMinistry",
+      "name": "Salli - Aaley Daddy with News",
+      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/PmUfWq78XePmILbwdgvJ5drAlbm52V4eZvA1Gc7I.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1365",
