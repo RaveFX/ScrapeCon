@@ -1,126 +1,34 @@
 {
-  "lastSyncTime": "2026-11-22T05:06:02.841Z",
+  "lastSyncTime": "2026-11-22T14:02:59.971Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 15,
-    "TicketsMinistry": 74,
-    "Total": 90
+    "TicketsMinistry": 71,
+    "Total": 87
   },
   "concerts": [
     {
-      "id": "ticketsministry-1404",
+      "id": "ticketsministry-1377",
       "source": "TicketsMinistry",
-      "name": "DREAM WAVES WITH TALI MUSS",
-      "description": "<p>🌊 DREAM WAVES WITH TALI MUSS 🌊 </p><p>Hello, Down South! 🇱🇰 </p><p>For the very first time, we're bringing you an unforgettable 5-HOUR EXCLUSIVE SET by TALI MUSS at Surf Bar, Mirissa! Presented by The Club Events & Tri Tone Events. Get ready for 12 hours of incredible music, amazing vibes, and unforgettable memories by the ocean! Local support A-Z DA KIND DJ POOLA LOST STRANGERS MC KASPER NICK OMRA SALYDA </p><p>📅 DATE: 21st November 2026 (Saturday) </p><p>⏰ TIME: 1:00 PM – 1:00 AM </p><p>📍 LOCATION: Surf Bar, Mirissa </p><p>🎟️ TICKET PRICE: LKR 3,000 </p><p>⚠️ LIMITED ENTRANCE ONLY! Don't miss this first-time experience. Let's make waves together! 🌊🔥 </p><p>DREAM WAVES WITH TALI MUSS – SEE YOU ON THE DANCE FLOOR! </p><p>Presented by THE CLUB EVENTS × TRI TONE EVENTS</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mf2ck8EaLOp7RMtN4UY5Bx9rTB2m6EuYFvfrUPgv.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/Qa4bfxky9mFsHi9hiHidcN68A8s3qFuILyUMeEFG.jpg",
-      "venue": "Surf Bar Mirissa",
-      "city": "Mirissa",
-      "dateTime": "2026-11-21T13:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 06:30 PM",
+      "name": "FREQUENCY AT THE TAJ",
+      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-11-27T19:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 3000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/dream-waves-with-tali-muss/6afd1b54928ab",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
       "status": "active",
       "tags": [
         "Concert",
-        "EDM"
+        "Indoor Musical Concert"
       ],
-      "latitude": 5.9446599,
-      "longitude": 80.4558401
-    },
-    {
-      "id": "ticketsministry-1325",
-      "source": "TicketsMinistry",
-      "name": "DREAM WAVES AQUALIC YACHT PARTY",
-      "description": "<p>DREAM WAVES – AQUALIC YACHT PARTY </p><p>Good Music, Great People & Endless Memories With Back</p><p></p><p>DREAM WAVES  AQULIC YACHT PARTY</p><p></p><p>The Club Events  & TriTone Events  Present</p><p></p><p>FEATURING:</p><p></p><p>⛵ Tali Muss | DA KIND | DLC | EZRA BENJAMIN (Female Dj)</p><p></p><p>Get ready to sail into an unforgettable evening of music, luxury, and endless vibes!</p><p></p><p>Experience an extraordinary 5-hour luxury yacht party across the breathtaking waters of Mirissa Beach & Weligama Bay. Get ready for spectacular ocean views, electrifying beats, refreshing sea breezes, and an atmosphere like no other.</p><p></p><p>Checking 1.30 pm</p><p></p><p>Sailing 2.30 pm to 7.30 pm</p><p></p><p>🌴After party @ surf bar mirissa 7.30 pm onwards</p><p></p><p>Including:</p><p>After party surf bar entrance | BYOB</p><p>🍻 Bring your own drinks! Bring your favorite bottles or beer and get ready to chill.</p><p>🌊🎶 Let’s enjoy a real yacht party with great music, amazing vibes, and unforgettable memories!</p><p>PARTY RESPONSIBLY. NO DRUGS. JUST GOOD VIBES! 🚢🔥</p><p></p><p>More Details 075 550 5055</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/hw8TkXEs9lOHtQeaSpG1i2vhkfqNlK3FWkSWcfXE.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/3sK7mQl607RBXfRQ4T9VAglFEjytfZCvddq96V5D.jpg",
-      "venue": "Mirissa Fisheries Harbor",
-      "city": "Mirissa",
-      "dateTime": "2026-11-21T14:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 07:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 15000,
-      "maxPrice": 25000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/dream-waves-aqualic-yacht-party/6ac2419ce124d",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Yacht Party"
-      ],
-      "latitude": 5.948156000000001,
-      "longitude": 80.4502143
-    },
-    {
-      "id": "ticketsministry-1254",
-      "source": "TicketsMinistry",
-      "name": "ILLUSYA",
-      "description": "<p>ILLUSYA</p><p>More than a party. An experience shaped by music, atmosphere, and the people who make it special.</p><p>ILLUSYA brings together a carefully curated sound, immersive energy, and a community that lives for the music. From the first beat to the final moment, every detail is designed to create something worth remembering.</p><p>Come for the music. Stay for the feeling. Leave with memories.</p><p>Expect quality sounds, a unique atmosphere, and a dance floor that brings everyone together.</p><p>📍 Colombo, Sri Lanka</p><p>The experience begins here.</p><p>ILLUSYA — Not just another event. A feeling of its own.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/hv8a0nHp696FXFUZzhUlzroYGKecOmPClhiBW8kx.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/BdwI0LafTn404aBTE7f5RxKz3qvhwZsjHDou3F5P.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-21T16:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 104900,
-      "ticketLink": "https://www.ticketsministry.com/concerts/illusya/a04b175e-b31b-4f2a-83bb-7c07f524fd33",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
-    {
-      "id": "ticketsministry-1366",
-      "source": "TicketsMinistry",
-      "name": "ILLUSYA",
-      "description": "<p>ILLUSYA</p><p>More than a party. An experience shaped by music, atmosphere, and the people who make it special.</p><p>ILLUSYA brings together a carefully curated sound, immersive energy, and a community that lives for the music. From the first beat to the final moment, every detail is designed to create something worth remembering.</p><p>Come for the music. Stay for the feeling. Leave with memories.</p><p>Expect quality sounds, a unique atmosphere, and a dance floor that brings everyone together.</p><p>📍 Colombo, Sri Lanka</p><p>The experience begins here.</p><p>ILLUSYA — Not just another event. A feeling of its own.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A8PXYIWVnrnkTl97IShkrwbqXEUsAIeuFIYNNtiK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/qAcPeffBau5oD2ZwanU9UFIwrYQBmYPaJwcgiQym.jpg",
-      "venue": "Port City Colombo",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-21T16:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 09:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 7000,
-      "maxPrice": 7000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/illusya/6ae1aefa13f0f",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.93209148908351,
-      "longitude": 79.82232014775676
-    },
-    {
-      "id": "ticketsministry-1304",
-      "source": "TicketsMinistry",
-      "name": "THE SAMBAR SYNDICATE",
-      "description": "<p>The Sambar Syndicate is a prominent, high-energy South Indian themed club music and nightlife event series.The event is known for blending cultural elements with modern dance genres, featuring a mix of music that ranges from traditional South Indian kuthu beats to electronic and techno music. It is widely marketed as a comprehensive \"South Indian takeover\" that merges the city's unique regional sound, culture, and heavy bass.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202609271631-the-sambar-syndicate-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/aEAJWBYd6MIUMmsssgzipP4JLiwsZjTIG9nIrcYw.jpg",
-      "venue": "Headquarters By W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-11-21T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 21, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 80000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-sambar-syndicate/bca26ee4-a586-46d5-9a97-a879203cd5e3",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1389",
@@ -144,29 +52,6 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
-    },
-    {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1376",
@@ -238,29 +123,6 @@
       "longitude": 79.85933297499568
     },
     {
-      "id": "ticketsministry-1309",
-      "source": "TicketsMinistry",
-      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
-      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/JAN0KlktHnATHCyaO9oKT4iBAerjfPgtcJACK4ae.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
-      "venue": "Capital City Hotel Badulla",
-      "city": "Badulla",
-      "dateTime": "2026-11-28T18:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 6.984783217600755,
-      "longitude": 81.0560030112985
-    },
-    {
       "id": "ticketsministry-1257",
       "source": "TicketsMinistry",
       "name": "NEWSCHOOLCOMMUNITY",
@@ -282,6 +144,29 @@
       ],
       "latitude": 6.93209148908351,
       "longitude": 79.82232014775676
+    },
+    {
+      "id": "ticketsministry-1309",
+      "source": "TicketsMinistry",
+      "name": "AKASA SUTRA NAMUNUKULA AHASA YATA",
+      "description": "<p>AKASA SUTRA NAMUNUKULA AHASA YATA is an unforgettable open-air musical experience celebrating the beauty of music beneath the majestic Namunukula skies. Featuring captivating live performances, breathtaking stage production, and an electrifying atmosphere, this concert promises a magical evening where melodies, nature, and unforgettable moments come together. Gather your friends and family and immerse yourself in a spectacular celebration of music that will leave lasting memories.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/JAN0KlktHnATHCyaO9oKT4iBAerjfPgtcJACK4ae.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JtTOv8mrrkEa37kH6bg4D2pzB3ZEtAqgHfUZu965.jpg",
+      "venue": "Capital City Hotel Badulla",
+      "city": "Badulla",
+      "dateTime": "2026-11-28T18:00:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/akasa-sutra-namunukula-ahasa-yata/6aba88684aca4",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.984783217600755,
+      "longitude": 81.0560030112985
     },
     {
       "id": "oneticket-457",
@@ -961,29 +846,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1393",
-      "source": "TicketsMinistry",
-      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
-      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Dance Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -1005,6 +867,29 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "ticketsministry-1393",
+      "source": "TicketsMinistry",
+      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
+      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Dance Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1341",
@@ -1704,29 +1589,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1383",
-      "source": "TicketsMinistry",
-      "name": "THE CLUB MEMBERS",
-      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 62000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
-    },
-    {
       "id": "ticketsministry-1330",
       "source": "TicketsMinistry",
       "name": "SOBASARA LIVE IN CONCERT 2027",
@@ -1748,6 +1610,29 @@
       ],
       "latitude": 7.088022577256503,
       "longitude": 80.0026606708474
+    },
+    {
+      "id": "ticketsministry-1383",
+      "source": "TicketsMinistry",
+      "name": "THE CLUB MEMBERS",
+      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 62000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
     },
     {
       "id": "oneticket-464",
@@ -1821,6 +1706,52 @@
       "longitude": 80.58458160381763
     },
     {
+      "id": "ticketsministry-1416",
+      "source": "TicketsMinistry",
+      "name": "WAVE OF EAST",
+      "description": "<p>The ultimate event for young souls who love raving to grate music . Sun set , waves , nature vibe....</p><p>Are you ready for one hell of a RAVE in January?</p><p>Grab your passes now!!!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611201603-wave-of-east-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/g8zMa70AIyqmmyQVCgmZYAW4uEq16307jiqBmS4D.jpg",
+      "venue": "Blue wave damana",
+      "city": "Ampara",
+      "dateTime": "2027-01-23T18:00:00.000Z",
+      "originalDateStr": "Sat, Jan 23, 2027, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 4000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/wave-of-east/6b027ac8b7cae",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 7.1981502,
+      "longitude": 81.6534137
+    },
+    {
+      "id": "ticketsministry-1415",
+      "source": "TicketsMinistry",
+      "name": "SARASAVI GEE SISILA 2027",
+      "description": "<p>Sarasavi Gee Sisila is the University of Moratuwa’s much-loved classical music evening, organised by BESS and first held in 1993 by the 5th batch of Building Economics undergraduates. Expect live performances in the tradition of legends like Dr. Victor Rathnayake and Mr. Sunil Edirisinghe, rich in melody and emotion. Open to students, alumni, staff, families and all music lovers, it is a student-driven celebration of classical music that also raises funds for the financial and welfare needs of the student community. Come for the music, and be part of a tradition that gives back.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/MNVa30aN04Kq5qiIjqIn1QJipRobOLd5NS5bco8I.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/G5oOOkIESU7yunMS2Yy9oUe0hCc2AFcn5ACeL1jS.jpg",
+      "venue": "Sumanadasa Court Yard, University of Moratuwa",
+      "city": "Moratuwa",
+      "dateTime": "2027-01-23T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 24, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 6500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sarasavi-gee-sisila-2027/6b026ae865091",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 6.796769443200655,
+      "longitude": 79.89776547417092
+    },
+    {
       "id": "ticketsministry-1327",
       "source": "TicketsMinistry",
       "name": "SWARA MADHUDHARA",
@@ -1868,29 +1799,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1370",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 10000,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1357",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - FRIDAY ACCESS",
@@ -1905,6 +1813,29 @@
       "minPrice": 5500,
       "maxPrice": 9000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1370",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - TWO DAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 10000,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
       "status": "active",
       "tags": [
         "Concert",
