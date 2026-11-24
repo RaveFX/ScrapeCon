@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-23T14:01:01.534Z",
+  "lastSyncTime": "2026-11-24T02:44:37.596Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 16,
@@ -7,29 +7,6 @@
     "Total": 90
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1380",
-      "source": "TicketsMinistry",
-      "name": "SEA YOU IN MIRISSA",
-      "description": "<p>SEA YOU IN MIRISSA – YACHT PARTY FESTIVAL </p><p>Mirissa is a popular coastal destination offering a variety of tourism experiences, including whale watching, scuba diving, surfing, beach parties, and yacht excursions. With its beautiful coastline and vibrant beach culture, it provides an ideal setting for developing a unique yacht party and entertainment festival. </p><p>Sea You in Mirissa – Yacht Party Festival aims to bring together yacht parties, DJ performances, music, beachside entertainment, and ocean adventures, attracting local and international visitors. </p><p>The initiative aims to promote Mirissa as a vibrant yacht party and entertainment destination, while supporting tourism development, local hospitality businesses, and Sri Lanka's growing marine leisure industry. </p><p>Our Vision: To make Mirissa a recognized destination for yacht parties, entertainment, and unforgettable ocean experiences.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/qYU1FBspQDJIz7Q9Oxaa4blru5b85tPuk19DwH72.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/pBQ2gh3CRHfW1qnhuL701J2LjCCsBwix8g3lluWw.png",
-      "venue": "Mirissa",
-      "city": "Mirissa",
-      "dateTime": "2026-09-01T08:00:00.000Z",
-      "originalDateStr": "Tue, Sep 1, 2026, 01:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6500,
-      "maxPrice": 14000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sea-you-in-mirissa/6ae8011a36a2b",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Yacht Party"
-      ],
-      "latitude": 5.951581072363866,
-      "longitude": 80.42285450072872
-    },
     {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
@@ -449,29 +426,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1405",
-      "source": "TicketsMinistry",
-      "name": "ROOF OVER HER HEAD",
-      "description": "<p>A ROOF OVER HER HEAD. A FUTURE FOR HER CHILDREN. </p><p>Behind this charity concert is the story of a young mother and her two little sons, survivors of domestic violence, who are now left without a home or a support system to turn to. This December, Sisters-at-Law, with the generous support of Dr. Manella Joseph, invites you to be part of an evening of music, love and giving. </p><p>Join us for a special Sing-Along Musical Evening featuring Dr. Manella Joseph, a renowned singer and retired histopathologist attached to Sri Jayawardenepura General Hospital, as she performs her own original songs alongside much-loved old favourites. Come enjoy the music, sing along and be part of a meaningful cause! Every ticket purchased will contribute towards purchasing a piece of land on which a safe and permanent home can be built for this young mother and her children. </p><p>Your presence can help turn a story of hardship into one of hope, security and new beginnings. </p><p>📅 Date: 5th December 2026</p><p>🕡 Time: 6.30 PM Onwards </p><p>📍 Venue: Sri Lanka Medical Association Auditorium </p><p>🎟️ Ticket Price: Rs. 2,500/- </p><p>Come for the music. Sing for a cause. Help build a home. Organized by Sisters-at-Law, with the generous support of Dr. Manella Joseph.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/DTWgKB9buN4zfXjzJdTbUHYS5YzRrD6DzFXYsRUO.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/3e0CQdZ0e1gjBCkEef9lj7tyAzfMFia42AjjfjAn.jpg",
-      "venue": "Sri Lanka Medical Association Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-05T18:00:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/roof-over-her-head/6afd46016a089",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.915855099999999,
-      "longitude": 79.8689539
-    },
-    {
       "id": "ticketsministry-1247",
       "source": "TicketsMinistry",
       "name": "FDY 0",
@@ -493,6 +447,29 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "ticketsministry-1405",
+      "source": "TicketsMinistry",
+      "name": "ROOF OVER HER HEAD",
+      "description": "<p>A ROOF OVER HER HEAD. A FUTURE FOR HER CHILDREN. </p><p>Behind this charity concert is the story of a young mother and her two little sons, survivors of domestic violence, who are now left without a home or a support system to turn to. This December, Sisters-at-Law, with the generous support of Dr. Manella Joseph, invites you to be part of an evening of music, love and giving. </p><p>Join us for a special Sing-Along Musical Evening featuring Dr. Manella Joseph, a renowned singer and retired histopathologist attached to Sri Jayawardenepura General Hospital, as she performs her own original songs alongside much-loved old favourites. Come enjoy the music, sing along and be part of a meaningful cause! Every ticket purchased will contribute towards purchasing a piece of land on which a safe and permanent home can be built for this young mother and her children. </p><p>Your presence can help turn a story of hardship into one of hope, security and new beginnings. </p><p>📅 Date: 5th December 2026</p><p>🕡 Time: 6.30 PM Onwards </p><p>📍 Venue: Sri Lanka Medical Association Auditorium </p><p>🎟️ Ticket Price: Rs. 2,500/- </p><p>Come for the music. Sing for a cause. Help build a home. Organized by Sisters-at-Law, with the generous support of Dr. Manella Joseph.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/DTWgKB9buN4zfXjzJdTbUHYS5YzRrD6DzFXYsRUO.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/3e0CQdZ0e1gjBCkEef9lj7tyAzfMFia42AjjfjAn.jpg",
+      "venue": "Sri Lanka Medical Association Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-05T18:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/roof-over-her-head/6afd46016a089",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.915855099999999,
+      "longitude": 79.8689539
     },
     {
       "id": "oneticket-437",
@@ -869,29 +846,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1393",
-      "source": "TicketsMinistry",
-      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
-      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Dance Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -913,6 +867,29 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "ticketsministry-1393",
+      "source": "TicketsMinistry",
+      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
+      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Dance Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1341",
@@ -1028,6 +1005,29 @@
       ],
       "latitude": 6.9175313725490195,
       "longitude": 79.82496470588235
+    },
+    {
+      "id": "ticketsministry-1380",
+      "source": "TicketsMinistry",
+      "name": "SEA YOU IN MIRISSA",
+      "description": "<p>SEA YOU IN MIRISSA FESTIVAL  X  HONEY ISLAND YACHT PARTY IX  </p><p>Mirissa is a popular coastal destination offering a variety of tourism experiences, including whale watching, scuba diving, surfing, beach parties, and yacht excursions. With its beautiful coastline and vibrant beach culture, it provides an ideal setting for developing a unique yacht party and entertainment festival. </p><p>SEA YOU IN MIRISSA FESTIVAL  X  HONEY ISLAND YACHT PARTY IX  aims to bring together yacht parties, DJ performances, music, beachside entertainment, and ocean adventures, attracting local and international visitors. </p><p>The initiative aims to promote Mirissa as a vibrant yacht party and entertainment destination, while supporting tourism development, local hospitality businesses, and Sri Lanka's growing marine leisure industry. </p><p>Our Vision Is To make Mirissa a recognized destination for yacht parties, entertainment, and unforgettable ocean experiences.</p><p>Below are the special VIP Packages:VIP - Couple Package: LKR 30,000</p><ul><li><p>Tickets × 2</p></li><li><p>Jet Ski Ride - 15 Min for 2 Pax</p></li><li><p>Water Bottles × 2</p></li><li><p>Side Dishes × 2</p></li><li><p>Soft Drinks × 2</p></li><li><p>Soda x 1</p></li><li><p>BYOB (Bring Your Own Bottles)</p></li></ul><p></p><p>VIP - Group Package: LKR 55,000</p><ul><li><p>Tickets × 4</p></li><li><p>Jet Ski Ride - 20 Min for 4 Pax</p></li><li><p>Water Bottles × 4</p></li><li><p>Side Dishes × 4</p></li><li><p>Soft Drinks × 4</p></li><li><p>Soda x 2</p></li><li><p>BYOB (Bring Your Own Bottles)</p></li></ul>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/qYU1FBspQDJIz7Q9Oxaa4blru5b85tPuk19DwH72.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/pBQ2gh3CRHfW1qnhuL701J2LjCCsBwix8g3lluWw.png",
+      "venue": "Mirissa Fisheries Harbor",
+      "city": "Mirissa",
+      "dateTime": "2026-12-19T14:00:00.000Z",
+      "originalDateStr": "Sat, Dec 19, 2026, 07:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 55000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sea-you-in-mirissa/6ae8011a36a2b",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 5.948156000000001,
+      "longitude": 80.4502143
     },
     {
       "id": "oneticket-458",
@@ -1636,29 +1636,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1383",
-      "source": "TicketsMinistry",
-      "name": "THE CLUB MEMBERS",
-      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
-      "venue": "Cinnamon Lakeside - Imperial Court",
-      "city": "Colombo 02",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 62000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.929170393070663,
-      "longitude": 79.8467212749966
-    },
-    {
       "id": "ticketsministry-1330",
       "source": "TicketsMinistry",
       "name": "SOBASARA LIVE IN CONCERT 2027",
@@ -1680,6 +1657,29 @@
       ],
       "latitude": 7.088022577256503,
       "longitude": 80.0026606708474
+    },
+    {
+      "id": "ticketsministry-1383",
+      "source": "TicketsMinistry",
+      "name": "THE CLUB MEMBERS",
+      "description": "<p>The Club Members, created by DIPI Entertainment, is an exclusive live acoustic experience bringing exceptional artists and a distinguished audience together in an intimate, elegant setting. Celebrating timeless music, genuine connections, and quality over quantity, it brings generations together through the power of live music. \"The ClubMembers\"Where music becomes a feeling, and every evening becomes a memory.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/mJiRYg0AHpmA1vvICCM2PBIk6JS61npcilDClT0f.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/SisGskKQEPBHPdEZeGM6VZ4OcVCleJiCuk5X9nHG.jpg",
+      "venue": "Cinnamon Lakeside - Imperial Court",
+      "city": "Colombo 02",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 62000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/the-club-members/6ae9e83285556",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.929170393070663,
+      "longitude": 79.8467212749966
     },
     {
       "id": "oneticket-464",
