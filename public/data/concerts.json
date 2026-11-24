@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-24T02:44:37.596Z",
+  "lastSyncTime": "2026-11-24T14:33:10.698Z",
   "counts": {
     "MyTickets": 1,
     "OneTicket": 16,
@@ -584,7 +584,7 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Conert"
+        "Outdoor Musical Concert"
       ],
       "latitude": 7.586576946137536,
       "longitude": 79.76695824074423
@@ -1338,8 +1338,8 @@
       "source": "OneTicket",
       "name": "Synergy Pulse",
       "description": "Synergy Pulse happening at Waters Edge. Date & Time: Sun, Dec 27, 2026, 12:00 AM. Tickets start from 5000 LKR.",
-      "bannerUrl": "https://storage.googleapis.com/oneticket/29992915-20fa5627-250c-43ed-88c3-4f37d81c9d71.png",
-      "posterUrl": "https://storage.googleapis.com/oneticket/22703618-373cc8b8-73e9-40c7-aa9a-83d879c1f381.png",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/80678186-786bb650-4ff7-45d4-bb63-9964b4992a99.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/15223320-ae66ec80-b339-4587-b30d-1cfe4d6bcf38.jpg",
       "venue": "Waters Edge",
       "city": "Waters Edge",
       "dateTime": "2026-12-26T18:30:00.000Z",
@@ -1369,7 +1369,7 @@
       "dateTime": "2026-12-26T19:00:00.000Z",
       "originalDateStr": "Sun, Dec 27, 2026, 12:30 AM",
       "priceCurrency": "LKR",
-      "minPrice": 5000,
+      "minPrice": 4000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/synergy-pulse/6aeb17fcae577",
       "status": "active",
@@ -2089,12 +2089,12 @@
       "originalDateStr": "Fri, Feb 26, 2027, 12:00 PM",
       "priceCurrency": "LKR",
       "minPrice": 2000,
-      "maxPrice": 5000,
+      "maxPrice": 40000,
       "ticketLink": "https://www.ticketsministry.com/concerts/parinamaya-2027/6b001e8f901bb",
       "status": "active",
       "tags": [
         "Concert",
-        "Outdoor Musical Conert"
+        "Outdoor Musical Concert"
       ],
       "latitude": 6.927035493072726,
       "longitude": 79.8557598741892
