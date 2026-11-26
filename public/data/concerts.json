@@ -1,10 +1,10 @@
 {
-  "lastSyncTime": "2026-11-26T13:37:12.434Z",
+  "lastSyncTime": "2026-11-26T22:48:01.038Z",
   "counts": {
     "MyTickets": 0,
-    "OneTicket": 16,
+    "OneTicket": 17,
     "TicketsMinistry": 76,
-    "Total": 92
+    "Total": 93
   },
   "concerts": [
     {
@@ -426,29 +426,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1405",
-      "source": "TicketsMinistry",
-      "name": "ROOF OVER HER HEAD",
-      "description": "<p>A ROOF OVER HER HEAD. A FUTURE FOR HER CHILDREN. </p><p>Behind this charity concert is the story of a young mother and her two little sons, survivors of domestic violence, who are now left without a home or a support system to turn to. This December, Sisters-at-Law, with the generous support of Dr. Manella Joseph, invites you to be part of an evening of music, love and giving. </p><p>Join us for a special Sing-Along Musical Evening featuring Dr. Manella Joseph, a renowned singer and retired histopathologist attached to Sri Jayawardenepura General Hospital, as she performs her own original songs alongside much-loved old favourites. Come enjoy the music, sing along and be part of a meaningful cause! Every ticket purchased will contribute towards purchasing a piece of land on which a safe and permanent home can be built for this young mother and her children. </p><p>Your presence can help turn a story of hardship into one of hope, security and new beginnings. </p><p>📅 Date: 5th December 2026</p><p>🕡 Time: 6.30 PM Onwards </p><p>📍 Venue: Sri Lanka Medical Association Auditorium </p><p>🎟️ Ticket Price: Rs. 2,500/- </p><p>Come for the music. Sing for a cause. Help build a home. Organized by Sisters-at-Law, with the generous support of Dr. Manella Joseph.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/DTWgKB9buN4zfXjzJdTbUHYS5YzRrD6DzFXYsRUO.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/3e0CQdZ0e1gjBCkEef9lj7tyAzfMFia42AjjfjAn.jpg",
-      "venue": "Sri Lanka Medical Association Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-05T18:00:00.000Z",
-      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 2500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/roof-over-her-head/6afd46016a089",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.915855099999999,
-      "longitude": 79.8689539
-    },
-    {
       "id": "ticketsministry-1247",
       "source": "TicketsMinistry",
       "name": "FDY 0",
@@ -470,6 +447,29 @@
       ],
       "latitude": 6.921836877837569,
       "longitude": 79.81500565289788
+    },
+    {
+      "id": "ticketsministry-1405",
+      "source": "TicketsMinistry",
+      "name": "ROOF OVER HER HEAD",
+      "description": "<p>A ROOF OVER HER HEAD. A FUTURE FOR HER CHILDREN. </p><p>Behind this charity concert is the story of a young mother and her two little sons, survivors of domestic violence, who are now left without a home or a support system to turn to. This December, Sisters-at-Law, with the generous support of Dr. Manella Joseph, invites you to be part of an evening of music, love and giving. </p><p>Join us for a special Sing-Along Musical Evening featuring Dr. Manella Joseph, a renowned singer and retired histopathologist attached to Sri Jayawardenepura General Hospital, as she performs her own original songs alongside much-loved old favourites. Come enjoy the music, sing along and be part of a meaningful cause! Every ticket purchased will contribute towards purchasing a piece of land on which a safe and permanent home can be built for this young mother and her children. </p><p>Your presence can help turn a story of hardship into one of hope, security and new beginnings. </p><p>📅 Date: 5th December 2026</p><p>🕡 Time: 6.30 PM Onwards </p><p>📍 Venue: Sri Lanka Medical Association Auditorium </p><p>🎟️ Ticket Price: Rs. 2,500/- </p><p>Come for the music. Sing for a cause. Help build a home. Organized by Sisters-at-Law, with the generous support of Dr. Manella Joseph.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/DTWgKB9buN4zfXjzJdTbUHYS5YzRrD6DzFXYsRUO.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/3e0CQdZ0e1gjBCkEef9lj7tyAzfMFia42AjjfjAn.jpg",
+      "venue": "Sri Lanka Medical Association Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-05T18:00:00.000Z",
+      "originalDateStr": "Sat, Dec 5, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 2500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/roof-over-her-head/6afd46016a089",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.915855099999999,
+      "longitude": 79.8689539
     },
     {
       "id": "oneticket-437",
@@ -513,7 +513,8 @@
       "status": "active",
       "tags": [
         "Concert",
-        "Indoor Musical Concert"
+        "Indoor Musical Concert",
+        "Featured"
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
@@ -913,6 +914,30 @@
       ],
       "latitude": 7.857684999999999,
       "longitude": 80.70625
+    },
+    {
+      "id": "oneticket-485",
+      "source": "OneTicket",
+      "name": "News In The Hills",
+      "description": "News In The Hills happening at Earls Regency. Date & Time: Fri, Dec 18, 2026, 11:30 PM. Tickets start from 6500 LKR.",
+      "bannerUrl": "https://storage.googleapis.com/oneticket/59231279-6a9b10b8-54f8-420b-82e9-5e05778ec153.jpg",
+      "posterUrl": "https://storage.googleapis.com/oneticket/73524488-663ef3c3-2158-4e88-bb2d-6143692088a5.jpg",
+      "venue": "Earls Regency",
+      "city": "Earls Regency",
+      "dateTime": "2026-12-18T18:00:00.000Z",
+      "originalDateStr": "Fri, Dec 18, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6500,
+      "maxPrice": 6500,
+      "ticketLink": "https://oneticket.lk/event/news-in-the-hills",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Event",
+        "Indoor"
+      ],
+      "latitude": 6.954237254901961,
+      "longitude": 79.87453333333333
     },
     {
       "id": "ticketsministry-1402",
@@ -1661,29 +1686,6 @@
       "longitude": 79.8519
     },
     {
-      "id": "ticketsministry-1330",
-      "source": "TicketsMinistry",
-      "name": "SOBASARA LIVE IN CONCERT 2027",
-      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/TcO1n4VY8tH47u4xgL52ObKgRH2waBipHE3Dc0jj.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vXyaDSLvRrzl2e0jpGfpGgyDiCWTrYBUjsUFV6eu.jpg",
-      "venue": "Holy Cross College Auditorium Gampaha",
-      "city": "Gampaha",
-      "dateTime": "2027-01-16T18:30:00.000Z",
-      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.088022577256503,
-      "longitude": 80.0026606708474
-    },
-    {
       "id": "ticketsministry-1383",
       "source": "TicketsMinistry",
       "name": "THE CLUB MEMBERS",
@@ -1705,6 +1707,29 @@
       ],
       "latitude": 6.929170393070663,
       "longitude": 79.8467212749966
+    },
+    {
+      "id": "ticketsministry-1330",
+      "source": "TicketsMinistry",
+      "name": "SOBASARA LIVE IN CONCERT 2027",
+      "description": "<p>Sri Lankan classical music programme. Organized by NALANDA LEGENDS 97. Details regarding the concert are provided below. Concert Name - සොබාසර 2027  Concert Date - 2027 January 16th Concert </p><p>Venue - Holycross Auditorium, Gampaha  </p><p>Artists - Sunil Edirisinghe | Karunarathne Diulgane | Suneera Sumanga | Anjalee Herath </p><p>Music band - දස්සන සමීර ප්‍රමුඛ ත්‍රෛයිලෝ </p><p>Compere - Nalin Herath </p><p>Tickets price 10,000/=, 7,500/=, 5,000/=, 3,000/=</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/TcO1n4VY8tH47u4xgL52ObKgRH2waBipHE3Dc0jj.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vXyaDSLvRrzl2e0jpGfpGgyDiCWTrYBUjsUFV6eu.jpg",
+      "venue": "Holy Cross College Auditorium Gampaha",
+      "city": "Gampaha",
+      "dateTime": "2027-01-16T18:30:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sobasara-live-in-concert-2027/6ac4fe6c6ee12",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.088022577256503,
+      "longitude": 80.0026606708474
     },
     {
       "id": "oneticket-464",
@@ -1755,29 +1780,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1395",
-      "source": "TicketsMinistry",
-      "name": "HELLO KANDY – SECOND CALL",
-      "description": "<p>On Saturday, 23 January 2027, HELLO KANDY – SECOND CALL brings electronic music and Kandyan heritage together in Sri Lanka’s hill capital. Inspired by Kandyan folklore, The Enchanted Call tells the story of a mysterious guardian whose invitation leads back to Kandy. Bring your crew and join us on the dance floor.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/8mrKVSRm1JvB3UJeLnNbiBm3bDBO243fnxyt40wW.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/BtO5MR2hXpt6nkDtVLjIE0tnVbRCMmjgJ6QOxpXy.jpg",
-      "venue": "Kandy",
-      "city": "Kandy",
-      "dateTime": "2027-01-23T11:00:00.000Z",
-      "originalDateStr": "Sat, Jan 23, 2027, 04:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 10000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/hello-kandy-second-call/6af3e7fca3e03",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 7.2945434344322715,
-      "longitude": 80.58458160381763
-    },
-    {
       "id": "ticketsministry-1417",
       "source": "TicketsMinistry",
       "name": "THE SUBCULTURE",
@@ -1799,6 +1801,29 @@
       ],
       "latitude": 6.950902500000001,
       "longitude": 80.2014267
+    },
+    {
+      "id": "ticketsministry-1395",
+      "source": "TicketsMinistry",
+      "name": "HELLO KANDY – SECOND CALL",
+      "description": "<p>On Saturday, 23 January 2027, HELLO KANDY – SECOND CALL brings electronic music and Kandyan heritage together in Sri Lanka’s hill capital. Inspired by Kandyan folklore, The Enchanted Call tells the story of a mysterious guardian whose invitation leads back to Kandy. Bring your crew and join us on the dance floor.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/8mrKVSRm1JvB3UJeLnNbiBm3bDBO243fnxyt40wW.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/BtO5MR2hXpt6nkDtVLjIE0tnVbRCMmjgJ6QOxpXy.jpg",
+      "venue": "Kandy",
+      "city": "Kandy",
+      "dateTime": "2027-01-23T11:00:00.000Z",
+      "originalDateStr": "Sat, Jan 23, 2027, 04:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/hello-kandy-second-call/6af3e7fca3e03",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 7.2945434344322715,
+      "longitude": 80.58458160381763
     },
     {
       "id": "ticketsministry-1416",
@@ -1894,29 +1919,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1357",
-      "source": "TicketsMinistry",
-      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
-      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
-      "venue": "The Doctor's House",
-      "city": "Matara",
-      "dateTime": "2027-01-29T13:00:00.000Z",
-      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 5500,
-      "maxPrice": 9000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 5.936925500000001,
-      "longitude": 80.5153909
-    },
-    {
       "id": "ticketsministry-1370",
       "source": "TicketsMinistry",
       "name": "SOLA FESTIVAL - TWO DAY ACCESS",
@@ -1931,6 +1933,29 @@
       "minPrice": 10000,
       "maxPrice": 15000,
       "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-two-day-access/6ae1f0f13cb18",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 5.936925500000001,
+      "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1357",
+      "source": "TicketsMinistry",
+      "name": "SOLA FESTIVAL - FRIDAY ACCESS",
+      "description": "<p>SOLA Festival is back for its third edition!</p><p>Set in the beachfront garden of The Doctor’s House, on the south coast of Sri Lanka, expect two days full of music, creativity and connection. Bringing together Sri Lankan and international DJs, artists, makers and people from around the world, SOLA is a celebration of music, culture and community. Experience three stages of global electronic music, workshops, performances, art, delicious food, a creative market - and a lot of dancing! SOLA is also more than a music festival. It's a space to explore how festivals can give back and create value beyond the event itself, through circular production, local employment, traditional craft and community-led initiatives. 29–30 January 2027. </p><p>Two days, three stages, one amazing place. It's time to dance!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202610250238-sola-festival-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/DsYDTfcHhRqAqLumILntUAJOa9HyCAt7yd7RpB0M.png",
+      "venue": "The Doctor's House",
+      "city": "Matara",
+      "dateTime": "2027-01-29T13:00:00.000Z",
+      "originalDateStr": "Fri, Jan 29, 2027, 06:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 5500,
+      "maxPrice": 9000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sola-festival-friday-access/6adda66075315",
       "status": "active",
       "tags": [
         "Concert",
