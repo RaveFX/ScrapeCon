@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-27T06:45:18.225Z",
+  "lastSyncTime": "2026-11-27T17:50:09.373Z",
   "counts": {
     "MyTickets": 0,
     "OneTicket": 17,
@@ -7,6 +7,29 @@
     "Total": 94
   },
   "concerts": [
+    {
+      "id": "ticketsministry-1376",
+      "source": "TicketsMinistry",
+      "name": "X CONCERT",
+      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
+      "venue": "Avenra Gardens Hotel Negombo",
+      "city": "Negombo",
+      "dateTime": "2026-11-27T18:30:00.000Z",
+      "originalDateStr": "Sat, Nov 28, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 5000,
+      "maxPrice": 120000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
+      "status": "sold-out",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 7.21757919278823,
+      "longitude": 79.85283377499933
+    },
     {
       "id": "ticketsministry-1389",
       "source": "TicketsMinistry",
@@ -22,7 +45,7 @@
       "minPrice": 6000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
@@ -45,36 +68,13 @@
       "minPrice": 6000,
       "maxPrice": 60000,
       "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "active",
+      "status": "sold-out",
       "tags": [
         "Concert",
         "Indoor Musical Concert"
       ],
       "latitude": 6.92257739307712,
       "longitude": 79.84425677499648
-    },
-    {
-      "id": "ticketsministry-1376",
-      "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
     },
     {
       "id": "ticketsministry-1240",
@@ -240,29 +240,6 @@
       "longitude": 80.36728060000002
     },
     {
-      "id": "ticketsministry-1411",
-      "source": "TicketsMinistry",
-      "name": "BOOMTOWN WITH ISKOLE MAGE 2026",
-      "description": "<p>Experience an unforgettable musical night! Organized by PPA CCK, \"Iskole Mage 2026\" proudly features the spectacular FM Derana BOOM TOWN concert. Enjoy an electrifying live performance by AVATAR on November 28th, from 8:00 PM onwards, at the Kuliyapitiya Technical College Ground. Secure your tickets today and join us for a premier evening of outstanding live entertainment!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191843-boomtown-with-iskole-mage-2026-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/fCowKBShuwxf1ObPOV2Sf6azm1hoTnp0RfvSJHMM.jpg",
-      "venue": "Technical Ground Kuliyapitiya",
-      "city": "Kuliyapitiya",
-      "dateTime": "2026-11-28T20:00:00.000Z",
-      "originalDateStr": "Sun, Nov 29, 2026, 01:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 1000,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/boomtown-with-iskole-mage-2026/6aff1b8a33ab1",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.465291992546237,
-      "longitude": 80.02386807500172
-    },
-    {
       "id": "ticketsministry-1367",
       "source": "TicketsMinistry",
       "name": "VAZIAN'S NIGHT WITH MARIANS",
@@ -284,6 +261,29 @@
       ],
       "latitude": 7.182460707392528,
       "longitude": 79.86020890635984
+    },
+    {
+      "id": "ticketsministry-1411",
+      "source": "TicketsMinistry",
+      "name": "BOOMTOWN WITH ISKOLE MAGE 2026",
+      "description": "<p>Experience an unforgettable musical night! Organized by PPA CCK, \"Iskole Mage 2026\" proudly features the spectacular FM Derana BOOM TOWN concert. Enjoy an electrifying live performance by AVATAR on November 28th, from 8:00 PM onwards, at the Kuliyapitiya Technical College Ground. Secure your tickets today and join us for a premier evening of outstanding live entertainment!</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611191843-boomtown-with-iskole-mage-2026-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/fCowKBShuwxf1ObPOV2Sf6azm1hoTnp0RfvSJHMM.jpg",
+      "venue": "Technical Ground Kuliyapitiya",
+      "city": "Kuliyapitiya",
+      "dateTime": "2026-11-28T20:00:00.000Z",
+      "originalDateStr": "Sun, Nov 29, 2026, 01:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1000,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/boomtown-with-iskole-mage-2026/6aff1b8a33ab1",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Outdoor Musical Concert"
+      ],
+      "latitude": 7.465291992546237,
+      "longitude": 80.02386807500172
     },
     {
       "id": "ticketsministry-1277",
@@ -847,29 +847,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1393",
-      "source": "TicketsMinistry",
-      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
-      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
-      "venue": "Musaeus College Auditorium",
-      "city": "Colombo 07",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 2500,
-      "maxPrice": 5000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Dance Concert"
-      ],
-      "latitude": 6.913580993085938,
-      "longitude": 79.86562587418905
-    },
-    {
       "id": "ticketsministry-1326",
       "source": "TicketsMinistry",
       "name": "SANDAKAN WASSANAYA",
@@ -891,6 +868,29 @@
       ],
       "latitude": 5.937981700000001,
       "longitude": 80.5734152
+    },
+    {
+      "id": "ticketsministry-1393",
+      "source": "TicketsMinistry",
+      "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
+      "description": "<p>THE FUTURE IS CALLING. ARE YOU READY? One stage. Multiple generations. Incredible dancers. Explosive choreography. Futuristic performances. Experience the energy, feel the beats & witness a spectacular dance concert like never before! 🚀 ROCKET 2026 – MORE THAN A DANCE CONCERT. AN UNFORGETTABLE EXPERIENCE. **SECURE YOUR TICKETS NOW!**</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611101658-cool-steps-rocket-dance-concert-by-ramod-listing-banner.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/vMww8ePktDpyxRIIzWtS3ehai6WLAirl6c6CkN1l.jpg",
+      "venue": "Musaeus College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 2500,
+      "maxPrice": 5000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/cool-steps-rocket-dance-concert-by-ramod/6af300b7ef536",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Dance Concert"
+      ],
+      "latitude": 6.913580993085938,
+      "longitude": 79.86562587418905
     },
     {
       "id": "ticketsministry-1341",
@@ -1126,29 +1126,6 @@
       "longitude": 79.86562587418905
     },
     {
-      "id": "ticketsministry-1414",
-      "source": "TicketsMinistry",
-      "name": "COLOMBO EXPRESS",
-      "description": "<p>COLOMBO EXPRESS </p><p>Colombo Express is a Kollywood × Bollywood DJ night by Mix Culture Entertainment, bringing Tamil and Hindi music together on one dance floor. From South Indian kuthu beats to Bollywood favourites, nostalgic film hits and contemporary remixes, the night celebrates the music and cinema that bring people together. </p><p>Six DJs take the stage—DJ RJ, DJ ARUN, DJ KAITY, DJ KEVIN, DJ BAASH and SL BRUH—each bringing their own style to the decks for a journey through both worlds of music. </p><p>Join us at Headquarters by W15, Colombo, on Saturday, 19 December 2026, from 7:00 PM until 5:00 AM the following morning.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611211329-colombo-express-listing-banner.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/zvYGUwfucHG3oxosWyIaZJs8VSw3J9yai7IYmv7A.png",
-      "venue": "Headquarters By W15",
-      "city": "Colombo 01",
-      "dateTime": "2026-12-19T19:00:00.000Z",
-      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3500,
-      "maxPrice": 15000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/colombo-express/6b015055082e5",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "EDM"
-      ],
-      "latitude": 6.9206978,
-      "longitude": 79.86148949999999
-    },
-    {
       "id": "ticketsministry-1378",
       "source": "TicketsMinistry",
       "name": "AURA LIVE IN CONCERT",
@@ -1170,6 +1147,29 @@
       ],
       "latitude": 7.491157400000002,
       "longitude": 80.36728060000002
+    },
+    {
+      "id": "ticketsministry-1414",
+      "source": "TicketsMinistry",
+      "name": "COLOMBO EXPRESS",
+      "description": "<p>COLOMBO EXPRESS </p><p>Colombo Express is a Kollywood × Bollywood DJ night by Mix Culture Entertainment, bringing Tamil and Hindi music together on one dance floor. From South Indian kuthu beats to Bollywood favourites, nostalgic film hits and contemporary remixes, the night celebrates the music and cinema that bring people together. </p><p>Six DJs take the stage—DJ RJ, DJ ARUN, DJ KAITY, DJ KEVIN, DJ BAASH and SL BRUH—each bringing their own style to the decks for a journey through both worlds of music. </p><p>Join us at Headquarters by W15, Colombo, on Saturday, 19 December 2026, from 7:00 PM until 5:00 AM the following morning.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/listings/202611211329-colombo-express-listing-banner.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/zvYGUwfucHG3oxosWyIaZJs8VSw3J9yai7IYmv7A.png",
+      "venue": "Headquarters By W15",
+      "city": "Colombo 01",
+      "dateTime": "2026-12-19T19:00:00.000Z",
+      "originalDateStr": "Sun, Dec 20, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3500,
+      "maxPrice": 15000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/colombo-express/6b015055082e5",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "EDM"
+      ],
+      "latitude": 6.9206978,
+      "longitude": 79.86148949999999
     },
     {
       "id": "ticketsministry-1355",
@@ -1224,8 +1224,8 @@
       "source": "TicketsMinistry",
       "name": "ESCOබාර්",
       "description": "<p>ESCOබාර් is a premium open-air music and entertainment experience presented by THE WEEKENDER, bringing together live performances, top DJs, great food, refreshing drinks and an energetic crowd for an unforgettable December celebration. </p><p>Set against the vibrant atmosphere of Colombo, it’s all about good music, great company and memories worth keeping.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/PpW9M22ild4FfnUnGp6tWHWdDJBAOnILsSrJPPVh.png",
-      "posterUrl": "https://cdn.ticketsministry.com/events/VF0uHVemMnFlBHYeXrgEB2KZ59rzZUuqKvRizZHw.png",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/dgAaMLKiG8oqmrWIOqNEs5tJ5m0qtSJP34e8et3P.png",
+      "posterUrl": "https://cdn.ticketsministry.com/events/sVU1idHYklSyT5xtQ099CaXN1IBvphToyWM3D7Yr.png",
       "venue": "Vibe Restaurant Pub & Grill - Lotus Tower",
       "city": "Colombo 01",
       "dateTime": "2026-12-22T16:00:00.000Z",
