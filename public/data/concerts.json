@@ -1,104 +1,12 @@
 {
-  "lastSyncTime": "2026-11-27T17:50:09.373Z",
+  "lastSyncTime": "2026-11-28T01:05:32.255Z",
   "counts": {
     "MyTickets": 0,
     "OneTicket": 17,
-    "TicketsMinistry": 77,
-    "Total": 94
+    "TicketsMinistry": 74,
+    "Total": 91
   },
   "concerts": [
-    {
-      "id": "ticketsministry-1376",
-      "source": "TicketsMinistry",
-      "name": "X CONCERT",
-      "description": "<p>🔥 X CONCERT – THE ULTIMATE MUSICAL NIGHT! 🔥</p><p>Get ready for an unforgettable night of live music, high energy & non-stop entertainment! 🎶🔥</p><p>Featuring Sajith Perera, Shihan Mihiranga, Shaun, Piyal Perera & Lahiru Perera — bringing you a night you won’t want to miss! 🎤✨</p><p>📅 27th November📍 Avenra Gardens, Negombo🕢 7:30 PM onwards</p><p>🎟️ Tickets:🥇 Gold – LKR 5,000💎 Platinum – LKR 7,500👑 VIP – LKR 10,000</p><p>✨ VIP Package includes a bottle + 3 chasers</p><p>📞 Hotline: 0707 090 090</p><p>One Night. One Stage. One Unforgettable Xperience! ❤️‍🔥</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/Lf5BwQiESobZ6NseGAeaMOPiUlGXzb6mMO1pnh8F.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/12qEaji9dPx1mVKUnBo2SZfTWGKOoibT2MJtA8Em.jpg",
-      "venue": "Avenra Gardens Hotel Negombo",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T18:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 5000,
-      "maxPrice": 120000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/x-concert/6ae5767162581",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.21757919278823,
-      "longitude": 79.85283377499933
-    },
-    {
-      "id": "ticketsministry-1389",
-      "source": "TicketsMinistry",
-      "name": "PREMII OYA",
-      "description": "<p>🔥 RAGAMA, GET READY FOR AN UNFORGETTABLE NIGHT! 🔥 This November 27th, get ready for a spectacular night filled with music, entertainment, and unforgettable memories! ❤️‍🔥🎶 🎤 WASTHI | BACHI | DAREENA 🎸 With GYPSIES 🎙️ Compere KESHAN LEITCH ✨ Live music & electrifying performances ✨ An incredible atmosphere ✨ A night full of glamour, fun & entertainment 📍 WAVE N’ LAKE – WELISARA NAVY HOTEL 📅 NOVEMBER 27 🎟️ NORMAL – LKR 6,000 | VIP – LKR 8,000 🔥 THIS IS NOT JUST ANOTHER MUSICAL NIGHT… THIS IS THE NIGHT YOU DON’T WANT TO MISS! 📞 Tickets & More Information: NALEEM – 0773 416516 MALSHA – 0714 217023 ❤️‍🔥 Gather your friends, grab your tickets, and be part of an unforgettable night!</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A2gkCB3QKpv67Jfpg8YbXiUb3usnHCZbHZOAxObg.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/y9Qj1IeK1piquabdwCGV76zrHX1HbB1dvW4NTIZH.jpg",
-      "venue": "Wave N' Lake Welisara",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/premii-oya/6aed80eb9bd2a",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 7.02161270833638,
-      "longitude": 79.90873673105374
-    },
-    {
-      "id": "ticketsministry-1377",
-      "source": "TicketsMinistry",
-      "name": "FREQUENCY AT THE TAJ",
-      "description": "<p>FREQUENCY AT THE TAJ brings together the iconic sounds of Centigradz and the electrifying energy of Infinity for an unforgettable celebration of live music. Featuring outstanding performances by Falan Andrea, Sajith Perera, Amelia Wijesooriya, and hosted by Sumiran, this spectacular event promises chart-topping hits, high-energy entertainment, and an incredible atmosphere. Get ready for a night of unforgettable performances, vibrant vibes, and world-class production as music lovers come together for one of the most exciting live entertainment experiences of the year.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/nr6uMZ8KGorIhyIVy8bXNvigx3QmZYUgRoDPRO4S.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/dUZOkwwAP8ngnOUjOS2YQhFSUduUWuFpbD23gbzG.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-11-27T19:00:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/frequency-at-the-taj/6ae5e9d41050d",
-      "status": "sold-out",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
-      "id": "ticketsministry-1240",
-      "source": "TicketsMinistry",
-      "name": "CHILL THEORY AT GANGAARA",
-      "description": "<p>Come and chill with us at the 𝐂𝐡𝐢𝐥𝐥 𝐓𝐡𝐞𝐨𝐫𝐲 𝐀𝐭 𝐆𝐚𝐧𝐠𝐚𝐚𝐫𝐚</p><p>📅 27th November </p><p>📍 Avenra Gangaara, Wennappuwa</p><p>🕡 6.30 PM Onwards</p><p>Sarith Surith & The News | Bachi Susan | Centigradez | Wasthi | Senanayaka Weraliyadde</p><p>📞 Reservations & Inquiries: 071 381 3816</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/A7TYu1WwKbe9zvGyu7Ja8zoQCuio8otZFeKRJCXK.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/adXsGeeS0IN5KSAhIOfPDNZG5HGzDtTDqs1gN3bJ.jpg",
-      "venue": "Avenra Gangaara Wennappuwa",
-      "city": "Negombo",
-      "dateTime": "2026-11-27T19:30:00.000Z",
-      "originalDateStr": "Sat, Nov 28, 2026, 01:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 4000,
-      "maxPrice": 45000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/chill-theory-at-gangaara/6a74593e6b7c2",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Outdoor Musical Concert"
-      ],
-      "latitude": 7.346411807372148,
-      "longitude": 79.92045117422727
-    },
     {
       "id": "ticketsministry-1260",
       "source": "TicketsMinistry",
@@ -847,29 +755,6 @@
       "longitude": 79.87453333333333
     },
     {
-      "id": "ticketsministry-1326",
-      "source": "TicketsMinistry",
-      "name": "SANDAKAN WASSANAYA",
-      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
-      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
-      "city": "Matara",
-      "dateTime": "2026-12-12T18:30:00.000Z",
-      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 3000,
-      "maxPrice": 7500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 5.937981700000001,
-      "longitude": 80.5734152
-    },
-    {
       "id": "ticketsministry-1393",
       "source": "TicketsMinistry",
       "name": "COOL STEPS ROCKET DANCE CONCERT BY RAMOD",
@@ -891,6 +776,29 @@
       ],
       "latitude": 6.913580993085938,
       "longitude": 79.86562587418905
+    },
+    {
+      "id": "ticketsministry-1326",
+      "source": "TicketsMinistry",
+      "name": "SANDAKAN WASSANAYA",
+      "description": "<p>🌙✨ SANDAKAN WASANAYA ✨🌙 </p><p>An enchanting evening of love, memories and timeless melodies… </p><p>Sandakan Wasanaya brings together some of Sri Lanka’s most cherished voices for a truly memorable musical experience. </p><p>Featuring: Chandana Liyanarachchi | Kasun Kalhara | Nirosha Virajini Music by Manoj Peiris and his orchestra.</p><p>Experience an evening filled with beautiful melodies, heartfelt lyrics and songs that have touched generations. </p><p>📅 Date: 12th December 2026</p><p> ⏰ Time: 6.30 PM </p><p>📍 Venue: Rabindranath Tagore Auditorium, University of Ruhuna, Matara </p><p>🎟️ Tickets: Rs. 3,000 – Rs. 7,500 </p><p>Organized by : J M L Sachinthani Peiris</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/vaYrknX84lGo7mAiUJ5NtdfAUJ5aYBzIFPVnEpNc.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/j87PJen7AZm0qRF0zTY2E1mrilZ2soZgNuFUkoLy.jpg",
+      "venue": "Matara - Rabindranath Tagore Memorial Auditorium",
+      "city": "Matara",
+      "dateTime": "2026-12-12T18:30:00.000Z",
+      "originalDateStr": "Sun, Dec 13, 2026, 12:00 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 3000,
+      "maxPrice": 7500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/sandakan-wassanaya/6ac244a34ef64",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 5.937981700000001,
+      "longitude": 80.5734152
     },
     {
       "id": "ticketsministry-1341",
@@ -1243,30 +1151,6 @@
       "longitude": 79.8574268
     },
     {
-      "id": "ticketsministry-1399",
-      "source": "TicketsMinistry",
-      "name": "SALLI - AALEY DADDY WITH NEWS",
-      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/iAE1mVWdUlfkpnU0YvRDagwNBYmspc8bwVgasV9G.jpg",
-      "venue": "Taj Samudra Colombo",
-      "city": "Colombo 03",
-      "dateTime": "2026-12-22T19:00:00.000Z",
-      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
-      "priceCurrency": "LKR",
-      "minPrice": 6000,
-      "maxPrice": 60000,
-      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert",
-        "Featured"
-      ],
-      "latitude": 6.92257739307712,
-      "longitude": 79.84425677499648
-    },
-    {
       "id": "ticketsministry-1351",
       "source": "TicketsMinistry",
       "name": "JINGLES AND HARMONY – CHRISTMAS MUSICAL GALA 2026",
@@ -1289,6 +1173,30 @@
       ],
       "latitude": 7.02161270833638,
       "longitude": 79.90873673105374
+    },
+    {
+      "id": "ticketsministry-1399",
+      "source": "TicketsMinistry",
+      "name": "SALLI - AALEY DADDY WITH NEWS",
+      "description": "<p>Get ready for an unforgettable live music experience filled with great performances, vibrant energy, and memorable moments. This event is open to everyone who loves live music and wants to spend quality time with family, friends, or loved ones. Whether you're looking to sing along to your favorite songs, discover talented artists, or simply enjoy a lively atmosphere, this event offers something for everyone.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/noiUUMW1GboWOfeYUcFVJd3crQpQyGxWFDdy4mGh.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/iAE1mVWdUlfkpnU0YvRDagwNBYmspc8bwVgasV9G.jpg",
+      "venue": "Taj Samudra Colombo",
+      "city": "Colombo 03",
+      "dateTime": "2026-12-22T19:00:00.000Z",
+      "originalDateStr": "Wed, Dec 23, 2026, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 6000,
+      "maxPrice": 60000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/salli-aaley-daddy-with-news/6af737423c20a",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert",
+        "Featured"
+      ],
+      "latitude": 6.92257739307712,
+      "longitude": 79.84425677499648
     },
     {
       "id": "ticketsministry-1365",
@@ -1546,29 +1454,6 @@
       "longitude": 80.780947
     },
     {
-      "id": "ticketsministry-1439",
-      "source": "TicketsMinistry",
-      "name": "31ST NIGHT ON THE COBBLESTONES BY FAIRWAY COLOMBO",
-      "description": "<p>31st Night on the Cobblestones by Fairway Colombo! Enjoy a spectacular evening of unlimited foreign premium liquor & beer, unlimited dinner and bites, unlimited live music & DJ and followed by breakfast the next morning. Celebrate the New Year with a night to remember! ❤️</p>",
-      "bannerUrl": "https://cdn.ticketsministry.com/events/cvCJvJwXIypSHzmP6EqRS0shRqtqFdROUmA2bjKX.jpg",
-      "posterUrl": "https://cdn.ticketsministry.com/events/L4yPxur6xsDbV7vOXd3JbXJchJq3cEpJRpb9KCAT.jpg",
-      "venue": "Hospital Street Colombo 01",
-      "city": "Colombo 01",
-      "dateTime": "2026-12-31T18:00:00.000Z",
-      "originalDateStr": "Thu, Dec 31, 2026, 11:30 PM",
-      "priceCurrency": "LKR",
-      "minPrice": 19500,
-      "maxPrice": 19500,
-      "ticketLink": "https://www.ticketsministry.com/concerts/31st-night-on-the-cobblestones-by-fairway-colombo/6b0838341aa94",
-      "status": "active",
-      "tags": [
-        "Concert",
-        "Indoor Musical Concert"
-      ],
-      "latitude": 6.933924093065978,
-      "longitude": 79.8413408749966
-    },
-    {
       "id": "ticketsministry-1358",
       "source": "TicketsMinistry",
       "name": "NEW YEARS EVE AT THE DOCTOR’S HOUSE",
@@ -1590,6 +1475,29 @@
       ],
       "latitude": 5.936925500000001,
       "longitude": 80.5153909
+    },
+    {
+      "id": "ticketsministry-1439",
+      "source": "TicketsMinistry",
+      "name": "31ST NIGHT ON THE COBBLESTONES BY FAIRWAY COLOMBO",
+      "description": "<p>31st Night on the Cobblestones by Fairway Colombo! Enjoy a spectacular evening of unlimited foreign premium liquor & beer, unlimited dinner and bites, unlimited live music & DJ and followed by breakfast the next morning. Celebrate the New Year with a night to remember! ❤️</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/cvCJvJwXIypSHzmP6EqRS0shRqtqFdROUmA2bjKX.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/L4yPxur6xsDbV7vOXd3JbXJchJq3cEpJRpb9KCAT.jpg",
+      "venue": "Hospital Street Colombo 01",
+      "city": "Colombo 01",
+      "dateTime": "2026-12-31T18:00:00.000Z",
+      "originalDateStr": "Thu, Dec 31, 2026, 11:30 PM",
+      "priceCurrency": "LKR",
+      "minPrice": 19500,
+      "maxPrice": 19500,
+      "ticketLink": "https://www.ticketsministry.com/concerts/31st-night-on-the-cobblestones-by-fairway-colombo/6b0838341aa94",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.933924093065978,
+      "longitude": 79.8413408749966
     },
     {
       "id": "ticketsministry-1409",
@@ -1753,6 +1661,29 @@
       ],
       "latitude": 6.929170393070663,
       "longitude": 79.8467212749966
+    },
+    {
+      "id": "ticketsministry-1440",
+      "source": "TicketsMinistry",
+      "name": "PRASADA PRASANGA",
+      "description": "<p>*Prasada Prasanga* is an enchanting evening celebrating the timeless beauty of Sri Lankan classical music. Featuring *Subhani Amaradewa, Anuradha Nandasiri, Manjula Rathnayake, and Janani Peiris*, the concert brings together the daughters of Sri Lanka’s legendary musicians to honour and carry forward their fathers’ musical legacies. Experience an unforgettable night of soulful melodies, timeless classics, and the rich heritage of Sri Lankan music in an elegant live concert setting.</p>",
+      "bannerUrl": "https://cdn.ticketsministry.com/events/aLIt6BquOYus9ExV2kRc2A5WNhlVNB3ED5S7KZ4r.jpg",
+      "posterUrl": "https://cdn.ticketsministry.com/events/JSRDCrYUQljdlTs669ipZFsePSKOzysXByy1KuuD.jpg",
+      "venue": "Bishop’s College Auditorium",
+      "city": "Colombo 07",
+      "dateTime": "2027-01-16T19:00:00.000Z",
+      "originalDateStr": "Sun, Jan 17, 2027, 12:30 AM",
+      "priceCurrency": "LKR",
+      "minPrice": 1500,
+      "maxPrice": 10000,
+      "ticketLink": "https://www.ticketsministry.com/concerts/prasada-prasanga/6b09c597c35cf",
+      "status": "active",
+      "tags": [
+        "Concert",
+        "Indoor Musical Concert"
+      ],
+      "latitude": 6.914999999999998,
+      "longitude": 79.8547222
     },
     {
       "id": "oneticket-464",
